@@ -10,8 +10,9 @@ I started putting all my effort into [[PKM/Anki\|Anki]] in ... 2019, when I succ
 Now I have this as my second weapon: [[EKLIAO\|My first Obsidian vault: EKLIAO]].
 
 ---
+## Anki hacks I've learned
+*(New to old)*
 
-# Anki hacks I've got (latest first)
 - image occlusion ([[Cloze\|Cloze]])
 	- add-on: image occlusion advanced
 - hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
@@ -25,7 +26,7 @@ Now I have this as my second weapon: [[EKLIAO\|My first Obsidian vault: EKLIAO]]
 - add [[Cloze deletion - different card\|Cloze deletion - different card]]
 - add [[Cloze deletion - same card\|Cloze deletion - same card]]
 
-# Hierarchical tags and search
+## Hierarchical tags and search
 
 - Truly hierarchical: searching for `tag:A` alone without saying `tag:A::` or `tag:A*` will still get `A::B` and `A::B::C`, etc. Great!
  ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
