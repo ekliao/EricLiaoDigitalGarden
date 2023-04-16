@@ -1,0 +1,7 @@
+node_modules
+dist
+netlify/functions/search/data.json
+netlify/functions/search/index.json
+# Local Netlify folder
+.netlify
+.idea/
