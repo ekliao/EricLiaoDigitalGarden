@@ -4,7 +4,7 @@
 
 ### Welcome!
 
-Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still in its infancy, but it's a start. 千里之行，始於足下。 A journey of a thousand miles begins with a single step.
+Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 A journey of a thousand miles begins with a single step.
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
