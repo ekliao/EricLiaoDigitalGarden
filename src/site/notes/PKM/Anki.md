@@ -14,8 +14,10 @@ Now I have this as my second weapon: [[EKLIAO\|My first Obsidian vault: EKLIAO]]
 # Anki hacks I've got (latest first)
 - image occlusion ([[Cloze\|Cloze]])
 	- add-on: image occlusion advanced
-- hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels
-	- E.g. (![anki hierarchical tags vs flat tags w arbitrary delimiters.png](/img/user/_attachments/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png))
+- hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
+
+	![anki hierarchical tags vs flat tags w arbitrary delimiters.png](/img/user/_attachments/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
+
 - rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
 - use [[Anki add-on - Customize keyboard shortcuts\|Anki add-on - Customize keyboard shortcuts]]
 	- to change default [[keyboard shortcut\|keyboard shortcut]] for [[Cloze deletion - different card\|Cloze deletion - different card]] for "adding [[Cloze deletion - different card\|Cloze deletion - different card]]" to `Cmd+Shift+Z`
@@ -27,4 +29,3 @@ Now I have this as my second weapon: [[EKLIAO\|My first Obsidian vault: EKLIAO]]
 
 - Truly hierarchical: searching for `tag:A` alone without saying `tag:A::` or `tag:A*` will still get `A::B` and `A::B::C`, etc. Great!
  ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
-- 
