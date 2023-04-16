@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pkm/"}
+{"dg-publish":true,"permalink":"/pkm/","created":"","updated":""}
 ---
 
 
@@ -31,7 +31,7 @@
 [[GoodNotes\|GoodNotes]]
 
 # Principles
-[[Future-proofing of notes\|Future-proofing of notes]]
+- [Obsidian Future-proofing](https://www.reddit.com/r/ObsidianMD/comments/srydoj/on_the_concept_of_futureproofing_of_notes_in/)
 
 ## People
 
