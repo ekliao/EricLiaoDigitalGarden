@@ -3,7 +3,7 @@
 ---
 
 
-Welcome to my nascent and organically growing digital garden, a collection of notes in various stages of maturity and polish, open to the world, FWIW.
+Welcome to my digital garden, a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still in its infancy, but it's a start. 千里之行，始於足下。 A journey of a thousand miles begins with a single step.
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
@@ -13,7 +13,7 @@ Here's my CV/résumé in [PDF](https://drive.google.com/file/d/1x2w2NirxGCWH6FfU
  
 To put this website in context, [Andy Matuschak's insight](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) about thinking and writing notes for the self, disregarding the audience resonates with how I feel all along when blogging became a thing. What he says about [anti-marketing](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu&stackedNotes=z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS), word!
 
-Feel free to roam, linger, leave, or interact by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
+Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
 
 ---
 Other Areas of Interest:
