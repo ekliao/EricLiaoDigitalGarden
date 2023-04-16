@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex/"}
+{"dg-publish":true,"permalink":"/regex/","created":"","updated":""}
 ---
 
 
