@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ noteTitle }}</title>
+    {%include "components/pageheader.njk"%}
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
+    {%include "components/notegrowthhistory.njk"%}
+    {% if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
+    {% endif %}
+    <div class="content">
+
+      {% if settings.dgShowInlineTitle === true %}
+        <h1>{{ noteTitle  }}</h1>
+      {% endif %}
+      {%- for garden in collections.gardenEntry -%}
+        {{garden.templateContent | link | highlight | safe }}
+      {%- endfor -%}
+
+
+      {%if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true%}
+        {%include "components/sidebar.njk" %}
+      {%endif%}
+      </div>
+    </body>
+  </html>

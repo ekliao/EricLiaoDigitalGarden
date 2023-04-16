@@ -1,0 +1,94 @@
+/***
+* DO NOT ADD/MODIFY STYLING HERE. IT WILL BE OVERWRITTEN IF YOU UPDATE THE TEMPLATE VERSION.
+* MODIFY THE custom-style.scss FILE INSTEAD.
+***/
+
+
+:root{
+    --background-primary: rgb(32, 31, 31);
+    --background-secondary: rgb(57, 56, 56);
+    --text-normal: #dcddde;
+    --text-accent: rgb(97, 186, 245);
+    --file-margins: 32px;
+}
+
+h1 {
+    color: #FFEF60;
+}
+
+h2 {
+    color: #F06449;
+}
+
+h3 {
+    color: #D4FCC3;
+}
+
+h4 {
+    color: #72DCFF;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 5px 15px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.theme-dark {
+    background: var(--background-primary);
+    color: var(--text-normal);
+    font-family: 'Roboto', sans-serif;
+}
+
+.theme-light {
+    background: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+a.is-unresolved{
+ color: rgb(97 186 245 / 65%);
+}
+a {
+    text-decoration: underline;
+    color: var(--text-accent)
+}
+
+.font-bg {
+    font-size: 92px;
+}
+
+blockquote {
+    background: #ffffff17;
+    border-left: 10px solid #C1DBE3;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.1em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}
+
+p>code {
+    //Inline code
+    color: #c7254e;
+    background-color: #1a1a1a;
+}

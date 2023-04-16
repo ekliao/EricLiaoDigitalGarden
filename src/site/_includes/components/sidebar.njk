@@ -1,0 +1,36 @@
+<div>
+      <div class="sidebar">
+            <div class="sidebar-container">
+
+                  {%if settings.dgShowLocalGraph === true%}
+                        <div class="graph">
+                              <div style="display: flex; justify-content: flex-end;">
+                                    <h6 class="graph-title">Interactive graph</h6>
+                              </div>
+                              <div id="link-graph"></div>
+                        </div>
+                  {%endif%}
+
+                  {%if settings.dgShowBacklinks === true %}
+                        <div class="backlinks">
+                              <h6 class="backlink-title">Links to this page</h6>
+                              {%- if backlinks.length === 0 -%}
+                                    <div class="backlink-card">
+                                          No backlinks
+                                    </div>
+                              {%- endif -%}
+
+                              {%- for backlink in backlinks -%}
+                                    <div class="backlink-card">
+                                          <a href="{{backlink.url}}">{{backlink.title}}</a>
+                                    </div>
+                              {%- endfor -%}
+                        </div>
+                  {%endif%}
+            </div>
+      </div>
+</div>
+
+{%if settings.dgShowLocalGraph === true %}
+      {%include "components/graphScript.njk"%}
+{% endif %}
