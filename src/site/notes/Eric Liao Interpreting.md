@@ -3,7 +3,7 @@
 ---
 
 
-![eric liao ekliao profile picture (from apple party) 2016.png](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
+![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
 My [[Eric Liao - CV\|CV or Résumé]]. 
 
