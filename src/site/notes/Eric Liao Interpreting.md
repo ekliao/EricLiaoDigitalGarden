@@ -5,7 +5,7 @@
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
-Hello, my name is Eric Kehuang Liao and I go by Eric. I am a freelance ***conference interpreter*** and ***court interpreter*** based in the San Francisco Bay Area, United States. I am originally from Taipei, Taiwan. 
+Hello, my name is Eric Liao and I go by Eric. I am a freelance ***conference interpreter*** and ***court interpreter*** based in the San Francisco Bay Area, United States. I am originally from Taipei, Taiwan. 
 
 Here's my CV/résumé in [PDF](https://drive.google.com/file/d/1x2w2NirxGCWH6FfUQIGFDNAa1wWMs3oS/view?usp=sharing) or [Word doc](https://docs.google.com/document/d/1PSfvw_oGpZYrjDhLmePZDfkx-2DQbcLdtMUTyIZMV40/edit?usp=sharing) *(last updated: Jan 16, 2023)*. I interpret between ***Mandarin Chinese*** *(native)* and ***English*** *(near-native)*, and also from *[Tâigí](https://en.wikipedia.org/wiki/Taiwanese_Hokkien)*.
  
@@ -28,4 +28,4 @@ Other Areas of Interest:
 
 *This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), and [Netlify](https://www.netlify.com/).*
 
-*© Eric Liao 2023*
+*© Eric K. Liao 2023*
