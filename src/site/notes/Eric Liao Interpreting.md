@@ -23,6 +23,7 @@ Other Areas of Interest:
 - [[PKM\|PKM]], especially [[PKM/Anki\|Anki]] and [Obsidian](https://obsidian.md/) (you are looking at an instance of it)
 - [regular expressions](https://en.wikipedia.org/wiki/Regular_expression)
 - [Phonetics](https://en.wikipedia.org/wiki/Phonetics, [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
+- [[My audio equipment\|Audio equipment]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 ---
 
