@@ -5,7 +5,7 @@
 
 *((i): for interpretation work)*
 
-## Headset (or earbuds) with mics
+## Headsets and earbuds with mics
 - Steelseries Arctis Prime
 - Sennheiser PC8
 - Steelseries Arctis Pro Wireless *(i)*
