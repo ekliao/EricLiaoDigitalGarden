@@ -35,7 +35,8 @@
 
 ## People
 
-[[Ernest Chiang\|Ernest Chiang]] (Taiwan)
-Tiago Forte
-Nick Milo
+- Tiago Forte
+- Nick Milo
+- [[Ernest Chiang\|Ernest Chiang]] (Taiwan)
+
 
