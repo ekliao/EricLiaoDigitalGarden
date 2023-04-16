@@ -61,6 +61,9 @@ Personal knowledge management.
 
 \- Robin Sloan
 
+## Ideas
+- [Evergreen notes](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E4%BB%80%E9%BA%BC%E6%98%AF-evergreen-note-%E9%95%B7%E9%9D%92%E7%AD%86%E8%A8%98-5f0b2c7b6547)
+
 ## People
 
 - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes)
