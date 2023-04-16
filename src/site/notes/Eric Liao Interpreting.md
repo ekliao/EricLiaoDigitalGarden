@@ -9,7 +9,7 @@ My [[Eric Liao - Curriculum Vitae\|CV or résumé]].
 
 Welcome! This is my first attempt at publishing my nascent digital garden to the world, FWIW. Feel free to roam, linger, leave, or connect by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter).
 
-I am a freelance conference and court interpreter based in the San Francisco Bay Area, United States. Here's my [[Eric Liao - Curriculum Vitae\|CV or Résumé]]. I am originally from Taipei, Taiwan. I interpreter between English and Mandarin Chinese, and also from Taigi (aka Southern Min, Hokkien, or Fukienese). 
+I am a freelance conference and court interpreter based in the San Francisco Bay Area, United States. I am originally from Taipei, Taiwan. I interpreter between English and Mandarin Chinese, and also from Taigi (aka Southern Min, Hokkien, or Fukienese). 
 
 ---
 Other Areas of Interest
