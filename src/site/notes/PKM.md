@@ -33,7 +33,7 @@
 # Principles
 [[Future-proofing of notes\|Future-proofing of notes]]
 
-PKM Proponents/Celebs
+## People
 
 [[Ernest Chiang\|Ernest Chiang]] (Taiwan)
 Tiago Forte
