@@ -5,7 +5,7 @@
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
-My [[Eric Liao - CV\|CV or Résumé]]. 
+My [[Eric Liao - CV\|CV or résumé]]. 
 
 Welcome! This is my first attempt at publishing my nascent digital garden to the world, FWIW. Feel free to roam, linger, leave, or connect by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter).
 
