@@ -1,0 +1,38 @@
+---
+title: "/{{ page.fileSlug }}/"
+permalink: "notes/{{ page.fileSlug | slugify }}/"
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ page.fileSlug }}</title>
+    {%include "components/pageheader.njk"%}
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section">
+    {%include "components/notegrowthhistory.njk"%}
+    
+    {% if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
+    {% endif %}
+
+    {% if settings.dgEnableSearch === true %}
+      {%include "components/searchContainer.njk"%}
+    {% endif %}
+
+    <div class="content cm-s-obsidian">
+      {% if settings.dgShowInlineTitle === true %}
+        <h1>{{ page.fileSlug }}</h1>
+      {% endif %}
+      {{ content | link | highlight | safe}}
+
+      {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true%}
+        {%include "components/sidebar.njk"%}
+      {% endif %}
+    </div>
+    {% if dgShowBacklinks === true or dgShowLocalGraph === true%}
+      {%include "components/sidebar.njk"%}
+    {% endif %}
+  </body>
+</html>
