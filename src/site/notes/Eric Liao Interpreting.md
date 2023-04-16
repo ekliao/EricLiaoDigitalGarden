@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/eric-liao-interpreting/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
-
 ### Welcome!
 
 Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still in its infancy, but it's a start. 千里之行，始於足下。 A journey of a thousand miles begins with a single step.
