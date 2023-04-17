@@ -31,3 +31,8 @@
 - Behringer Q804USB *(i)*
 - Behringer U(?)
 
+---
+## Software
+
+#### Digital audio workstation 
+- Audacity
