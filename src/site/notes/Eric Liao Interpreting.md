@@ -30,7 +30,7 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 - [[Web Publishing\|Web publishing]]
 - [Regular expressions](https://en.wikipedia.org/wiki/Regular_expression)
 - [Phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
-- [[My audio equipment\|Audio equipment]]
+- [[My audio equipment\|Audio processing]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 ---
 
