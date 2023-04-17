@@ -4,7 +4,7 @@
 
 # Eric Liao Interpreting
 
-### About Me
+## About Me
 
 My name is Eric Liao and I go by Eric. I am a freelance ***conference interpreter*** and ***court interpreter*** based in the San Francisco Bay Area, United States. I am originally from Taipei, Taiwan. 
 
@@ -13,18 +13,18 @@ Here's my CV/résumé in [PDF](https://drive.google.com/file/d/1x2w2NirxGCWH6FfU
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
-### Welcome! 
+## Welcome! 
 
 Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 A journey of a thousand miles begins with a single step.
 
 To put this website in context, [Andy Matuschak's insight](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) about thinking and writing notes for the self, disregarding the audience resonates with how I feel all along when blogging became a thing in the early 2000s. What he says about [anti-marketing](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu&stackedNotes=z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS), word!
 
-### Contact
+## Contact
 
 Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
 
 ---
-### My Areas of Interest
+## My Areas of Interest
 
 - Teaching language and interpretation
 - Linguistics, language, and grammar
@@ -36,7 +36,7 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 
 ---
-### Latest blogposts by way of daily notes
+## Latest blogposts by way of daily notes
 - [[10 dailynotes/2023-04-17\|2023-04-17]]
 - [[10 dailynotes/2023-04-16\|2023-04-16]]
 - [[10 dailynotes/2023-04-15\|2023-04-15]]
