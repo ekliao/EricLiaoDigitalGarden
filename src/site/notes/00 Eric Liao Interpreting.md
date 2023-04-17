@@ -37,9 +37,13 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 
 ---
 ## Latest blogposts by way of daily notes
-- [[10 dailynotes/2023-04-17\|2023-04-17]]
-- [[10 dailynotes/2023-04-16\|2023-04-16]]
-- [[10 dailynotes/2023-04-15\|2023-04-15]]
+
+[[10 dailynotes/2023-04-17\|2023-04-17]]
+
+[[10 dailynotes/2023-04-16\|2023-04-16]]
+
+[[10 dailynotes/2023-04-15\|2023-04-15]]
+
 ---
 
 *This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), and [Netlify](https://www.netlify.com/).*
