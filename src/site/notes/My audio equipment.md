@@ -15,21 +15,21 @@
 - Apple earbuds
 
 ## Headphones
-- Sony V(?)
-- Sony HC-900
+- Sony MDR-V6
+- Sony HS-90
 
 ## Microphones
 - Zoom H5
 - M-Audio Producer
-- VocalPro
+- VocoPro MARK-CV1
 
 ## Transmitters and receivers
-- ? for court *(i)*
-- ExMax 948(?) *(i)*
+- MixTech WAT01-NG2 *(i)*
+- ExMax 938 *(i)*
 
 ## Mixers and audio interfaces
-- Behringer Q804USB *(i)*
-- Behringer U(?)
+- Behringer Q802USB *(i)*
+- Behringer UCA222
 
 ---
 ## Software
