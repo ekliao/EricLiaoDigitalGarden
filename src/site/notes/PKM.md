@@ -9,7 +9,7 @@ Personal knowledge management.
 
 ### In use
 *(By frequency)*
-	[[PKM/Anki\|Anki]]
+	[[Anki\|Anki]]
 	[[PKM/Obsidian\|Obsidian]]
 	[[Apple Notes\|Apple Notes]]
 	[[Evernote\|Evernote]]
@@ -37,7 +37,7 @@ Personal knowledge management.
 	[[OneNote\|OneNote]]
 	[[GoodNotes\|GoodNotes]]
 	[[Quizlet\|Quizlet]]
-	[[PKM/Anki\|Anki]]
+	[[Anki\|Anki]]
 
 ---
 ## Principles
