@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/00-eric-liao-interpreting/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
+# Eric Liao Interpreting
+
 ### About Me
 
 My name is Eric Liao and I go by Eric. I am a freelance ***conference interpreter*** and ***court interpreter*** based in the San Francisco Bay Area, United States. I am originally from Taipei, Taiwan. 
