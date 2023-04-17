@@ -24,7 +24,7 @@ To put this website in context, [Andy Matuschak's insight](https://notes.andymat
 Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
 
 ---
-#### My Areas of Interest
+### My Areas of Interest
 
 - Teaching language and interpretation
 - Linguistics, language, and grammar
@@ -36,7 +36,7 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 
 ---
-#### Latest blogposts by way of daily notes
+### Latest blogposts by way of daily notes
 - [[10 dailynotes/2023-04-17\|2023-04-17]]
 - [[10 dailynotes/2023-04-16\|2023-04-16]]
 - [[10 dailynotes/2023-04-15\|2023-04-15]]
