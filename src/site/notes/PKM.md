@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pkm/","created":"","updated":""}
 ---
 
-Personal knowledge management.
+PKM stands for *personal knowledge management*.
 
 ## My PKM Systems
 
@@ -38,12 +38,14 @@ Personal knowledge management.
 	[[Quizlet\|Quizlet]]
 	[[Anki\|Anki]]
 
-## [Digital Gardening (beyond Obsidian)](https://github.com/MaggieAppleton/digital-gardeners)
+## [Digital Gardening (Beyond Obsidian) for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening)
 
-Here is a great list of all systems and tools beyond my limited exposure.
+I came across Maggie Appleton's website with a nice balance between graphic and text. This essay is a great 30,000-foot overview. #list She also compiled this extensive [list](https://github.com/MaggieAppleton/digital-gardeners) of all systems and tools beyond my limited exposure.
 
 > What is "digital gardening"?
 > A garden is something in-between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organized by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.
+
+\- Maggie Appleton
 
 ---
 ## Principles
