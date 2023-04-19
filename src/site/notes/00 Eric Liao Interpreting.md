@@ -38,6 +38,7 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 ---
 ## Latest blogposts by way of daily notes
 
+- [[10 dailynotes/2023-04-19\|2023-04-19]] - ChatGPT has descended on Obsidianland
 - [[10 dailynotes/2023-04-18\|2023-04-18]] - Where humans should learn from machines
 - [[10 dailynotes/2023-04-17\|2023-04-17]]
 - [[10 dailynotes/2023-04-16\|2023-04-16]]
