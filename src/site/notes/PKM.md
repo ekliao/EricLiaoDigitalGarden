@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/pkm/","created":"","updated":""}
 ---
 
-
 Personal knowledge management.
 
 ## My PKM Systems
@@ -22,7 +21,7 @@ Personal knowledge management.
 	[[OneNote\|OneNote]]
 	[[EricWiki\|EricWiki]]: I have bittersweet memories of the 2000s, reminding me of the 2020s Obsidian.
 
-## PKM Systems
+## PKM Systems I've Heard Of
 *(New to old; broadly, including spaced repetition systems and note-taking apps)*
 	[[Scrintal\|Scrintal]]
 	[[Zettelkasten\|Zettelkasten]]
@@ -39,9 +38,18 @@ Personal knowledge management.
 	[[Quizlet\|Quizlet]]
 	[[Anki\|Anki]]
 
+## [Digital Gardening (beyond Obsidian)](https://github.com/MaggieAppleton/digital-gardeners)
+
+Here is a great list of all systems and tools beyond my limited exposure.
+
+> What is "digital gardening"?
+> A garden is something in-between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organized by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.
+
 ---
 ## Principles
+
 - [Future-proofing of notes](https://www.reddit.com/r/ObsidianMD/comments/srydoj/on_the_concept_of_futureproofing_of_notes_in/)
+
 - [Working with the garage door up](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 > One of my favorite ways that creative people communicate is by “working with their garage door up,” to riff on a passage from Robin Sloan (below). This is the opposite of the Twitter account which mostly posts announcements of finished work: it’s [Screenshot Saturday](https://twitter.com/hashtag/screenshotsaturday?lang=en); it’s giving a lecture about the problems you’re pondering in the shower; it’s thinking out loud about the ways in which your project doesn’t work at all. It’s so much of Twitch. I want to see the process. I want to see you trim the artichoke. I want to see you choose the color palette. [Anti-marketing](https://notes.andymatuschak.org/z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS).
 
@@ -62,6 +70,7 @@ Personal knowledge management.
 \- Robin Sloan
 
 ## Ideas
+
 - [Evergreen notes](https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E4%BB%80%E9%BA%BC%E6%98%AF-evergreen-note-%E9%95%B7%E9%9D%92%E7%AD%86%E8%A8%98-5f0b2c7b6547)
 
 ## People
