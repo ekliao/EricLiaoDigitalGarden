@@ -9,7 +9,7 @@ This is the main guide, with thanks to [峰的博客](https://fengrin.me/), that
 #source/dupe/begin 
 [src](https://fengrin.me/posts/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify)
 
-## 免费直接把笔记发布成网站:Obsidian+GitHub+Netlify
+## 免費直接把筆記發布成網站: Obsidian+GitHub+Netlify
 
 December 19, 2022
 
