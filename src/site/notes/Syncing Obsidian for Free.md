@@ -14,5 +14,5 @@
  
 
 ## Related resources(?)
-- https://youtu.be/oZLWGpmDj8M?t=360
+- [Video](https://youtu.be/oZLWGpmDj8M?t=360)
 
