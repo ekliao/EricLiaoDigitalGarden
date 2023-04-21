@@ -24,6 +24,9 @@ To put this website in context, [Andy Matuschak's insight](https://notes.andymat
 Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
 
 ---
+## [[Latest Blogposts (Daily Notes)\|Latest Blogposts (Daily Notes)]]
+
+---
 ## My Areas of Interest
 
 - Teaching language and interpretation
@@ -34,10 +37,6 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 - [Phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
 - [[My audio equipment\|Audio processing]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
-
----
-## [[Latest Blogposts (Daily Notes)\|Latest Blogposts (Daily Notes)]]
-
 ---
 
 *This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), and [Netlify](https://www.netlify.com/).*
