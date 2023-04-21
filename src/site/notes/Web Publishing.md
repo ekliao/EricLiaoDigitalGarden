@@ -3,6 +3,7 @@
 ---
 
 ## Obsidian
+- [[My successful attempt at Obsidian web publishing\|My successful attempt at Obsidian web publishing]]
 - [[Obsidian Publish Example Sites\|Obsidian Publish Example Sites]]
 
 #### Obsidian Publish
