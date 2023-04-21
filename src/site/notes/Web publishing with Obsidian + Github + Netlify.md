@@ -22,33 +22,23 @@ Hello，大家好，今天向大家介绍，如何免费用 Obsidian + GitHub + 
 ![image](https://cdn.fengrin.me/2022/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify-3.png)
 
 #project/started 
-0,
-
-准备：
+0 准备：
 
 -   下载 Obsidian 笔记软件
 -   注册 GitHub 账号
 
-1,
+1 首先，我们需要用到 Obsidian 的一个插件 [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)，下载安装Digital Garden。
 
-首先，我们需要用到 Obsidian 的一个插件 [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)，下载安装Digital Garden。
-
-2，
-
-打开这个 [repo](https://github.com/oleeskild/digitalgarden)，点击绿色的 deploy to netlify
+2 打开这个 [repo](https://github.com/oleeskild/digitalgarden)，点击绿色的 deploy to netlify
 > I don't see any green button for that. But I managed to "create depo". #todo Document details.
 
 这样会打开 Netlify，在你的 GitHub 创建一个这个 repo 的 copy。然后新建一个名字，然后按步骤在 Netlify 发布你的网站到 internet。
 
-3，
+3 下一步，你需要获取你 GitHub 账户的 access token，这个 token 用于你的 Obsidian 笔记软件的设置，相当于一个 password。去[这个网址](https://github.com/settings/tokens/new?scopes=repo)，点击 generate token 按钮，复制 token，下一步需要用到。
 
-下一步，你需要获取你 GitHub 账户的 access token，这个 token 用于你的 Obsidian 笔记软件的设置，相当于一个 password。去[这个网址](https://github.com/settings/tokens/new?scopes=repo)，点击 generate token 按钮，复制 token，下一步需要用到。
+4 打开 Obsidian - Digital Garden 的 settings。填入 GitHub 用户名，repo 的名字（在 step3 设置好的），还有上一步复制好的 token。
 
-4， 打开 Obsidian - Digital Garden 的 settings。填入 GitHub 用户名，repo 的名字（在 step3 设置好的），还有上一步复制好的 token。
-
-5，
-
-现在可以发布你的第一个笔记了。在 Obsidian 创建一个新的笔记，并且把下面字符加到笔记的开头。
+5 现在可以发布你的第一个笔记了。在 Obsidian 创建一个新的笔记，并且把下面字符加到笔记的开头。
 
 ```
 ---
@@ -62,19 +52,19 @@ dg-home: true
 -   dg-home 代表这个笔记应该作为网站首页
 -   dg-publish 设置代表这个笔记是否需要被发布到互联网上。
 
-6， 按 CTRL+P 打开命令面板，找到 Digital Garden: Publish Single Note 命令，按回车。
+6 按 CTRL+P 打开命令面板，找到 Digital Garden: Publish Single Note 命令，按回车。
 
 或者，点击侧边栏的小树苗 🌱 的图标，然后点击发布按钮：
 ![image](https://cdn.fengrin.me/2022/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify-4.png)
 
-7, 在 Netlify 找到你网站的网址，打开，大功告成：
+7 在 Netlify 找到你网站的网址，打开，大功告成：
 > No step-by-step guide about how to do this finding! But again I managed to find my way and it all worked. #todo Add details.
 
 ![image](https://cdn.fengrin.me/2022/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify-5.png)
 
 ### 如何添加 Connnected Pages 图表
 
-0, 例子：
+0 例子：
 
 ![example](https://cdn.fengrin.me/2022/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify-6.png)
 
