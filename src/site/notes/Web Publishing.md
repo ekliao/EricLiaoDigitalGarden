@@ -5,6 +5,7 @@
 ## Obsidian
 - [[My successful attempt at Obsidian web publishing\|My successful attempt at Obsidian web publishing]]
 - [[Obsidian Publish Example Sites\|Obsidian Publish Example Sites]]
+- Related: [[Obsidian Sync\|Obsidian Sync]]
 
 #### Obsidian Publish
 - Costly at $20/month or $192/year
