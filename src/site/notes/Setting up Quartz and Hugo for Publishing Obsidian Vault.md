@@ -76,7 +76,7 @@ ekliao@ELI-1T-Side-MBP14 ~ %
 ```
 
 2.  Create a Repo on Github to host your public garden
-    1.  [Getting started with Github Pages](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7) by Yuanyuan Ge, for which I kept a step-by-step journal here: [[Getting started with Github pages\|Getting started with Github pages]]
+    1.  [Getting started with Github Pages](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7) by Yuanyuan Ge, for which I kept a step-by-step journal [[Web Publishing With Github Pages and Hugo\|here]]
   #project/aborted ==I decided to abandon this project after trying for hours to deal with all the Github push/commit/password/publish problems.==
     1.  [Configuring a Custom Domain for your Github Pages Site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 3.  Make the public folder of your Quartz repo a submodule of that repo
