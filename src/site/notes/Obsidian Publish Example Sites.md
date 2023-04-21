@@ -6,14 +6,13 @@
 - [One using Netlify's free tier but has Disqus (comments, contact)](https://hermitage.utsob.me/)
 	- [discussion](https://www.reddit.com/r/ObsidianMD/comments/10pokli/i_built_a_digital_garden_using_obsidian_for_free/) #todo Check out [[Disqus\|Disqus]]
 
-## Working Obsidian Publish sites
+## Working Obsidian Publish Sites
 - **[A List](https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248)** (lots of dead links)
-- [Coach Wu Gang](https://www.coachwugang.com)
-	- [video](https://www.bilibili.com/video/BV1dU4y1p7gg/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f](https://www.bilibili.com/video/BV1dU4y1p7gg/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f)
 - [Fork My Brain (Nicole Van Der Hoeven)](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
-- [Ammar Husain](https://notes.ammarh.io/)
 - [英漢類義詞典（中文索引）](https://publish.obsidian.md/thesaurus/)
+- [Coach Wu Gang](https://www.coachwugang.com) ([video](https://www.bilibili.com/video/BV1dU4y1p7gg/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f))
 - [Petrichor](https://publish.obsidian.md/bryan-jenks/Z/!+2020-12-09+Why+isn't+color-coding+explanations+more+common)
+- [Ammar Husain](https://notes.ammarh.io/)
 - [hxhc](https://notes.hxhc.xyz/)
 - [Louis](https://brain.louis030195.com/Biology/Evolution/Sexual+orientation)
 - [Anthony Amar](https://anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
