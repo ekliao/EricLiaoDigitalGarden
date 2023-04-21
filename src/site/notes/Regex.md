@@ -3,7 +3,7 @@
 ---
 
 
-Short for "regular expressions." "RegExp" is another common abbreviation.
+Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
 
 ## Unicode
 - [Scripts, blocks, etc.](https://www.regular-expressions.info/unicode.html)
@@ -12,5 +12,5 @@ The Unicode property shorthand ``\p{Han}`` is a great discovery about regex. So 
 
 ## People
 
-- [[Jeffrey Friedl\|Jeffrey Friedl]] wrote the seminal book on regex.
-- [[Jan Goyvaerts\|Jan Goyvaerts]] maintains [this](https://www.regular-expressions.info/) great educational site.
+- [Jeffrey Friedl](http://regex.info/) wrote the seminal book on regex: *Mastering Regular Expressions*.
+- [Jan Goyvaerts](https://www.just-great-software.com/aboutjg.html) maintains [this](https://www.regular-expressions.info/) great educational site. He makes such esoteric topic as [Regex lookarounds](https://www.regular-expressions.info/lookaround.html) palatable.
