@@ -24,7 +24,7 @@ To put this website in context, [Andy Matuschak's insight](https://notes.andymat
 Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
 
 ---
-## [[Latest Blogposts (Daily Notes)\|Latest Blogposts (Daily Notes)]]
+## [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
 
 ---
 ## My Areas of Interest
