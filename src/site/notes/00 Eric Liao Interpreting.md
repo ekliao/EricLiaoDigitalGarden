@@ -36,15 +36,7 @@ Feel free to roam, linger, or interact by email (ekliao@gmail.com) or [LinkedIn]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 
 ---
-## Latest blogposts by way of daily notes
-
-- [[10 dailynotes/2023-04-21\|2023-04-21]] - Re-publishing this Obsidian Digital Garden from the iCloud vault
-- [[10 dailynotes/2023-04-20\|2023-04-20]] - Syncing Obsidian across devices for free
-- [[10 dailynotes/2023-04-19\|2023-04-19]] - ChatGPT / Peer "emulation"
-- [[10 dailynotes/2023-04-18\|2023-04-18]] - Where humans should learn from machines
-- [[10 dailynotes/2023-04-17\|2023-04-17]] - Homebody / City amenities / Charismatic PKM KOL
-- [[10 dailynotes/2023-04-16\|2023-04-16]]
-- [[10 dailynotes/2023-04-15\|2023-04-15]]
+## [[Latest Blogposts (Daily Notes)\|Latest Blogposts (Daily Notes)]]
 
 ---
 
