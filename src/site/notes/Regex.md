@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/regex/","created":"","updated":""}
 ---
 
-
 Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
 
 ## Perl and Regex: a match made in heaven
