@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/programming/mac-os-shell/","created":"","updated":""}
 ---
 
+This is the beginning of a series of pages that I followed to set up my MacOS development environment in preparation for publishing my Obsidian vault. It seems daunting at first but turned out not that difficult because of the excellent guide by  [Daniel Kehoe](https://twitter.com/yaxdotcom).
+
 #project/learn-by-doing 
 
 #source/dupe/begin 
