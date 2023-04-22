@@ -12,8 +12,8 @@
 
 #### Non-OB-Publish Solutions
 
-###### [[OB Digital Garden Plugin + Netlify\|OB Digital Garden Plugin + Netlify]]
-- [[Digital Garden Plugin + Netlify\|How this website is built]]
+###### [[Digital Garden Plugin + Netlify\|Digital Garden Plugin + Netlify]]
+This is how this website is built.
 
 ###### [[Quartz + Hugo\|Quartz + Hugo]]
 
