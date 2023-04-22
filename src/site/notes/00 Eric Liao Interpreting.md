@@ -26,7 +26,8 @@ Feel free to roam, linger, or interact by email (ekliao @ gmail.com) or [LinkedI
 ---
 ## [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
 
-### [[My Areas of Interest\|My Areas of Interest]]
+
+## [[My Areas of Interest\|My Areas of Interest]]
 
 ---
 *This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), and [Netlify](https://www.netlify.com/).*
