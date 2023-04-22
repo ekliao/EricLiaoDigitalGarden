@@ -26,19 +26,9 @@ Feel free to roam, linger, or interact by email (ekliao @ gmail.com) or [LinkedI
 ---
 ## [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
 
----
-## My Areas of Interest
+## [[My Areas of Interest\|My Areas of Interest]]
 
-- Teaching language and interpretation
-- Linguistics, language, and grammar
-- [[PKM\|PKM]], especially [[Anki\|Anki]] and [Obsidian](https://obsidian.md/) (you are looking at an instance of it)
-- [[Web Publishing\|Web publishing]] - The process of publishing this website
-- [[Regex\|Regular expressions]]
-- [Phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
-- [[My audio equipment\|Audio processing]]
-- Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 ---
-
 *This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), and [Netlify](https://www.netlify.com/).*
 
 *© Eric K. Liao 2023*
