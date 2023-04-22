@@ -7,6 +7,8 @@
 - Interpretation and translation
 - Language(s)
 
+#questioning Are the following categories really easily distinguishable for me?
+
 ### Minor long-term
 - Teaching language and interpretation
 - [[PKM\|PKM]], especially [[Anki\|Anki]] and [Obsidian](https://obsidian.md/) (you are looking at an instance of it)
@@ -19,4 +21,8 @@
 ### Major short-term
 - [[Web Publishing\|Web publishing]] - The process of publishing this website
 
-### Minor short-term (the shiny objects)
+### Minor short-term
+- Computer programming
+
+### Minor transient
+- Typography, [[Fonts\|fonts]]
