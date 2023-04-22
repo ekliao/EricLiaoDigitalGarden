@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/glasp/","created":"","updated":""}
 ---
 
-A competitor to [[Readwise Reader\|Readwise Reader]] but free!
+A web highlighter that is in direct competition with [[Readwise Reader\|Readwise Reader]] but is free!
 
-Below is my first attempt to copy-and-paste a [Glasp](https://glasp.co/) highlight of a page from Wikipedia.
+Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highlights on an Wikipedia page.
 
 ## Quick verdict
 Super neat with the following metadata:
@@ -17,7 +17,9 @@ And textual data:
 
 #project/learn-by-doing 
 
-# Predicative expression - Wikipedia
+# [[Predicative expression\|Predicative expression]] - Wikipedia
+{ #5def57}
+
 
 ### Metadata
 - Title: Predicative expression - Wikipedia
