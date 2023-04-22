@@ -15,7 +15,7 @@ Here's my CV/résumé in [PDF](https://drive.google.com/file/d/1x2w2NirxGCWH6FfU
 
 ## Welcome! 
 
-Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 A journey of a thousand miles begins with a single step.
+Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 (*A journey of a thousand miles begins with a single step.*)
 
 To put this website in context, [Andy Matuschak's insight](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu&stackedNotes=z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS) about thinking and writing notes for the self, disregarding the audience resonates with how I feel all along when blogging became a thing in the early 2000s. What he says about *working with the garage door up* and *anti-marketing*, word!
 
