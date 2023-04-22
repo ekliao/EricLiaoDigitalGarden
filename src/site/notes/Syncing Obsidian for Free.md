@@ -29,8 +29,4 @@ The actual folder is actually here:
 /Users/<username>/Library/Mobile Documents/iCloud~md~obsidian/Documents/<vault>
 ```
 
-This is the path that a diff tool such as [[Beyond Compare\|Beyond Compare]] needs to point to in order to find files. 
-
-## Related resources(?)
-- [Video](https://youtu.be/oZLWGpmDj8M?t=360)
-
+This is the path that a diff tool such as [[Beyond Compare\|Beyond Compare]] needs to point to in order to find files.
