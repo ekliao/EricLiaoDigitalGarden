@@ -4,7 +4,7 @@
 
 ## Digital Gardens (Non-OB-Publish)
 - [One using Netlify's free tier but has Disqus (comments, contact)](https://hermitage.utsob.me/)
-	- [discussion](https://www.reddit.com/r/ObsidianMD/comments/10pokli/i_built_a_digital_garden_using_obsidian_for_free/) #todo Check out [[Disqus\|Disqus]]
+	- [discussion](https://www.reddit.com/r/ObsidianMD/comments/10pokli/i_built_a_digital_garden_using_obsidian_for_free/) #todo Check out [Disqus](https://disqus.com/)
 
 ## Working Obsidian Publish Sites
 - **[A List](https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248)** (lots of dead links)
