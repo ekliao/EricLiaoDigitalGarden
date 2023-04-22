@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-04-22\|2023-04-22]] - Certified translation
 - [[10 dailynotes/2023-04-21\|2023-04-21]] - Re-publishing this Obsidian Digital Garden from the iCloud vault
 - [[10 dailynotes/2023-04-20\|2023-04-20]] - Syncing Obsidian across devices for free
 - [[10 dailynotes/2023-04-19\|2023-04-19]] - ChatGPT / Peer "emulation"
