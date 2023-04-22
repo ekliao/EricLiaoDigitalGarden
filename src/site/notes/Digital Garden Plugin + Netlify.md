@@ -8,4 +8,5 @@ Netlify is a game changer, a godsend for me, when I don't even believe in any de
 ## Netlify free tier + Disqus
 - [guide](https://zapier.com/apps/disqus/integrations/netlify)
 
-- [[Netlify with GoDaddy domain name\|Netlify with GoDaddy domain name]]
+## Custom Domain Name
+- [[Netlify with GoDaddy domain name\|GoDaddy]]
