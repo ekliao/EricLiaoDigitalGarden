@@ -4,6 +4,8 @@
 
 PKM stands for *personal knowledge management*.
 
+A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term with "consecutive," as in [[Consecutive Note-Taking\|Consecutive Note-Taking]]
+
 ## My PKM Systems
 
 ### In use
