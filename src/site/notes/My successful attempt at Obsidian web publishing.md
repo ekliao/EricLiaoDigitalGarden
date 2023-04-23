@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-successful-attempt-at-obsidian-web-publishing/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/my-successful-attempt-at-obsidian-web-publishing/","noteIcon":"3","created":"","updated":""}
 ---
 
 ## Aborted attempts
