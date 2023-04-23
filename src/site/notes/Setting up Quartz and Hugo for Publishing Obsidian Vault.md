@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/setting-up-quartz-and-hugo-for-publishing-obsidian-vault/","noteIcon":"2","created":"","updated":""}
 ---
 
 #project/learn-by-doing  
