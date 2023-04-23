@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-compare/","noteIcon":"3","created":"","updated":""}
+{"dg-publish":true,"permalink":"/beyond-compare/","noteIcon":"2","created":"","updated":""}
 ---
 
 
