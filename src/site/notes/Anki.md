@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/anki/","noteIcon":"1","created":"","updated":""}
 ---
 
 
