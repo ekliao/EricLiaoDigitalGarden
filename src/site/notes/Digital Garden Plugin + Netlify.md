@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-plugin-netlify/","noteIcon":"3","created":"","updated":""}
+{"dg-publish":true,"permalink":"/digital-garden-plugin-netlify/","noteIcon":"2","created":"","updated":""}
 ---
+
+## Digital Garden plugin
+- [Docs](https://dg-docs.ole.dev/)
 
 ## [Netlify](https://www.netlify.com/)
 Netlify is a game changer, a godsend for me, when I don't even believe in any deities. And, it's free!
