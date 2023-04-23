@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xcode/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/xcode/","noteIcon":"2","created":"","updated":""}
 ---
 
 #project/learn-by-doing 
