@@ -11,7 +11,7 @@
 
 
 
-* Turns out, adding [Disqus](https://disqus.com/)-style commenting support to my digital garden wasn't as easy as it seems, by simply putting some universal code snippet (with one change) as an included file. I hit a snag. 
+* Turns out, adding [Disqus](https://disqus.com/)-style commenting support to my digital garden wasn't as easy as it seems, by simply putting some universal code snippet (with one change) in a file under the `_include` directory. I hit a snag. 
 
 </div></div>
 
