@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/regex/","noteIcon":"2","created":"","updated":""}
 ---
 
 Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
