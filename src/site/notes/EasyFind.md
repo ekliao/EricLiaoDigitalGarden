@@ -12,7 +12,7 @@
 
 
 
-To my disappointment, [[EasyFind\|EasyFind]] does not reliably find text in files as expected. I tried to look for a simple fixed string `disqus` in a directory tree of files and it found fewer files than expected. I have no idea why such a simple search failed. In comparison, the tried-and-true [[Text Editors#^81cbb4\|Text Editors#^81cbb4]] (available on Windows only, alas) did fine. 
+To my disappointment, [[EasyFind\|EasyFind]] does not reliably find text in files as expected. I tried to look for a simple fixed string such as `disqus` in a directory tree of files and it found fewer files than expected. I have no idea why such a simple search failed. In comparison, the tried-and-true [[Text Editors#^81cbb4\|EmEditor]] (available on Windows only, alas) did fine. 
 
 </div></div>
 
