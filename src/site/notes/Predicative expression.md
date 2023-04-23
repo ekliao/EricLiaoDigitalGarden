@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/predicative-expression/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/predicative-expression/","noteIcon":"2","created":"","updated":""}
 ---
 
 #grammar 
