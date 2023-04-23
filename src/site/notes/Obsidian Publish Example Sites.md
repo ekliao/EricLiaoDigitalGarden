@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-publish-example-sites/","noteIcon":"3","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-publish-example-sites/","noteIcon":"2","created":"","updated":""}
 ---
 
 ## Digital Gardens (Non-OB-Publish)
