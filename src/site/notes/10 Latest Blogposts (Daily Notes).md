@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"1","created":"","updated":""}
 ---
 
 - [[10 dailynotes/2023-04-23\|2023-04-23]] - Note-taking is not the end goal. / Glasp
