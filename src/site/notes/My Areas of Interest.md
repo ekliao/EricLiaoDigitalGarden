@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-areas-of-interest/","noteIcon":"3","created":"","updated":""}
+{"dg-publish":true,"permalink":"/my-areas-of-interest/","noteIcon":"2","created":"","updated":""}
 ---
 
 ### Major long-term
