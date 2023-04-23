@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glasp/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/glasp/","noteIcon":"2","created":"","updated":""}
 ---
 
 A web highlighter that is in direct competition with [[Readwise Reader\|Readwise Reader]] but is free!
