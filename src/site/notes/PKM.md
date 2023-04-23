@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pkm/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/pkm/","noteIcon":"2","created":"","updated":""}
 ---
 
 PKM stands for *personal knowledge management*.
