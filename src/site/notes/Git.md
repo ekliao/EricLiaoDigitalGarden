@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/git/","noteIcon":"3","created":"","updated":""}
 ---
 
 #project/learn-by-doing 
