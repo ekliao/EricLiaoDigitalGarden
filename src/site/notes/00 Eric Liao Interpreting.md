@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2","created":"","updated":""}
 ---
 
 # Eric Liao Interpreting
