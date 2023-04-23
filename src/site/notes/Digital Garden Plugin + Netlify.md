@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden-plugin-netlify/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/digital-garden-plugin-netlify/","noteIcon":"3","created":"","updated":""}
 ---
 
 ## [Netlify](https://www.netlify.com/)
