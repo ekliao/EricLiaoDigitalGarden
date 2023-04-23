@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-publishing/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/web-publishing/","noteIcon":"2","created":"","updated":""}
 ---
 
 ## Obsidian
