@@ -12,7 +12,7 @@ To put this website in context, I love [Andy Matuschak](https://andymatuschak.or
 ### Metadata
 
 - Title: Work with the garage door up
-- URL: https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu
+- [URL](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
 
 ### Page Comment
 
