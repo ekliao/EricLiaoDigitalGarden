@@ -6,7 +6,7 @@ A web highlighter that is in direct competition with [[Readwise Reader\|Readwise
 
 Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highlights on an Wikipedia page.
 
-## Quick verdict
+## Quick verdict: 5/5 stars
 Super neat, complete with the following metadata:
 - title
 - URL
