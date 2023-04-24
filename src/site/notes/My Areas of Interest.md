@@ -3,7 +3,7 @@
 ---
 
 ### Major long-term
-- Linguistics and grammar
+- Linguistics, grammar, usage, [[Dictionaries\|dictionaries]]
 - Interpretation and translation
 - [[Language and languages\|Language and languages]]
 
