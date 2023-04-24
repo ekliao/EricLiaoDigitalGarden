@@ -24,5 +24,6 @@
 ### Minor short-term
 - Computer programming
 
-### Minor transient
+### Minor transient (the shining objects of the day)
 - Typography, [[Fonts\|fonts]]
+- Wireless mechanical keyboards: [[Nuphy Air75\|Nuphy Air75]]
