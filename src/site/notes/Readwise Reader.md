@@ -13,5 +13,36 @@ A subscription-based powerful quick-on-the-AI-bandwagon web highlighter and anno
 
 </div></div>
 
-## Proponents
+## People
+- [[people/Nicole Van Der Hoeven\|Nicole Van Der Hoeven]]
 - [[Ernest Chiang\|Ernest Chiang]] (Taiwan)
+
+## Sample Highlight/Annotation in OB
+
+This is from [[people/Nicole Van Der Hoeven\|Nicole Van Der Hoeven]]'s digital garden [*Fork My Brain*](https://notes.nicolevanderhoeven.com/Fork+My+Brain). Actual [link](https://notes.nicolevanderhoeven.com/sources/Article/Work+With+the+Garage+Door+Up). Components:
+- Title as a heading
+- [[Readwise Reader\|Readwise Reader]] URL
+- Source URL
+- Some image
+- Highlight/quote section
+
+![Screen Shot 2023-04-24 at 17.14.18.png](/img/user/_attachments/Screen%20Shot%202023-04-24%20at%2017.14.18.png)
+
+### Compare Visually With Glasp
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/this-digital-garden-s-raison-d-etre/#e9914e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Work with the garage door up
+
+</div></div>
+
+
+(Screenshot below)
+![Screen Shot 2023-04-24 at 17.27.40.png](/img/user/_attachments/Screen%20Shot%202023-04-24%20at%2017.27.40.png)
+
+### Components Missing in Reader
+- Tags
+- Page comment
