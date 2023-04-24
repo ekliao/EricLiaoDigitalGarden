@@ -54,12 +54,15 @@ I came across Maggie Appleton's website with a nice balance between graphic and 
 
 - [Future-proofing of notes](https://www.reddit.com/r/ObsidianMD/comments/srydoj/on_the_concept_of_futureproofing_of_notes_in/)
 
-- [Working with the garage door up](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)
-> One of my favorite ways that creative people communicate is by “working with their garage door up,” to riff on a passage from Robin Sloan (below). This is the opposite of the Twitter account which mostly posts announcements of finished work: it’s [Screenshot Saturday](https://twitter.com/hashtag/screenshotsaturday?lang=en); it’s giving a lecture about the problems you’re pondering in the shower; it’s thinking out loud about the ways in which your project doesn’t work at all. It’s so much of Twitch. I want to see the process. I want to see you trim the artichoke. I want to see you choose the color palette. [Anti-marketing](https://notes.andymatuschak.org/z4bK6LaSBRetDzuYkeCs3A8mJ8DufTbK4o6FS).
 
-> I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to [Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds](https://notes.andymatuschak.org/z2DABWsGLkXcCuUet2scfD1duL1ZHBztwGKp). It’s also a way to avoid the problems described in [Pitching out corrupts within](https://notes.andymatuschak.org/zqG92bvaL58AWMeL97jXaRd1Dm6hsfGvhAn).
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/this-digital-garden-s-raison-d-etre/#e9914e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-\- Andy Matuschak
+
+
+## Work with the garage door up
+
+</div></div>
+
 
 > I wish starting physical businesses was easier; I wish the path wasn’t so steep, especially in places like the Bay Area; because I think it’s one of the absolute best things a person can do. Among many other things, a physical business enlivens public space, by making the simple, eloquent statement: I am here, working.
 
