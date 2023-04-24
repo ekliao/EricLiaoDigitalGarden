@@ -49,7 +49,7 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 - The formulations "over the subject" and "over the object" indicate that the predicative expression is expressing a property that is assigned to the subject or to the object.
 
 ---
-## Glasp vs Readwise
+## Glasp vs [[Readwise Reader\|Readwise Reader]]
 #highlight/glasp/link 
 - [Which is better?](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=P1Tyljl17iZsvuAKO5Rk&h=i1dw5lssde7ste94&m=h)
 #highlight/glasp/copy 
