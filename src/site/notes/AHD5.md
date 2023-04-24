@@ -4,7 +4,7 @@
 
 The American Heritage Dictionary, 5th Edition.
 
-This is one of my two go-to dictionaries, the other being Merriam-Webster's.
+This is one of my two go-to collegiate dictionaries, the other being Merriam-Webster's.
 
 #grammar 
 - discuss
