@@ -9,6 +9,7 @@
 Netlify is a game changer, a godsend for me, when I don't even believe in any deities. And, it's free!
 
 ## Netlify free tier + [Disqus](https://disqus.com/)
+### [[Adding Disqus to Netlify\|Adding Disqus to Netlify]]
 - [Zapier](https://zapier.com/apps/disqus/integrations/netlify)
 
 ## Custom Domain Name
