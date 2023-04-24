@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-04-25\|2023-04-25]] - More organic and atomic Evergreen Notes, please!
 - [[10 dailynotes/2023-04-24\|2023-04-24]] - EasyFind disappoints. / No joy with Disqus.
 - [[10 dailynotes/2023-04-23\|2023-04-23]] - Note-taking is not the end goal. / Glasp
 - [[10 dailynotes/2023-04-22\|2023-04-22]] - Certified translation / Beyond Compare is beyond comparison.
