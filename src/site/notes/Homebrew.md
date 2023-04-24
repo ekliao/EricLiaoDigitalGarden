@@ -24,7 +24,7 @@ $ brew
 
 Homebrew is not installed if you see:
 
-```bash
+```
 zsh: command not found: brew
 ```
 
