@@ -8,6 +8,7 @@ To put this website in context, I love [Andy Matuschak](https://andymatuschak.or
 
 - Anti-marketing
 
+---
 #highlight/glasp/copy 
 ## Work with the garage door up
 { #e9914e}
@@ -21,7 +22,7 @@ To put this website in context, I love [Andy Matuschak](https://andymatuschak.or
 ### Page Comment
 
 - #evergreen-notes #andy-matuschak #anti-marketing 
-Such a powerful message. Love it! Quoting all, spreading it, putting it on my digital garden. 
+Such a powerful message. Love it! Quoting it all, spreading it, putting it on my digital garden. 
 
 ### Highlights & Notes
 
