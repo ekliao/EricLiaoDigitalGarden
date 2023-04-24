@@ -4,10 +4,14 @@
 
 To put this website in context, I love [Andy Matuschak](https://andymatuschak.org/)'s idea of thinking and writing notes for the self, disregarding the audience. This resonates with how I feel all along when blogging became a thing in the early 2000s. I intuitively agree that this way of presenting oneself to the world "creates more invested, interesting followings over the long term." See below also for his insights:
 - Working with the garage door up
+{ #765b95}
+
 - Anti-marketing
 
 #highlight/glasp/copy 
 ## Work with the garage door up
+{ #e9914e}
+
 
 ### Metadata
 
