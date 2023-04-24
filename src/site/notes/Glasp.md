@@ -50,6 +50,9 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 
 ---
 ## Glasp vs [[Readwise Reader\|Readwise Reader]]
+{ #9fea1a}
+
+
 #highlight/glasp/link 
 - [Which is better?](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=P1Tyljl17iZsvuAKO5Rk&h=i1dw5lssde7ste94&m=h)
 #highlight/glasp/copy 
@@ -71,3 +74,5 @@ Glasp comment not always copied :-( buggy!
 
 - Glasp vs Readwise: Which Is the Best Knowledge Management Tool?
 - If you prefer a social aspect, allowing you to share insights and learn from others, Glasp is a great option.
+
+---
