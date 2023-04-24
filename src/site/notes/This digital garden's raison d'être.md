@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/this-digital-garden-s-raison-d-etre/","noteIcon":"2","created":"","updated":""}
 ---
 
-To put this website in context, I love [Andy Matuschak](https://andymatuschak.org/)'s idea of thinking and writing notes for the self, disregarding the audience. This resonates with how I feel all along when blogging became a thing in the early 2000s. See below also for his insights:
+To put this website in context, I love [Andy Matuschak](https://andymatuschak.org/)'s idea of thinking and writing notes for the self, disregarding the audience. This resonates with how I feel all along when blogging became a thing in the early 2000s. I intuitively agree that this way of presenting oneself to the world "creates more invested, interesting followings over the long term." See below also for his insights:
 - Working with the garage door up
 - Anti-marketing
 
@@ -13,12 +13,11 @@ To put this website in context, I love [Andy Matuschak](https://andymatuschak.or
 
 - Title: Work with the garage door up
 - URL: https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu
+
 ### Page Comment
 
 - #evergreen-notes #andy-matuschak #anti-marketing 
 Such a powerful message. Love it! Quoting all, spreading it, putting it on my digital garden. 
-
-I intuitively agree that this way of presenting oneself creates more invested, interesting followings over the long haul.
 
 ### Highlights & Notes
 
