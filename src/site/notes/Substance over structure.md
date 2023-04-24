@@ -9,6 +9,8 @@ I should make the writing more organic and atomic à la Matuschak Evergreen Note
 
 For example, forget about neatly creating hierarchical notes named
 
-`dictionaries` > `AHD5`
+	[[Dictionaries\|dictionaries]] 
+		[[AHD5\|AHD5]]
+			issue of grammar found in AHD5
 
-just so that I can write about a seemingly quirky intransitive sense for `discuss` in AHD5. Rather, just write about the substantive issue of `absolute verbs` and connect it to `grammar`, and stop caring about whether `dictionaries` or `AHD5` exist or how and where they should fit in.
+just so that I can write about a seemingly quirky intransitive sense for `discuss` in AHD5. Rather, just write about the substantive issue of [[Absolute verbs\|Absolute verbs]] and connect it to [[Grammar\|Grammar]], and stop caring about whether `dictionaries` or `AHD5` exist or how and where they should fit in.
