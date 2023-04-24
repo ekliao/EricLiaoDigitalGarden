@@ -13,7 +13,7 @@ This is one of my two go-to collegiate dictionaries, the other being Merriam-Web
 **2.** To examine or consider a subject in speech or writing.
 **3.** To come to an agreement as a result of a discussion: _As we discussed, you will clean your room before going out._
 
-A colleague just said `We will discuss on <topic>.` in an open communication. This made me do a double take and reached for [[Eudic 歐路詞典\|Eudic 歐路詞典]] in curiosity. I'm relieved that no, one does not say `discuss on sth`.
+A colleague just said `We will discuss on <topic>.` in an open communication. This made me do a double take and reach for [[Eudic 歐路詞典\|Eudic 歐路詞典]] in curiosity. I'm relieved that no, one does not say `discuss on sth`.
 
 But here's an unintended discovery: I found AHD5's intransitive senses for `discuss` most peculiar. Interestingly, no other dictionaries have such a treatment.
 
