@@ -38,6 +38,7 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 - Title: Predicative expression - Wikipedia
 - Tags: #grammar, #English
 - URL: https://en.wikipedia.org/wiki/Predicative_expression
+
 ### Page Comment
 - Unambiguous distinction between "(clause) predicate 謂語" and "predicative (expression) 表語", both nouns.
 
