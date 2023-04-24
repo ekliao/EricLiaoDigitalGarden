@@ -23,8 +23,8 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 #project/completed 
 
 ![Screen Shot 2023-04-23 at 03.12.40.png](/img/user/_attachments/Screen%20Shot%202023-04-23%20at%2003.12.40.png)
-
-# [[Predicative expression\|Predicative expression]] - Wikipedia
+#highlight/glasp/copy
+## [[Predicative expression\|Predicative expression]] - Wikipedia
 { #5def57}
 
 
