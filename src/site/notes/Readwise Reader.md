@@ -21,9 +21,9 @@ A subscription-based powerful quick-on-the-AI-bandwagon web highlighter and anno
 
 This is from [[people/Nicole Van Der Hoeven\|Nicole Van Der Hoeven]]'s digital garden [*Fork My Brain*](https://notes.nicolevanderhoeven.com/Fork+My+Brain). Actual [link](https://notes.nicolevanderhoeven.com/sources/Article/Work+With+the+Garage+Door+Up). Components:
 - Title as a heading
-- [[Readwise Reader\|Readwise Reader]] URL
+- Readwise Reader URL
 - Source URL
-- Some image
+- Some image (where does it come from?)
 - Highlight/quote section
 
 ![Screen Shot 2023-04-24 at 17.14.18.png](/img/user/_attachments/Screen%20Shot%202023-04-24%20at%2017.14.18.png)
