@@ -6,7 +6,7 @@ A web highlighter that is in direct competition with [[Readwise Reader\|Readwise
 
 Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highlights on an Wikipedia page.
 
-## Quick verdict: 5/5 stars
+## Quick verdict: 4/5 stars
 - Super neat, complete with the following metadata:
 	- title
 	- URL
@@ -17,6 +17,11 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 - Intuitive UI, easy to use
 - Works with any web page content
 - Free
+
+## Issues
+- The page comment field, where the user enters tags and a single comment, is not always copied. I tried several times. Observed pattern:
+	- If one simply highlights the title/header of a web article, `Copy All` doesn't copy the comment.
+	- If one creates at least one highlight in the body text of the article, voilà, it gladly copies the comment.
 
 ---
 #project/learn-by-doing 
@@ -43,4 +48,26 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 - The main trait of all predicative expressions is that they serve to express a property that is assigned to a "subject", whereby this subject is usually the clause subject
 - The formulations "over the subject" and "over the object" indicate that the predicative expression is expressing a property that is assigned to the subject or to the object.
 
+---
+## Glasp vs Readwise
+#highlight/glasp/link 
+- [Which is better?](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=P1Tyljl17iZsvuAKO5Rk&h=i1dw5lssde7ste94&m=h)
+#highlight/glasp/copy 
+### Glasp vs Readwise: Which Is the Best Knowledge Management Tool?
 
+![](https://assets.hongkiat.com/uploads/glasp-vs-readwise/glasp-vs-readwise.jpg)
+
+#### Metadata
+
+- Title: Glasp vs Readwise: Which Is the Best Knowledge Management Tool?
+- URL: https://www.hongkiat.com/blog/glasp-vs-readwise/
+
+#### Page Comment
+
+- #Glasp #Readwise-Reader #web-highlighter #annotation 
+Glasp comment not always copied :-( buggy!
+
+#### Highlights & Notes
+
+- Glasp vs Readwise: Which Is the Best Knowledge Management Tool?
+- If you prefer a social aspect, allowing you to share insights and learn from others, Glasp is a great option.
