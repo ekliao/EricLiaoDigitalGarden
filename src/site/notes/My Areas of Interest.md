@@ -5,7 +5,7 @@
 ### Major long-term
 - Linguistics and grammar
 - Interpretation and translation
-- Language(s)
+- [[Language and languages\|Language and languages]]
 
 #questioning Are the following categories really easily distinguishable for me?
 
