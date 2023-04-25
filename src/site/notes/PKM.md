@@ -10,7 +10,7 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 
 ### In use
 *(By frequency)*
-	[[PKM/Obsidian\|Obsidian]] - You're looking at it
+	[[Obsidian\|Obsidian]] - You're looking at it
 	[[Anki\|Anki]]
 	[[Apple Notes\|Apple Notes]]
 	[[Evernote\|Evernote]]
@@ -30,7 +30,7 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 	[[Logseq\|Logseq]]
 	[[Remnote\|Remnote]]
 	[[Roam Research\|Roam Research]]
-	[[PKM/Obsidian\|Obsidian]]
+	[[Obsidian\|Obsidian]]
 	[[Mnemosyne\|Mnemosyne]]
 	[[Notion\|Notion]]
 	[[Supermemo\|Supermemo]]
