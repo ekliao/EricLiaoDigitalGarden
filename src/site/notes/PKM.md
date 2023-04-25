@@ -10,8 +10,8 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 
 ### In use
 *(By frequency)*
+	[[PKM/Obsidian\|Obsidian]] - You're looking at it
 	[[Anki\|Anki]]
-	[[PKM/Obsidian\|Obsidian]]
 	[[Apple Notes\|Apple Notes]]
 	[[Evernote\|Evernote]]
 	[[DTSearch\|DTSearch]]
