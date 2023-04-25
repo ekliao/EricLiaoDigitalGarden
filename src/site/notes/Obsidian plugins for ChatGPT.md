@@ -14,7 +14,7 @@
 - How I'm Using AI *WITH* My Obsidian Vault
 
 ---
-## ObsidianMD
+ChatGPT MD
 
 #highlight/glasp/copy 
 ### r/ObsidianMD - New Plugin: ChatGPT MD - A (nearly) seamless integration of ChatGPT into Obsidian
@@ -26,11 +26,11 @@
 - Tags: #plugin, #Obsidian, #ChatGPT
 - URL: https://www.reddit.com/r/ObsidianMD/comments/11o4zqq/new_plugin_chatgpt_md_a_nearly_seamless/
 
-### Page comment
+### Page Comment
 cp. ChatGPT MD plugin and the Text Generator plugin
 
 ### Highlights & Notes
-- Text generator is this on steroids. Here - https://youtu.be/tNAsLbGdM6A
+- Text generator is this *(ChatGPT MD)* on steroids. Here - https://youtu.be/tNAsLbGdM6A
 
 ---
 #highlight/glasp/copy 
