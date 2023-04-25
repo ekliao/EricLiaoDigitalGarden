@@ -16,7 +16,7 @@ This blog assumes that you have already created a Netlify account and purchased 
 
 **[Please note that Netlify now allows users to purchase domains direct](https://www.netlify.com/blog/2018/06/19/buy-and-secure-a-custom-domain-through-netlify/)**
 
-For a tutorial on how to deploy a GitHub Repository to Netlify, please see my blog posted [here](https://medium.com/swlh/launching-your-first-website-rails-react-42a6af1ab481).
+For a tutorial on how to deploy a [[GitHub\|GitHub]] Repository to Netlify, please see my blog posted [here](https://medium.com/swlh/launching-your-first-website-rails-react-42a6af1ab481).
 
 **Netlify: Getting Started**
 
