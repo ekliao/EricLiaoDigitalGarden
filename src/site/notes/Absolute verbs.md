@@ -19,9 +19,6 @@ For 2, I would like to see an example.
 
 ---
 #highlight/glasp/copy
-
-![150](https://cdn.englishforums.com/themes/englishforums/img/EF_OG_logo.jpg)
-
 ### Metadata
 - Title:  'Discuss' Transitive Vs Intransitive Verb?
 - URL: https://www.englishforums.com/English/DiscussTransitiveIntransitive-Verb/chcdp/post.htm
