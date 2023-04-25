@@ -23,12 +23,10 @@ For 2, I would like to see an example.
 ![150](https://cdn.englishforums.com/themes/englishforums/img/EF_OG_logo.jpg)
 
 ### Metadata
-
 - Title:  'Discuss' Transitive Vs Intransitive Verb?
 - URL: https://www.englishforums.com/English/DiscussTransitiveIntransitive-Verb/chcdp/post.htm
 
 ### Highlights & Notes
-
 - When an obligatorily transitive verb is used this way, it is called "an absolute verb". Merriam-Webster Online Dictionary explains it as follows in the entry of "absolute".  "absolute" of a verb : having no object in the particular construction under consideration though normally transitive. \<Kill\> in "if looks could kill" is an absolute verb.
 ---
 - absolute
