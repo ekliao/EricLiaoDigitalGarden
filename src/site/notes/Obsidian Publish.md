@@ -18,10 +18,8 @@ Custom  #DomainName  setup SSL certificate
 
 ## SEO Issues
  
-- [[Obsidian Publish\|Obsidian Publish]] Has a Technical SEO Issue
-	https://www.reddit.com/r/ObsidianMD/comments/xib3m0/obsidian_publish_has_a_technical_seo_issue/](https://www.reddit.com/r/ObsidianMD/comments/xib3m0/obsidian_publish_has_a_technical_seo_issue/)
-  
-The \<a\> #html-tag vs \<div\> tag #markdown
+- Obsidian Publish Has a [Technical SEO Issue](https://www.reddit.com/r/ObsidianMD/comments/xib3m0/obsidian_publish_has_a_technical_seo_issue/)
+> The \<a\> #html-tag vs \<div\> tag #markdown
 
 ## CSS
 
