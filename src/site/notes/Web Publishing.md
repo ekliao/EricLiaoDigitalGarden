@@ -7,15 +7,15 @@
 - [[Obsidian Publish Example Sites\|Obsidian Publish Example Sites]]
 - Related: [[Obsidian Sync\|Obsidian Sync]]
 
-#### Obsidian Publish
+#### [[Obsidian Publish\|Obsidian Publish]]
 - Costly at $20/month or $192/year
 
-#### Non-OB-Publish Solutions
+#### Non-Obsidian-Publish Solutions
 
 ###### [[Obsidian Digital Garden Plugin + Netlify\|Obsidian Digital Garden Plugin + Netlify]]
 This is how this website is built.
 
-###### [[Andy Matuschak's Evergreen Notes System\|Andy Matuschak's Evergreen Notes System]]
+###### [[Andy Matuschak's Mysterious Sliding-Notes System\|Andy Matuschak's Mysterious Sliding-Notes System]]
 
 ###### [[Quartz + Hugo\|Quartz + Hugo]]
 
