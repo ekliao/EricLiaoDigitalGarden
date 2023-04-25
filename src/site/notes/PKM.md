@@ -83,7 +83,7 @@ I came across Maggie Appleton's website with a nice balance between graphic and 
 ## People
 
 - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes)
-- [Nicole Van Der Hoeven](https://nicolevanderhoeven.com/tags/obsidian/](https://nicolevanderhoeven.com/))
+- [Nicole Van Der Hoeven](https://nicolevanderhoeven.com/)
 - [Nick Milo](https://www.linkingyourthinking.com/)
 - [Tiago Forte](https://fortelabs.com/)
 - [[Ernest Chiang\|Ernest Chiang]] (Taiwan)
