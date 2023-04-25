@@ -6,9 +6,6 @@ My [Github](https://github.com/ekliao).
 
 ---
 #highlight/glasp/copy 
-
-![150](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
-
 ### Metadata
 - Title: GitHub - Wikipedia
 - Tags: #Github
