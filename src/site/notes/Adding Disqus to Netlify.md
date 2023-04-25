@@ -60,7 +60,7 @@ Hooray! I did it again! This time, I added [[Adding Disqus to Netlify\|Disqus]] 
 </div></div>
 just a few days ago, all thanks to the kind owner of https://hermitage.utsob.me/ for pointing out what I did wrong.
 
-The change is not perfect, for I discovered the wonky placement and disappearance of the light/dark theme switch control on the page. Still, it's a rewarding feeling that putting in the work pays off.
+The change is not perfect, for I discovered the wonky placement and disappearance of the light/dark theme switch on the page. Still, it's a rewarding feeling that putting in the work pays off.
 
 ### Pics or it doesn't exist
 
