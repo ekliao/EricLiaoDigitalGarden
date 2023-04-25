@@ -7,10 +7,13 @@ Musings on note-taking on this digital garden:
 
 I should make the writing more organic and atomic à la Matuschak Evergreen Notes and less top-down organizational and taxonomic or with too much enumerating. The latter tendencies are perhaps out of an innate predilection for order and neatness, or even OCD, but I can feel they will end up obstructing thinking rather than foster it. Let thought run free and be expressed freely in notes scattered about, and links and backlinks will take care of connecting them.
 
-For example, forget about neatly creating hierarchical notes named
+For example, forget about neatly creating hierarchical notes like this
 
-[[Dictionaries\|dictionaries]] 
---->[[AHD5\|AHD5]]
-	---> issue of grammar found in AHD5
+| [[Dictionaries\|dictionaries]] 
+| ---- [[AHD5\|AHD5]]
+| -------- issue of grammar found in an AHD5 definition
 
-just so that I can write about a seemingly quirky intransitive sense for `discuss` in AHD5. Rather, just write about the substantive issue of [[Absolute verbs\|Absolute verbs]] and connect it to [[Grammar\|Grammar]], and stop caring about whether `dictionaries` or `AHD5` exist or how and where they should fit in.
+just so that I can write about a seemingly quirky intransitive sense for `discuss` in AHD5. Rather, just write about the substantive issue of [[Absolute verbs\|Absolute verbs]], link it to the most obvious topic of [[Grammar\|Grammar]] to create at least one connection, and stop caring about whether `dictionaries` or `AHD5` should exist or how and where they should fit in.
+
+---
+[[Andy Matuschak's Mysterious Sliding-Notes System\|Andy Matuschak's Mysterious Sliding-Notes System]]
