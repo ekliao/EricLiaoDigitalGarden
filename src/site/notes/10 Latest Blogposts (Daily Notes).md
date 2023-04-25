@@ -12,5 +12,5 @@
 - [[10 dailynotes/2023-04-19\|2023-04-19]] - Creepy ChatGPT / Peer emulation
 - [[10 dailynotes/2023-04-18\|2023-04-18]] - Where humans should learn from machines
 - [[10 dailynotes/2023-04-17\|2023-04-17]] - Homebody / City amenities / Charismatic PKM KOL
-- [[10 dailynotes/2023-04-16\|2023-04-16]] - There's always a way. 柳暗花明又一村。
+- [[10 dailynotes/2023-04-16\|2023-04-16]] - The Day My Website Went Live! 媽，我成功架站啦！
 - [[10 dailynotes/2023-04-15\|2023-04-15]] - First look at publishing a website for free
