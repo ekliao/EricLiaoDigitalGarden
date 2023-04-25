@@ -10,7 +10,7 @@
 #questioning Are the following categories really easily distinguishable for me?
 
 ### Minor long-term
-- Teaching language and interpretation
+- [[Teaching and Coaching\|Teaching]] language and interpretation
 - [[PKM\|PKM]], especially [[Anki\|Anki]] and [[PKM/Obsidian\|Obsidian]] (you are looking at an instance of it)
 - [[Regex\|Regular expressions]]
 - [Phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
