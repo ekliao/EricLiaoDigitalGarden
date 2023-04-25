@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/syncing-obsidian-for-free/","noteIcon":"2","created":"","updated":""}
 ---
 
+Syncing Obsidian vaults between devices, especially desktop and mobile.
+
 ## iCloud
 
 
@@ -14,7 +16,20 @@
 </div></div>
  
 
-## iCloud directory
+### Error: "iCloud disabled for Obsidian" on iOS/iPadOS?
+#highlight/glasp/copy 
+![75](https://forum.obsidian.md/uploads/default/original/1X/bf119bd48f748f4fd2d65f2d1bb05d3c806883b5.png)
+
+### Metadata
+- Title: iCloud disabled for Obsidian?
+- Tags: #iCloud, #Obsidian, #iOS, #iPadOS
+- URL: https://forum.obsidian.md/t/icloud-disabled-for-obsidian/17395
+
+### Highlights & Notes
+- That error message only shows up when your iOS device has blocked Obsidian from using iCloud. You can change the setting from iOS’s system settings app > Your Apple ID > iCloud > Make sure that “iCloud Drive” and “Obsidian” are both turned on.
+
+---
+### iCloud directory
 
 Though the Obsidian vault on iCloud on the Mac appears to be under
 ```
@@ -30,3 +45,7 @@ The actual folder is actually here:
 ```
 
 This is the path that a diff tool such as [[Beyond Compare\|Beyond Compare]] needs to point to in order to find files.
+
+---
+## Dropbox
+I used to have my desktop Obsidian vaults on [[Dropbox\|Dropbox]], but haven't found any workable solution for syncing it to mobile devices, so I moved Obsidian to [[iCloud\|iCloud]]. It's been almost smooth sailing since.
