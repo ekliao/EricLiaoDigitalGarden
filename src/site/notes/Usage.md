@@ -5,5 +5,8 @@
 Language usage, including punctuation.
 
 - etc
-X `A, B, C...etc.`
-O `A, B, C, etc.`
+*et cetera* already means there are items left unsaid, so it coincides with the ellipsis. 
+Don't say: `A, B, C...etc.`
+Say: `A, B, C, etc.`
+
+- [[The definite article "the"\|The definite article "the"]]
