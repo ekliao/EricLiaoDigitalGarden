@@ -19,7 +19,7 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 - Free
 
 ## Issues
-- The page comment field, where the user enters tags and a single comment, is not always copied. This occurred many times. #hypothesis Observed pattern:
+- The page comment field is not always copied. This occurred many times. #hypothesis Observed pattern:
 	- If one simply highlights the title/header of a web article, `Copy All` doesn't copy the comment.
 	- If one creates at least one highlight in the body text of the article, voilà, it gladly copies the comment.
 - #hypothesis/busted The above pattern was quickly dispelled when it failed on a YouTube video and on a regular content site.
