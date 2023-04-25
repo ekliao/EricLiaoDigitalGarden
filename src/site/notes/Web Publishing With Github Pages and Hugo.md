@@ -9,11 +9,11 @@ March 2020
 
 #source/dupe/begin 
 [src](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7)
-# Build a Personal Website With Github Pages and Hugo
+# Build a Personal Website With [[GitHub\|Github]] Pages and Hugo
 
 A personal webpage is a perfect place to let the world know about you and showcase your past accomplishments. Put your resume, your projects, your blogs in with a personalized theme which makes people know you have a great taste: all-in-one! It’s your portfolio displayed online, a small yet cool project you can do with not much effort, why not?
 
-With Github Pages, we can host a personal webpage without bothering about finding a domain name, and with Hugo, we have a variety of themes to choose from. This tutorial uses a Mac OS and will run several command-line in terminal: don’t worry, it’s absolutely a tutorial for starters! Now, let’s start this step-by-step tutorial to set up your personal webpage!
+With [[GitHub\|Github]] Pages, we can host a personal webpage without bothering about finding a domain name, and with Hugo, we have a variety of themes to choose from. This tutorial uses a Mac OS and will run several command-line in terminal: don’t worry, it’s absolutely a tutorial for starters! Now, let’s start this step-by-step tutorial to set up your personal webpage!
 
 # Introduction to HUGO and GitPage
 
