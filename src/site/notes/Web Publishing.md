@@ -12,7 +12,7 @@
 
 #### Non-OB-Publish Solutions
 
-###### [[Digital Garden Plugin + Netlify\|Digital Garden Plugin + Netlify]]
+###### [[Obsidian Digital Garden Plugin + Netlify\|Obsidian Digital Garden Plugin + Netlify]]
 This is how this website is built.
 
 ###### [[Andy Matuschak's Evergreen Notes System\|Andy Matuschak's Evergreen Notes System]]
