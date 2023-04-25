@@ -47,4 +47,4 @@ For 2, I would like to see an example.
 ---
 ### Conclusion
 
-With the clearly defined "absolute verbs," it's all clear now. Whether to define intransitive `discuss` and `kill` is a judgment call; AHD5 errs on the side of redundancy to the systematic rule of absolute verbs while other dictionaries choose brevity.
+With the clearly defined "absolute verbs," it's all clear now. Whether to define intransitive `discuss` and `kill` is a judgment call: AHD5 errs on the side of redundancy to the systematic rule of absolute verbs while other dictionaries choose brevity.
