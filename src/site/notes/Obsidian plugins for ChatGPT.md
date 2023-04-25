@@ -36,8 +36,6 @@ cp. ChatGPT MD plugin and the Text Generator plugin
 #highlight/glasp/copy 
 ### Obs＃116 | ChatGPT MD: 整合ChatGPT AI功能，大幅簡化筆記操作 – 簡睿隨筆
 
-![300](https://jdev.tw/blog/wp-content/uploads/2012/12/jerry-20130318.jpg)
-
 ### Metadata
 - Title: Obs＃116 | ChatGPT MD: 整合ChatGPT AI功能，大幅簡化筆記操作 – 簡睿隨筆
 - Tags: #chatgpt, #obsidian, #plugin
