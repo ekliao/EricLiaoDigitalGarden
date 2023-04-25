@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 
-Here's an amazingly helpful, hand-holding [guide](https://mac.install.guide/ruby/index.html) to installing Ruby by Daniel Kehoe. This is the prerequisite for embarking on a journey of [[programming/GitHub\|GitHub]] and static web hosting (for free) using [[Hugo\|Hugo]]. So, get with it.
+Here's an amazingly helpful, hand-holding [guide](https://mac.install.guide/ruby/index.html) to installing Ruby by Daniel Kehoe. This is the prerequisite for embarking on a journey of [[GitHub\|GitHub]] and static web hosting (for free) using [[Hugo\|Hugo]]. So, get with it.
 
 #source/dupe/begin 
 [src](https://mac.install.guide/ruby/6.html)
