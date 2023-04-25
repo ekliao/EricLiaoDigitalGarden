@@ -33,7 +33,7 @@ If Homebrew is not installed, there should be no Homebrew files in `/usr/local`
 Homebrew provides an installation script you can download and run with a single command (check that it hasn't changed at the [Homebrew site](https://brew.sh/)). 
 > I followed this single-command approach. It works (using Bash shell), but it also proceeded to install Xcode again, which I already had. I hope this won't cause trouble.
 
-This is the easiest way to install Homebrew. If you want a harder way, you can download the installation script from GitHub and run it locally as separate steps.
+This is the easiest way to install Homebrew. If you want a harder way, you can download the installation script from [[GitHub\|GitHub]] and run it locally as separate steps.
 
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
