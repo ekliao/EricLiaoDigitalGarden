@@ -13,7 +13,7 @@ I was successful in publishing a subset of my Obsidian vault [here](https://eric
 , but not with Hugo nor Quartz as the rest of this note describes, but with [[Web publishing with Obsidian + Github + Netlify\|Obsidian Digital Garden plugin + Github + Netlify]].
 
 ## Steps
-1. I successfully followed [[people/Daniel Kehoe\|Daniel Kehoe]]'s excellent [guide](https://mac.install.guide/ruby/index.html) in setting up the [[Ruby\|Ruby]] and [[programming/GitHub\|Github]] development environment on my [[MacOS\|MacOS]]. My process started [[MacOS Shell\|here]].
+1. I successfully followed [[people/Daniel Kehoe\|Daniel Kehoe]]'s excellent [guide](https://mac.install.guide/ruby/index.html) in setting up the [[Ruby\|Ruby]] and [[GitHub\|GitHub]] development environment on my [[MacOS\|MacOS]]. My process started [[MacOS Shell\|here]].
 	1. MacOS
 	2. Shell
 	3. Xcode
@@ -43,7 +43,7 @@ So you’re thinking about publishing your [Obsidian](https://brandonkboswell.c
         -   A Rust based library for converting your Obsidian Vault to standards compliant _Markdown_ that supports translating Obsidian style links to standard links that are compatible with Hugo.
         -   Quartz and Hugo both assume that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-export (linked above) that uses the file’s name to generate titles when that frontmatter is not present.
     -   **[obsidian-hugo](https://github.com/jackyzha0/hugo-obsidian)**
-        -   _Quartz_ has an easy setup that allows you to commit all of your content to _Github_ and it will compile everything via _Github Actions_. This is fantastic and super helpful. The issue is I have private content that I don’t want on Github.
+        -   _Quartz_ has an easy setup that allows you to commit all of your content to _[[GitHub\|Github]]_ and it will compile everything via _Github Actions_. This is fantastic and super helpful. The issue is I have private content that I don’t want on Github.
         -   So instead I use the _obsidian-hugo_ library that Quartz’s Github Action uses just I use it on my local machine and precompile the filtered content before uploading to Github. This enables me to host my Digital Garden on Github (for free) without risking private content accidentally leaking out onto the internet.
     -   [**Github Pages**](https://docs.github.com/en/pages/quickstart)
         -   This is where I publish the content that gets output. It’s all static html and is being served by Github. There is no amount of traffic I could ever manage to generate that Github couldn’t handle.
@@ -218,7 +218,7 @@ Sometimes the server will crash while the compile script is rebuilding everythin
 done) &
 ```
 
-## When I’m ready to publish an update to Github:
+## When I’m ready to publish an update to [[GitHub\|Github]]:
 
 Go to the garden folder and commit those changes:
 
