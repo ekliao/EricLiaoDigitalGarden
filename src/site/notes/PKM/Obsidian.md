@@ -25,10 +25,10 @@ Nice! It's copy 'n' paste.
 ---
 
 ## OB Topics
-### [[OB Shortcuts\|OB Shortcuts]]
-### [[OB Tips and Hacks I've Got\|OB Tips and Hacks I've Got]]
+### [[OB Shortcuts\|Shortcuts]]
+### [[OB Tips and Hacks I've Got\|Tips and Hacks]]
 ### [[Obsidian Sync\|Obsidian Sync]]
-### [[OB Plugins\|OB Plugins]]
+### [[OB Plugins\|Plugins]]
 ### [[OB Search\|OB Search]]
 ### [[OB Settings\|OB Settings]]
 ### [[Using Obsidian\|Using Obsidian]]
