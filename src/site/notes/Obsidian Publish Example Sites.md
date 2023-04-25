@@ -17,7 +17,7 @@
 </div></div>
 
 
-## Working Obsidian Publish Sites
+## Working [[Obsidian Publish\|Obsidian Publish]] Sites
 - **[A List](https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248)** (lots of dead links)
 - [Fork My Brain (Nicole Van Der Hoeven)](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
 - [英漢類義詞典（中文索引）](https://publish.obsidian.md/thesaurus/)
