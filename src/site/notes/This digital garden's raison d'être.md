@@ -31,4 +31,5 @@ Such a powerful message. Love it! Quoting it all, spreading it, putting it on my
 * I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to [Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds](https://notes.andymatuschak.org/z2DABWsGLkXcCuUet2scfD1duL1ZHBztwGKp). It’s also a way to avoid the problems described in [Pitching out corrupts within](https://notes.andymatuschak.org/zqG92bvaL58AWMeL97jXaRd1Dm6hsfGvhAn).
 
 ---
-- Essay: [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- Essay: [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history) by [[Maggie Appleton\|Maggie Appleton]]
+- The [Learn in Public](https://www.swyx.io/learn-in-public) ethos - swyx
