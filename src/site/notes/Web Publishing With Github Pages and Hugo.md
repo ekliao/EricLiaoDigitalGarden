@@ -3,7 +3,6 @@
 ---
 
 #project/learn-by-doing 
-#project/started 
 by Yuanyuan Ge
 March 2020
 
