@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/obsidian-publish/","noteIcon":"2","created":"","updated":""}
 ---
 
+
+[[new note\|new note]]
+
+
 ## [[Obsidian Publish Alternative\|Obsidian Publish Alternative]]
 - #project/aborted 4/15/2023 - After much toiling, I abandoned any attempts and hopes of doing free publishing alternatives ([[GitHub\|Github]]/Hugo/Quarts)! Forget about it!
 
