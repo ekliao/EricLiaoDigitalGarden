@@ -22,7 +22,6 @@ Hello，大家好，今天向大家介绍，如何免费用 Obsidian + GitHub + 
 -   2: [Razvan Andrei Surdu](https://razvan-andrei-surdu.eu/)
 ![image](https://cdn.fengrin.me/2022/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify-3.png)
 
-#project/started 
 0 准备：
 
 -   下载 Obsidian 笔记软件
