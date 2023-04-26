@@ -3,7 +3,7 @@
 ---
 
 #project/learn-by-doing  
-#project/started 
+#project/aborted 
 
 ## Goal
 Setting up and running a working static web site for my professional Obsidian vault, which I intend to name "Eric Liao Interpreting."
@@ -242,3 +242,6 @@ cd ~/sites/quartz/public; git add .; git commit -m "Update"; git push origin
     -   I had to make a minor modification to obsidian-hugo because it assumes that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-hugo that uses the file’s name to generate titles if that frontmatter is not present. [https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles](https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles). _As the time of this writing, that branch has not been merged into the main repo, but it may have by the time you’re reading this._)
 
 #source/dupe/end 
+
+---
+- [Another DG guide using Hugo](https://rishikeshs.com/build-a-digital-garden/)
