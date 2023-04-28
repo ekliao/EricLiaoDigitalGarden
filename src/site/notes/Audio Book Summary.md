@@ -8,6 +8,9 @@ Below are a list of audio book summary apps I have on my phone.
 
 I could not decide which ones or one to pay for because none are a one stop shop in terms of titles. So I ended up grazing and browsing for daily or occasional free titles. The serendipitous discovery of a good title can be fun, with zero pressure of having to keep up.
 
+---
+## Some free access
+
 ### Daily free titles
 - [Blinkist](https://www.blinkist.com/)
 	- I subscribed to this for a year and stopped because I couldn't find the time to fully justify the price, which arguably is rather modest for frequent listeners.
@@ -18,3 +21,9 @@ I could not decide which ones or one to pay for because none are a one stop shop
 - [StoryShots](https://www.getstoryshots.com/)
 ### Daily free teasers (incomplete summary)
 - [Uptime](https://uptime.app/)
+
+---
+## Pay up upfront!
+Who would pay $20/month for this?
+- Shortform
+- Readitforme
