@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/chat-gpt-s-judgment-of-register/","noteIcon":"2","created":"","updated":""}
 ---
 
-*(In order to test ChatGPT's gauge and use of appropriate register, I made up with offensive language for illustration purposes only.)*
+*[[Disclaimer about offensive language\|Disclaimer about offensive language]]*
+
 #linguistics/register
 #offensive
 #ChatGPT/text
