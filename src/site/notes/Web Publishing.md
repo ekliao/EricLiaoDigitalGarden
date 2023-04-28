@@ -37,6 +37,19 @@ This is how this website is built.
 
 ###### Ghost
 
-
+---
+## Digital Gardening
+- [How to set up a digital garden](https://nesslabs.com/digital-garden-set-up)
+	- No-code
+		- Obsidian
+			- Obsidian Publish
+			- Obsidian Digital Garden plugin + hosting solutions
+		- Public Roam database
+		- Notion
+		- [Tiddlywiki](https://tiddlywiki.com/)
+	- Custom
+		- Jekyll
+		- Eleventry
+		- Gatsby
 
 
