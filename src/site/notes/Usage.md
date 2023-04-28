@@ -10,3 +10,6 @@ Don't say: `A, B, C...etc.`
 Say: `A, B, C, etc.`
 
 - [[The definite article "the"\|The definite article "the"]]
+
+---
+[[ChatGPT for English writing and grammar\|ChatGPT for English writing and grammar]]
