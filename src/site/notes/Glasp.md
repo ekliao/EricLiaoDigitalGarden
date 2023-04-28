@@ -4,8 +4,6 @@
 
 A web highlighter that is in direct competition with [[Readwise Reader\|Readwise Reader]] but is free!
 
-Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highlights on an Wikipedia page.
-
 ## Quick verdict: 4/5 stars
 - Super neat, complete with the following metadata:
 	- title
@@ -21,6 +19,11 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 ## Issues
 - The page comment is not always copied. This has occurred many times.
 ---
+[[Glasp + YouTube Transcript + ChatGPT Summary\|Glasp + YouTube Transcript + ChatGPT Summary]]
+
+---
+Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highlights on an Wikipedia page.
+
 #project/learn-by-doing 
 #project/completed 
 
