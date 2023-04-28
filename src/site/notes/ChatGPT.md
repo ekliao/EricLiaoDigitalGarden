@@ -6,6 +6,8 @@
 
 #### [[ChatGPT for English writing and grammar\|English writing and grammar]]
 
+### [[Fixing writing problems (grammar, typos, wording)\|Fixing writing problems (grammar, typos, wording)]]
+
 ### [[ChatGPT conversion from Simplified Chinese writing to Traditional Chinese for Taiwan\|Converting Simplified Chinese to Traditional Chinese for Taiwan]]
 
 ### [[ChatGPT's judgment of register 語域\|Judging usage and register 語域]]
