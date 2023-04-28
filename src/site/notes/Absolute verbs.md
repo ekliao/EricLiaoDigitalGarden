@@ -11,11 +11,11 @@
 
 A colleague just said `We will discuss on <topic>.` in an open communication. This made me do a double take and reach for [[Eudic 歐路詞典\|Eudic 歐路詞典]] in curiosity. I'm relieved that no, one does not say `discuss on sth`.
 
-But here's an unintended discovery: I found AHD5's intransitive senses for `discuss` most peculiar. Interestingly, no other dictionaries have such a treatment.
+But here's an unintended discovery: I found the above intransitive senses for `discuss` by AHD5 most peculiar. The fact that no other dictionaries have such a treatment is is worthy of research.
 
-For 1 and 3, I suspect the object is implicit in `as` (I forgot the proper terminology for this usage. Relative something...). If that's the case, `discuss` is still transitive. 
+For senses 1 and 3, I suspect the object is implicit in `as` (I forgot the proper terminology for this usage. Relative something...). If that's the case, `discuss` is still transitive. For 2, I would like to see an example.
 
-For 2, I would like to see an example.
+Then, happily, the answer quickly came to those who care enough to look.
 
 ---
 #highlight/glasp/copy
