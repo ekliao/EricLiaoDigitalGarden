@@ -34,3 +34,4 @@ Such a powerful message. Love it! Quoting it all, spreading it, putting it on my
 ## Related
 - Essay: [A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history) by [[Maggie Appleton\|Maggie Appleton]]
 - The [Learn in Public](https://www.swyx.io/learn-in-public) ethos - swyx
+- [數位花園](https://ithelp.ithome.com.tw/m/articles/10293438)
