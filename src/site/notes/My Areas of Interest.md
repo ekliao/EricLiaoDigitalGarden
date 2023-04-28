@@ -16,7 +16,7 @@
 - [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
 - [[My audio equipment\|Audio processing]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
-- Reading by [[Audio Book Summary\|listening to audio books or summaries]]
+- Reading by [[Audio Book Summary\|listening to audio book summaries]] 
 
 ---
 ### Major short-term
