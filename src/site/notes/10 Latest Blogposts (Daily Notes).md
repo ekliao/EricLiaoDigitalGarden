@@ -3,6 +3,7 @@
 ---
 
 - [[10 dailynotes/2023-04-28\|2023-04-28]] - FaceTime calling using the Apple Watch only: hit-and-miss
+- [[10 dailynotes/2023-04-27\|2023-04-27]] - WhatsApp login in multiple devices
 - [[10 dailynotes/2023-04-26\|2023-04-26]] - Hello, Disqus!
 - [[10 dailynotes/2023-04-25\|2023-04-25]] - [[Substance over structure\|Substance over structure]] / WebP
 - [[10 dailynotes/2023-04-24\|2023-04-24]] - EasyFind disappoints. / No joy with Disqus.
