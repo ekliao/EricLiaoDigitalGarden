@@ -22,7 +22,7 @@
 - [[Web Publishing\|Web publishing]] - The process of publishing this website
 
 ### Minor short-term
-- [[ChatGPT for English writing and grammar\|ChatGPT for English writing and grammar]]
+- [[ChatGPT\|ChatGPT]]
 - Computer programming
 
 ### Minor transient (the shining objects of the day)
