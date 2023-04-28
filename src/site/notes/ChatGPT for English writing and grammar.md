@@ -6,6 +6,7 @@
 
 I found myself asking ChatGPT to check the grammaticality of an English passage or certain sentences, and am fascinated by what it thinks. For the most part, the way it's trained made it the perfect tool to pass judgment. For example:
 
+#ChatGPT/text 
 ```
 Q: Analyze the grammatical correctness of the following sentences:
 
@@ -27,5 +28,3 @@ d. "Did anything happened to you last week?" - The sentence is grammatically inc
 In summary, sentences (a) and (c) are grammatically correct, while sentences (b) and (d) are grammatically incorrect.
 ```
 
-## Writing in general
-### [[ChatGPT's judgment of register 語域\|ChatGPT's judgment of register 語域]]
