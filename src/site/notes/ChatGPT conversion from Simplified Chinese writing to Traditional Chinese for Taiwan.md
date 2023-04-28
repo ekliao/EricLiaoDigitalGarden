@@ -5,14 +5,14 @@
 with special instructions on wording differences
 
 ## Instructions
-```
-Convert the following Chinese into Traditional Chinese for Taiwan, paying attention to differences in wording and usage:
-```
-
 #ChatGPT/text 
+```
+Q: Convert the following Chinese into Traditional Chinese for Taiwan, paying attention to differences in wording and usage:
+```
+A: 
 ![[chatgpt converting sc to tc w instruction on wording differences.html]]
 
-Of the differences shown, these are valid conversions:
+Of the differences in the result, these are valid conversions:
 - 徑自 -> 直接
 - 一門心思 -> 一心一意
 - 酒店 -> 飯店
