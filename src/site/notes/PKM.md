@@ -25,20 +25,23 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 
 ## PKM Systems I've Heard Of
 *(New to old; broadly, including spaced repetition systems and note-taking apps)*
-	[[Scrintal\|Scrintal]]
-	[[Zettelkasten\|Zettelkasten]]
-	[[Logseq\|Logseq]]
-	[[Remnote\|Remnote]]
-	[[Roam Research\|Roam Research]]
-	[[Obsidian\|Obsidian]]
-	[[Mnemosyne\|Mnemosyne]]
-	[[Notion\|Notion]]
-	[[Supermemo\|Supermemo]]
-	[[Notability\|Notability]]
-	[[OneNote\|OneNote]]
-	[[GoodNotes\|GoodNotes]]
-	[[Quizlet\|Quizlet]]
-	[[Anki\|Anki]]
+- [Tiddlywiki](https://tiddlywiki.com/) 
+	- A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
+	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
+[[Scrintal\|Scrintal]]
+[[Zettelkasten\|Zettelkasten]]
+[[Logseq\|Logseq]]
+[[Remnote\|Remnote]]
+[[Roam Research\|Roam Research]]
+[[Obsidian\|Obsidian]]
+[[Mnemosyne\|Mnemosyne]]
+[[Notion\|Notion]]
+[[Supermemo\|Supermemo]]
+[[Notability\|Notability]]
+[[OneNote\|OneNote]]
+[[GoodNotes\|GoodNotes]]
+[[Quizlet\|Quizlet]]
+[[Anki\|Anki]]
 
 ## [Digital Gardening (Beyond Obsidian) for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening)
 
