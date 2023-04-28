@@ -367,7 +367,7 @@ The terminal will display as in the screenshot:
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*ZACeRFMNtBaQc3FgFPlouQ.png)
 
-(You can directly add all the files in the `public` folder (only the files not the entire public folder!) to the repository through github, too.)
+(You can directly add all the files in the `public` folder (only the files not the entire public folder!) to the repository through Github, too.)
 
 **Go check your website!**
 
@@ -385,7 +385,7 @@ Now the site is successfully published! You can also customize your background i
 
 > Unfortunately I don't see the "published at" green box, and although I tinkered with "custom domain" and was once successful in getting it published to `https://ekliao.github.io/EricLiaoInterpreting.github.io`, it never worked again a second time. I've hit a snag! 
 > 
-> I truly feel that this Github business is not for me. It requires too much knowledge about code development, pushing, committing, version control and all that shit. I'm done, after several hours of toiling through this not-so-helpful article, whose expected results are totally different from mine and the author never covered all the potential errors (in password, theme, config file) that I encountered. Maybe I need to pony up almost $200/year for the [[Obsidian Publish\|Obsidian Publish]] service.
+> I truly feel that this Github business is not for me. It requires too much knowledge about code development, pushing, committing, version control and all that friggin' hassle. I'm done, after several hours of toiling through this not-so-helpful article, whose expected results are totally different from mine and the author never covered all the potential errors (in password, theme, config file) that I encountered. Maybe I need to pony up almost $200/year for the [[Obsidian Publish\|Obsidian Publish]] service.
 > 
 > Update: Before I became $200 poorer, I found another way through [[Web publishing with Obsidian + Github + Netlify\|Github + Netlify]].
 
