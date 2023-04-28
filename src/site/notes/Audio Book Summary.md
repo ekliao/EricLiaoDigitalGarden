@@ -24,6 +24,6 @@ I could not decide which ones or one to pay for because none are a one stop shop
 
 ---
 ## Pay up upfront!
-Who would pay $20/month for this?
+Who would pay $20/month for these?
 - Shortform
 - Readitforme
