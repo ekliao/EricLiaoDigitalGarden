@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/grammar/","noteIcon":"2","created":"","updated":""}
 ---
 
+# English
+The most up-to-date, comprehensive, and authoritative English grammar, bar none, is the [Cambridge Grammar of the English Language](https://www.cambridge.org/core/books/cambridge-grammar-of-the-english-language/A78402ABF5176AD283494180BCA2046F), 2002.
+
+---
 - Predicate vs. Predicative
 
 
@@ -15,3 +19,8 @@
 
 
 - [[Absolute verbs\|Absolute verbs]]
+
+---
+# Chinese
+An influential grammar on Mandarin Chinese I've read:
+- [Mandarin Chinese: A Functional Reference Grammar (漢語語法)](https://www.crane.com.tw/crane/index.php?action=product_detail&prod_no=P0116400136223), Li & Thompson
