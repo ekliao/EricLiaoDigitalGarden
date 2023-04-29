@@ -6,6 +6,7 @@
 - Linguistics, [[Grammar\|grammar]], [[Usage\|usage]], [[Dictionaries\|dictionaries]]
 - Interpretation and translation
 - [[Language and languages\|Language and languages]]
+- [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
 
 #questioning Are the following categories really easily distinguishable for me?
 
