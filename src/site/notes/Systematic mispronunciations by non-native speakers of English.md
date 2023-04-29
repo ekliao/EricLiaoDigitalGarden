@@ -5,11 +5,15 @@
 *([[Note on the SAMPA phonetic transcription\|Note on the SAMPA phonetic transcription]])*
 
 ## By native Mandarin speakers
-- /{/ for /eI/: `pain` -> `pan`
-- /I/ or /i/ (not long enough) for /i:/: `seek` -> `sick`; `bee` -> `必`
-- /in/ for /In/: `been` -> `必+n`
-- /{/ for /E/: `bed` -> `bad`
-- /E/ for /eI/: `take` -> `tech`
+{ #7809b0}
+
+/{/ for /eI/: `pain` -> `pan`
+/I/ or /i/ (not long enough) for /i:/: `seek` -> `sick`; `bee` -> `必`
+/in/ for /In/: `been` -> `必+n`
+/{/ for /E/: `bed` -> `bad`
+/E/ for /eI/: `take` -> `tech`
+{ #01fcf5}
+
 
 ## By native Spanish speakers
 - Word-initial /Est/ for /st/: `state` -> `estate`
