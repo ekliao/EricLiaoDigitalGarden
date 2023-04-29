@@ -10,6 +10,8 @@
 
 ### [[ChatGPT conversion from Simplified Chinese writing to Traditional Chinese for Taiwan\|Converting Simplified Chinese to Traditional Chinese for Taiwan]]
 
+### [[ChatGPT for term or idiom extraction\|Term or idiom extraction]]
+
 ### [[ChatGPT's judgment of register 語域\|Judging usage and register 語域]]
 
 ### [[ChatGPT for formatting and extracting glossaries\|Formatting and extracting glossaries]]
