@@ -15,7 +15,7 @@
 - [[PKM\|PKM]], especially [[Anki\|Anki]] and [[Obsidian\|Obsidian]] (you are looking at an instance of it)
 - [[Regex\|Regular expressions]]
 - Computer-assisted interpretation (CAI) tools
-- [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
+- [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [[Note on the SAMPA phonetic transcription\|SAMPA]]
 - Computer-assisted translation (CAT) tools
 - [[My audio equipment\|Audio processing]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
