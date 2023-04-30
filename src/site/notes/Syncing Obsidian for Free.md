@@ -22,7 +22,7 @@ Syncing Obsidian vaults between devices, especially desktop and mobile.
 
 ### Metadata
 - Title: iCloud disabled for Obsidian?
-- Tags: #iCloud, #Obsidian, #iOS, #iPadOS
+- Tags: #iCloud, #ob, #iOS, #iPadOS
 - URL: https://forum.obsidian.md/t/icloud-disabled-for-obsidian/17395
 
 ### Highlights & Notes
