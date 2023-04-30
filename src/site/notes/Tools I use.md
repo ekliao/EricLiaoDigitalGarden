@@ -1,0 +1,68 @@
+---
+{"dg-publish":true,"permalink":"/tools-i-use/","noteIcon":"2","created":"","updated":""}
+---
+
+A list of mostly software and hardware, excluding abstract ideas and methods.
+
+*(New to old. x = obsolete)*
+## Hardware
+
+### Computers
+- [[iPad\|iPad]]
+- MacBook Pro
+- Android smartphone (a Samsung)
+- iPhone
+
+### [[My audio equipment\|Audio equipment]] 
+---
+## Software/apps
+
+### [[MacOS\|MacOS]] （or any web tool)
+- [[Glasp\|Glasp]] (2023/4)
+- [[Globse\|Globse]] (2023/3)
+- [[Microsoft Translator\|Microsoft Translator]] (2023/3, auto bilingual language switch; support [[Uninterrupted transcription\|Uninterrupted transcription]])
+- [[CotEditor\|CotEditor]] (2023/2)
+- [[Powerpoint\|Powerpoint]] (2023/1, really used to create)
+- [[4K Video Downloader\|4K Video Downloader]] (2023/1, works for Bilibili videos with lenient daily limit)
+- [[Canvas\|Canvas]] (2022/12)
+- [[Word\|Word]] (2022/10, re-discovered its usefulness; supports [[Uninterrupted transcription\|Uninterrupted transcription]])
+- [[GoReact\|GoReact]] (2022/9)
+- [[Eudic 歐路詞典\|Eudic 歐路詞典]] (2022)
+- [[Descript\|Descript]] (2022)
+- Keynote (2022/7)
+- [[DaisyDisk\|DaisyDisk]]
+- [[Git\|Git]] (2021, The Apple Siri team) x
+- [[Sublime Text\|Sublime Text]] (2021) x
+- [[Web Captioner\|Web Captioner]]
+- [[Otter.ai\|Otter.ai]]
+- [[Zoom\|Zoom]] (2020)
+- [[Movavi Video Editor\|Movavi Video Editor]]
+- [[Movavi Recorder\|Movavi Recorder]]
+- [[Loopback\|Loopback]]
+- [[Notability\|Notability]]
+- [[Anki\|Anki]] (2018)
+- [[Google Translate\|Google Translate]]
+- [[Calibre\|Calibre]]
+- [[Parallels Desktop\|Parallels Desktop]]
+- [[Abbyy Finereader\|Abbyy Finereader]]
+- [[MT\|MT]]
+	- [[DeepL\|DeepL]]
+	- [[Google Translate\|Google Translate]] (also does [[ASR\|ASR]])
+- [[Beyond Compare\|Beyond Compare]]
+- [[Chrome\|Chrome]]
+
+### [[Windows\|Windows]]-only tools
+- [[Windows 10 VM\|Windows 10 VM]]
+- [[EmEditor\|EmEditor]]
+- [[Araxis Merge\|Araxis Merge]] x
+- [[DTSearch\|DTSearch]]
+- [[TreeSize\|TreeSize]]
+
+### iOS/iPadOS
+- 每日英語聽力 (2023/4; made by Eudic, freemium)
+- [[Safari\|Safari]]
+
+## Accessories
+- [[Apple Pencil\|Apple Pencil]]
+- Wireless mouse
+- [[USB\|USB]]
