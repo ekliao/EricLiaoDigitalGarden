@@ -10,7 +10,7 @@
 - URL: https://forum.obsidian.md/t/obsidian-for-language-learning-as-a-dictionary/11636
 ### Page Comment
 
-- #obsidian #learning-language #dictionary #thesaurus #Zettelkasten 
+- #ob #learning-language #dictionary #thesaurus #Zettelkasten 
 *[sentence mining](https://www.chineseboost.com/blog/sentence-mining/)*, sentence branching, deleting flash cards (Shandi's website called Chinese Boost)
 
 ### Highlights & Notes
