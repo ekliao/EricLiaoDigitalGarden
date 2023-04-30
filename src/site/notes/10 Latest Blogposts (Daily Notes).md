@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-04-30\|2023-04-30]] - Wrangling tags
+- [[10 dailynotes/2023-05-01\|2023-05-01]] - Wrangling tags
+- [[10 dailynotes/2023-04-30\|2023-04-30]] - World Wide Web turns 30
 - [[10 dailynotes/2023-04-29\|2023-04-29]] - Mispronunciations | SAMPA
 - [[10 dailynotes/2023-04-28\|2023-04-28]] - FaceTime calling using the Apple Watch only | Schwa
 - [[10 dailynotes/2023-04-27\|2023-04-27]] - WhatsApp login in multiple devices
