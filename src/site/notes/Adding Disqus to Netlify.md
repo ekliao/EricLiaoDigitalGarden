@@ -17,7 +17,7 @@ Steps
 - URL: https://www.reddit.com/r/ObsidianMD/comments/10pokli/i_built_a_digital_garden_using_obsidian_for_free/
 ### Page Comment
 
-- #digital-garden #Obsidian #Disqus #Netlify #commenting 
+- #digital-garden #ob #Disqus #Netlify #commenting 
 
 ### Highlights & Notes
 
