@@ -21,7 +21,7 @@ To put this website in context, I love [Andy Matuschak](https://andymatuschak.or
 
 ### Page Comment
 
-- #evergreen-notes #andy-matuschak #anti-marketing 
+- #evergreen-notes  
 Such a powerful message. Love it! Quoting it all, spreading it, putting it on my digital garden. 
 
 ### Highlights & Notes
