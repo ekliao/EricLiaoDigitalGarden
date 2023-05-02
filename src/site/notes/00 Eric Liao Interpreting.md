@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2","created":"","updated":""}
 ---
 
-# Eric Liao Interpreting
+# Eric Liao Interpreting 中英文會議/法庭口譯
 
 ## About Me
 
