@@ -21,7 +21,7 @@ Welcome to my digital garden! It's a collection of notes in various stages of ma
 
 ## Contact
 
-Feel free to roam, linger, or interact by email (ekliao @ gmail.com) or [LinkedIn](http://linkedin.com/in/ericliaointerpreter) if you have any questions or just want to connect.
+Feel free to roam, linger, or interact by email (ekliao @ gmail.com) or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also leave a comment or ask me any question by browsing to any other page and fill out the ***What do you think?*** form, courtesy of DISQUS. Cool, eh?
 
 ### Interpretation Fees/Rates
 
