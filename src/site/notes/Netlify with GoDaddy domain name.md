@@ -79,3 +79,11 @@ Now it’s time to celebrate; you can now share your custom domain with the worl
 TopTechNow. “How to connect Netlify to Godaddy (Custom Domain).”_YouTube_, uploaded by TopTechNow, 18 January 2018, [https://www.youtube.com/watch?v=qbChXHDAK4s](https://www.youtube.com/watch?v=qbChXHDAK4s).
 
 #source/dupe/end 
+
+---
+## Other resources
+{ #eca4a4}
+
+
+- This [video](https://www.youtube.com/watch?v=qlrCptpwtgs) reassured me about https when other web pages glossed over it. The devil is in the details. Thank you, Haydn!
+{ #22d624}
