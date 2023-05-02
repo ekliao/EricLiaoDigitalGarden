@@ -16,6 +16,8 @@
 
 ### [[ChatGPT for formatting and extracting glossaries\|Formatting and extracting glossaries]]
 
+### [[ChatGPT summary of a text or transcript\|Summary of a text or transcript]]
+
 ---
 ## Products and services of interest
 - [[Office Copilot\|Office Copilot]] (2023)
