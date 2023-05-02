@@ -24,3 +24,6 @@ The most up-to-date, comprehensive, and authoritative English grammar, bar none,
 # Chinese
 An influential grammar on Mandarin Chinese I've read:
 - [Mandarin Chinese: A Functional Reference Grammar (漢語語法)](https://www.crane.com.tw/crane/index.php?action=product_detail&prod_no=P0116400136223), Li & Thompson
+
+## [[Is This Good Chinese?\|Is this good Chinese?]]
+
