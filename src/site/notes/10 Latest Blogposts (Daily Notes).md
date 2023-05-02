@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-05-02\|2023-05-02]] - https://ericliaointerpreting.com is live!
 - [[10 dailynotes/2023-05-01\|2023-05-01]] - Wrangling tags
 - [[10 dailynotes/2023-04-30\|2023-04-30]] - World Wide Web turns 30
 - [[10 dailynotes/2023-04-29\|2023-04-29]] - Mispronunciations | SAMPA
