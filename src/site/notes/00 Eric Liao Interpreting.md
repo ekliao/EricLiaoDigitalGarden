@@ -22,7 +22,9 @@ Welcome to my digital garden! It's a collection of notes in various stages of ma
 
 Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
 
-## [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
+## Interpreter At Work
+- [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
+- [[Interpretation Photo Gallery\|Photo Gallery]]
 
 ### Interpretation Fees/Rates
 
