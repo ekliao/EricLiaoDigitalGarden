@@ -4,6 +4,8 @@
 
 # Eric Liao Interpreting 中英文會議/法庭口譯
 
+![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
+
 ## About Me
 
 My name is Eric Liao and I go by Eric. I am a [professionally-trained](https://www.middlebury.edu/institute/academics/degree-programs/translation-interpretation) freelance conference interpreter, a state-certified court interpreter (CA/NJ/AZ/WY), and an [ATA-credentialed](https://www.atanet.org/member-center/credentialed-interpreter-designation/) interpreter. I am based in the San Francisco Bay Area, United States but [[VRI\|VRI/RSI]] enables working for any event anywhere. I am originally from Taipei, Taiwan. 
@@ -12,9 +14,6 @@ Here's my [CV/résumé](https://drive.google.com/file/d/1x2w2NirxGCWH6FfUQIGFDNA
 
 I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and also from [[Taigi\|Tâigí]].
 
-
-![eric liao ekliao profile picture (from apple party) 2016.png|250](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
-
 ## Welcome! 
 
 Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 (*A journey of a thousand miles begins with a single step.*) Read [[This digital garden's raison d'être\|this digital garden's raison d'être]].
@@ -22,6 +21,8 @@ Welcome to my digital garden! It's a collection of notes in various stages of ma
 ## Contact, Comment, Question?
 
 Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
+
+## [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
 
 ### Interpretation Fees/Rates
 
