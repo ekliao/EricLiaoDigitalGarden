@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-05-03\|2023-05-03]] - 舊愛 Anki 新歡 Obsidian
 - [[10 dailynotes/2023-05-02\|2023-05-02]] - https://ericliaointerpreting.com is live!
 - [[10 dailynotes/2023-05-01\|2023-05-01]] - Wrangling tags
 - [[10 dailynotes/2023-04-30\|2023-04-30]] - World Wide Web turns 30
