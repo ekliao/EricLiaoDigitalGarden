@@ -34,6 +34,6 @@ See this reference [rate schedule](https://www.theprotranslation.com/en/chinese-
 ## [[My Areas of Interest\|My Areas of Interest]]
 
 ---
-*This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), and [Netlify](https://www.netlify.com/).*
+*This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
 
 *© Eric K. Liao 2023*
