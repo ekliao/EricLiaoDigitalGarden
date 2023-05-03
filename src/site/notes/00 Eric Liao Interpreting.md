@@ -13,7 +13,7 @@ Here's my [CV/résumé](https://drive.google.com/file/d/1x2w2NirxGCWH6FfUQIGFDNA
 I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and also from [[Taigi\|Tâigí]].
 
 
-![eric liao ekliao profile picture (from apple party) 2016.png|300](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
+![eric liao ekliao profile picture (from apple party) 2016.png|250](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
 ## Welcome! 
 
@@ -21,7 +21,7 @@ Welcome to my digital garden! It's a collection of notes in various stages of ma
 
 ## Contact
 
-Feel free to roam, linger, or interact by email (ekliao @ gmail.com) or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also leave a comment or ask me any question by browsing to any other page and fill out the ***What do you think?*** form, courtesy of DISQUS. Cool, eh?
+Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
 
 ### Interpretation Fees/Rates
 
