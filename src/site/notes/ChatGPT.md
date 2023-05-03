@@ -6,7 +6,7 @@
 
 ### Writing
 - [[ChatGPT for English writing and grammar\|English writing and grammar]]
-### [[Fixing writing problems (grammar, typos, wording)\|Fixing writing problems (grammar, typos, wording)]]
+- [[Fixing writing problems (grammar, typos, wording)\|Fixing writing problems (grammar, typos, wording)]]
 
 ### Script Conversion
 - [[ChatGPT conversion from Simplified Chinese writing to Traditional Chinese for Taiwan\|Converting Simplified Chinese to Traditional Chinese for Taiwan]]
@@ -20,6 +20,7 @@
 ### Linguistic evaluation
 - [[ChatGPT's judgment of register 語域\|Judging usage and register 語域]]
 - [[ChatGPT judgment of attitude and tone\|Judging attitude and tone]]
+	- [[ChatGPT on Mandarin sentence-final particles\|Understanding Mandarin particles]]
 
 ### Summarization
 - [[ChatGPT summary of a text or transcript\|Summary of a text or transcript]]
