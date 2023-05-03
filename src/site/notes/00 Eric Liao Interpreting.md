@@ -16,7 +16,7 @@ I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and
 
 ## Welcome! 
 
-Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 (*A journey of a thousand miles begins with a single step.*) Read [[This digital garden's raison d'être\|this digital garden's raison d'être]].
+Welcome to my “digital garden”! It's a collection of notes in various stages of maturity and polish, open to the world. Created April 16, 2023, it is still nascent but an exciting start. After all, 千里之行，始於足下。 *A journey of a thousand miles begins with a single step.* Read its [[This digital garden's raison d'être\|raison d'être]].
 
 ## Contact, Comment, Question?
 
