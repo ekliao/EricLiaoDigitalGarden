@@ -9,6 +9,11 @@ I started putting all my effort into [[Anki\|Anki]] in ... 2019, when I successf
 
 Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]].
 
+
+---
+## vis-à-vis Obsidian
+- [[Anki to Mochi to Obsidian\|Anki to Mochi to Obsidian]]
+
 ---
 ## Anki hacks I've learned
 *(New to old)*
