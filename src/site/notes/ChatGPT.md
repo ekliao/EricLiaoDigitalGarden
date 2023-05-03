@@ -4,19 +4,25 @@
 
 ## Applications
 
-#### [[ChatGPT for English writing and grammar\|English writing and grammar]]
-
+### Writing
+- [[ChatGPT for English writing and grammar\|English writing and grammar]]
 ### [[Fixing writing problems (grammar, typos, wording)\|Fixing writing problems (grammar, typos, wording)]]
 
-### [[ChatGPT conversion from Simplified Chinese writing to Traditional Chinese for Taiwan\|Converting Simplified Chinese to Traditional Chinese for Taiwan]]
+### Script Conversion
+- [[ChatGPT conversion from Simplified Chinese writing to Traditional Chinese for Taiwan\|Converting Simplified Chinese to Traditional Chinese for Taiwan]]
 
-### [[ChatGPT for term or idiom extraction\|Term or idiom extraction]]
+### Extraction
+- [[ChatGPT for term or idiom extraction\|Term or idiom extraction]]
 
-### [[ChatGPT's judgment of register 語域\|Judging usage and register 語域]]
+### Formatting
+- [[ChatGPT for formatting and extracting glossaries\|Formatting and extracting glossaries]]
 
-### [[ChatGPT for formatting and extracting glossaries\|Formatting and extracting glossaries]]
+### Linguistic evaluation
+- [[ChatGPT's judgment of register 語域\|Judging usage and register 語域]]
+- [[ChatGPT judgment of attitude and tone\|Judging attitude and tone]]
 
-### [[ChatGPT summary of a text or transcript\|Summary of a text or transcript]]
+### Summarization
+- [[ChatGPT summary of a text or transcript\|Summary of a text or transcript]]
 
 ---
 ## Products and services of interest
