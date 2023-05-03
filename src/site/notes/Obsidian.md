@@ -9,7 +9,7 @@
 ==My "Hello World! moment in OB==
 ## First Note in Obsidian
 Hello, Obsidian!
-My first Obsidian note.
+My first Obsidian note (2023-02-24)
 How do I to do backlinks? Just type two opening square brackets.
 This is like the personal wiki, [[EricWiki\|EricWiki]], back in the eBay days for me. So I am intuitively liking it already.
 Will this become my second most powerful [[PKM\|PKM]] system, after [[Anki\|Anki]]?
