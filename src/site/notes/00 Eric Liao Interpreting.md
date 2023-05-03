@@ -19,7 +19,7 @@ I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and
 
 Welcome to my digital garden! It's a collection of notes in various stages of maturity and polish, open to the world, FWIW. Created April 16, 2023, it is still nascent but an exciting start. 千里之行，始於足下。 (*A journey of a thousand miles begins with a single step.*) Read [[This digital garden's raison d'être\|this digital garden's raison d'être]].
 
-## Contact
+## Contact, Comment, Question?
 
 Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
 
