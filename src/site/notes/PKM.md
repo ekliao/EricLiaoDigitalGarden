@@ -10,18 +10,18 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 
 ### In use
 *(By frequency)*
-	[[Obsidian\|Obsidian]] - You're looking at it
-	[[Anki\|Anki]]
-	[[Apple Notes\|Apple Notes]]
-	[[Evernote\|Evernote]]
-	[[DTSearch\|DTSearch]]
-	[[Notability\|Notability]]
+- [[Obsidian\|Obsidian]] - You're looking at it
+- [[Anki\|Anki]]
+- [[Apple Notes\|Apple Notes]]
+- [[Evernote\|Evernote]]
+- [[DTSearch\|DTSearch]]
+- [[Notability\|Notability]]
 	
 ### Obsolete
-	[[LiquidText\|LiquidText]]
-	[[MarginNote\|MarginNote]]
-	[[OneNote\|OneNote]]
-	[[EricWiki\|EricWiki]]: I have bittersweet memories of the 2000s, reminding me of the 2020s Obsidian.
+- [LiquidText](https://www.liquidtext.net/)
+- [MarginNote](https://www.marginnote.com/)
+- [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
+- [[EricWiki\|EricWiki]]: I have bittersweet memories of the 2000s, reminding me of the 2020s Obsidian.
 
 ## PKM Systems I've Heard Of
 *(New to old; broadly, including spaced repetition systems and note-taking apps)*
