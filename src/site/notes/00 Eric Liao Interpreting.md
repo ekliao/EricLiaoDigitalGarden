@@ -22,16 +22,16 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
 
-## Interpreter At Work
+## My Work as Interpreter
+
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
 
----
-## [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
+## Start Exploring
 
-
-## [[My Areas of Interest\|My Areas of Interest]]
+- [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
+- [[My Areas of Interest\|My Areas of Interest]]
 
 ---
 *This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
