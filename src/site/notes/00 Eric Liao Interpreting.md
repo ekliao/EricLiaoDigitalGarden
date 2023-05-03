@@ -18,10 +18,6 @@ I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and
 
 Welcome to my “digital garden”! It's a collection of notes in various stages of maturity and polish, open to the world. Created April 16, 2023, it is still nascent but an exciting start. After all, 千里之行，始於足下。 *A journey of a thousand miles begins with a single step.* Read its [[This digital garden's raison d'être\|raison d'être]].
 
-## Contact, Comment, Question?
-
-Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
-
 ## My Work as Interpreter
 
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
@@ -33,7 +29,11 @@ Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on
 - [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
 - [[My Areas of Interest\|My Areas of Interest]]
 
+## Contact, Comment, Question?
+
+Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box.
+
 ---
-*This website is built using Obsidian, its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
+*This website is built using [[Obsidian\|Obsidian]], its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
 
 *© Eric K. Liao 2023*
