@@ -21,13 +21,15 @@ A list of mostly software and hardware, excluding abstract ideas and methods.
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
 - [Mochi](https://mochi.cards/) (2023/5)
 - [[Glasp\|Glasp]] (2023/4)
+- [[ChatGPT\|ChatGPT]] (2023/4)
 - [[Globse\|Globse]] (2023/3)
-- [[Microsoft Translator\|Microsoft Translator]] (2023/3, auto bilingual language switch; support [[Uninterrupted transcription\|Uninterrupted transcription]])
+- [[Microsoft Translator\|Microsoft Translator]] (2023/3)
+- Bing (2023/2, the new one with ChatGPT) g
 - [[CotEditor\|CotEditor]] (2023/2)
 - [[Powerpoint\|Powerpoint]] (2023/1, really used to create)
 - [[4K Video Downloader\|4K Video Downloader]] (2023/1, works for Bilibili videos with lenient daily limit)
 - [[Canvas\|Canvas]] (2022/12)
-- [[Word\|Word]] (2022/10, re-discovered its usefulness; supports [[Uninterrupted transcription\|Uninterrupted transcription]])
+- [[Word\|Word]] (2022/10, re-discovered its usefulness)
 - [[GoReact\|GoReact]] (2022/9)
 - [[Eudic 歐路詞典\|Eudic 歐路詞典]] (2022)
 - [[Descript\|Descript]] (2022)
