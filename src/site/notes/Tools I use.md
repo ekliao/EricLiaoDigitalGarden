@@ -4,7 +4,7 @@
 
 A list of mostly software and hardware, excluding abstract ideas and methods.
 
-*(New to old. x = obsolete)*
+*(New to old. x = obsolete; g = a cursory glance)*
 ## Hardware
 
 ### Computers
@@ -18,6 +18,8 @@ A list of mostly software and hardware, excluding abstract ideas and methods.
 ## Software/apps
 
 ### [[MacOS\|MacOS]] （or any web tool)
+- [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
+- [Mochi](https://mochi.cards/) (2023/5)
 - [[Glasp\|Glasp]] (2023/4)
 - [[Globse\|Globse]] (2023/3)
 - [[Microsoft Translator\|Microsoft Translator]] (2023/3, auto bilingual language switch; support [[Uninterrupted transcription\|Uninterrupted transcription]])
