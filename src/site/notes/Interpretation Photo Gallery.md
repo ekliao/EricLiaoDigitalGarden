@@ -5,7 +5,7 @@
 
 - (*Taiwan, 2017*) Interpreting consecutively for California State Assembly member Evan Low (second from the right) and Taiwanese legislator Mei-nu Yu (third from the right) at a bipartisan press conference urging the parliament to expedite the passing of marriage equality law. Taiwan eventually became the first country in Asia to recognize same-sex marriage on May 17, 2019.
 
-![[banner ericliaointerpreting.webp]]
+![banner ericliaointerpreting.png](/img/user/_attachments/banner%20ericliaointerpreting.png)
 
 - More...
 
