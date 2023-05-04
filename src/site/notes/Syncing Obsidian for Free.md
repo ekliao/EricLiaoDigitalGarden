@@ -29,7 +29,7 @@ Syncing Obsidian vaults between devices, especially desktop and mobile.
 - That error message only shows up when your iOS device has blocked Obsidian from using iCloud. You can change the setting from iOS’s system settings app > Your Apple ID > iCloud > Make sure that “iCloud Drive” and “Obsidian” are both turned on.
 
 ---
-### iCloud directory
+### iCloud path
 
 Though the Obsidian vault on iCloud on the Mac appears to be under
 ```
