@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/ob-plugin-omnisearch/","noteIcon":"2","created":"","updated":""}
 ---
 
-The higlighting of searched terms in light-yellow underscore in the results is nice.
+Any functionality offering full-text indexing and search get my attention. This one for the OB vault definitely sounds awesome at first sight.
 
-- *(2023-05-04)* The promise of a full-text indexing of the OB vault sounds good, but on the first use I found a bug immediately:
+### Quick verdict: 2/5 stars
+The underscoring search terms in in the results is nice. Looks like multiple search terms separated by spaces mean the `AND` operator: all of these terms, a typical “idiom.”
+
+- *(2023-05-04)* On the first use I found a bug immediately:
 
 ![Screen Shot 2023-05-04 at 11.43.14.png](/img/user/_attachments/Screen%20Shot%202023-05-04%20at%2011.43.14.png)
 
