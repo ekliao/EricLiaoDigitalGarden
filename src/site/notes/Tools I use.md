@@ -37,8 +37,9 @@ A list of mostly software and hardware, excluding abstract ideas and methods.
 - [[Otter.ai\|Otter.ai]]
 - [[Zoom\|Zoom]] (2020)
 - [[Movavi Video Editor\|Movavi Video Editor]]
-- [[Movavi Recorder\|Movavi Recorder]]
+- [[Movavi Screen Recorder\|Movavi Screen Recorder]]
 - [[Loopback\|Loopback]]
+- QuickTime
 - [[Notability\|Notability]]
 - [[Anki\|Anki]] (2018)
 - [[Google Translate\|Google Translate]]
@@ -53,7 +54,7 @@ A list of mostly software and hardware, excluding abstract ideas and methods.
 
 ### [[Windows\|Windows]]-only tools
 - [[Windows 10 VM\|Windows 10 VM]]
-- [[EmEditor\|EmEditor]]
+- [EmEditor](https://www.emeditor.com/)
 - [[Araxis Merge\|Araxis Merge]] x
 - [[DTSearch\|DTSearch]]
 - [[TreeSize\|TreeSize]]
