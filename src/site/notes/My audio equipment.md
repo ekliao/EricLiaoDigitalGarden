@@ -8,7 +8,7 @@
 ## Headsets and earbuds with mics
 - Steelseries Arctis Prime
 - Sennheiser PC8
-- Steelseries Arctis Pro Wireless *(i)*
+- [Steelseries Arctis Pro Wireless](https://steelseries.com/gaming-headsets/arctis-pro-wireless) *(i)*
 - Steelseries Arctis Pro GameDAC *(i)*
 - Apple AirPods Max
 - Apple AirPods (gen 2)
