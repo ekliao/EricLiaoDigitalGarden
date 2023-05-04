@@ -6,7 +6,7 @@ The higlighting of searched terms in light-yellow underscore in the results is n
 
 - *(2023-05-04)* The promise of a full-text indexing of the OB vault sounds good, but on the first use I found a bug immediately:
 
-![Screen Shot 2023-05-04 at 11.31.00.png](/img/user/_attachments/Screen%20Shot%202023-05-04%20at%2011.31.00.png)
+![Screen Shot 2023-05-04 at 11.43.14.png](/img/user/_attachments/Screen%20Shot%202023-05-04%20at%2011.43.14.png)
 
 As show, it treats `interpret` and `internet` as words with the same lemma through an obviously crude and dumb process of lemmatization.
 
