@@ -97,8 +97,6 @@ ekliao@ELI-1T-Side-MBP14 ~ % brew doctor
 
 **working fine: please don't worry or file an issue; just ignore this. Thanks!**
 
-  
-
 Warning: Broken symlinks were found. Remove them with `brew cleanup`:
 
   /usr/local/bin/paxctl
