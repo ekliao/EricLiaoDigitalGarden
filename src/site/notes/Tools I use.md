@@ -24,6 +24,7 @@ A list of mostly software and hardware, excluding abstract ideas and methods.
 - [[ChatGPT\|ChatGPT]] (2023/4)
 - [[Globse\|Globse]] (2023/3)
 - [[Microsoft Translator\|Microsoft Translator]] (2023/3)
+- [[Obsidian\|Obsidian]] (2023/2)
 - Bing (2023/2, the new one with ChatGPT) g
 - [[CotEditor\|CotEditor]] (2023/2)
 - [[Powerpoint\|Powerpoint]] (2023/1, really used to create)
