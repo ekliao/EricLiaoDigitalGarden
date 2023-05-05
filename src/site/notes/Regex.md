@@ -5,7 +5,7 @@
 Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
 
 ## Perl and Regex: a match made in heaven
-I am not exaggerating if I say that my career as a localization engineer (2002–2020) was launched entirely by my fascination with and self-taught expertise in [Perl](https://www.tiobe.com/tiobe-index/) and regex.
+I am not exaggerating if I say that my career as a localization engineer (2002–2020) was launched entirely by my fascination with and my eventual self-taught expertise in [Perl](https://www.tiobe.com/tiobe-index/) and regex.
 
 ## Unicode
 - [Scripts, blocks, etc.](https://www.regular-expressions.info/unicode.html)
