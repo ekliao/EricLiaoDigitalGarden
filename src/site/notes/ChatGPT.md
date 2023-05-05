@@ -33,7 +33,7 @@
 - [[Rewind.ai\|Rewind.ai]] (requires newer MacOS \[12 and up\] than I have)
 
 ## Ideas
-- Anki and GPT (https://news.ycombinator.com/item?id=34622913)
+- [Anki and GPT](https://news.ycombinator.com/item?id=34622913)
 
 ## Glossary
 - prompt|提示
@@ -41,7 +41,7 @@
 - command|指令
 
 ## Podcasts
-- Pohan Fong 馮勃翰 (https://open.firstory.me/story/cler01irx00tp01vw4b0pbgkt)
+- [Pohan Fong 馮勃翰](https://open.firstory.me/story/cler01irx00tp01vw4b0pbgkt)
 
 ---
-Just for laugh, [[The Eric Liao according to ChatGPT\|The Eric Liao according to ChatGPT]].
+Just for laugh, [[The Eric Liao according to ChatGPT\|asking chatbots about yourself]].
