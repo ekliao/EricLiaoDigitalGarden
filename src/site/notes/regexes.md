@@ -28,7 +28,7 @@ non-SAMPA:
 e.g. ==\\ si-​ˈkwe-​(ˌ)lē\\==
 
 - Other sources using the square brackets: `[...]`
-- #todo 
+#todo 
 
 ---
 ## Outside OB
