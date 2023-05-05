@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/chat-gpt-on-mandarin-sentence-final-particles/","noteIcon":"2","created":"","updated":""}
 ---
 
-[Sentence-final particles](https://en.wikipedia.org/wiki/Sentence-final_particle#Chinese).
+What are [sentence-final particles 句尾助詞](https://en.wikipedia.org/wiki/Sentence-final_particle#Chinese)?
 
 #ChatGPT/text 
 #linguistics/attitude 
