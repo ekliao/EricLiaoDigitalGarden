@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-05-05\|2023-05-05]]
 - [[10 dailynotes/2023-05-04\|2023-05-04]] - An impulse foray into Anki-to-Obsidian migration | Omnisearch woes
 - [[10 dailynotes/2023-05-03\|2023-05-03]] - Tempting: 舊愛 Anki 新歡 Obsidian
 - [[10 dailynotes/2023-05-02\|2023-05-02]] - https://ericliaointerpreting.com is live!
