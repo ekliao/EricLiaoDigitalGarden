@@ -13,7 +13,7 @@
 ### Minor long-term
 - [[Teaching and Coaching\|Teaching]] language and interpretation
 - [[PKM\|PKM]], especially [[Anki\|Anki]] and [[Obsidian\|Obsidian]] (you are looking at an instance of it)
-- [[Regex\|Regular expressions]]
+- [[Regex\|Regular expressions (Regex or RegExp)]]
 - Computer-assisted interpretation (CAI) tools
 - [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [[Note on the SAMPA phonetic transcription\|SAMPA]]
 - Computer-assisted translation (CAT) tools
