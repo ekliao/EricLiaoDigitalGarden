@@ -29,7 +29,7 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 	- A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
 [[Scrintal\|Scrintal]]
-[[Zettelkasten\|Zettelkasten]]
+[[_d/A/A-Mydic/Zettelkasten\|Zettelkasten]]
 [[Logseq\|Logseq]]
 [[Remnote\|Remnote]]
 [[Roam Research\|Roam Research]]
