@@ -5,7 +5,12 @@
 Any functionality offering full-text indexing and search get my attention. This one for the OB vault definitely sounds awesome at first sight.
 
 ### Quick verdict: 2/5 stars
+
 The underscoring search terms in in the results is nice. Looks like multiple search terms separated by spaces mean the `AND` operator: all of these terms, a typical “idiom.”
+
+## History
+
+- *(2023-05-04)* Tends to crash the iOS mobile version. Disabled it there.
 
 - *(2023-05-04)* On the first use I found a bug immediately:
 
