@@ -5,7 +5,7 @@
 
 ## General
 
-
+- 
 ---
 ## Glasp
 [[Glasp\|Glasp]]'s Chrome extension offers integration with YouTube's English video transcript. At the click of a button, a new window is opened with this command `Summarize the following in 5 bullet points` issued on a feed of the entire YouTube auto-generated video transcript. e.g.:
@@ -18,7 +18,7 @@
 	- There are ==red flags in inadvertently sharing private information and violating data privacy laws in fields like government, healthcare, and financial services==. The data is consumed by companies like OpenAI and can be used to improve their AI models.
 	- The video also discusses the need for organizations to generate AI capabilities behind their traditional firewall to protect sensitive information. The video touches on AI-generated hallucinations and how to detect and combat bias in AI.
 
-In comparison, the video host's own summary:
+Compare that with the video host's own summary:
 
 - Generative Text, Machine Translation, Voice Recognition and Optical Character Recognition in the new AI era. 
 - The perceived threats and benefits that AI augmented process bring to enterprises 
