@@ -28,4 +28,5 @@ Update: I spent most of 2024-05-04 doing lots of [[Regex\|regex]] wrangling and 
 #project/completed 
 - When you export the cards as Markdown files you don't export the media files.  So if you work with audio and images it may break the deal.
 
-
+---
+[[Anki-Obsidian meta notation\|Anki-Obsidian meta notation]]
