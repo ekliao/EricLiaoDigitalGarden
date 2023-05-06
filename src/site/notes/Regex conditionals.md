@@ -119,7 +119,7 @@ Soon I began suspecting that neither regex101 nor CotEditor supports regex condi
 
 Onigmo is the C++ regex engine that supports things like `\p{Han}`. Now, its support for regex conditionals is confirmed:
 
-# tl;dr
+## tl;dr
 { #32a3c2}
 
 
@@ -161,8 +161,12 @@ as expected.
 	- However, it can be inside or outside the capturing group, depending on your need.
 - Use the `^` or `\A` anchor.
 
+## Try this regex yourself
+
+Come [here](https://regex101.com/r/FtCE2u/1) to give it a try on regex101. Cool, eh?
+
 ---
-# The guide that helped
+## The guide that helped
 [src](https://www.honeybadger.io/blog/using-conditionals-inside-ruby-regular-expressions/#:~:text=As%20it%20turns%20out%2C%20the,inside%20of%20your%20regular%20expressions.)
 #source/dupe/begin 
 
@@ -170,7 +174,7 @@ As it turns out, the Onigmo regex engine has a few neat tricks up its sleeve inc
 
 ...
 
-## Conditionals
+### Conditionals
 
 Conditionals in regular expressions take the form `/(?(A)X|Y)/`. Here are a few valid ways to use them:
 
@@ -193,7 +197,7 @@ Two of the most common options for your condition, `A` are:
 
 Let's look at how to use them:
 
-### Has a group been captured?
+#### Has a group been captured?
 
 To check for the presence of a group, use the `?(n)` syntax, where n is an integer, or a group name surrounded by `<>` or `''`.
 
@@ -205,7 +209,7 @@ To check for the presence of a group, use the `?(n)` syntax, where n is an int
 /(?(<mygroup>)foo|bar)/
 ```
 
-#### Example
+##### Example
 
 Imagine you're parsing US telephone numbers. These numbers have a three-digit area code that is optional unless the number starts with one.
 
@@ -243,7 +247,7 @@ re = /^(1-)?(?(1)\d{3}-|(\d{3}-)?)\d{3}-\d{4}/
 
 ```
 
-#### Limitations
+##### Limitations
 
 One problem with using group-based conditionals is that matching a group "consumes" those characters in the string. Those characters can't be used by the conditional, then.
 
@@ -255,11 +259,11 @@ For example, the following code tries and fails to match 100 if the text "USD" i
 
 In Perl and some other languages, you can add a look-ahead statement to your conditional. This lets you trigger the conditional based on text anywhere in the string. But Ruby doesn't have this, so we have to get a little creative.
 
-## Look-around
+### Look-around
 
 Fortunately, we can work around the limitations in Ruby's regex conditionals by abusing look-around expressions.
 
-### What is a look-around?
+#### What is a look-around?
 
 Normally, the regular expression parser steps through your string from the beginning to the end looking for matches. It's like moving the cursor from left to right in a word processor.
 
