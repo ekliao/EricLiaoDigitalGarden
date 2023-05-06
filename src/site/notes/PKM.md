@@ -26,23 +26,41 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 ## PKM Systems I've Heard Of
 *(New to old; broadly, including spaced repetition systems and note-taking apps)*
 
-- [TheBrain](https://www.thebrain.com/)
-- [Tiddlywiki](https://tiddlywiki.com/) 
-	- A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
+[TheBrain](https://www.thebrain.com/)
+
+[Tiddlywiki](https://tiddlywiki.com/) 
+	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
+
 [Scrintal](https://www.scrintal.com/)
+
 [[_d/A/A-Mydic/Zettelkasten\|Zettelkasten]]
+	Not an app but a method with apps implementing it to some degree, notably Roam
+
 [[Logseq\|Logseq]]
+
 [[Remnote\|Remnote]]
-[[Roam Research\|Roam Research]]
+
+[Roam Research](https://roamresearch.com/)
+	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year 
+
 [[Obsidian\|Obsidian]]
+
 [[Mnemosyne\|Mnemosyne]]
+
 [[Notion\|Notion]]
-[[Supermemo\|Supermemo]]
+
+[SuperMemo](https://en.wikipedia.org/wiki/SuperMemo)
+	Out of which came Anki
+
 [[Notability\|Notability]]
+
 [[OneNote\|OneNote]]
+
 [[GoodNotes\|GoodNotes]]
+
 [[Quizlet\|Quizlet]]
+
 [[Anki\|Anki]]
 
 ## [Digital Gardening (Beyond Obsidian) for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening)
