@@ -127,6 +127,10 @@ The example toward the end in the guide that uses a lookahead regex containing `
 
 🥁 🧻 please... Bingo! I crafted a successful match in regex101, which was then confirmed in EmEditor, in blue highlight:
 
+(Also, I hereby confirm that unfortunately [[CotEditor\|CotEditor]] does not support regex conditionals.) 
+{ #75709c}
+
+
 ![Screen Shot 2023-05-06 at 09.13.46.png](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2009.13.46.png)
 { #84deef}
 
