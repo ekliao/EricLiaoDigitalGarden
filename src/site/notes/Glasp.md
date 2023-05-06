@@ -4,6 +4,8 @@
 
 A web highlighter that is in direct competition with [[Readwise Reader\|Readwise Reader]] but is free!
 
+My Glasp [profile](https://glasp.co/#/qke5s3ilkchdj7ts).
+
 ## Quick verdict: 4/5 stars
 - Super neat, complete with the following metadata:
 	- title
@@ -17,7 +19,19 @@ A web highlighter that is in direct competition with [[Readwise Reader\|Readwise
 - Free
 
 ## Issues
+- The logged-in website is very slow, sometimes showing nothing.
 - The page comment is not always copied. This has occurred many times.
+
+---
+## How to use a highlight
+- Source
+	- Use the original link in highlight to go to the source content
+- Mention
+	- Copy all and paste onto anywhere, such as Obsidian in markdown
+	- Get a link to it
+	- Get an html embedded code to it
+	- Get a screenshot
+
 ---
 [[Glasp + YouTube Transcript + ChatGPT Summary\|Glasp + YouTube Transcript + ChatGPT Summary]]
 
