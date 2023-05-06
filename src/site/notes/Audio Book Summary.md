@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/audio-book-summary/","noteIcon":"2","created":"","updated":""}
 ---
 
-I admit that I am not an avid reader, not even a good one. But continuous acquisition of knowledge (or, as the marketing-minded folks like to call it, professional development, or PD) is crucial, so I developed the habit of learning by listening not to long-form audio books but their CliffsNotes equivalents—book summaries in audio.
+I admit that I am not an avid reader. But continuous acquisition of knowledge (or, as the marketing-minded folks like to call it, professional development, or PD) is crucial, so I developed the habit of learning by listening not to long-form audio books but their CliffsNotes equivalents—book summaries in audio.
 
 Below are a list of audio book summary apps I have on my phone. I could not decide which ones or one to pay for because none are a one stop shop for titles I like, so I ended up grazing and browsing for daily or occasional free titles. The serendipitous discovery of a good title can be fun, with zero pressure of having to keep up.
 
