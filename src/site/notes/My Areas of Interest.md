@@ -7,6 +7,7 @@
 - Interpretation and translation
 - [[Language and languages\|Language and languages]]
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
+- [[Writing\|Writing]]
 
 #questioning Are the following categories really easily distinguishable for me?
 
