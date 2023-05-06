@@ -25,10 +25,12 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 
 ## PKM Systems I've Heard Of
 *(New to old; broadly, including spaced repetition systems and note-taking apps)*
+
+- [TheBrain](https://www.thebrain.com/)
 - [Tiddlywiki](https://tiddlywiki.com/) 
 	- A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
-[[Scrintal\|Scrintal]]
+[Scrintal](https://www.scrintal.com/)
 [[_d/A/A-Mydic/Zettelkasten\|Zettelkasten]]
 [[Logseq\|Logseq]]
 [[Remnote\|Remnote]]
