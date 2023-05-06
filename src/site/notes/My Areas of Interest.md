@@ -28,7 +28,7 @@
 
 ### Minor short-term
 - [[ChatGPT\|ChatGPT]]
-- Computer programming
+- [[Computer programming\|Computer programming]]
 
 ### Minor transient (the shining objects of the day)
 - Typography, [[Fonts\|fonts]]
