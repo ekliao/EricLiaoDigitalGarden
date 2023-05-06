@@ -18,3 +18,7 @@ The Unicode property shorthand ``\p{Han}`` is a great discovery about regex. So 
 ## People
 - [Jeffrey Friedl](http://regex.info/) wrote the seminal book on regex: *Mastering Regular Expressions*.
 - [Jan Goyvaerts](https://www.just-great-software.com/aboutjg.html) maintains [this](https://www.regular-expressions.info/) great educational site. He makes such esoteric topic as [Regex lookarounds](https://www.regular-expressions.info/lookaround.html) palatable.
+
+---
+## The Dark Side
+- [[Regex conditionals\|Regex conditionals]]
