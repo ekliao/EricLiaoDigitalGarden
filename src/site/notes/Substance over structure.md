@@ -5,7 +5,20 @@
 #note-taking 
 Musings on note-taking on this digital garden:
 
-I should make the writing more ==organic and atomic== à la Matuschak Evergreen Notes and less top-down organizational and taxonomic or with too much enumerating. The latter tendencies are perhaps out of an innate predilection for order and neatness, or even OCD, but I can feel they will end up obstructing thinking rather than foster it. Let thought run free and be expressed freely in notes scattered about, and links and backlinks will take care of connecting them.
+I should make the writing more organic and *[atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)* à la Matuschak Evergreen Notes /
+
+#highlight/glasp/copy 
+#### Metadata
+- Title: Evergreen notes should be atomic
+- Tags: #note-taking
+- URL: https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic
+#### Page Comment
+- atomic note; atomicize; atomicization; Evergreen notes
+#### Highlights & Notes
+
+- Evergreen notes should be atomic It’s best to create notes which are only about one thing—but which, as much as possible, capture the entirety of that thing.  This way, it’s easier to form connections across topics and contexts.
+
+/ and less top-down organizational and taxonomic or with too much enumerating. The latter tendencies are perhaps out of an innate predilection for order and neatness, or even OCD, but I can feel they will end up obstructing thinking rather than foster it. Let thought run free and be expressed freely in notes scattered about, and links and backlinks will take care of connecting them.
 
 For example, forget about neatly creating hierarchical notes like this
 
