@@ -4,7 +4,7 @@
 
 ### Major long-term
 - Linguistics, [[Grammar\|grammar]], [[Usage\|usage]], [[Dictionaries\|dictionaries]]
-- Interpretation and translation
+- [[Translation and interpretation\|Translation and interpretation]]
 - [[Language and languages\|Language and languages]]
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
 - [[Writing\|Writing]]
