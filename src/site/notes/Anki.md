@@ -35,3 +35,6 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
 
 - Truly hierarchical: searching for `tag:A` alone without saying `tag:A::` or `tag:A*` will still get `A::B` and `A::B::C`, etc. Great!
  ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
+
+---
+[[Ankification\|Ankification]]
