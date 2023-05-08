@@ -4,30 +4,33 @@
 
 PKM stands for *personal knowledge management*.
 
-A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term with "consecutive," as in [[Consecutive Note-Taking\|Consecutive Note-Taking]]
+A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecutive Note-Taking\|Consecutive Note-Taking]].
 
-## My PKM Systems
+## PKM Systems
+*(broadly, including spaced repetition systems and note-taking apps)*
 
 ### In use
 *(By frequency)*
-- [[Obsidian\|Obsidian]] - You're looking at it
+- [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
 - [[Apple Notes\|Apple Notes]]
 - [[Evernote\|Evernote]]
 - [[DTSearch\|DTSearch]]
 - [[Notability\|Notability]]
+- [LiquidText](https://www.liquidtext.net/)
 	
 ### Obsolete
-- [LiquidText](https://www.liquidtext.net/)
-- [MarginNote](https://www.marginnote.com/)
-- [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
+- [MarginNote](https://www.marginnote.com/) - Bought on the iPad but only a glancing try. Heard it has evolved a lot.
+ [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
 - [[EricWiki\|EricWiki]]: I have bittersweet memories of the 2000s, reminding me of the 2020s Obsidian.
 
-## PKM Systems I've Heard Of
-*(New to old; broadly, including spaced repetition systems and note-taking apps)*
+### Heard Of
+*(New to old)*
 
+[Matter](https://hq.getmatter.com/)
 [Joplin](https://joplinapp.org/)
 [TheBrain](https://www.thebrain.com/)
+[[Glasp\|Glasp]]
 [Tiddlywiki](https://tiddlywiki.com/) 
 	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
@@ -51,14 +54,13 @@ A PKM is used for [[note-taking\|note-taking]]. When I don't qualify this term w
 [[Quizlet\|Quizlet]]
 [[Anki\|Anki]]
 
+---
 ## [Digital Gardening (Beyond Obsidian) for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening)
 
 I came across Maggie Appleton's website with a nice balance between graphic and text. This essay is a great 30,000-foot overview. #list She also compiled this extensive [list](https://github.com/MaggieAppleton/digital-gardeners) of all systems and tools beyond my limited exposure.
 
 > What is "digital gardening"?
-> A garden is something in-between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organized by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web.
-
-\- Maggie Appleton
+> A garden is something in-between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organized by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web. \- Maggie Appleton
 
 ---
 ## Principles
@@ -83,9 +85,7 @@ I came across Maggie Appleton's website with a nice balance between graphic and 
 
 > Part of the problem of social media is that there is no equivalent to the scientific glassblowers’ sign, or the woodworker’s open door, or Dafna and Jesse’s sandwich boards. On the internet, if you stop speaking: you disappear. And, by corollary: on the internet, you only notice the people who are speaking nonstop.
 
-> If you could put on magic internet goggles that enabled you to see through this gnarly selection bias and view the composition of reality fairly, correctly—well, just come walk around Emeryville and West Berkeley. It would look like that! All the tumult of Twitter would shrink into a single weird cafe—just a speck, in an enormous city made up entirely of people quietly working.
-
-\- Robin Sloan
+> If you could put on magic internet goggles that enabled you to see through this gnarly selection bias and view the composition of reality fairly, correctly—well, just come walk around Emeryville and West Berkeley. It would look like that! All the tumult of Twitter would shrink into a single weird cafe—just a speck, in an enormous city made up entirely of people quietly working. \- Robin Sloan
 
 ## Ideas
 
