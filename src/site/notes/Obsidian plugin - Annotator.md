@@ -21,15 +21,13 @@ Or: in-line video:
 ### Pitfalls
 - (2023-05-08) Though tempting, don't ever ==edit the textual annotation directly in the markdown view==. It will cause the annotation view to not show properly!
 
-# Proof
+# Pics or It Didn't Happen
+
+Lo and behold!
 
 ![Screen Shot 2023-05-08 at 11.57.50.png](/img/user/_attachments/Screen%20Shot%202023-05-08%20at%2011.57.50.png)
 
-# Issues
-
-- (2023-05-08) The PDF annotation view does not work on iOS! Wah? I'm heart-broken. What's the point? #issue/gone Suddenly it worked on the larger iPad, though I've yet to check again on the iPad Mini.
-
 # Cons
-- 😭 No free hand-written annotation! Look at this page, made with using the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
+- 😭 No free hand-written annotation! Look at this page, made with the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
 
 ![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/IMG_6A993934BA76-1.jpeg)
