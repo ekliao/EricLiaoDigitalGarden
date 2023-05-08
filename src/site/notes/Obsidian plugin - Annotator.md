@@ -27,4 +27,9 @@ Or: in-line video:
 
 # Issues
 
-- The PDF annotation view does not work on iOS! Wah? I'm heart-broken. What's the point?
+- (2023-05-08) The PDF annotation view does not work on iOS! Wah? I'm heart-broken. What's the point? #issue/gone Suddenly it worked on the larger iPad, though I've yet to check again on the iPad Mini.
+
+# Cons
+- 😭 No free hand-written annotation! Look at this page, made with using the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
+
+![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/IMG_6A993934BA76-1.jpeg)
