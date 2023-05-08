@@ -7,8 +7,9 @@
 
 ## Headsets and earbuds with mics
 - Steelseries Arctis Prime
-- Sennheiser PC8
+- [Sennheiser PC 8 USB](https://sennheiser.pl/d/817aff6d02bcc04e331a9a4eca22e69a)
 - [Steelseries Arctis Pro Wireless](https://steelseries.com/gaming-headsets/arctis-pro-wireless) *(i)*
+	- [[Arctis Mic Can Be Used on the Windows VM to do Mac Movavi Screen Recording\|Arctis on Parallels Desktop VM]]
 - Steelseries Arctis Pro GameDAC *(i)*
 - Apple AirPods Max
 - Apple AirPods (gen 2)
@@ -35,4 +36,4 @@
 ## Software
 
 #### Digital audio workstation 
-- Audacity
+- [Audacity](https://www.audacityteam.org/)
