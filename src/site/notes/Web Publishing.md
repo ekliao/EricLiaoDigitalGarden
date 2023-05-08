@@ -13,7 +13,7 @@
 #### Non-Obsidian-Publish Solutions
 
 ###### [[Obsidian Digital Garden Plugin + Netlify\|Obsidian Digital Garden Plugin + Netlify]]
-This is how this website is built.
+- How this website is built.
 
 ###### [[Andy Matuschak's Mysterious Sliding-Notes System\|Andy Matuschak's Mysterious Sliding-Notes System]]
 
