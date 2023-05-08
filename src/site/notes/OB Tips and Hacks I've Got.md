@@ -4,6 +4,9 @@
 
 *(New to Old)*
 
+- In file pane, drag a file/note into the editor pane to get a link to its name (`![[file-name]]` and then remove the link
+	  e.g. for copying the PDF file name into the required `annotation-target:` frontmatter field in order to use the `Annotator` plugin to annotate the PDF in OB.
+	  
 - Creating real links to a potentially unconnected note from unlinked mentions in the right-nav-pane
 #project/learn-by-doing 
 #project/completed 
