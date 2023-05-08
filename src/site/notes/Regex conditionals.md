@@ -3,7 +3,7 @@
 ---
 
 #Regex  
-*(2023-05-06)* Since I caught the regex bug yesterday (I hadn't been in a long time), I set out to learn the always illusive negative lookbehind. 
+*(2023-05-06)* Since I caught the regex bug yesterday (I hadn't been in a long time), I set out to learn the always ellusive negative lookbehind. 
 
 Update: turns out what ended up working was a negative lookahead (see below). I obviously still haven't grasped the concept well.
 
