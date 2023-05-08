@@ -8,7 +8,7 @@
 - [[Language and languages\|Language and languages]]
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
 - [[Writing\|Writing]]
-- [[Note-taking\|Note-taking]]
+- [[PKM\|PKM]] and [[Note-taking\|Note-taking]]
 
 #questioning Are the following categories really easily distinguishable for me?
 
