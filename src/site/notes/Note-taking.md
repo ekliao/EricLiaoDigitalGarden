@@ -18,4 +18,4 @@ Interest in note-taking has come on strong and ~~looks to stay~~ seems like it i
 
 ## Tools
 
-[[OB plugin - Annotator\|OB plugin - Annotator]]
+[[Obsidian plugin - Annotator\|Obsidian plugin - Annotator]]
