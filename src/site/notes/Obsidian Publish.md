@@ -13,7 +13,7 @@
 
 - [Video guide on publishing from China](https://www.bilibili.com/video/BV1dU4y1p7gg/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f](https://www.bilibili.com/video/BV1dU4y1p7gg/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f)
 
-Custom  #DomainName  setup SSL certificate
+Custom  #Domain-name  setup SSL certificate
 
 ## Custom Domain Name
 - [Question about Godaddy + Cloudflare](https://forum.obsidian.md/t/moving-domain-to-obsidian-publish/54480)
