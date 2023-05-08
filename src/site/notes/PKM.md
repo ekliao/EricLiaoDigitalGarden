@@ -31,6 +31,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Joplin](https://joplinapp.org/)
 [TheBrain](https://www.thebrain.com/)
 [[Glasp\|Glasp]]
+[[DEVONthink\|DEVONthink]]
 [Tiddlywiki](https://tiddlywiki.com/) 
 	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
@@ -52,7 +53,9 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[OneNote\|OneNote]]
 [[GoodNotes\|GoodNotes]]
 [[Quizlet\|Quizlet]]
-[[Anki\|Anki]]
+
+## [[Search tools\|Search tools]]
+A PKM system without good search functionality is not worth having.
 
 ---
 ## [Digital Gardening (Beyond Obsidian) for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening)
