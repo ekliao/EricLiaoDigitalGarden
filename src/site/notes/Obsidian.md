@@ -28,7 +28,7 @@ Nice! It's copy 'n' paste.
 #### [[OB Shortcuts\|Shortcuts]]
 #### [[OB Tips and Hacks I've Got\|Tips and Hacks]]
 #### [[Obsidian Sync\|Obsidian Sync]]
-#### [[OB Plugins\|Plugins]]
+#### [[Obsidian Plugins\|Plugins]]
 #### [[OB Search\|OB Search]]
 #### [[OB Settings\|OB Settings]]
 #### [[Using Obsidian\|Using Obsidian]]
