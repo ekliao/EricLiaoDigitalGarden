@@ -24,3 +24,7 @@ Or: in-line video:
 # Proof
 
 ![Screen Shot 2023-05-08 at 11.57.50.png](/img/user/_attachments/Screen%20Shot%202023-05-08%20at%2011.57.50.png)
+
+# Issues
+
+- The PDF annotation view does not work on iOS! Wah? I'm heart-broken. What's the point?
