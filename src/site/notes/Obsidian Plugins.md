@@ -5,7 +5,7 @@
 ## In use / Tried
 *(New to old)*
 
-- [[OB plugin - Annotator\|Annotator]] (https://github.com/elias-sundqvist/obsidian-annotator)
+- [[Obsidian plugin - Annotator\|Annotator]] (https://github.com/elias-sundqvist/obsidian-annotator)
 	- PDF inside OB
 - [[OB plugin - Omnisearch\|Omnisearch]]
 - [[OB plugin -- Regex Find - Replace\|Regex Find/Replace]] (https://github.com/Gru80/obsidian-regex-replace)
