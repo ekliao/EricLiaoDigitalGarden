@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/adding-disqus-to-netlify/","noteIcon":"2","created":"","updated":""}
 ---
 
+#mynote Perhaps it was partly serendipity and partly tenacity, I got Disqus working while having zero knowledge about componentization (include files, etc.) of a website. Credit all goes to [utsob](https://hermitage.utsob.me/ ) (my [thanks](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=9kwp7xbr8dfzjqlp&m=h) and the [context of the help](https://www.reddit.com/r/ObsidianMD/comments/10pokli/i_built_a_digital_garden_using_obsidian_for_free/)) for pointing the way twice. 
+
 #project/aborted 
 Steps
 1. Register an account with [Disqus]([https://disqus.](https://disqus.com/)
