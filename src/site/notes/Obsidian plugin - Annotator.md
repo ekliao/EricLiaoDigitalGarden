@@ -31,3 +31,5 @@ Lo and behold!
 - 😭 No free hand-written annotation! Look at this page, made with the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
 
 ![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/IMG_6A993934BA76-1.jpeg)
+
+For this reason, I am reconsidering [[LiquidText\|LiquidText]] as the all-around tool for PDF note-taking.
