@@ -25,17 +25,18 @@ Nice! It's copy 'n' paste.
 ---
 
 ## OB Topics
-#### [[OB Shortcuts\|Shortcuts]]
+
+#### [[Obsidian Hotkeys\|Hotkeys]]
 #### [[OB Tips and Hacks I've Got\|Tips and Hacks]]
-#### [[Obsidian Sync\|Obsidian Sync]]
+#### [[Obsidian Sync\|Sync]]
 #### [[Obsidian Plugins\|Plugins]]
-#### [[OB Search\|OB Search]]
+#### [[Obsidian Search\|Search]]
 #### [[OB Settings\|OB Settings]]
 #### [[Using Obsidian\|Using Obsidian]]
 #### [[Obsidian Publish\|Obsidian Publish]]
-#### [[OB Issues\|OB Issues]]
+#### [[Obsidian Issues\|Issues]]
 #### [[OB with other tools\|OB with other tools]]
 
-## [[OB features of interest\|OB features of interest]]
+## [[Obsidian features of interest\|Features of interest]]
 
-## [[Making use and creating stuff out of OB notes\|Making use and creating stuff out of OB notes]]
+## [[Making use and creating stuff out of Obsidian notes\|Making use and creating stuff out of Obsidian notes]]
