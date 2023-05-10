@@ -5,6 +5,7 @@
 ## In use / Tried
 *(New to old)*
 
+- [[Obsidian plugin - File Diff\|File Diff]]
 - Wikipedia Search
 - (Obsidian) Wikipedia
 	- [[Reference Wikipedia in Obsidian\|Reference Wikipedia in Obsidian]]
