@@ -6,7 +6,7 @@ This is the beginning of a series of pages that I followed to set up my MacOS de
 
 #project/learn-by-doing 
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/1.html)
 - Show/hide (toggle) hidden files (those beginning with a dot):
 	- You can list all files, including hidden files, with the `ls -lag` command in the Terminal.
@@ -16,7 +16,7 @@ This is the beginning of a series of pages that I followed to set up my MacOS de
 $ defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
 ```
 
-#source/dupe/end 
+#paste/e 
 
 Next: [[Xcode\|Xcode]]
 
