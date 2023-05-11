@@ -6,7 +6,7 @@
 
 I found myself asking ChatGPT to check the grammaticality of an English passage or certain sentences, and am fascinated by what it thinks. For the most part, the way it's trained made it the perfect tool to pass judgment. For example:
 
-#ChatGPT/text 
+#gpt 
 ```
 Q: Analyze the grammatical correctness of the following sentences:
 
