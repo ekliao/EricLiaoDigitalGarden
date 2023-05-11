@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/7.html)
 ## Update Gems
 
@@ -81,7 +81,7 @@ You can track updates to gems at the RubyGems.org site by creating an account an
 
 Everything is ready. You can begin developing applications with Ruby.)
 
-#source/dupe/end 
+#paste/e 
 
 I stopped following Daniel Kehoe's amazing step-by-step guide here.
 
