@@ -5,7 +5,7 @@
 My [Github](https://github.com/ekliao) page.
 
 ---
-#highlight/glasp/copy 
+#paste/glasp 
 ### Metadata
 - Title: GitHub - Wikipedia
 - Tags: #Github
