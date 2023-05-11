@@ -4,10 +4,10 @@
 
 ## Text Generator
 
-#highlight/glasp/copy 
+#paste/glasp 
 ### Metadata
 - Title: (97) How I'm Using AI *WITH* My Obsidian Vault - YouTube
-- Tags: #ob, #ChatGPT, #plugin
+- Tags: #ob, #gpt, #plugin
 - URL: https://www.youtube.com/watch?v=tNAsLbGdM6A
 
 ### Highlights & Notes
@@ -16,14 +16,14 @@
 ---
 ChatGPT MD
 
-#highlight/glasp/copy 
+#paste/glasp 
 ### r/ObsidianMD - New Plugin: ChatGPT MD - A (nearly) seamless integration of ChatGPT into Obsidian
 
 ![400](https://external-preview.redd.it/KNsOTdy4iQPNxPs2co0VD7ksbkbHa1wpmKGkbSu8eLM.jpg?auto=webp&v=enabled&s=5f26c979efa056cd1aaa2b4f7ce534e5302a52be)
 
 ### Metadata
 - Title: r/ObsidianMD - New Plugin: ChatGPT MD - A (nearly) seamless integration of ChatGPT into Obsidian
-- Tags: #plugin, #ob, #ChatGPT
+- Tags: #plugin, #ob, #gpt
 - URL: https://www.reddit.com/r/ObsidianMD/comments/11o4zqq/new_plugin_chatgpt_md_a_nearly_seamless/
 
 ### Page Comment
@@ -33,12 +33,12 @@ cp. ChatGPT MD plugin and the Text Generator plugin
 - Text generator is this *(ChatGPT MD)* on steroids. Here - https://youtu.be/tNAsLbGdM6A
 
 ---
-#highlight/glasp/copy 
+#paste/glasp 
 ### Obs＃116 | ChatGPT MD: 整合ChatGPT AI功能，大幅簡化筆記操作 – 簡睿隨筆
 
 ### Metadata
 - Title: Obs＃116 | ChatGPT MD: 整合ChatGPT AI功能，大幅簡化筆記操作 – 簡睿隨筆
-- Tags: #chatgpt, #ob, #plugin
+- Tags: #gpt, #ob, #plugin
 - URL: https://jdev.tw/blog/8033/obsidian-chatgpt-md-plugin
 
 ### Highlights & Notes
