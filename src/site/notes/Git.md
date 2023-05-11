@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/4.html)
 ## Configure Git on Mac
 
@@ -153,6 +153,6 @@ Hi DanielKehoe! You've successfully authenticated, but GitHub does not provide s
 
 Now you'll be ready to use [[GitHub]] when you need it.
 
-#source/dupe/end 
+#paste/e 
 
 Next is installing the [[Asdf Version Manager\|Asdf Version Manager]]
