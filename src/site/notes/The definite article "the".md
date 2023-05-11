@@ -7,7 +7,7 @@
 ## The + Sh＊t
 #idiom
 #slang
-#highlight/glasp/copy 
+#paste/glasp 
 ### Metadata
 - Title: I present to you the English language.
 - Tags: #the, #definite-article, #slang, #idiom
