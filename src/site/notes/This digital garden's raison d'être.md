@@ -9,7 +9,7 @@ To put this website in context, I love [Andy Matuschak](https://andymatuschak.or
 - Anti-marketing
 
 ---
-#highlight/glasp/copy 
+#paste/glasp 
 ## Work with the garage door up
 { #e9914e}
 
