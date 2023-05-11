@@ -8,9 +8,9 @@
 Steps
 1. Register an account with [Disqus]([https://disqus.](https://disqus.com/)
 2. Install it according to the site's [platform](https://ericliaointerpreting-netlify-app.disqus.com/admin/settings/install/). My site is built with [[Web publishing with Obsidian + Github + Netlify\|Github + Netlify]], not in the pre-defined list, so I had to [manually install Disqus using the Universal Code](https://ericliaointerpreting-netlify-app.disqus.com/admin/settings/universalcode/)
-3. #highlight/glasp/link I saw someone's [success](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=97ia3eqcu5xz4xij&m=h)
+3. #paste/glasp/link I saw someone's [success](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=97ia3eqcu5xz4xij&m=h)
 
-(The same highlight with #highlight/glasp/copy)
+(The same highlight with #paste/glasp)
 ## r/ObsidianMD - I built a digital garden using Obsidian for free.
 
 ### Metadata
@@ -35,7 +35,7 @@ This majorly piqued my interest.
 
 
 * Turns out, adding [Disqus](https://disqus.com/)-style commenting support to my digital garden wasn't as easy as it seems, by simply putting some universal code snippet (with one change) in a file under the `_include` directory. I hit a snag. 
-	#highlight/glasp/link  [My problem and getting further pointers](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=q7grki25c15lga58&m=h) 
+	#paste/glasp/link  [My problem and getting further pointers](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=q7grki25c15lga58&m=h) 
 
 </div></div>
 
@@ -57,7 +57,7 @@ Hooray! I did it again! This time, I added [[Adding Disqus to Netlify\|Disqus]] 
 
 
 * Turns out, adding [Disqus](https://disqus.com/)-style commenting support to my digital garden wasn't as easy as it seems, by simply putting some universal code snippet (with one change) in a file under the `_include` directory. I hit a snag. 
-	#highlight/glasp/link  [My problem and getting further pointers](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=q7grki25c15lga58&m=h) 
+	#paste/glasp/link  [My problem and getting further pointers](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=q7grki25c15lga58&m=h) 
 
 </div></div>
 just a few days ago, all thanks to the kind owner of https://hermitage.utsob.me/ for pointing out what I did wrong.
