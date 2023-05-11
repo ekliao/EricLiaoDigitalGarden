@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/5.html)
 ## Install Asdf Version Manager
 
@@ -121,6 +121,6 @@ The [Uninstall Asdf](https://mac.install.guide/faq/uninstall-asdf/index.html) 
 
 Next you can install [[Ruby\|Ruby]].
 
-#source/dupe/end 
+#paste/e 
 
 Next: [[Ruby\|Ruby]]
