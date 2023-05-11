@@ -38,7 +38,7 @@ final edit for critics
 highlight anything that's unclear or confusing
 
 Dictum: When in doubt, take it out.
-#mynote/z 
+#mynote/e 
 
 ---
 [[Emojis\|Emojis]]
