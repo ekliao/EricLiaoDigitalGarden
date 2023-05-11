@@ -17,7 +17,7 @@ Syncing Obsidian vaults between devices, especially desktop and mobile.
  
 
 ### Error: "iCloud disabled for Obsidian" on iOS/iPadOS?
-#highlight/glasp/copy 
+#paste/glasp 
 ![75](https://forum.obsidian.md/uploads/default/original/1X/bf119bd48f748f4fd2d65f2d1bb05d3c806883b5.png)
 
 ### Metadata
