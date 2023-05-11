@@ -12,5 +12,8 @@ I am so impressed by the seamless design of Obsidian/iCloud. With this completel
 
 </div></div>
 
+(Update 2023-05-10) iCloud syncing is slow and constantly causing Obsidian to index. Initially syncing 230K files is practically watching paint dry.
+
+[Here](https://www.reddit.com/r/ObsidianMD/comments/s7u7p5/people_who_use_obsidian_sync_whats_it_like_and_is/), most users are happy with the “set it and forget it” nature, but many said it's too expensive.
 
 ## [[Syncing Obsidian for Free\|Syncing Obsidian for Free]]
