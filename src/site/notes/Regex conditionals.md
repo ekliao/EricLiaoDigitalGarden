@@ -49,7 +49,7 @@ I set out to try both syntaxes on [regex101](https://regex101.com). No joy. Comp
 
 Then I found this [YouTube](https://www.youtube.com/watch?v=tblSuwP6sAY). More confusion.
 
-#source/dupe/begin 
+#paste/b 
 Q:
 ![Screen Shot 2023-05-06 at 08.11.44.png](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2008.11.44.png)
 
@@ -58,7 +58,7 @@ A:
 
 ![Screen Shot 2023-05-06 at 08.13.29.png](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2008.13.29.png)
 #mynote I tried the suggested `^(A)?(?(1)X|G)` in regex101 and [[CotEditor\|CotEditor]]. Neither worked.
-#source/dupe/end 
+#paste/e 
 
 ---
 ## Perl community
@@ -66,7 +66,7 @@ A:
 Next, I invoked the Perl genie:
 
 [src](https://stackoverflow.com/questions/14091965/conditional-regular-expression-with-perl#:~:text=Yes%2C%20Perl%20supports%20conditional%20expressions,any%20characters%20in%20the%20string.)
-#source/dupe/begin 
+#paste/b 
 Q: Does Perl support conditional regular expression :
 
 ```perl
@@ -110,7 +110,7 @@ Another way would be to use a capture group before the condition like so `/(A)?
 
 [The perldoc](http://perldoc.perl.org/perlre.html#Extended-Patterns), as referenced in the other answer, explains other options you can use in the conditional but I feel the two examples above would be the most common to use.
 
-#source/dupe/end 
+#paste/e 
 
 Soon I began suspecting that neither regex101 nor CotEditor supports regex conditionals. So I turned to [[EmEditor\|EmEditor]]. I Googled about Onigmo and soon found guide at the bottom of this page.
 
@@ -172,7 +172,7 @@ Come [here](https://regex101.com/r/FtCE2u/1) to give it a try on regex101. Cool,
 ---
 ## The guide that helped
 [src](https://www.honeybadger.io/blog/using-conditionals-inside-ruby-regular-expressions/#:~:text=As%20it%20turns%20out%2C%20the,inside%20of%20your%20regular%20expressions.)
-#source/dupe/begin 
+#paste/b 
 
 As it turns out, the Onigmo regex engine has a few neat tricks up its sleeve including the ability to use conditionals inside of your regular expressions.
 
@@ -333,4 +333,4 @@ Let's break down that query and see what's going on:
 -   `\d+` Then match one or more numbers
 
 Pretty neat, huh?
-#source/dupe/end 
+#paste/e 
