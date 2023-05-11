@@ -11,7 +11,7 @@
 [[Glasp\|Glasp]]'s Chrome extension offers integration with YouTube's English video transcript. At the click of a button, a new window is opened with this command `Summarize the following in 5 bullet points` issued on a feed of the entire YouTube auto-generated video transcript. e.g.:
 
 - 2023-04-26 Video: [Rise of the Machines Balancing Language Related AI Opportunities and Risks](https://www.youtube.com/watch?v=4hJ4y-OkRYs&t=1s)
-#chatGPT/text/Glasp 
+#gpt/glasp 
 >
 	- The video discusses the rise of machines and the balancing of language-related AI opportunities and risks.
 	- The speakers include Dion Wiggins, the CTO and co-founder of Omniscience Technologies, Professor Philip Kuhn, Omniscience's Chief Scientist, and Dr. Joseph Sweeney, an industry analyst specializing in AI data privacy and compliance.
