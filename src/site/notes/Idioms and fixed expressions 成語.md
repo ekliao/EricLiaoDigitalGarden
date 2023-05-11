@@ -4,7 +4,7 @@
 
 ## What counts as a Chinese idiom?
 
-#highlight/glasp/copy 
+#paste/glasp 
 ### Metadata
 - Title: 怎樣才算成語？百度知道
 - Tags: #idiom, #Chinese
