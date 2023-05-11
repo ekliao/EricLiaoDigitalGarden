@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 #project/completed
-#ChatGPT/text 
+#gpt 
 
 [[Glasp\|Glasp]]'s nice YouTube interface `Transcript & Summary` invoked the following ChatGPT command on my behalf:
 
