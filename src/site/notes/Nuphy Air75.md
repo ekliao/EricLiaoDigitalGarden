@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/nuphy-air75/","noteIcon":"2","created":"","updated":""}
 ---
 
-#highlight/glasp/copy 
+#paste/glasp 
 #### Metadata
 Title: Nuphy Air 75 | 怎么会有这么漂亮的矮轴键盘？手感和质感 3 周使用评测 - YouTube
 [URL](https://www.youtube.com/watch?v=TAWxT1bDa_Y)
