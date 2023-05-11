@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/web-p/","noteIcon":"2","created":"","updated":""}
 ---
 
-#highlight/glasp/copy 
+#paste/glasp 
 ## Web Image Formats & Google’s WebP
 
 ![200](https://miro.medium.com/v2/resize:fit:500/0*qgN8exJ4jHguOW-6.png)
