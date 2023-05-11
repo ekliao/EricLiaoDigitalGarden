@@ -7,7 +7,7 @@
 
 #mynote (2023-05-03) Dealing with GoDaddy tech support to fix the CNAME issue was unpleasant and time-consuming. The good news is, domain-name handling was successful without adding the new CNAME record for `netlify.app` as instructed.
 
-#source/dupe/begin 
+#paste/b 
 - [src](https://levelup.gitconnected.com/netlify-custom-domains-8b4cc5fddb5d)
 ## Netlify: Custom Domains with GoDaddy
 If you have deployed your app on Netlify but would prefer to use a domain you purchased on GoDaddy, this is the blog for you.
@@ -82,7 +82,7 @@ Now it’s time to celebrate; you can now share your custom domain with the worl
 
 TopTechNow. “How to connect Netlify to Godaddy (Custom Domain).”_YouTube_, uploaded by TopTechNow, 18 January 2018, [https://www.youtube.com/watch?v=qbChXHDAK4s](https://www.youtube.com/watch?v=qbChXHDAK4s).
 
-#source/dupe/end 
+#paste/e 
 #project/completed 
 
 ---
