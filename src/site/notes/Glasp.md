@@ -42,7 +42,7 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 #project/completed 
 
 ![Screen Shot 2023-04-23 at 03.12.40.png](/img/user/_attachments/Screen%20Shot%202023-04-23%20at%2003.12.40.png)
-#highlight/glasp/copy
+#paste/glasp
 ## [[Predicative expression\|Predicative expression]] - Wikipedia
 { #5def57}
 
@@ -68,7 +68,7 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 { #9fea1a}
 
 
-#highlight/glasp/copy 
+#paste/glasp 
 ### Glasp vs Readwise: Which Is the Best Knowledge Management Tool?
 
 ![250](https://assets.hongkiat.com/uploads/glasp-vs-readwise/glasp-vs-readwise.jpg)
