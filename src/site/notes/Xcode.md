@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/2.html)
 ## Xcode Command Line Tools
 
@@ -97,6 +97,6 @@ $ sudo rm -rf /Library/Developer/CommandLineTools
 
 You are using sudo for admin privileges so you must enter the password you use to log in to your computer (you will not see the password after entering it). After removing the folder, continue to the section, "Install Homebrew."
 
-#source/dupe/end 
+#paste/e 
 
 Next: [[Homebrew\|Homebrew]]
