@@ -26,7 +26,7 @@ I was successful in publishing a subset of my Obsidian vault [here](https://eric
 
 Below, I duplicate Boswell's article so I can follow and comment.
 
-#source/dupe/begin 
+#paste/b 
 [src](https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/)
 # PUBLISHING YOUR OBSIDIAN VAULT ONLINE WITH QUARTZ
 
@@ -241,7 +241,7 @@ cd ~/sites/quartz/public; git add .; git commit -m "Update"; git push origin
 -   Originally I modified hugo-obsidian to get around the no titles issue, since I now do this in obsidian-export I no longer need to maintain a fork of that code. If it’s useful to you, here is the change I made:
     -   I had to make a minor modification to obsidian-hugo because it assumes that all of your files have a title attribute in their frontmatter. Unfortunately, most of my files do not have this title front matter. I have a branch of obsidian-hugo that uses the file’s name to generate titles if that frontmatter is not present. [https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles](https://github.com/brandonkboswell/hugo-obsidian/tree/without_titles). _As the time of this writing, that branch has not been merged into the main repo, but it may have by the time you’re reading this._)
 
-#source/dupe/end 
+#paste/e 
 
 ---
 - [Another DG guide using Hugo](https://rishikeshs.com/build-a-digital-garden/)
