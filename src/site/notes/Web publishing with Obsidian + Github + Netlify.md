@@ -5,7 +5,7 @@
 This is the main guide, with thanks to [峰的博客](https://fengrin.me/), that directly helped me build the website you're seeing. Its opening paragraphs enticed me with the idea of "publishing at the push of a button" (通過命令一鍵發布). It provides high-level steps without going into details, but gladly I managed to figure them out especially the seemingly magical yet baffling parts of Netlify's role in this undertaking.
 
 #project/learn-by-doing 
-#source/dupe/begin 
+#paste/b 
 [src](https://fengrin.me/posts/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify)
 
 ## 免費直接把筆記發布成網站: Obsidian+GitHub+Netlify
@@ -104,7 +104,7 @@ dg-home: true
 7 Publish 所有的改变，即可得到一个含有所有 Notes 关系的图表
 
 #project/completed 
-#source/dupe/end
+#paste/e
 
 ## Related resources
 - [How to Set Up a Digital Garden With Obsidian For Free](https://www.youtube.com/watch?v=kg-9n_A4Tf0) #todo Watch to see if it's a better step-by-step guide and alternative to Feng's article (this one).
