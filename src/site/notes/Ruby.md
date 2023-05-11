@@ -6,7 +6,7 @@
 
 Here's an amazingly helpful, hand-holding [guide](https://mac.install.guide/ruby/index.html) to installing Ruby by Daniel Kehoe. This is the prerequisite for embarking on a journey of [[GitHub\|GitHub]] and static web hosting (for free) using [[Hugo\|Hugo]]. So, get with it.
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/6.html)
 ## Install Ruby with Asdf
 
@@ -115,6 +115,6 @@ The command `asdf current` will display all the asdf-installed software versio
 
 If you no longer need a Ruby version, asdf can remove it with `asdf uninstall ruby 2.7.3`.
 
-#source/dupe/end 
+#paste/e 
 
 Next is updating [[RubyGem\|RubyGem]].
