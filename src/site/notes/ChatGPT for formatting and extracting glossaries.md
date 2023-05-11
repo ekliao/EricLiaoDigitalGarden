@@ -4,7 +4,7 @@
 
 *(2023-05-05)* Note: The successful example below from a month ago should not be taken for granted. A later similar attempt hit a snag with ChatGPT claiming its being only an AI and unable to read a PDF file or producing only limited lines of result. This shows the commercial companies are constantly tweaking their products for maximum profits.
 
-#ChatGPT/text 
+#gpt 
 ```
 Q: Read the content of this web page (https://www.uscourts.gov/glossary) and redisplay it as text. In the text, put each headword and its definition on the same line, separated by an underscore character ( _ ).
 
