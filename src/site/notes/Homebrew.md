@@ -4,7 +4,7 @@
 
 #project/learn-by-doing 
 
-#source/dupe/begin 
+#paste/b 
 [src](https://mac.install.guide/ruby/3.html)
 ## Install Homebrew
 
@@ -210,6 +210,6 @@ git version 2.30.1 (Apple Git-130)
 
 Next, if you haven't already done so, we'll configure [[Git\|Git]], an essential tool for any developer.
 
-#source/dupe/end 
+#paste/e 
 
 Next: [[Git\|Git]]
