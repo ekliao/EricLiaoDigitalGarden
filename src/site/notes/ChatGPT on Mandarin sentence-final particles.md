@@ -4,7 +4,7 @@
 
 What are [sentence-final particles 句尾助詞](https://en.wikipedia.org/wiki/Sentence-final_particle#Chinese)?
 
-#ChatGPT/text 
+#gpt 
 #linguistics/attitude 
 ```
 A: The phrase "我都有說嘍！" can have different interpretations depending on the context and tone of the speaker. However, in general, it can be translated into English as:
