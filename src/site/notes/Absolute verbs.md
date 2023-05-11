@@ -18,7 +18,7 @@ For senses 1 and 3, I suspect the object is implicit in `as` (I forgot the prope
 Then, happily, the answer quickly came to those who care enough to look.
 
 ---
-#highlight/glasp/copy
+#paste/glasp
 ### Metadata
 - Title:  'Discuss' Transitive Vs Intransitive Verb?
 - URL: https://www.englishforums.com/English/DiscussTransitiveIntransitive-Verb/chcdp/post.htm
