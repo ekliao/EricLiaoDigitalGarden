@@ -6,7 +6,7 @@
 by Yuanyuan Ge
 March 2020
 
-#source/dupe/begin 
+#paste/b 
 [src](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7)
 # Build a Personal Website With [[GitHub\|Github]] Pages and Hugo
 
@@ -397,5 +397,5 @@ If you want to learn more about Hugo or Github, you can refer to the official we
 
 Know more about me or my projects by following me on [Github](https://github.com/Yuanyuan229), [Linkedin](https://www.linkedin.com/in/yyge/), [Medium](https://medium.com/@yyge) or visit my website here: [https://yuanyuan229.github.io](https://yuanyuan229.github.io/).
 
-#source/dupe/end 
+#paste/e 
 #project/aborted 
