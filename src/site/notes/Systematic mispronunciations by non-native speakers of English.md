@@ -8,6 +8,9 @@
 { #7809b0}
 
 /{/ for /eI/: `pain` -> `pan`
+- So prevalent you hear it everywhere, e.g. from a YouTuber English teacher
+![[_attachments/20230429 1841 Recording.mp3]]
+
 /I/ or /i/ (not long enough) for /i:/: `seek` -> `sick`; `bee` -> `必`
 /in/ for /In/: `been` -> `必+n`
 /{/ for /E/: `bed` -> `bad`
