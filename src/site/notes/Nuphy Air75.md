@@ -21,7 +21,7 @@ $<div class="markdown-embed-title">
 </div>
 
 
-# Touch Typing on My New Nuphy Air75 Mechanical Wireless Keyboard
+[YouTube Video](https://youtu.be/LjnYAlTRt5M)
 
 </div></div>
 
