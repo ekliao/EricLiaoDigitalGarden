@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-05-13\|2023-05-13]] - The forward slash | Proprioception
+- [[10 dailynotes/2023-05-13\|2023-05-13]] - Proprioception
+- [[10 dailynotes/2023-05-12\|2023-05-12]] - Which slash is it?
 - [[10 dailynotes/2023-05-11\|2023-05-11]] - Touch typing test
 - [[10 dailynotes/2023-05-10\|2023-05-10]] - Data interoperability
 - [[10 dailynotes/2023-05-09\|2023-05-09]] - LiquidText and my opaque memory
