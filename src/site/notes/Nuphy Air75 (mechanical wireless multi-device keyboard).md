@@ -28,6 +28,9 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
-## Battery check
+## Settings
 
-To check the battery level, press FN + **backslash**. Green indicates a high/full level.
+- Battery level: `FN + \` Green indicates a high/full level.
+- Indicator lights (both sides): `FN + / + up/down arrow`
+- RGB lights: `FN + H (Halo) + up/down arrow`
+
