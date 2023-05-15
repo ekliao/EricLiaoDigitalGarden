@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-05-15\|2023-05-15]] - Writing as a habit
 - [[10 dailynotes/2023-05-14\|2023-05-14]] - Need more computing power
 - [[10 dailynotes/2023-05-13\|2023-05-13]] - Proprioception
 - [[10 dailynotes/2023-05-12\|2023-05-12]] - Which slash is it?
