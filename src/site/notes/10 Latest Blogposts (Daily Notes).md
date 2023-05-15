@@ -10,7 +10,7 @@
 - [[10 dailynotes/2023-05-10\|2023-05-10]] - Data interoperability
 - [[10 dailynotes/2023-05-09\|2023-05-09]] - LiquidText and my opaque memory
 - [[10 dailynotes/2023-05-08\|2023-05-08]] - Obsessed with note-taking in the broadest sense
-- [[2023-05-07\|2023-05-07]] - Re-reading a classic
+- [[10 dailynotes/2023-05-07\|2023-05-07]] - Re-reading a classic
 - [[10 dailynotes/2023-05-06\|2023-05-06]] - Evernote, where clipped web content goes to die | Learning regex conditionals
 - [[10 dailynotes/2023-05-05\|2023-05-05]] - The snag and the slug
 - [[10 dailynotes/2023-05-04\|2023-05-04]] - An impulse foray into Anki-to-Obsidian migration | Omnisearch woes
