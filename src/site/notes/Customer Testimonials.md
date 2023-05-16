@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/customer-testimonials/","noteIcon":"2","created":"","updated":""}
 ---
 
-- May 15, 2023, from a senior project manager at an agency with whom I worked for the first time (with verbatim quote, except the one place where the client's identity is hidden)
+#### May 15, 2023
+- From a senior project manager at an agency with whom I worked for the first time (with verbatim quote, except the one place where the client's identity is hidden)
  
 Hi Eric,  
 
