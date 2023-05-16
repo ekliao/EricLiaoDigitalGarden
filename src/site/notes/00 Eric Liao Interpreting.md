@@ -21,6 +21,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 ## My Work as Interpreter
 
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
+- [[Customer Testimonials\|Customer Testimonials]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
 
