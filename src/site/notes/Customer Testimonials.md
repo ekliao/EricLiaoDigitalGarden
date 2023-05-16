@@ -10,7 +10,7 @@ I very much appreciate your forethought to bring your own headsets, I am sure th
 Thank you for taking the time to provide us feedback and giving the best service possible despite the circumstances. I definitely look forward to working with you again in the future!
 
 *\- May 15, 2023, from a senior project manager at an agency with whom I worked for the first time*
-*\* Verbatim quote, except the one place where the client's identify is shown as \___
+*(Verbatim quote, except the one place where the client's identity is hidden)*
 
 ---
 - More...
