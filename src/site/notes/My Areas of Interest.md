@@ -9,6 +9,7 @@
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
 - [[Writing\|Writing]]
 - [[PKM\|PKM]] and [[Note-taking\|Note-taking]]
+- [[Glossary Lookup\|Glossary Lookup]] and management
 
 #questioning Are the following categories really easily distinguishable for me?
 
