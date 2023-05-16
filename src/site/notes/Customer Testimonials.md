@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/customer-testimonials/","tags":["gardenEntry"],"noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/customer-testimonials/","noteIcon":"2","created":"","updated":""}
 ---
 
 - Hi Eric,  
