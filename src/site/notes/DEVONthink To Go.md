@@ -15,4 +15,5 @@ Here's a [video](https://www.youtube.com/watch?v=KYo6L0gdGnY) by a Chinese YouTu
 ---
 ## More...
 
-A [video](https://www.youtube.com/watch?v=gH6xXJU4mC0) combining [[_d/A/A-Mydic/Zettelkasten\|Zettelkasten]] and DTTG.
+- A [video](https://www.youtube.com/watch?v=gH6xXJU4mC0) combining [[_d/A/A-Mydic/Zettelkasten\|Zettelkasten]] and DTTG.
+	- Introduced me to the iOS [Shortcuts 快捷指令](https://en.wikipedia.org/wiki/Shortcuts_(app))
