@@ -18,6 +18,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Obsidian\|Obsidian]] (2023/2)
 - Microsoft Bing (2023/2, the new one with ChatGPT)
 - [[CotEditor\|CotEditor]] (2023/2)
+- [[Interpreter's Help\|Interpreter's Help]] (2023/1)
 - [[Powerpoint\|Powerpoint]] (2023/1, really used to create)
 - [[4K Video Downloader\|4K Video Downloader]] (2023/1, works for Bilibili videos with lenient daily limit)
 - [[Canvas\|Canvas]] (2022/12)
@@ -29,6 +30,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[DaisyDisk\|DaisyDisk]]
 - [[Git\|Git]] (2021, The Apple Siri team) x
 - [[Sublime Text\|Sublime Text]] (2021) x
+- [[InterpretBank\|InterpretBank]] (2020/8)
 - [[Web Captioner\|Web Captioner]]
 - [[Otter.ai\|Otter.ai]]
 - [[Zoom\|Zoom]] (2020)
