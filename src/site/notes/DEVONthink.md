@@ -45,7 +45,7 @@ OR
 NOT
 ```
 
-Wow. This is a richer set of search operators than DTSearch! I'm instantly sold on the idea of getting it for Mac. #todo check file format support, auto indexing or manual, etc.
+Wow. This is a richer set of search operators than DTSearch! I'm instantly sold on the idea of getting it for Mac. #todo Research its file format support, method of indexing (auto or manual), etc.
 
 # Issues
 
@@ -73,4 +73,4 @@ Is DT worth it? (https://brilliantio.com/is-devonthink-worth-it/)
 
 - Joel Kissell - Take Control of DEVONthink 3
 
-![[TCoDEVONthink3-1.11 Joe Kissell.pdf]]
+![[Take Control Of DEVONthink 3-1.11 Joe Kissell.pdf]]
