@@ -27,6 +27,7 @@
 ---
 ### Major short-term
 - [[Web Publishing\|Web publishing]] - The process of publishing this website
+- [[Hearing loudly and clearly\|Hearing loudly and clearly]]
 
 ### Minor short-term
 - [[ChatGPT\|ChatGPT]]
