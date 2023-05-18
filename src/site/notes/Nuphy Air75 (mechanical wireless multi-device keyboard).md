@@ -34,3 +34,9 @@ $<div class="markdown-embed-title">
 - Indicator lights (both sides): `FN + / + up/down arrow`
 - RGB lights: `FN + H (Halo) + up/down arrow`
 
+## Windows
+
+- Use `CTRL-CMD` to effect the CTRL key on the Windows VM
+	- e.g. `CTRL-CMD-R` to start OCR on selected pages in FineReader
+
+
