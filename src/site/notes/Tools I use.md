@@ -43,7 +43,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Google Translate\|Google Translate]]
 - [[Calibre\|Calibre]]
 - [[Parallels Desktop\|Parallels Desktop]]
-- [[Abbyy Finereader\|Abbyy Finereader]]
+- [[Abbyy FineReader\|Abbyy FineReader]]
 - [[MT\|MT]]
 	- [[DeepL\|DeepL]]
 	- [[Google Translate\|Google Translate]] (also does [[ASR\|ASR]])
@@ -52,6 +52,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 
 ### [[Windows\|Windows]]-only tools
 - [[Windows 10 VM\|Windows 10 VM]]
+- Abbyy FineReader
 - [EmEditor](https://www.emeditor.com/)
 - [[Araxis Merge\|Araxis Merge]] x
 - [[DTSearch\|DTSearch]]
