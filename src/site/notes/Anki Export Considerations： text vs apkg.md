@@ -11,7 +11,7 @@ Pros and cons of these two basic ways of export, especially for:
 - showing tags in content/back side (for interoperability esp. for OB)
 - beware: tricky points on csv/tsv double-quote issues for text export
 
-#regex #csv 
+#regex #csv #tsv
 
 # Donts
 - Export into cards
@@ -19,20 +19,39 @@ Pros and cons of these two basic ways of export, especially for:
 	- No deck names
 
 # Best Choice
-- Export into notes (text)
-	- choose include deck names
-	- choose html
-	- choose tags
-	- optional “unique identifier” — usually don't want this
+- Export into "Notes in Plain Text" with the following choices
+	- include deck names
+	- include html
+	- include tags
+	- optional “unique identifier” — usually not wanted
 
-# Text export
-- Tab-separated values
-- Has double quotes where they are not needed, e.g.
+# Notes in Plain Text export format
+- An entry per line
+- Tab-separated values (fields)
+- Functional HTML tags in all fields are shown as is, e.g. `<b>`.
+- Header:
+```
+#separator:tab
+#html:true
+#deck column:1
+#tags column:4
+```
+- Entries without tags will still end with a tab character.
+
+## The tab character
+- Make sure there are no literal tab characters (\\t) in the third (content) field. Protect it first before exporting, or it will be replaced with 3 consecutive `&nbsp;`. What is worse, the plain html tags (< and >) in that entry will each become `&lt;` and `&gt;`.
+
+## The double quote
+### Where a pair surrounds the entire field
+- When not needed, e.g.
 	`"#automatism"`
-	contains no spaces nor embedded double quotes
-- Embedded double quotes are shown as two consecutive double quotes, e.g. 
-	`"/O ""tQ m@/"` 
-	contains `/O "tQ m@"` SAMPA for “automatism”
-- Backslash (\) is not escaped. 
+	(contains no spaces nor embedded double quotes)
+- Used to "escape" a literal double quote in text, e.g. 
+	`"What is written at the top of all papers (called ""pleadings"") given to the court."` 
+### No double quote
+- Backslash (\\) is not escaped. 
 - Commas are not the delimiter, so they are simple and not escaped or surrounded by double quotes, e.g.
-	`（法律）正式書面文書 a writing that formally expresses some legal agreement, such as a contract, lease, will, deed, or bond.`
+	`n. A violation of a law, obligation, or promise.`
+
+## Non-functional HTML characters
+- In the third (content) field, non-functional HTML characters (<, >, &) are shown as HTML entities, e.g. `&lt;`, `&gt;`, `&amp;`.
