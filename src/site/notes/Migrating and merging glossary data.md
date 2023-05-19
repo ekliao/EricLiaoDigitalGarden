@@ -3,6 +3,7 @@
 ---
 
 # The Problem
+
 Over the last three years, I have added some 1.2 million entries of glossary and dictionary-like data to Anki. The predominant mode of accumulation is allowing duplicate headword fields. For example, the headword `reasonable doubt` may have 20 entries from various decks, some obviously for legal glossaries, others general. Of the 1.2 million entries, there may only be 400K unique headword fields.
 
 At one point, I pondered about merging all entries sharing the same headword into one entry, to eliminate Anki's overhead for large number of notes and to make browsing the search results more convenient, requiring few mouse clicks. The advantage for the merged approach was most obvious in dealing with a massive collection of dictionaries and technical glossaries. I have such a set with probably more than 3 million entries (including duplicated headwords). For instance, the simple headword `set` is found in 40 entries, each from a dictionary or a special glossary. It would be beneficial to merge all `set` entries into one, and allow subentries to show their source, data, metadata, etc., to preserve separability for the future.
@@ -16,16 +17,7 @@ So, I would like to start a short-term programming project for coming up with co
 One key issue is normalizing the headword entry before determining whether A and B belong in the same final entry. I should design and describe the normalization carefully so that it makes intuitive sense for the purpose of glossary lookup.
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-## Banned characters
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/special-characters-disallowed-in-obsidian-file-note-names-and-proposed-substitutes/#aa6d6c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -87,4 +79,4 @@ $
 ---
 
 # Related
-- [[Obsidian file (note) name disallowed special characters and proposed substitutes\|Obsidian file (note) name disallowed special characters and proposed substitutes]]
+- [[Special characters disallowed in Obsidian file (note) names and proposed substitutes\|Special characters disallowed in Obsidian file (note) names and proposed substitutes]]
