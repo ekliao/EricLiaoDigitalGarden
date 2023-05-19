@@ -20,6 +20,15 @@ One key issue is normalizing the headword entry before determining whether A and
 
 
 
+## Banned characters
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 ```
 / → ⧸ (Big Solidus)  【巜full-width slash cannot be typed for some reason by Squirrel 】
 : → ։ OR full-width ： 
