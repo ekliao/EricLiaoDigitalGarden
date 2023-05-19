@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-05-19\|2023-05-19]] - "Massaging" glossary data
 - [[10 dailynotes/2023-05-18\|2023-05-18]] - What to do when driving?
 - [[10 dailynotes/2023-05-17\|2023-05-17]] - Let there be magic!
 - [[10 dailynotes/2023-05-16\|2023-05-16]] - Glossary lookup tool
