@@ -28,15 +28,16 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
-## Settings
+## Settings shortcuts
 
 - Battery level: `FN + \` Green indicates a high/full level.
 - Indicator lights (both sides): `FN + / + up/down arrow`
 - RGB lights: `FN + H (Halo) + up/down arrow`
 
-## Windows
-
-- Use `CTRL-CMD` to effect the CTRL key on the Windows VM
-	- e.g. `CTRL-CMD-R` to start OCR on selected pages in FineReader
+## Windows VM
+- Use `OPT` (option) key for `ALT` on Windows
+	- e.g. `CTRL-OPT-DEL`.
+- Use `CTRL` (or sometimes `CTRL-CMD`) to effect the CTRL key on Windows
+	- e.g. `CTRL-R` (or `CTRL-CMD-R`) to start OCR on selected pages in FineReader
 
 
