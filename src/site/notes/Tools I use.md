@@ -53,7 +53,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ### [[Windows\|Windows]]-only tools
 - [[Windows 10 VM\|Windows 10 VM]]
 - Abbyy FineReader
-- [EmEditor](https://www.emeditor.com/)
+- [[EmEditor\|EmEditor]]
 - [[Araxis Merge\|Araxis Merge]] x
 - [[DTSearch\|DTSearch]]
 - [[TreeSize\|TreeSize]]
