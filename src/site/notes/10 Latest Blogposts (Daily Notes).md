@@ -37,4 +37,5 @@
 - [[10 dailynotes/2023-04-17\|2023-04-17]] - Homebody | City amenities 生活機能 | Charismatic PKM KOL
 - [[10 dailynotes/2023-04-16\|2023-04-16]] - The Day My Website Went Live! 媽，我成功架站啦！
 - [[10 dailynotes/2023-04-15\|2023-04-15]] - First look at publishing a website for free
+- [[10 dailynotes/2023-04-13\|2023-04-13]] - EmEditor, take my knees!
 - [[10 dailynotes/2023-03-16\|2023-03-16]] - ChatGPT4
