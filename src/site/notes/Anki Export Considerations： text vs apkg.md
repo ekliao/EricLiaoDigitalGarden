@@ -43,14 +43,19 @@ Pros and cons of these two basic ways of export, especially for:
 
 ## The double quote
 ### Where a pair surrounds the entire field
-- When not needed, e.g.
+- When not needed, e.g. when the content field contains no spaces nor embedded double quotes:
 	`"#automatism"`
-	(contains no spaces nor embedded double quotes)
 - Used to "escape" a literal double quote in text, e.g. 
 	`"What is written at the top of all papers (called ""pleadings"") given to the court."` 
-### No double quote
-- Backslash (\\) is not escaped. 
-- Commas are not the delimiter, so they are simple and not escaped or surrounded by double quotes, e.g.
+- Used to embed a literal newline character, e.g. after the `<div>` tag:
+```
+deckname[tab]front[tab]"<p>foo<p/><div>
+bar</div>baz"[tab]tag1 tag2
+```
+
+### Absence
+- The backslash (\\) is not escaped. 
+- Commas are not the delimiter,. They are simple, not escaped nor surrounded by double quotes, e.g.
 	`n. A violation of a law, obligation, or promise.`
 
 ## Non-functional HTML characters
