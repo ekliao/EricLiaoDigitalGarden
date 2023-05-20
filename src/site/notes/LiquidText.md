@@ -21,3 +21,5 @@ So, I'm officially excited about reading and note-taking in LQ again! This time,
 A timely decision: I just ordered the critically acclaimed Nuphy wireless keyboard that supports up to four devices at once. When I can type as fast on the iPad as I can on Mac, I'll definitely love the iPad's uniqueness in multi-mode input combining the Pencil and keyboard.
 
 As an aside: I should question whether I have mistreated MarginNote in the same way. After all, I spent just as much to buy it. Cost is no issue at this point. But if I neglect MN based on my faulty memory, it would be such a pity.
+
+## [[LiquidText full feature list\|LiquidText full feature list]]
