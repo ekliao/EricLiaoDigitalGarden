@@ -121,3 +121,6 @@ Detailed Feature Summary
 3.  Our mobile app uses the standard Apple document picker interface to facilitate compatibility with MDM solutions for managing remote storage access.
 4.  We support the Business Center for Windows version bulk purchases with self distribution and license administration.
 5.  Enterprise sales through Apple and Microsoft Business Stores are also supported
+
+---
+[[LiquidText\|LiquidText]]
