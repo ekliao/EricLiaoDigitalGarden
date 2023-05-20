@@ -23,3 +23,5 @@ A timely decision: I just ordered the critically acclaimed Nuphy wireless keyboa
 As an aside: I should question whether I have mistreated MarginNote in the same way. After all, I spent just as much to buy it. Cost is no issue at this point. But if I neglect MN based on my faulty memory, it would be such a pity.
 
 ## [[LiquidText full feature list\|LiquidText full feature list]]
+
+- [DT/LQ forum](https://www.google.com/search?q=define+trifecta)
