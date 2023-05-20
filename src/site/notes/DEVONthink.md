@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/devo-nthink/","noteIcon":"2","created":"","updated":""}
 ---
 
-Informally called DT.
+Informally called DT or DT3, DEVONthink has an iOS/iPadOS product called [[DEVONthink To Go\|DEVONthink To Go]] or DTTG.
 
-Has a mobile product called [[DEVONthink To Go\|DEVONthink To Go]] or DTTG.
-
-After reading this article, I wanted to get DT (and DTTG) so bad:
+What a delight it is to find DT is available on Mac only! After reading this article, I wanted to get DT (and DTTG) so bad:
 
 #paste/glasp 
 ## Using DEVONThink for Managing and Annotating PDFs – The Sweet Setup
