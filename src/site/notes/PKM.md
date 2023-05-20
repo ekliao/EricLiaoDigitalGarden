@@ -17,7 +17,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[Evernote\|Evernote]]
 - [[DTSearch\|DTSearch]]
 - [[Notability\|Notability]]
-- [[LiquidText\|LiquidText]] (https://www.liquidtext.net/) - Rediscovered its value
+- [[LiquidText\|LiquidText]] (https://www.liquidtext.net/) - Rediscovered its value in 2023
 	
 ### Obsolete
 - [MarginNote](https://www.marginnote.com/) - Bought on the iPad but only made a glancing try. Heard it has evolved a lot though.
