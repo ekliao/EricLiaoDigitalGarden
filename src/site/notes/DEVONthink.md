@@ -73,4 +73,4 @@ Is DT worth it? (https://brilliantio.com/is-devonthink-worth-it/)
 
 - Joel Kissell - Take Control of DEVONthink 3
 
-![[Take Control Of DEVONthink 3-1.11 Joe Kissell.pdf]]
+![[books/Take Control Of DEVONthink 3-1.11 Joe Kissell.pdf]]
