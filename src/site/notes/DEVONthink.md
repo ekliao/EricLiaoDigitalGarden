@@ -67,6 +67,26 @@ DT Praised by Taiwanese podcaster 星箭廣播 (at 33:50)(https://open.firstory.
 
 Is DT worth it? (https://brilliantio.com/is-devonthink-worth-it/)
 
+---
+# PDF
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/obsidian-and-pdf/#ad6a81" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Watch [Nicole's](https://www.youtube.com/watch?v=VqOc9OsMX_s) great overview and rubric, rating:
+	Obsidian
+	DEVONthink
+	Readwise Reader
+	Skim
+	Zotero
+She may be wrong about [DT](https://youtube.com/clip/Ugkx4DpcLU6AHKPmvpUHNMkpp6J8w7dZl7bz) but it's a cautionary tale. 
+
+</div></div>
+
+
+---
+
 # Books
 
 - Joel Kissell - Take Control of DEVONthink 3
