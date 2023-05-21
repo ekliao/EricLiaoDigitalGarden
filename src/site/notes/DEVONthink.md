@@ -75,11 +75,11 @@ Is DT worth it? (https://brilliantio.com/is-devonthink-worth-it/)
 
 
 Watch [Nicole's](https://www.youtube.com/watch?v=VqOc9OsMX_s) great overview and rubric, rating:
-	Obsidian
-	DEVONthink
+	[[Obsidian\|Obsidian]]
+	[[DEVONthink\|DEVONthink]]
 	Readwise Reader
 	Skim
-	Zotero
+	[[Zotero\|Zotero]] - all boxes checked
 She may be wrong about [DT](https://youtube.com/clip/Ugkx4DpcLU6AHKPmvpUHNMkpp6J8w7dZl7bz) but it's a cautionary tale. 
 
 </div></div>
