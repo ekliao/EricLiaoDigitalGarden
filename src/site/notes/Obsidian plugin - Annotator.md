@@ -27,13 +27,27 @@ Lo and behold!
 
 ![Screen Shot 2023-05-08 at 11.57.50.png](/img/user/_attachments/Screen%20Shot%202023-05-08%20at%2011.57.50.png)
 
-## Cons
-- 😭 No free hand-written annotation! Look at this page, made with the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
+---
+# Pros
+
+## Textual annotations are searchable in OB's general search, and lead to original doc and annotation
+
+![_attachments/Screen Shot 2023-05-21 at 14.13.23.png](/img/user/_attachments/Screen%20Shot%202023-05-21%20at%2014.13.23.png)
+
+# Cons
+
+## No free-form hand-drawing or underlining, only highlighter and textual comments
+😭 No free-form hand-drawn annotation! Look at this page, made with the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
 
 ![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/IMG_6A993934BA76-1.jpeg)
 
-- The search on the annotation pane does not work, e.g. `solutions` should find the specific annotation that says "solutions inside". This works, however, on the left-nav general search for all files. Even though it is findable, locating the found annotation from the left-nav result is a pain, because clicking on the result doesn't home in on the target.
+## Annotation pane search does not work
+The search on the annotation pane does not work, e.g. `solutions` should find the specific annotation that says "solutions inside". This works, however, on the left-nav general search for all files. Even though it is findable, locating the found annotation from the left-nav result is a pain, because clicking on the result doesn't home in on the target.
 ![_attachments/Screen Shot 2023-05-19 at 21.06.48.png](/img/user/_attachments/Screen%20Shot%202023-05-19%20at%2021.06.48.png)
-- (2023-05-19) On the iPad, selecting a portion of text beyond one line can be very frustrating, because the screen will show the wrong selection or show highlight filling the entire screen. I had previously thought this to be tolerable, but now I have experienced this terrible problem enough that I am counting out this plugin as a be all, end all PDF reading and annotating tool for me. Despite the OB integration, this is not worth it. Use LiquidText instead. It allows free-form drawing, and that trumps anything.
+
+## iPad usability
+
+(2023-05-19) On the iPad, selecting a portion of text beyond one line can be very frustrating, because the screen will show the wrong selection or show highlight filling the entire screen. I had previously thought this to be tolerable, but now I have experienced this terrible problem enough that I am counting out this plugin as a be all, end all PDF reading and annotating tool for me. Despite the OB integration, this is not worth it. Use LiquidText instead. It allows free-form drawing, and that trumps anything.
+
 # The verdict
 For this reason, I ~~am reconsidering~~ decided to return to [[LiquidText\|LiquidText]] as the all-around tool for PDF note-taking.
