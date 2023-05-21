@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/obsidian-and-pdf/","noteIcon":"2","created":"","updated":""}
 ---
 
+Watch [Nicole's](https://www.youtube.com/watch?v=VqOc9OsMX_s) great overview and rubric, rating:
+	Obsidian
+	DEVONthink
+	Readwise Reader
+	Skim
+	Zotero
+She may be wrong about [DT](https://youtube.com/clip/Ugkx4DpcLU6AHKPmvpUHNMkpp6J8w7dZl7bz) but it's a cautionary tale.
+{ #ad6a81}
+
+
 # Pros
 - [Deep linking into PDF by page number](https://youtube.com/clip/UgkxpiKDXHRy0qFUwXxeb426abPCcmPY-jo9)
 # Cons
