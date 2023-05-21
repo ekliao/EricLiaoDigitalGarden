@@ -34,6 +34,7 @@ Nice! It's copy 'n' paste.
 #### [[OB Settings\|OB Settings]]
 #### [[Using Obsidian\|Using Obsidian]]
 #### [[Obsidian Publish\|Obsidian Publish]]
+#### [[Obsidian and PDF\|Obsidian and PDF]]
 #### [[Obsidian Issues\|Issues]]
 #### [[OB with other tools\|OB with other tools]]
 
