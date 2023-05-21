@@ -20,7 +20,7 @@
 - Computer-assisted interpretation (CAI) tools
 - [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [[Note on the SAMPA phonetic transcription\|SAMPA]]
 - Computer-assisted translation (CAT) tools
-- [[My audio equipment\|Audio processing]]
+- [[Speech sound and audio processing\|Speech sound and audio processing]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 - Reading by [[Audio Book Summary\|listening to audio book summaries]]
 
