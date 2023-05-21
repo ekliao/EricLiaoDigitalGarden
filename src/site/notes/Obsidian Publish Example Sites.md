@@ -20,7 +20,7 @@
 ## Working [[Obsidian Publish\|Obsidian Publish]] Sites
 - **[A List](https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248)** (lots of dead links)
 - [Fork My Brain (Nicole Van Der Hoeven)](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
-- [英漢類義詞典（中文索引）](https://publish.obsidian.md/thesaurus/)
+- 🔥 [基礎漢英類義詞典（中文索引，英漢釋義）](https://publish.obsidian.md/thesaurus/)
 - [Coach Wu Gang](https://www.coachwugang.com) ([video](https://www.bilibili.com/video/BV1dU4y1p7gg/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f))
 - [Petrichor](https://publish.obsidian.md/bryan-jenks/Z/!+2020-12-09+Why+isn't+color-coding+explanations+more+common)
 - [Ammar Husain](https://notes.ammarh.io/)
