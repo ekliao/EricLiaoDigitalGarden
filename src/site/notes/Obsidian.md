@@ -35,7 +35,9 @@ Nice! It's copy 'n' paste.
 #### [[Using Obsidian\|Using Obsidian]]
 #### [[Obsidian Publish\|Obsidian Publish]]
 #### [[Obsidian and PDF\|Obsidian and PDF]]
-#### [[Obsidian Issues\|Issues]]
+
+#### [[Obsidian Issues\|Issues I found]]
+
 #### [[OB with other tools\|OB with other tools]]
 
 ## [[Obsidian features of interest\|Features of interest]]
