@@ -36,8 +36,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
 [Scrintal](https://www.scrintal.com/)
-[Zotero](https://www.zotero.org/)
-	A research assistant
+[[Zotero\|Zotero]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 [[_d/A/A-Mydic/Zettelkasten\|Zettelkasten]]
 	Not an app but a method with apps implementing it to some degree, notably Roam
 [[Logseq\|Logseq]]
