@@ -4,6 +4,8 @@
 
 *(New to old)*
 
+- The Publication Status popup becomes sluggish after 200+ notes, taking some 15-20 seconds to update the status. But, clicking ahead on the buttons to publish new and changed notes before seeing the final count *does* seem to have an effect. Keep doing this but keep watch.
+
 - 🤷 Any Glasp URL don't work as links. The html URL is exposed raw. Not a disaster, just ungainly and inconvenient.
 
 - ☠️ The Search bar at the top of the left-nav-pane does not work for all non-CJK words, even simple single-word queries. Some works, others don't. It's hit-and-miss. And, mostly annoyingly, it does not work at all for Chinese. 
