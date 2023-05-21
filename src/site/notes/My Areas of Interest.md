@@ -14,13 +14,13 @@
 #questioning Are the following categories really easily distinguishable for me?
 
 ### Minor long-term
+- [[Speech sound and audio processing\|Speech sound and audio processing]]
 - [[Teaching and Coaching\|Teaching]] language and interpretation
 - [[PKM\|PKM]], especially [[Anki\|Anki]] and [[Obsidian\|Obsidian]] (you are looking at an instance of it)
 - [[Regex\|Regular expressions (Regex or RegExp)]]
 - Computer-assisted interpretation (CAI) tools
 - [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and [[Note on the SAMPA phonetic transcription\|SAMPA]]
 - Computer-assisted translation (CAT) tools
-- [[Speech sound and audio processing\|Speech sound and audio processing]]
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 - Reading by [[Audio Book Summary\|listening to audio book summaries]]
 
@@ -39,4 +39,4 @@
 - Wireless mechanical keyboards: [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]]
 
 ---
-- [[Tools I use\|Tools I use]]
+## [[Tools I use\|Tools I use]]
