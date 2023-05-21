@@ -61,7 +61,7 @@ Detailed Feature Summary
     -   Create comments referring to multiple documents at once.
     -   Even create comments in one document that refer to another document!
     -   ***Copy URL links to text selections or objects! Paste into text boxes, other LiquidText projects, or even other apps.***
-9.  Integrate with ***Zotero and Mendeley***. Import documents with metadata directly from your reference manager, and automatically export back again!
+9.  Integrate with ***[[Zotero\|Zotero]] and Mendeley***. Import documents with metadata directly from your reference manager, and automatically export back again!
 10.  ***OCR*** to select text and search in scanned documents!
 11.  Display Documents in Parallel
     -   Drag documents from the “Document Pane” to display them above/below others that are already visible.
