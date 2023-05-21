@@ -4,7 +4,7 @@
 
 *(New to old)*
 
-- The Publication Status popup becomes sluggish after 200+ notes, taking some 15-20 seconds to update the status. But, clicking ahead on the buttons to publish new and changed notes before seeing the final count *does* seem to have an effect. Keep doing this but keep watch.
+- The Publication Status popup becomes sluggish after 100+ notes in the published garden, taking some 15-20 seconds to show updated counts. But, clicking ahead on the buttons to publish new and changed notes before seeing the final count *does* seem to have an effect. Keep doing this but keep watch.
 
 - 🤷 Any Glasp URL don't work as links. The html URL is exposed raw. Not a disaster, just ungainly and inconvenient.
 
