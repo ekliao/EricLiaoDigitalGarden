@@ -6,4 +6,4 @@
 	[[Setting up Quartz and Hugo for Publishing Obsidian Vault\|Setting up Quartz and Hugo for Publishing Obsidian Vault]]
 
 * Final success
-	[[Web publishing with Obsidian + Github + Netlify\|Web publishing with Obsidian + Github + Netlify]]
+	🔥 [[Web publishing with Obsidian + Github + Netlify\|Web publishing with Obsidian + Github + Netlify]] 
