@@ -20,4 +20,4 @@ Interest in note-taking has come on strong and ~~looks to stay~~ seems like it i
 
 [[LiquidText\|LiquidText]]
 [[Notability\|Notability]]
-Obsidian, using the [[Obsidian plugin - Annotator\|Obsidian plugin - Annotator]]
+Obsidian, using the [[Obsidian plugin - Annotator (PDF)\|Obsidian plugin - Annotator (PDF)]]
