@@ -74,6 +74,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ### [[My audio equipment\|Audio equipment]] 
 
 ## Accessories
+- [[Apple Watch Ultra\|Apple Watch Ultra]]
 - [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]]
 - [[Apple Pencil\|Apple Pencil]]
 - Wireless mouse
