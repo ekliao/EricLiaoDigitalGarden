@@ -30,7 +30,7 @@ $<div class="markdown-embed-title">
 
 ## Settings shortcuts
 
-- Battery level: `FN + \` Green indicates a high/full level (*note:* shown only when not charging)
+- Battery level: `FN + \` Green indicates a high/full level (*Beware:* the battery level is shown only when the charging cable is unplugged.)
 - Indicator lights (both sides): `FN + / + up/down arrow`
 - RGB lights: `FN + H (Halo) + up/down arrow`
 
