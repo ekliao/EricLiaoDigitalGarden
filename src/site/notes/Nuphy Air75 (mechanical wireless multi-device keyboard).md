@@ -35,8 +35,8 @@ $<div class="markdown-embed-title">
 - RGB lights: `FN + H (Halo) + up/down arrow`
 
 ## Windows VM
-- Use `OPT` (option) key for `ALT` on Windows
-	- e.g. `CTRL-OPT-DEL`.
+- Use `OPT` (option) key for `ALT` on Windows, naturally
+	- e.g. `CTRL-OPT-DEL` to effect the "three-finger salute"
 - Use `CTRL` (or sometimes `CTRL-CMD`) to effect the CTRL key on Windows
 	- e.g. `CTRL-R` (or `CTRL-CMD-R`) to start OCR on selected pages in FineReader
 - Use F1-F12 function keys like normal, e.g. F5 for refresh, F3 for next search
