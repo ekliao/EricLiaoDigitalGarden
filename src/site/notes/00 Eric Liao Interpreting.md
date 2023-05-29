@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2","created":"","updated":""}
 ---
 
-# Eric Liao Interpreting 中英文會議/法庭口譯
+# Eric Liao Interpreting 中英文會議口譯/法庭認證口譯
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
