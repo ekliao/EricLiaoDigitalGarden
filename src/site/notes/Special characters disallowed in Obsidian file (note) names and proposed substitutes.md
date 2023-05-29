@@ -9,7 +9,7 @@
 
 
 ```
-/ → ⧸ (Big Solidus)  【巜full-width slash cannot be typed for some reason by Squirrel 】
+/ → ⧸ (Big Solidus)  【巜full-width slash cannot be typed for some reason by Rime/Squirrel 】
 : → ։ OR full-width ： 
 [ → { OR full-width ［  
 ] → }  OR full-width ］ 
