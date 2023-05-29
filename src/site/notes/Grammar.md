@@ -5,7 +5,7 @@
 # English
 The most up-to-date, comprehensive, and authoritative English grammar, bar none, is the [Cambridge Grammar of the English Language](https://www.cambridge.org/core/books/cambridge-grammar-of-the-english-language/A78402ABF5176AD283494180BCA2046F), 2002.
 ### Modality
-- This [ELT](https://www.eltconcourse.com/training/inservice/modality/types_of_modality.html) teacher training page mentions a fourth modality—"[[_d/A/A-Mydic/alethic\|alethic]]" (真勢模態的，真理論的)—new to me. It cites F.R. Palmer's *Mood and Modality (e2, 2001)*.
+- This [ELT](https://www.eltconcourse.com/training/inservice/modality/types_of_modality.html) teacher training page mentions a fourth modality—"[[_d/A/A-Mydic/alethic\|alethic]]" (真勢模態的，真理論的)—new to me. It cites F.R. Palmer's *Mood and Modality (e2, 2001)*. 
 
 ---
 - Predicate vs. Predicative
