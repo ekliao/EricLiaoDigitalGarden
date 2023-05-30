@@ -18,7 +18,7 @@
 - [[ChatGPT for formatting and extracting glossaries\|Formatting and extracting glossaries]]
 
 ### Linguistic evaluation
-- [[Judging between alternative translations or paraphrases\|Judging between alternative translations or paraphrases]]
+- [[ChatGPT - Judging between alternative translations or paraphrases\|Judging between alternative translations or paraphrases]]
 - [[ChatGPT's judgment of register 語域\|Judging usage and register 語域]]
 - [[ChatGPT judgment of attitude and tone\|Judging attitude and tone]]
 	- [[ChatGPT on Mandarin sentence-final particles\|Understanding Mandarin particles]]
