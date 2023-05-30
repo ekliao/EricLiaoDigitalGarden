@@ -36,7 +36,6 @@
 
 ### Minor transient (the shining objects of the day)
 - Typography, [[Fonts\|fonts]]
-- Wireless mechanical keyboards: [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]]
 
 ---
 ## [[Tools I use\|Tools I use]]
