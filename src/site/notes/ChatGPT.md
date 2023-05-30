@@ -25,6 +25,9 @@
 ### Summarization
 - [[ChatGPT summary of a text or transcript\|Summary of a text or transcript]]
 
+## Translation
+- [[Explain a word by way of translation\|Explain a word by way of translation]]
+
 ---
 ## Products and services of interest
 - [[Office Copilot\|Office Copilot]] (2023)
