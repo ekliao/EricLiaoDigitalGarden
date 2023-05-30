@@ -35,6 +35,8 @@
 - [[Computer programming\|Computer programming]]
 
 ### Minor transient (the shining objects of the day)
+*(New to old)*
+- A large rolling briefcase, such as [[Briefcase on wheels\|Briefcase on wheels]]
 - Typography, [[Fonts\|fonts]]
 
 ---
