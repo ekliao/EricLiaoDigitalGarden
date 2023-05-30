@@ -18,7 +18,7 @@ $<div class="markdown-embed-title">
 
 # Hello, Apple Watch Ultra!
 
-A big and stylish upgrade. Whether size matters may be debatable, at least the battery size matters a lot to me, and and I truly enjoy the bigger watch face, on which the on-screen keyboard typing is finally usable and surprisingly good.
+A big and stylish upgrade. Whether size matters may be debatable; at least the battery size matters a lot to me, and I truly enjoy the bigger watch face, on which the on-screen keyboard typing is finally usable and surprisingly good.
 
 ![../_attachments/IMG_4526.jpg|300](/img/user/_attachments/IMG_4526.jpg)
 
