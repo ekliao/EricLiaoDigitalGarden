@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-05-30\|2023-05-30]] - When a pill loses its magic
 - [[10 dailynotes/2023-05-28\|2023-05-28]] - A big upgrade in style
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]]  - Good breaking in
