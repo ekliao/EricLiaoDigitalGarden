@@ -24,6 +24,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 - [[Customer Testimonials\|Customer Testimonials]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
+- [[Interpreting - Just for laughs\|Just for laughs]]
 
 ## Start Exploring
 
