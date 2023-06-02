@@ -27,7 +27,7 @@
 - [[ChatGPT summary of a text or transcript\|Summary of a text or transcript]]
 
 ### Translation
-- [[ChatGPT - Explain a word by way of translation\|Explain a word by way of translation]]
+- [[20 chatgpt-archive/ChatGPT - Explain a word by way of translation\|Explain a word by way of translation]]
 
 ---
 ## Products and services of interest
