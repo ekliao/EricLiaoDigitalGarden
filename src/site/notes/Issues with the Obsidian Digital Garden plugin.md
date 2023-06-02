@@ -7,6 +7,7 @@
 - Occasionally due to browser caching, what's actually published isn't what the desktop browser (Chrome) shows, involving wrong links. If this happens, simply clearing browser's "cached images/files" will clear the issue.
 
 - The Publication Status popup becomes sluggish after 100+ notes in the published garden, taking some 15-20 seconds to show updated counts. But, clicking ahead on the buttons to publish new and changed notes before seeing the final count *does* seem to have an effect. Keep doing this but keep watch.
+	- 2023-06-01: Strangely, despite being much more sluggish on the iOS, the popup is actually more responsive there. If the desktop seems stuck, try the iOS to get published sooner.
 
 - 🤷 Any Glasp URL don't work as links. The html URL is exposed raw. Not a disaster, just ungainly and inconvenient.
 
