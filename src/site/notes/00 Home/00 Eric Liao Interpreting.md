@@ -4,9 +4,10 @@
 
 # Eric Liao Interpreting 中英文口譯
 
-#### Mandarin - English Conference Interpreter 中英文會議口譯 / 中英文会议口译
+#### Mandarin - English Conference Interpreter 中英文會議同步口譯 / 中英文会议同声传译
 
-#### Deposition Interpreter 庭外採證口譯 / 庭外采证口译
+#### Deposition Interpreter (as main or check interpreter)
+#### 庭外採證口譯（主翻或糾翻）/ 庭外采证口译（主翻或纠翻）
 - IPR 智慧財產權
 - Patents 專利
 - Telecoms 電訊
