@@ -17,6 +17,7 @@
 
 #### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
 
+---
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
@@ -27,6 +28,8 @@ My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu
 Here's my [CV/résumé](https://drive.google.com/file/d/1x2w2NirxGCWH6FfUQIGFDNAa1wWMs3oS/view?usp=sharing) or if you prefer it in [Word](https://docs.google.com/document/d/1PSfvw_oGpZYrjDhLmePZDfkx-2DQbcLdtMUTyIZMV40/edit?usp=sharing) *(last updated: Jan 16, 2023.)* 
 
 I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and also from [[Taigi\|Tâigí]].
+
+---
 
 ## Welcome! 
 
@@ -44,6 +47,8 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 - [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
 - [[My Areas of Interest\|My Areas of Interest]]
+
+---
 
 ## Contact, Comment, Question?
 
