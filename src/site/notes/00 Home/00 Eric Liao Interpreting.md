@@ -11,7 +11,9 @@
 - IPR 智慧財產權
 - Patents 專利
 - Telecoms 電訊
+- Cryptocurrency 密幣
 - Pharma 製藥
+- Software/Hardware 電腦軟硬體
 
 #### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
 
