@@ -5,6 +5,7 @@
 ### Major long-term
 - Linguistics, [[Grammar\|grammar]], [[Usage\|usage]], [[Dictionaries and thesauri\|dictionaries and thesauri]]
 - [[Translation and interpretation\|Translation and interpretation]]
+	- Techniques
 - [[Language and languages\|Language and languages]]
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
 - [[Writing\|Writing]]
@@ -31,7 +32,7 @@
 - [[Migrating and merging glossary data\|Migrating and merging glossary data]]
 
 ### Minor short-term
-- [[ChatGPT\|ChatGPT]]
+- [[ChatGPT\|ChatGPT]] applications
 - [[Computer programming\|Computer programming]]
 
 ### Minor transient (the shining objects of the moment)
