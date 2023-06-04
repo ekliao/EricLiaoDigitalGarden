@@ -4,7 +4,7 @@
 
 Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
 
-- See some ~~awsome~~ (scary) [[regexes\|regexes]] in use. (*Warning: not for the faint of heart*)
+- See some of my ~~awesome~~ (scary) [[regexes\|regexes]] in use. (*Warning: not for the faint of heart*)
 
 ---
 ## Perl and Regex: a match made in heaven
