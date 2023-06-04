@@ -38,6 +38,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Movavi Screen Recorder\|Movavi Screen Recorder]]
 - [[Loopback\|Loopback]]
 - QuickTime
+- [[aTimeLoggerPro\|aTimeLoggerPro]]
 - [[Notability\|Notability]]
 - [[Anki\|Anki]] (2018)
 - [[Google Translate\|Google Translate]]
