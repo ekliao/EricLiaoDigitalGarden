@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+
+- [[10 dailynotes/2023-06-04\|2023-06-04]] - Dumb and cheap conversion
 - [[10 dailynotes/2023-06-02\|2023-06-02]] - To FIRE, or not to FIRE?
 - [[10 dailynotes/2023-06-01\|2023-06-01]] - Interpreter's Help
 - [[10 dailynotes/2023-05-31\|2023-05-31]] - A really silly, feel-good money chart
