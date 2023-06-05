@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-06-05\|2023-06-05]] - A delight beyond comparison
 - [[10 dailynotes/2023-06-04\|2023-06-04]] - Utility beyond comparison
 - [[10 dailynotes/2023-06-03\|2023-06-03]] - Dumb and cheap conversion | Weight loss
 - [[10 dailynotes/2023-06-02\|2023-06-02]] - To FIRE, or not to FIRE?
@@ -11,7 +12,7 @@
 - [[10 dailynotes/2023-05-29\|2023-05-29]] - Agencies
 - [[10 dailynotes/2023-05-28\|2023-05-28]] - A big upgrade in style
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
-- [[10 dailynotes/2023-05-24\|2023-05-24]]  - Good breaking in
+- [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
 - [[10 dailynotes/2023-05-19\|2023-05-19]] - "Massaging" glossary data
 - [[10 dailynotes/2023-05-18\|2023-05-18]] - What to do when driving?
