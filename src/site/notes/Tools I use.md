@@ -39,6 +39,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Loopback\|Loopback]]
 - QuickTime
 - [[aTimeLoggerPro\|aTimeLoggerPro]]
+- [[Record It!\|Record It!]] (2018, rediscovered its utility in 2023)
 - [[Notability\|Notability]]
 - [[Anki\|Anki]] (2018)
 - [[Google Translate\|Google Translate]]
