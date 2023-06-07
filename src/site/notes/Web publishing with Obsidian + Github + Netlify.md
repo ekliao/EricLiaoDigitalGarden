@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/web-publishing-with-obsidian-github-netlify/","noteIcon":"2","created":"","updated":""}
 ---
 
-This is the main guide, with thanks to [峰的博客](https://fengrin.me/), that directly helped me build the website you're seeing. Its opening paragraphs enticed me with the idea of "publishing at the push of a button" (通過命令一鍵發布). It provides high-level steps without going into details, but gladly I managed to figure them out especially the seemingly magical yet baffling parts of Netlify's role in this undertaking.
+This is the main guide, with thanks to [峰的博客](https://fengrin.me/), that directly helped me build the website you're seeing. Its opening paragraphs enticed me with the idea of "publishing at the push of a button" (通過命令一鍵發布). It provides high-level steps without going into detailed steps, but luckily I managed to figure them out, especially the seemingly magical yet baffling parts of Netlify's role in this undertaking.
 
 #project/learn-by-doing 
 #paste/b 
