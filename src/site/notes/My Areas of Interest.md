@@ -24,6 +24,7 @@
 - Computer-assisted translation (CAT) tools
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 - Reading by [[Audio Book Summary\|listening to audio book summaries]]
+- [[Book digitization\|Book digitization]]
 
 ---
 ### Major short-term
