@@ -4,6 +4,13 @@
 
 *(new to old)*
 
+## iCloud free sync is often stuck in synchronizing the Obsidian configuration files
+
+This view on my iPhone has become a daily eyesore:
+
+![_attachments/IMG_EAE1F33EA278-1.jpeg|250](/img/user/_attachments/IMG_EAE1F33EA278-1.jpeg)
+- [The problem, and two potential solutions using Github (manual sync) and Apple Scriptable](https://www.reddit.com/r/ObsidianMD/comments/vdal97/is_there_a_way_to_shorten_this_waiting_time_or/)
+
 ## Hierarchical tags
 
 Metadata hierarchical tags can't be searched through the hashtag syntax
