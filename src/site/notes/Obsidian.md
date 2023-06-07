@@ -26,6 +26,11 @@ Nice! It's copy 'n' paste.
 
 ## OB Topics
 
+#### [[My successful attempt at Obsidian web publishing\|My successful attempt at Obsidian web publishing]]
+
+#### [[Obsidian Issues\|Issues I found]]
+
+#### [[Obsidian Publish\|Obsidian Publish]]
 #### [[Obsidian Hotkeys\|Hotkeys]]
 #### [[OB Tips and Hacks I've Got\|Tips and Hacks]]
 #### [[Obsidian Sync\|Sync]]
@@ -33,10 +38,7 @@ Nice! It's copy 'n' paste.
 #### [[Obsidian Search\|Search]]
 #### [[OB Settings\|OB Settings]]
 #### [[Using Obsidian\|Using Obsidian]]
-#### [[Obsidian Publish\|Obsidian Publish]]
 #### [[Obsidian and PDF\|Obsidian and PDF]]
-
-#### [[Obsidian Issues\|Issues I found]]
 
 #### [[OB with other tools\|OB with other tools]]
 
