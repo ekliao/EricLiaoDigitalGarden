@@ -28,6 +28,9 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
+## Win/Mac switch
+- 🤷 Ironically, setting it to Mac will enable F3 for 'next hit' after the toggle, but setting it to Win will not work.  
+
 ## Settings shortcuts
 
 - Battery level: `FN + \` Green indicates a high/full level (*Beware:* the battery level is shown only when the charging cable is unplugged.)
@@ -39,5 +42,5 @@ $<div class="markdown-embed-title">
 	- e.g. `CTRL-OPT-DEL` to effect the "three-finger salute"
 - Use `CTRL` (or sometimes `CTRL-CMD`) to effect the CTRL key on Windows
 	- e.g. `CTRL-R` (or `CTRL-CMD-R`) to start OCR on selected pages in FineReader
-- Use F1-F12 function keys like normal, e.g. F5 for refresh, F3 for next search
+- Use F1-F12 function keys like normal, e.g. F5 for refresh, F3 for next hit
 	- Toggle `FN-TAB-'F'` (the letter 'F')
