@@ -14,6 +14,7 @@
 - [[10 dailynotes/2023-05-30\|2023-05-30]] - When a pill loses its magic
 - [[10 dailynotes/2023-05-29\|2023-05-29]] - Agencies
 - [[10 dailynotes/2023-05-28\|2023-05-28]] - A big upgrade in style
+- [[10 dailynotes/2023-05-27\|2023-05-27]] - Apple Notes seems more palatable
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
