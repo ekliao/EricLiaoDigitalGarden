@@ -4,6 +4,13 @@
 
 *(new to old)*
 
+## Tags in file name and in metadata don't work as tags
+
+The pound sign (\#) for tags in file name is allowed if the file is directly copied under vault externally. Despite this, it does not work as tags in OB, e.g.:
+
+![../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
+
+---
 ## iCloud free sync is often stuck in synchronizing the Obsidian configuration files
 
 This view on my iPhone has become a daily eyesore:
