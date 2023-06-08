@@ -25,6 +25,12 @@
 { #aa6d6c}
 
 
+## Exceptions
+
+Note that the pound sign (\#) though cannot be manually used in creating a new note, it can exist in the name of files that are copied under the Obsidian vault externally in the file system, e.g. 
+
+![../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
+
 #paste/b
 ### Use case or problem
 
