@@ -6,7 +6,8 @@ A web highlighter that is in direct competition with [[Readwise Reader\|Readwise
 
 My Glasp [profile](https://glasp.co/#/qke5s3ilkchdj7ts).
 
-## Quick verdict: 4/5 stars
+#rating 
+## Quick verdict: 4 stars
 - Super neat, complete with the following metadata:
 	- title
 	- URL
