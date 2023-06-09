@@ -6,7 +6,7 @@ Here is a list of quickly-hacked-together regex patterns to mitigate tasks that 
 
 ## In OB
 
-- Find all newly created dictionary entries with tag #todo/file/d and file path not already under /A/A-Dict/(word).md
+- Find all newly created dictionary entries with tag #td and file path not already under /A/A-Dict/(word).md
 - 
 `#todo/file/d path:/[^t]\/[^\/]+\.md`
 (Not robust but largely gets the job done)
