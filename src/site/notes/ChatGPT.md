@@ -30,7 +30,7 @@
 - [[ChatGPT - Explain a word by way of translation\|Explain a word by way of translation]]
 
 ### Syntactic linearity in translation
-- ⛔️ [[gpt-archive/gpt 2023-06-04 - syntactic linearity and spokenness\|gpt 2023-06-04 - syntactic linearity and spokenness]]
+- ⛔️ [[_attachments/gpt-archive/gpt 2023-06-04 - syntactic linearity and spokenness\|gpt 2023-06-04 - syntactic linearity and spokenness]]
  
 ---
 ## Products and services of interest
