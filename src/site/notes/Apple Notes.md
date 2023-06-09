@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/apple-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-## Quick Verdict: 3 stars
+#rating 
+## Quick Verdict: 3.5 stars
 
 Easy to use, especially as a replacement of Evernote and for creating tags, but it is a very closed system with kinks. See under Cons.
 
