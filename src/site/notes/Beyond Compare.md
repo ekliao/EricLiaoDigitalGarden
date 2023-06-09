@@ -13,6 +13,7 @@ I have used this essential diff tool for as long as I can remember, starting wit
 - The super useful hotkey F7 no longer works to quickly manually align two lines from both sides.
 - The general diff view (show differences) works on Mac as well as on Windows, but the more specific kinds of diff view (say, show left-side newer or orphans) *is not reliable* on Mac. This sucks big time! The only workaround is to use the only working diff view as a fallback on Mac.
 
+#rating 
 ## Quick verdict: 4 stars
 
 That said, BC is a time-saver for interpreters, especially when we get several updates of last-minute scripts for a conference. For example,
