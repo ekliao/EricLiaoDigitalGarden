@@ -4,7 +4,8 @@
 
 Any functionality offering full-text indexing and search get my attention. This one for the OB vault definitely sounds awesome at first sight.
 
-### Quick verdict: 2/5 stars
+#rating 
+### Quick verdict: 2 stars
 
 The underscoring search terms in in the results is nice. Looks like multiple search terms separated by spaces mean the `AND` operator: all of these terms, a typical “idiom.”
 
