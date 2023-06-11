@@ -26,7 +26,7 @@ The term, taken from 'modal logic, comes from the Greek word alétheia 'truth', 
 </div></div>
 
 
-- [[Absolute verbs\|Absolute verbs]]
+- [[Absolute verbs 不明示受詞的動詞\|Absolute verbs 不明示受詞的動詞]]
 
 ---
 # Chinese
