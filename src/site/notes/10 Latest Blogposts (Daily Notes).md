@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-06-09\|2023-06-09]] - I want unified glossaries, yesterday!
 - [[10 dailynotes/2023-06-08\|2023-06-08]] - How much is my health worth? | Apple Notes now in Obsidian
 - [[10 dailynotes/2023-06-07\|2023-06-07]] - My lofty goal of digitizing reference books
 - [[10 dailynotes/2023-06-06\|2023-06-06]] - Record It! saves space
@@ -15,6 +16,7 @@
 - [[10 dailynotes/2023-05-29\|2023-05-29]] - Agencies
 - [[10 dailynotes/2023-05-28\|2023-05-28]] - A big upgrade in style
 - [[10 dailynotes/2023-05-27\|2023-05-27]] - Apple Notes seems more palatable
+- [[10 dailynotes/2023-05-26\|2023-05-26]] - Systemic thinking 系統觀
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
