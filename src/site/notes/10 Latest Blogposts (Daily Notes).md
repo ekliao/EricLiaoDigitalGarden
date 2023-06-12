@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-06-10\|2023-06-10]] - A sobering chart when reality struck
 - [[10 dailynotes/2023-06-09\|2023-06-09]] - I want unified glossaries, yesterday!
 - [[10 dailynotes/2023-06-08\|2023-06-08]] - How much is my health worth? | Apple Notes now in Obsidian
 - [[10 dailynotes/2023-06-07\|2023-06-07]] - My lofty goal of digitizing reference books
