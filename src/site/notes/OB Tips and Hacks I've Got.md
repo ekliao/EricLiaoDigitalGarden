@@ -4,7 +4,34 @@
 
 *(New to Old)*
 
-- In file pane, drag a file/note into the editor pane to get a link to its name (`![[file-name]]` and then remove the link
+- Pasting tables
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-dailynotes/2023-06-15/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# 2023-06-15
+
+</div>
+
+
+
+#meta/ob 
+# Copying and pasting tabular data into Obsidian
+
+What a delight! In researching a term ("oxycodone"), I selected partial tabular data from a web page and copy-and-pasted into Obsidian, expecting to do some manual tweaking, but look at this table:
+
+![../_attachments/Screen Shot 2023-06-15 at 12.26.20.png](/img/user/_attachments/Screen%20Shot%202023-06-15%20at%2012.26.20.png)
+## Post-editing
+What's left for me to do is edit and add one vertical bar to fix the alignment problem, and voilà! It's as good as it gets. The visual elements (pictures) are nicely dealt with as linked images.
+
+![../_attachments/Screen Shot 2023-06-15 at 12.30.10.png](/img/user/_attachments/Screen%20Shot%202023-06-15%20at%2012.30.10.png)
+
+</div></div>
+
+
+- In the file pane, drag a file/note into the editor pane to get a link to its name (`![[file-name]]` and then remove the link
 	  e.g. for copying the PDF file name into the required `annotation-target:` frontmatter field in order to use the `Annotator` plugin to annotate the PDF in OB.
 	  
 - Creating real links to a potentially unconnected note from unlinked mentions in the right-nav-pane
