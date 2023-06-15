@@ -48,7 +48,7 @@ search syntax, it is ==not found== by the
 
 syntax. But the same hierarchical tag outside the metadata section, expressed as hashtag:
 
-#d/x 
+#dx 
 
 can be found by both
 
