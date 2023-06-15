@@ -10,7 +10,7 @@ anki-deck:A::A-Dict
 ---
 #mydict
 
-also _orthoëpy  
+also _orthoëpy_
 n.  
 1 _正音_ （法），正音學，正確發音研究  
 2 發音與拼法關係的研究  
