@@ -5,11 +5,11 @@
 
 ---
 anki-front:_alethic_
-anki-deck:A::A-Mydic
+anki-deck:A::A-Dict
 
 ---
 
-#d/Mydic
+#mydict
 
 a. /@ "li T1k/
 \[哲\] 真理的，關於命題的真假的 \[Philosophy\] denoting modalities of truth, such as necessity, contingency, or impossibility
