@@ -4,6 +4,9 @@
 
 # Eric Liao Interpreting 中英文口譯
 
+
+![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
+
 #### Mandarin - English Conference Interpreter 中英文會議同步口譯 / 中英文会议同声传译
 
 #### Deposition Interpreter (as main or check interpreter)
@@ -18,8 +21,6 @@
 #### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
 
 ---
-
-![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
 ## About Me
 
