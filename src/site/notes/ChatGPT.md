@@ -31,7 +31,9 @@
 
 ### Syntactic linearity in translation
 - ⛔️ [[_attachments/gpt-archive/gpt 2023-06-04 - syntactic linearity and spokenness\|gpt 2023-06-04 - syntactic linearity and spokenness]]
- 
+
+###  [[GPT - Reorder misaligned or out-of-order bilingual data\|GPT - Reorder misaligned or out-of-order bilingual data]]
+
 ---
 ## Products and services of interest
 - [[Office Copilot\|Office Copilot]] (2023)
