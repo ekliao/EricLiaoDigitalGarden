@@ -8,6 +8,10 @@ I started putting all my effort into [[Anki\|Anki]] in ... 2019, when I successf
 
 Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]].
 
+# Verdict: 4 stars
+
+## Cons
+- No "search as you type" functionality
 
 ---
 ## vis-à-vis Obsidian
@@ -17,11 +21,12 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
 ## Anki hacks I've learned
 *(New to old)*
 
+- "Set font size" add-on (enlarges everything except browser grid font/back fields)
 - image occlusion ([[Cloze\|Cloze]])
 	- add-on: image occlusion advanced
 - hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
 
-	![anki hierarchical tags vs flat tags w arbitrary delimiters.png](/img/user/_attachments/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
+	![anki hierarchical tags vs flat tags w arbitrary delimiters.png|250](/img/user/_attachments/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
 
 - rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
 - use [[Anki add-on - Customize keyboard shortcuts\|Anki add-on - Customize keyboard shortcuts]]
