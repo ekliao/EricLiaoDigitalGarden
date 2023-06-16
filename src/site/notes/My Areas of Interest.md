@@ -4,6 +4,7 @@
 
 ### Major long-term
 - Linguistics, [[Grammar\|grammar]], [[Usage\|usage]], [[Dictionaries and thesauri\|dictionaries and thesauri]]
+	- [[Mistranslations from miscomprehension\|Mistranslations from miscomprehension]]
 - [[Translation and interpretation\|Translation and interpretation]]
 	- Techniques
 - [[Language and languages\|Language and languages]]
