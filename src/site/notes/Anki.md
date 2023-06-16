@@ -17,23 +17,33 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
 ## vis-à-vis Obsidian
 - [[Anki to Mochi to Obsidian\|Anki to Mochi to Obsidian]]
 
----
 ## Anki hacks I've learned
 *(New to old)*
 
+- User interface size
+	- Though obvious, I didn't discover this adjustable parameter earlier. Once I changed it to 150%, Anki immediately felt a lot more accessible.
+
+![_attachments/Screen Shot 2023-06-16 at 12.43.32.png|350](/img/user/_attachments/Screen%20Shot%202023-06-16%20at%2012.43.32.png)
+
 - "Set font size" add-on (enlarges everything except browser grid font/back fields)
-- image occlusion ([[Cloze\|Cloze]])
+
+- Image occlusion ([[Cloze\|Cloze]])
 	- add-on: image occlusion advanced
-- hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
+
+- Hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
 
 	![anki hierarchical tags vs flat tags w arbitrary delimiters.png|250](/img/user/_attachments/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
 
-- rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
-- use [[Anki add-on - Customize keyboard shortcuts\|Anki add-on - Customize keyboard shortcuts]]
+- Rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
+
+- Use [[Anki add-on - Customize keyboard shortcuts\|Anki add-on - Customize keyboard shortcuts]]
 	- to change default [[keyboard shortcut\|keyboard shortcut]] for [[Cloze deletion - different card\|Cloze deletion - different card]] for "adding [[Cloze deletion - different card\|Cloze deletion - different card]]" to `Cmd+Shift+Z`
-- change font color in the styling section of a [[note type\|note type]]
-- add [[Cloze deletion - different card\|Cloze deletion - different card]]
-- add [[Cloze deletion - same card\|Cloze deletion - same card]]
+
+- Change font color in the styling section of a [[note type\|note type]]
+
+- Add [[Cloze deletion - different card\|Cloze deletion - different card]]
+
+- Add [[Cloze deletion - same card\|Cloze deletion - same card]]
 
 ## Hierarchical tags and search
 
@@ -41,6 +51,12 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
  ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
 
 # Add-ons
+
 - [[Merging Notes： Anki Add-ons of Interest\|Merging Notes： Anki Add-ons of Interest]]
 ---
+
+# More ...
+
 [[Ankification\|Ankification]]
+
+[[Anki Export Considerations： text vs apkg\|Anki Export Considerations： text vs apkg]]
