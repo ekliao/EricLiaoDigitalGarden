@@ -32,6 +32,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Git\|Git]] (2021, The Apple Siri team) x
 - [[Sublime Text\|Sublime Text]] (2021) x
 - [[InterpretBank\|InterpretBank]] (2020/8)
+- AutoSleep app (2020/6)
 - [[Web Captioner\|Web Captioner]]
 - [[Otter.ai\|Otter.ai]]
 - [[Zoom\|Zoom]] (2020)
