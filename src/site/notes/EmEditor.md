@@ -6,13 +6,16 @@ I have renewed unmitigated respect for EmEditor, this powerful editor that handl
 { #9a79d5}
 
 
-# Features
-## The good
+# Verdict: 5 stars
+
+## Pros
+
 - Large file support
 - Onigmo regex engine supports `\p{Han}` and the like.
 - Find and replace in files
 - Column mode
 - Table mode
-## The bad
+
+## Cons
+
 - Windows-only
-- 
