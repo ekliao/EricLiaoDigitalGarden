@@ -6,7 +6,9 @@ A popular web browser made by Google.
 
 # Issues
 
-- Obsidian forum pages won't scroll. Video:
+- Obsidian forum pages won't scroll (video):
+{ #04499e}
+
 
 ![[_attachments/obsidian forum (web site) has a chrome problem (smaller).mp4]]
 
