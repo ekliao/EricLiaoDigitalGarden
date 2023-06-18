@@ -4,6 +4,8 @@
 
 *(New to old)*
 
+- _2023-06-17_ I experienced for the first time trouble publishing an image saved in .PNG. Had to resave it as .JPG and resize it (into 600) before it finally showed up on the website. I don't really know what the issue is. Will watch this closely.
+
 - Occasionally due to browser caching, what's actually published isn't what the desktop browser (Chrome) shows, involving wrong links. If this happens, simply clearing browser's "cached images/files" will clear the issue.
 
 - The Publication Status popup becomes sluggish after 100+ notes in the published garden, taking some 15-20 seconds to show updated counts. But, clicking ahead on the buttons to publish new and changed notes before seeing the final count *does* seem to have an effect. Keep doing this but keep watch.
