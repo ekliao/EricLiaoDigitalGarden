@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-06-17\|2023-06-17]] - Perl programming redux
 - [[10 dailynotes/2023-06-16\|2023-06-16]] - Mistranslations from miscomprehension 因誤解而誤譯
 - [[10 dailynotes/2023-06-15\|2023-06-15]] - AutoSleep's monkey business
 - [[10 dailynotes/2023-06-14\|2023-06-14]] - Fabulously tabular Obsidian
 - [[10 dailynotes/2023-06-13\|2023-06-13]] - Ignore it and feel good about it!
+- [[10 dailynotes/2023-06-12\|2023-06-12]] - Perl programming redux
 - [[10 dailynotes/2023-06-11\|2023-06-11]] - My Apple Notes now in Obsidian
 - [[10 dailynotes/2023-06-10\|2023-06-10]] - A sobering chart when reality struck
 - [[10 dailynotes/2023-06-09\|2023-06-09]] - I want unified glossaries, yesterday!
