@@ -3,10 +3,17 @@
 ---
 
 The [[Regex\|regex]] used is CUI regular expression engine ([Important changes on CotEditor 4.2 - CotEditor](https://coteditor.com/news/2022/CotEditor_4.2.0). Never heard of it. 
-- Good
-	- Rare treasure: amazed to discover support for `\p{Han}`, `\p{P}`, and the like. 
-- Bad
-	- Can't handle deleting duplicates in 800K-line files. Can't hold a candle to [[EmEditor\|EmEditor]]
+
+# Quick verdict: 4 stars
+
+## Pros
+
+- Rare treasure: amazed to discover support for `\p{Han}`, `\p{P}`, and the like. 
+
+## Cons
+
+- Freezes or crashes, or grinds to a halt, when opening large text files (~ > 100MB), something [[EmEditor\|EmEditor]] would handle with grace and ease.
+- Can't handle deleting duplicates in 800K-line files. Can't hold a candle to [[EmEditor\|EmEditor]]
 	
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/em-editor/#9a79d5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -16,7 +23,8 @@ I have renewed unmitigated respect for EmEditor, this powerful editor that handl
 
 </div></div>
 
-	- [No plan](https://share.glasp.co/qke5s3ilkchdj7ts/?p=lRrPZIZl2Azx6Q6LHuUG) to support search and replace in opened files or in multiple files under a directory, not to mention recursively.
+
+- [No plan](https://share.glasp.co/qke5s3ilkchdj7ts/?p=lRrPZIZl2Azx6Q6LHuUG) to support search and replace in opened files or in multiple files under a directory, not to mention recursively.
 	- 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/regex-conditionals/#75709c" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -26,4 +34,5 @@ I have renewed unmitigated respect for EmEditor, this powerful editor that handl
 
 </div></div>
 
-	- [[Character class subtraction (regex)\|Character class subtraction (regex)]] is not available.
+
+- [[Character class subtraction (regex)\|Character class subtraction (regex)]] is not available.
