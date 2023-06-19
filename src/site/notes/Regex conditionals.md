@@ -3,7 +3,7 @@
 ---
 
 #Regex  
-*(2023-05-06)* Since I caught the regex bug yesterday (I hadn't been in a long time), I set out to learn the always ellusive negative lookbehind. 
+*(2023-05-06)* Since I caught the regex bug yesterday (I hadn't been in a long time), I set out to learn the always elusive negative lookbehind. 
 
 Update: turns out what ended up working was a negative lookahead (see below). I obviously still haven't grasped the concept well.
 
@@ -131,11 +131,11 @@ The example toward the end in the guide that uses a lookahead regex containing `
 { #75709c}
 
 
-![Screen Shot 2023-05-06 at 09.13.46.png](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2009.13.46.png)
+![Screen Shot 2023-05-06 at 09.13.46.png|550](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2009.13.46.png)
 { #84deef}
 
 
-![Screen Shot 2023-05-06 at 09.14.01.png](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2009.14.01.png)
+![Screen Shot 2023-05-06 at 09.14.01.png|500](/img/user/_attachments/Screen%20Shot%202023-05-06%20at%2009.14.01.png)
 
 I want to etch this magical example into my brain lest I forget it:
 
