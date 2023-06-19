@@ -75,11 +75,14 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - Android smartphone (a Samsung)
 - iPhone
 
+[[My computer hardware\|My computer hardware]] ⛔️
+
 ### [[My audio equipment\|Audio equipment]] 
 
 ## Accessories
 - [[Apple Watch Ultra\|Apple Watch Ultra]]
 - [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]]
-- [[Apple Pencil\|Apple Pencil]]
+- [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2560 x 1440, 16:9)
+- [[Apple Pencil Gen 1\|Apple Pencil Gen 1]]
 - Wireless mouse
 - [[USB\|USB]]
