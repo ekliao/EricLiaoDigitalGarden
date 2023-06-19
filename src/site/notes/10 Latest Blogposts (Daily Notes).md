@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-06-19\|2023-06-19]] - Evernote, where clipped web content goes to die
+- [[10 dailynotes/2023-06-19\|2023-06-19]] - Perl 6 regex and grammar voodoo
 - [[10 dailynotes/2023-06-18\|2023-06-18]] - Smitten with a warm fuzzy feeling
 - [[10 dailynotes/2023-06-17\|2023-06-17]] - The treacherous waters of Perl debugging in a GUI
 - [[10 dailynotes/2023-06-16\|2023-06-16]] - Mistranslations from miscomprehension 因誤解而誤譯
@@ -29,6 +29,7 @@
 - [[10 dailynotes/2023-05-26\|2023-05-26]] - Systemic thinking 系統觀
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
+- [[10 dailynotes/2023-05-22\|2023-05-22]] - Evernote, where clipped web content goes to die
 - [[10 dailynotes/2023-05-21\|2023-05-21]] - Distinguishing "a predicate" 謂語 and "a predicative (expression)" 表語
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
 - [[10 dailynotes/2023-05-19\|2023-05-19]] - "Massaging" glossary data
@@ -55,7 +56,7 @@
 - [[10 dailynotes/2023-04-28\|2023-04-28]] - FaceTime calling using the Apple Watch only | Schwa
 - [[10 dailynotes/2023-04-27\|2023-04-27]] - WhatsApp login in multiple devices
 - [[10 dailynotes/2023-04-26\|2023-04-26]] - Hello, Disqus!
-- [[10 dailynotes/2023-04-25\|2023-04-25]] - [[Substance over structure\|Substance over structure]] | WebP
+- [[10 dailynotes/2023-04-25\|2023-04-25]] - Substance over structure | WebP
 - [[10 dailynotes/2023-04-24\|2023-04-24]] - EasyFind disappoints. | No joy with Disqus.
 - [[10 dailynotes/2023-04-23\|2023-04-23]] - Taking notes is not the end goal. | [[Glasp\|Glasp]]
 - [[10 dailynotes/2023-04-22\|2023-04-22]] - Certified translation | Beyond Compare is beyond comparison.
