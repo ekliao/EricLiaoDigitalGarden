@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-06-18\|2023-06-18]] - Perl on Mac ended with a fizzle.
+- 
+- [[10 dailynotes/2023-06-17\|2023-06-17]] - The treacherous waters of Perl debugging in a GUI
 - [[10 dailynotes/2023-06-16\|2023-06-16]] - Mistranslations from miscomprehension 因誤解而誤譯
 - [[10 dailynotes/2023-06-15\|2023-06-15]] - AutoSleep's monkey business
 - [[10 dailynotes/2023-06-14\|2023-06-14]] - Fabulously tabular Obsidian
@@ -27,6 +28,7 @@
 - [[10 dailynotes/2023-05-26\|2023-05-26]] - Systemic thinking 系統觀
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
+- [[10 dailynotes/2023-05-21\|2023-05-21]] - Distinguishing "a predicate" 謂語 and "a predicative (expression)" 表語
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
 - [[10 dailynotes/2023-05-19\|2023-05-19]] - "Massaging" glossary data
 - [[10 dailynotes/2023-05-18\|2023-05-18]] - What to do when driving?
