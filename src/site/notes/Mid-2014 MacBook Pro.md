@@ -2,4 +2,15 @@
 {"dg-publish":true,"permalink":"/mid-2014-mac-book-pro/","noteIcon":"2","created":"","updated":""}
 ---
 
-I have two of these, one being abandoned into my ownership by an ex-employer. They are great, but are long in the tooth. I am waiting with bated breath the rumored M3 15- or 16-inch MacBook Pro or Max to be available, hopefully by year end. In the meantime, I have to keep squeezing the last bit of juice out of these old faithful power horses, especially in video downsampling. Why would a one-hour iPad screen recording have a monstrous size of close to 10GB and sometimes take more than 12 hours just to downsize?
+I have two of these, one being abandoned into my ownership by an ex-employer. They are great, but are long in the tooth. I am waiting with bated breath the rumored M3 15- or 16-inch MacBook Pro or Max to be available, hopefully by year end of 2023. In the meantime, I have to keep squeezing the last bit of juice out of these old faithful power horses, especially in video downsampling. Why would a one-hour iPad screen recording have a monstrous size of close to 10GB and sometimes take more than 12 hours just to downsize?
+
+*(2023-06)* The downsampling issue is much alleviated thanks to rediscovering the use of [[Record It!\|Record It!]] app:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/record-it/#c7bb87" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+The built-in tool, not allowing any configuration, yields huge files in high resolution, easily 10GB per hour. But with Record It!, I sometimes use the lowest setting to produce a recording only a fraction in size, still clear enough to view and with perfect audio, when I don't need higher resolution or when I need only the audio. For example, 100MB-500MB per hour depending on how busy the screen action. 
+
+</div></div>
