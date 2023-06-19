@@ -9,7 +9,7 @@ A subscription-based powerful quick-on-the-AI-bandwagon web highlighter and anno
 
 
 
-## Glasp vs [[Readwise Reader\|Readwise Reader]]
+# Glasp vs [[Readwise Reader\|Readwise Reader]]
 
 </div></div>
 
