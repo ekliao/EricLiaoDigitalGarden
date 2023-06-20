@@ -9,7 +9,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] （or any web tool)
-- [[Exporter\|Exporter]] (2023/6)
+- [[Exporter (app)\|Exporter (app)]] (2023/6)
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
 - [Mochi](https://mochi.cards/) (2023/5)
 - [[Glasp\|Glasp]] (2023/4)
