@@ -31,7 +31,7 @@
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
 - [[10 dailynotes/2023-05-22\|2023-05-22]] - Evernote, where clipped web content goes to die
-- [[10 dailynotes/2023-05-21\|2023-05-21]] - Distinguishing "a predicate" 謂語 and "a predicative (expression)" 表語
+- [[10 dailynotes/2023-05-21\|2023-05-21]] - Predicate 謂語 vs. Predicative (expression) 表語
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
 - [[10 dailynotes/2023-05-19\|2023-05-19]] - "Massaging" glossary data
 - [[10 dailynotes/2023-05-18\|2023-05-18]] - What to do when driving?
