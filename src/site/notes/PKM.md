@@ -27,6 +27,8 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Reflect](https://reflect.app/)
+[MEM.ai](https://mem.ai/)
 [Matter](https://hq.getmatter.com/)
 [Joplin](https://joplinapp.org/)
 [TheBrain](https://www.thebrain.com/)
@@ -45,7 +47,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year 
 [[Obsidian\|Obsidian]]
 [[Mnemosyne\|Mnemosyne]]
-[[Notion\|Notion]]
+[[Notion (AI)\|Notion (AI)]]
 [SuperMemo](https://en.wikipedia.org/wiki/SuperMemo)
 	Out of which came Anki
 [[Notability\|Notability]]
