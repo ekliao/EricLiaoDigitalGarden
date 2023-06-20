@@ -9,7 +9,7 @@
 ### Desktop
 ![_attachments/Screen Shot 2023-06-20 at 13.53.16.png|300](/img/user/_attachments/Screen%20Shot%202023-06-20%20at%2013.53.16.png)
 
-#### iO
+### iOS
 ![_attachments/IMG_292E3811A99C-1.jpeg|250](/img/user/_attachments/IMG_292E3811A99C-1.jpeg)
 
 Here, the iOS status is wrong, because the 2023-05-22.md page is live and well on the published site.
