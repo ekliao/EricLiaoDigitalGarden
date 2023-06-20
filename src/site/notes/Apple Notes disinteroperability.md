@@ -9,7 +9,7 @@ Below is an example of a copy-and-paste onto OB a note with some text and two pi
 
 ## Exporter app for Export
 
-Turns out this is also one of the note that the [[Exporter\|Exporter]] app reports being unable to export to .md in its en masse export.
+Turns out this is also one of the note that the [[Exporter (app)\|Exporter (app)]] app reports being unable to export to .md in its en masse export.
 
 The overall fail rate is 1% (12 out of 1063) in my first experiment.
 
