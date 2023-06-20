@@ -4,6 +4,16 @@
 
 *(New to old)*
 
+- Persistent discrepancy between Publication Status of in the desktop and iOS, even after iCloud has synced everything, e.g.
+
+### Desktop
+![_attachments/Screen Shot 2023-06-20 at 13.53.16.png|300](/img/user/_attachments/Screen%20Shot%202023-06-20%20at%2013.53.16.png)
+
+#### iO
+![_attachments/IMG_292E3811A99C-1.jpeg|250](/img/user/_attachments/IMG_292E3811A99C-1.jpeg)
+
+Here, the iOS status is wrong, because the 2023-05-22.md page is live and well on the published site.
+
 - _2023-06-17_ I experienced for the first time trouble publishing an image saved in .PNG. Had to resave it as .JPG and resize it (into 600) before it finally showed up on the website. I don't really know what the issue is. Will watch this closely.
 
 - Occasionally due to browser caching, what's actually published isn't what the desktop browser (Chrome) shows, involving wrong links. If this happens, simply clearing browser's "cached images/files" will clear the issue.
