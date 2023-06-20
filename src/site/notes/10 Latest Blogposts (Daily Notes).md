@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[2023-06
+- [[10 dailynotes/2023-06-20\|2023-06-20]] - A picture of the pretty pickle
 - [[10 dailynotes/2023-06-19\|2023-06-19]] - Perl 6 regex and grammar voodoo
 - [[10 dailynotes/2023-06-18\|2023-06-18]] - Smitten with a warm fuzzy feeling
 - [[10 dailynotes/2023-06-17\|2023-06-17]] - The treacherous waters of Perl debugging in a GUI
