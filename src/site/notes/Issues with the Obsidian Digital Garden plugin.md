@@ -4,7 +4,9 @@
 
 *(New to old)*
 
-- Buggy implementation in iOS
+- Buggy implementation in the Publication Status on iOS. Problem: the same entry should not appear twice, e.g.
+
+![_attachments/ios digital garden publication status - bogus and dupes.jpeg|250](/img/user/_attachments/ios%20digital%20garden%20publication%20status%20-%20bogus%20and%20dupes.jpeg)
 
 - Persistent discrepancy between Publication Status of in the desktop and iOS, even after iCloud has synced everything, e.g.
 
