@@ -20,13 +20,14 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[LiquidText\|LiquidText]] ([Official](https://www.liquidtext.net/)) - Rediscovered its value in 2023
 	
 ### Obsolete
-- [[MarginNote\|MarginNote]] ([official](https://www.marginnote.com/) ) - Bought it on the iPad but only made a glancing try. Heard it has evolved a lot though.
+- [[MarginNote\|MarginNote]] ([official](https://www.marginnote.com/) )
  [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
-- [[EricWiki\|EricWiki]]: I have bittersweet memories of the 2000s, reminding me of the 2020s Obsidian.
+- [[EricWiki\|EricWiki]]
 
 ### Heard Of
 *(New to old)*
 
+[Craft.do](https://www.craft.do/)
 [Reflect](https://reflect.app/)
 [MEM.ai](https://mem.ai/)
 [Matter](https://hq.getmatter.com/)
