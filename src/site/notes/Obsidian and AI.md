@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/obsidian-and-ai/","noteIcon":"2","created":"","updated":""}
 ---
 
+## Plugins
+
+- Smart Connections
+- Text Generator [video](https://www.youtube.com/watch?v=awVyS4f3WQ8&t=51s)
 
 #Glasp 
 
