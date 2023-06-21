@@ -31,6 +31,7 @@
 - [[10 dailynotes/2023-05-26\|2023-05-26]] - Systemic thinking 系統觀
 - [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
 - [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
+- [[10 dailynotes/2023-05-23\|2023-05-23]] - Google's Bard, the new kid on the block
 - [[10 dailynotes/2023-05-22\|2023-05-22]] - Evernote, where clipped web content goes to die
 - [[10 dailynotes/2023-05-21\|2023-05-21]] - Predicate 謂語 vs. Predicative (expression) 表語
 - [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
