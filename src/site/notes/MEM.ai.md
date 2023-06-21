@@ -4,9 +4,9 @@
 
 This [video](https://www.youtube.com/watch?v=e-sQDNVmsq4&t=563s) by Srini is worth watching to compare Mem to Obsidian, which I am sold on, and to Notion, which I never got into. Below's my Glasp on it.
 
-Another [video](https://www.youtube.com/watch?v=t5YAJUbGxLU&t=16s) by Rafeh is even more noteworthy as it tries to persuade users away from Obsidian. Having watched it, I am extremely tickled and itchy to try Mem. You'll see how much Glasp I highlighted from Rafeh's talk below.
+Another [video](https://www.youtube.com/watch?v=t5YAJUbGxLU&t=16s) by Rafeh is even more noteworthy as it tries to persuade users away from Obsidian. Having watched it, I am extremely tickled and itchy to try Mem. You'll see how much Glasp I highlighted from Rafeh's talk below. This OpenAI funding [news](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/) on Mem strongly supports Rafeh's excitement.
 
-I second several users' comments who predict that Obsidian will be able to pull the same AI magic soon.
+I don't think I'll stop using Obsidian just yet. I second several users' comments who predict that Obsidian will be able to pull the same AI magic soon. This should not prevent me from making Mem another active PKM of mine.
 
 #Glasp 
 # (336) Why I Switched From Notion to Mem - YouTube
