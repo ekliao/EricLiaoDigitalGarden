@@ -84,9 +84,13 @@ When "live preview" fails, it means what's depicted in this screenshot is not tr
 	
 ## Dictionary lookup
 
-- See how the word 'well' is not in the dictionary
+- *(2023-06-21)* The same issue cropped up again:
+
+![_attachments/Screen Shot 2023-06-21 at 00.44.37.png|250](/img/user/_attachments/Screen%20Shot%202023-06-21%20at%2000.44.37.png)
+
+- See how the word 'well' is not in the dictionary:
 #issue/gone (2023-04-16)
-> ![Screen Shot 2023-02-28 at 11.47.17 PM.png](/img/user/_attachments/Screen%20Shot%202023-02-28%20at%2011.47.17%20PM.png)
+> ![Screen Shot 2023-02-28 at 11.47.17 PM.png|250](/img/user/_attachments/Screen%20Shot%202023-02-28%20at%2011.47.17%20PM.png)
 
 ---
 
