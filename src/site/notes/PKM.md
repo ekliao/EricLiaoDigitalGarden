@@ -29,7 +29,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 
 [Craft.do](https://www.craft.do/)
 [Reflect](https://reflect.app/)
-[MEM.ai](https://mem.ai/)
+[[MEM.ai\|MEM.ai]] [Official](https://mem.ai/)
 [Matter](https://hq.getmatter.com/)
 [Joplin](https://joplinapp.org/)
 [TheBrain](https://www.thebrain.com/)
