@@ -4,9 +4,14 @@
 
 *(New to old)*
 
-- Buggy implementation in the Publication Status on iOS. Problem: the same entry should not appear twice, e.g.
+- Buggy implementation in the Publication Status on both the desktop and iOS. Problem: the same entry should not appear twice, e.g.
 
-![_attachments/ios digital garden publication status - bogus and dupes.jpeg|250](/img/user/_attachments/ios%20digital%20garden%20publication%20status%20-%20bogus%20and%20dupes.jpeg)
+### Desktop
+
+![_attachments/Screen Shot 2023-06-21 at 00.05.47.png|400](/img/user/_attachments/Screen%20Shot%202023-06-21%20at%2000.05.47.png)
+### iOS
+
+![_attachments/ios digital garden publication status - bogus and dupes.jpeg|300](/img/user/_attachments/ios%20digital%20garden%20publication%20status%20-%20bogus%20and%20dupes.jpeg)
 
 - Persistent discrepancy between Publication Status of in the desktop and iOS, even after iCloud has synced everything, e.g.
 
