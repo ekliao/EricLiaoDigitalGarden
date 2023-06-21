@@ -32,6 +32,11 @@
 ### Syntactic linearity in translation
 - ⛔️ [[_attachments/gpt-archive/gpt 2023-06-04 - syntactic linearity and spokenness\|gpt 2023-06-04 - syntactic linearity and spokenness]]
 
+### Explaining
+- [[_attachments/gpt-archive/ChatGPT - Bing - Bard 3-way Knockout in explaining a legal concept\|ChatGPT - Bing - Bard 3-way Knockout in explaining a legal concept]]
+
+## Issues
+
 ###  [[GPT - Reorder misaligned or out-of-order bilingual data\|GPT - Reorder misaligned or out-of-order bilingual data]]
 
 ---
@@ -53,4 +58,4 @@
 - [Pohan Fong 馮勃翰](https://open.firstory.me/story/cler01irx00tp01vw4b0pbgkt)
 
 ---
-Just for laugh, [[The Eric Liao according to ChatGPT\|asking chatbots about yourself]].
+Just for laugh, [[The Eric Liao according to ChatGPT\|asking chatbots about yourself]].  ⛔️
