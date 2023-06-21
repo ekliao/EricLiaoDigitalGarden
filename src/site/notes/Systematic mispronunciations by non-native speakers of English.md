@@ -10,7 +10,7 @@
 /{/ for /eI/: `pain` -> `pan`
 - So prevalent you hear it everywhere, e.g. from a YouTuber English teacher of all people, who, after playing the proper pronunciation of `pan` by several native English speakers, continues to distort the vowel as described here. A severe case of tin ear, wouldn't you say?
 
-![[_attachments/20230429 1841 Recording.mp3]]
+![[_attachments/20230429-1841-Recording.mp3|20230429-1841-Recording]]
 
 /I/ or /i/ (not long enough) for /i:/: `seek` -> `sick`; `bee` -> `必`
 /in/ for /In/: `been` -> `必+n`
