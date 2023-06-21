@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/attachments/gpt-archive/chat-gpt-bing-bard-3-way-knockout-in-explaining-a-legal-concept/","noteIcon":"2","created":"","updated":""}
 ---
 
-I am beginning to prefer Bard's more structured answer over OpenAI's bot, which committed a ridiculous arithmetic error, thinking 6 months minus 90 days is 4 months and 21 days! Well, glad that it is not the judge in this case.
+I am beginning to prefer Bard's more structured answer over OpenAI's bot, which committed a ridiculous arithmetic error, thinking 6 months minus 90 days is 4 months and 21 days! Too bad Google decided to disable Bard's ability translate, which isn't that big a deal as long as it continues to provide useful responses.
 
 Bing excels in providing source links from the get go and that feels like a breath of fresh air, but it usually gives the shortest answer.
 
