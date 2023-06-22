@@ -10,7 +10,7 @@
 /{/ for /eI/: `pain` -> `pan`
 - So prevalent you hear it everywhere, e.g. from a YouTuber English teacher of all people, who, after playing the proper pronunciation of `pan` by several native English speakers, continues to distort the vowel as described here. A severe case of tin ear, wouldn't you say?
 
-![[_attachments/20230429-1841-Recording.mp3|20230429-1841-Recording]]
+![[no-pan-no-gan-chinese-youtuber-english-teacher.mp3]]
 
 *(Video version if the above doesn't play)*
 ![[no-pan-no-gan-chinese-youtuber-english-teacher.mp4]]
