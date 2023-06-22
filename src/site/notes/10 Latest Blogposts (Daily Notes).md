@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-06-22\|2023-06-22]] - AI v human interpreters 真人口譯和AI大車拼
 - [[10 dailynotes/2023-06-21\|2023-06-21]] - Sold on Mem's AI magic
 - [[10 dailynotes/2023-06-20\|2023-06-20]] - A picture of the pretty pickle
 - [[10 dailynotes/2023-06-19\|2023-06-19]] - Perl 6 regex and grammar voodoo
