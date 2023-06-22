@@ -6,7 +6,7 @@ I am beginning to prefer Bard's more structured answer over OpenAI's bot, which 
 
 Bing excels in providing source links from the get go and that feels like a breath of fresh air, but it usually gives the shortest answer.
 
-*(Update)* Read till the end to find out who reigns supreme.
+*(Update)* Read till the end to find out who reigns supreme. I don't know if Bard is actually the smart one in assuming a punning question, or is it utterly conflating the two kinds of "sentence" into one vague blob of an answer? I 
 
 #gpt/OpenAI 
 
