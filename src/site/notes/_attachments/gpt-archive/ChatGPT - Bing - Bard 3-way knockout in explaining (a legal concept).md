@@ -6,6 +6,8 @@ I am beginning to prefer Bard's more structured answer over OpenAI's bot, which 
 
 Bing excels in providing source links from the get go and that feels like a breath of fresh air, but it usually gives the shortest answer.
 
+*(Update)* Read till the end to find out who reigns supreme.
+
 #gpt/OpenAI 
 
 Q: Explain the "90 days suspended" in: Sentenced to $450 fine and 6 mos in county jail, 90 Days suspended.
