@@ -12,6 +12,9 @@
 
 ![[_attachments/20230429-1841-Recording.mp3|20230429-1841-Recording]]
 
+*(Video version if the above doesn't play)*
+![[_attachments/no-pan-no-gan-chinese-youtuber-english-teacher.mp4]]
+
 /I/ or /i/ (not long enough) for /i:/: `seek` -> `sick`; `bee` -> `必`
 /in/ for /In/: `been` -> `必+n`
 /{/ for /E/: `bed` -> `bad`
