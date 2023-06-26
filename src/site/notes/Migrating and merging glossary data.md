@@ -82,3 +82,4 @@ $
 
 # Related
 - [[Special characters disallowed in Obsidian file (note) names and proposed substitutes\|Special characters disallowed in Obsidian file (note) names and proposed substitutes]]
+- [[Unified Glossaries\|Unified Glossaries]]
