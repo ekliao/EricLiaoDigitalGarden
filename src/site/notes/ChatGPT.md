@@ -41,10 +41,14 @@
 
 ---
 ## Products and services of interest
+- [[MEM.ai\|MEM.ai]] (2023)
 - [[Office Copilot\|Office Copilot]] (2023)
 - [[Notion AI\|Notion AI]] (2023)
 - [[Readwise Reader\|Readwise Reader]]
 - [[Rewind.ai\|Rewind.ai]] (requires newer MacOS \[12 and up\] than I have)
+
+## Plugins
+- [src](https://www.playpcesor.com/2023/05/4-chatgpt-plugins-ai.html)
 
 ## Ideas
 - [Anki and GPT](https://news.ycombinator.com/item?id=34622913)
