@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
 - [[10 dailynotes/2023-06-26\|2023-06-26]] - Do you "delete" or "backspace"?
 - [[10 dailynotes/2023-06-22\|2023-06-22]] - AI v human interpreters 真人口譯和AI大車拼
 - [[10 dailynotes/2023-06-21\|2023-06-21]] - Sold on Mem's AI magic
