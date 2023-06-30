@@ -35,6 +35,9 @@
 ### Explaining
 - [[_attachments/gpt-archive/ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)\|ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)]]
 
+### Data extraction
+- [[Data extraction with ChatGPT\|Data extraction with ChatGPT]]
+
 ## Issues
 
 ###  [[GPT - Reorder misaligned or out-of-order bilingual data\|GPT - Reorder misaligned or out-of-order bilingual data]]
