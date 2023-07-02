@@ -4,11 +4,24 @@
 
 Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
 
-- See some of my ~~awesome~~ (scary) [[00 Home/A/A-Dict/regexes\|regexes]] in use. (*Warning: not for the faint of heart*)
+## Regex power
+
+[src](https://xkcd.com/208/)
+
+![_attachments/regular_expressions.png](/img/user/_attachments/regular_expressions.png)
+
+## My regexes in use
+
+See some of my ~~awesome~~ (scary) [[00 Home/A/A-Dict/My regexes in use\|regexes in use]]. (*Warning: not for the faint of heart*)
 
 ---
-## Perl and Regex: a match made in heaven
+## Perl and regex: a match made in heaven
+
 I am not exaggerating if I say that my career as a localization engineer (2002–2020) was launched entirely by my fascination with and my eventual self-taught expertise in [Perl](https://www.tiobe.com/tiobe-index/) and regex.
+
+## Perl 6, regexes, and grammars: nirvana
+
+- Book: [Parsing With Perl 6 Regexes and Grammars](https://www.amazon.com/Parsing-Perl-Regexes-Grammars-Recursive/dp/1484232275)
 
 ## Unicode
 - [Scripts, blocks, etc.](https://www.regular-expressions.info/unicode.html)
