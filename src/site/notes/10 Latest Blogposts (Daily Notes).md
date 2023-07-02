@@ -3,6 +3,7 @@
 ---
 
 - [[10 dailynotes/2023-07-02\|2023-07-02]] - Roget's Thesaurus in Obsidian
+- [[10 dailynotes/2023-07-01\|2023-07-01]] - Regex power
 - [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
 - [[10 dailynotes/2023-06-26\|2023-06-26]] - Do you "delete" or "backspace"?
 - [[10 dailynotes/2023-06-22\|2023-06-22]] - AI v human interpreters 真人口譯和AI大車拼
