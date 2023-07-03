@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/10-latest-blogposts-daily-notes/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-07-02\|2023-07-02]] - Roget's Thesaurus in Obsidian
-- [[10 dailynotes/2023-07-01\|2023-07-01]] - Regex power
+- [[10 dailynotes/2023-07-02\|2023-07-02]] - First taste of Perl 6
+- [[10 dailynotes/2023-07-01\|2023-07-01]] - Hello, Perl 6 on Mac!
 - [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
 - [[10 dailynotes/2023-06-26\|2023-06-26]] - Do you "delete" or "backspace"?
+- [[10 dailynotes/2023-06-24\|2023-06-24]] - Roget's Thesaurus in Obsidian
+- [[10 dailynotes/2023-06-23\|2023-06-23]] - Regex power
 - [[10 dailynotes/2023-06-22\|2023-06-22]] - AI v human interpreters 真人口譯和AI大車拼
 - [[10 dailynotes/2023-06-21\|2023-06-21]] - Sold on Mem's AI magic
 - [[10 dailynotes/2023-06-20\|2023-06-20]] - A picture of the pretty pickle
