@@ -46,7 +46,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 ## Start Exploring
 
-- [[10 Latest Blogposts (Daily Notes)\|Latest Blogposts]]
+- [[2023-06-24\|Latest Blogposts]]
 - [[My Areas of Interest\|My Areas of Interest]]
 
 ---
