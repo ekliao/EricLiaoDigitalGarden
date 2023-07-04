@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-04\|2023-07-04]] - One fewer thing to do
 - [[10 dailynotes/2023-07-02\|2023-07-02]] - First taste of Perl 6
 - [[10 dailynotes/2023-07-01\|2023-07-01]] - Hello, Perl 6 on Mac!
 - [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
