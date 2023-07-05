@@ -6,6 +6,7 @@
 - [[10 dailynotes/2023-07-02\|2023-07-02]] - First taste of Perl 6
 - [[10 dailynotes/2023-07-01\|2023-07-01]] - Hello, Perl 6 on Mac!
 - [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
+- [[10 dailynotes/2023-06-29\|2023-06-29]] - Anki's regex woes
 - [[10 dailynotes/2023-06-26\|2023-06-26]] - Do you "delete" or "backspace"?
 - [[10 dailynotes/2023-06-24\|2023-06-24]] - Roget's Thesaurus in Obsidian
 - [[10 dailynotes/2023-06-23\|2023-06-23]] - Regex power
