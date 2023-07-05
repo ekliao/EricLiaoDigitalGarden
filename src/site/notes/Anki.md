@@ -10,14 +10,34 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
 
 # Verdict: 4 stars
 
-## Cons
-- No "search as you type" functionality
+# Pro
+## Hierarchical tags and search
+
+- Truly hierarchical: searching for `tag:A` alone without saying `tag:A::` or `tag:A*` will still get `A::B` and `A::B::C`, etc. Great!
+ ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
+# Cons
+## Very limited regex search
+
+#Glasp 
+### Searching - Anki Manual
+
+#### Metadata
+- Title: Searching - Anki Manual
+- Tags: #Anki, #regex, #regular-expressions
+- URL: https://docs.ankiweb.net/searching.html
+#### Highlights & Notes
+- "re:(some|another).*thing"
+
+#### Page Comment
+Despite Anki's official documentation, Anki does not support parentheses at all. I have tried many times and have given up. Parentheses for grouping (either capturing or non-capturing kind) is crucial in regex searching.
+
+## No "search as you type" functionality
 
 ---
-## vis-à-vis Obsidian
+# Migrating to Obsidian
 - [[Anki to Mochi to Obsidian\|Anki to Mochi to Obsidian]]
 
-## Anki hacks I've learned
+# Anki hacks I've learned
 *(New to old)*
 
 - User interface size
@@ -44,11 +64,6 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
 - Add [[Cloze deletion - different card\|Cloze deletion - different card]]
 
 - Add [[Cloze deletion - same card\|Cloze deletion - same card]]
-
-## Hierarchical tags and search
-
-- Truly hierarchical: searching for `tag:A` alone without saying `tag:A::` or `tag:A*` will still get `A::B` and `A::B::C`, etc. Great!
- ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
 
 # Add-ons
 
