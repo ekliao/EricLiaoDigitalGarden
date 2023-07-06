@@ -46,8 +46,8 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 ## Start Exploring
 
-- [[Latest Blogposts 網誌入口\|../Latest Blogposts 網誌入口]]
-- [[My Areas of Interest 興趣領域\|../My Areas of Interest 興趣領域]]
+- [[Latest Blogposts 網誌入口\|Latest Blogposts 網誌入口]]
+- [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
 
 ---
 
