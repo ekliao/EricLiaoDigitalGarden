@@ -48,6 +48,8 @@ Pros and cons of these two basic ways of export, especially for:
 - Used to "escape" a literal double quote in text, e.g. 
 	`"What is written at the top of all papers (called ""pleadings"") given to the court."` 
 - Used to embed a literal newline character, e.g. after the `<div>` tag:
+#gotcha
+==This must be dealt with carefully. Simply replacing the \n with <br/> will do.
 ```
 deckname[tab]front[tab]"<p>foo<p/><div>
 bar</div>baz"[tab]tag1 tag2
