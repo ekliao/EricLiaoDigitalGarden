@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- 
+- [[10 dailynotes/2023-07-06\|2023-07-06]] - Sight translation's 順句驅動 and the anatomy of a legalese sentence
 - [[10 dailynotes/2023-07-05\|2023-07-05]] - Learning Obsidian's Excalibrain plugin
 - [[10 dailynotes/2023-07-04\|2023-07-04]] - One fewer thing to do
 - [[10 dailynotes/2023-07-03\|2023-07-03]] - Drinking from the Perl 6 fire hose
