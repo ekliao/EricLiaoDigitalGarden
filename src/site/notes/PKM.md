@@ -32,11 +32,11 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
 [Matter](https://hq.getmatter.com/)
 [Joplin](https://joplinapp.org/)
-[TheBrain](https://www.thebrain.com/)
+[TheBrain](https://www.thebrain.com/) - Zsolt started with this.
 [[Glasp\|Glasp]]
 [[DEVONthink\|DEVONthink]]
 [Tiddlywiki](https://tiddlywiki.com/) 
-	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten
+	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten. Both Nicole and Zsolt started with it before Obsidian. Nicole used it for 10 years.
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
 [Scrintal](https://www.scrintal.com/)
 [[Zotero\|Zotero]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
@@ -45,7 +45,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[Logseq\|Logseq]]
 [[Remnote\|Remnote]]
 [Roam Research](https://roamresearch.com/)
-	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year 
+	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year. Zsolt used this after The Brain before Obsidian.
 [[Obsidian\|Obsidian]]
 [[Mnemosyne\|Mnemosyne]]
 [[Notion (AI)\|Notion (AI)]]
