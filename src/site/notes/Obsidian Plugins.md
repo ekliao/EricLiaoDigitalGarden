@@ -5,6 +5,9 @@
 ## In use / Tried
 *(New to old)*
 
+- [Obsidian plugin - Excalibrain](https://github.com/zsviczian/excalibrain)
+	- [Nicole's video](https://www.youtube.com/watch?v=gqEtn3gCZF0)
+	- [Nicole interviewing Zsolt the creator](https://www.youtube.com/watch?v=fXGcOWycgG4&t=3503s)
 - [[Obsidian plugin - File Diff\|File Diff]]
 - Wikipedia Search
 - (Obsidian) Wikipedia
