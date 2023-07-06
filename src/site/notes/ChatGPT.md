@@ -66,3 +66,8 @@
 
 ---
 Just for laugh, [[The Eric Liao according to ChatGPT\|asking chatbots about yourself]].  ⛔️
+
+---
+# More ...
+
+- [[Not all AI is Generative\|Not all AI is Generative]]
