@@ -6,7 +6,7 @@
 - [[10 dailynotes/2023-07-05\|2023-07-05]] - Learning Obsidian's Excalibrain plugin
 - [[10 dailynotes/2023-07-04\|2023-07-04]] - Hello, Debugging Perl 6 in Comma! 🎉
 - [[10 dailynotes/2023-07-03\|2023-07-03]] - Drinking from the Perl 6 fire hose
-- [[2023-07-02\|2023-07-02]] - Comma IDE for Perl 6
+- [[10 dailynotes/2023-07-02\|2023-07-02]] - Comma IDE for Perl 6
 - [[10 dailynotes/2023-07-01\|2023-07-01]] - First taste of Perl 6
 - [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
 - [[10 dailynotes/2023-06-29\|2023-06-29]] - Anki's regex woes
