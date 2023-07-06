@@ -1,0 +1,88 @@
+---
+{"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
+---
+
+- [[10 dailynotes/2023-07-06\|2023-07-06]] - Sight translation's 順句驅動 and the anatomy of a legalese sentence
+- [[10 dailynotes/2023-07-05\|2023-07-05]] - Learning Obsidian's Excalibrain plugin
+- [[10 dailynotes/2023-07-04\|2023-07-04]] - Hello, Debugging Perl 6 in Comma! 🎉
+- [[10 dailynotes/2023-07-03\|2023-07-03]] - Drinking from the Perl 6 fire hose
+- [[2023-07-02\|2023-07-02]] - Comma IDE for Perl 6
+- [[10 dailynotes/2023-07-01\|2023-07-01]] - First taste of Perl 6
+- [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
+- [[10 dailynotes/2023-06-29\|2023-06-29]] - Anki's regex woes
+- [[10 dailynotes/2023-06-28\|2023-06-28]] - One fewer thing to do in Obsidian
+- [[10 dailynotes/2023-06-27\|2023-06-27]] - Hello, Perl 6 on Mac!
+- [[10 dailynotes/2023-06-26\|2023-06-26]] - Do you "delete" or "backspace"?
+- [[10 dailynotes/2023-06-24\|2023-06-24]] - Roget's Thesaurus in Obsidian
+- [[10 dailynotes/2023-06-23\|2023-06-23]] - Regex power
+- [[10 dailynotes/2023-06-22\|2023-06-22]] - AI v human interpreters 真人口譯和AI大車拼
+- [[10 dailynotes/2023-06-21\|2023-06-21]] - Sold on Mem's AI magic
+- [[10 dailynotes/2023-06-20\|2023-06-20]] - A picture of the pretty pickle
+- [[10 dailynotes/2023-06-19\|2023-06-19]] - Perl 6 regex and grammar voodoo
+- [[10 dailynotes/2023-06-18\|2023-06-18]] - Smitten with a warm fuzzy feeling
+- [[10 dailynotes/2023-06-17\|2023-06-17]] - The treacherous waters of Perl debugging in a GUI
+- [[10 dailynotes/2023-06-16\|2023-06-16]] - Mistranslations from miscomprehension 因誤解而誤譯
+- [[10 dailynotes/2023-06-15\|2023-06-15]] - AutoSleep's monkey business
+- [[10 dailynotes/2023-06-14\|2023-06-14]] - Fabulously tabular Obsidian
+- [[10 dailynotes/2023-06-13\|2023-06-13]] - Ignore it and feel good about it!
+- [[10 dailynotes/2023-06-12\|2023-06-12]] - Perl programming redux
+- [[10 dailynotes/2023-06-11\|2023-06-11]] - My Apple Notes now in Obsidian
+- [[10 dailynotes/2023-06-10\|2023-06-10]] - A sobering chart when reality struck
+- [[10 dailynotes/2023-06-09\|2023-06-09]] - I want unified glossaries, yesterday!
+- [[10 dailynotes/2023-06-08\|2023-06-08]] - How much is my health worth?
+- [[10 dailynotes/2023-06-07\|2023-06-07]] - My lofty goal of digitizing reference books
+- [[10 dailynotes/2023-06-06\|2023-06-06]] - Record It! saves space
+- [[10 dailynotes/2023-06-05\|2023-06-05]] - A delight beyond comparison
+- [[10 dailynotes/2023-06-04\|2023-06-04]] - Utility beyond comparison
+- [[10 dailynotes/2023-06-03\|2023-06-03]] - Dumb and cheap conversion | Weight loss
+- [[10 dailynotes/2023-06-02\|2023-06-02]] - To FIRE, or not to FIRE? That is no longer a hypothetical.
+- [[10 dailynotes/2023-06-01\|2023-06-01]] - Interpreter's Help
+- [[10 dailynotes/2023-05-31\|2023-05-31]] - A really silly, feel-good money chart
+- [[10 dailynotes/2023-05-30\|2023-05-30]] - When a pill loses its magic
+- [[10 dailynotes/2023-05-29\|2023-05-29]] - Agencies
+- [[10 dailynotes/2023-05-28\|2023-05-28]] - A big upgrade in style
+- [[10 dailynotes/2023-05-27\|2023-05-27]] - Apple Notes seems more palatable
+- [[10 dailynotes/2023-05-26\|2023-05-26]] - Systemic thinking 系統觀
+- [[10 dailynotes/2023-05-25\|2023-05-25]] - Hard at work but not being creative
+- [[10 dailynotes/2023-05-24\|2023-05-24]] - Good breaking in
+- [[10 dailynotes/2023-05-23\|2023-05-23]] - Google's Bard, the new kid on the block
+- [[10 dailynotes/2023-05-22\|2023-05-22]] - Evernote, where clipped web content goes to die
+- [[10 dailynotes/2023-05-21\|2023-05-21]] - Predicate 謂語 vs. Predicative (expression) 表語
+- [[10 dailynotes/2023-05-20\|2023-05-20]] - LiquidText re-emerging on my radar screen
+- [[10 dailynotes/2023-05-19\|2023-05-19]] - "Massaging" glossary data
+- [[10 dailynotes/2023-05-18\|2023-05-18]] - What to do when driving?
+- [[10 dailynotes/2023-05-17\|2023-05-17]] - Let there be magic!
+- [[10 dailynotes/2023-05-16\|2023-05-16]] - Glossary lookup tool
+- [[10 dailynotes/2023-05-15\|2023-05-15]] - Writing as a habit
+- [[10 dailynotes/2023-05-14\|2023-05-14]] - Need more computing power
+- [[10 dailynotes/2023-05-13\|2023-05-13]] - Proprioception
+- [[10 dailynotes/2023-05-12\|2023-05-12]] - Which slash is it?
+- [[10 dailynotes/2023-05-11\|2023-05-11]] - Touch typing test
+- [[10 dailynotes/2023-05-10\|2023-05-10]] - Data interoperability
+- [[10 dailynotes/2023-05-09\|2023-05-09]] - LiquidText and my opaque memory
+- [[10 dailynotes/2023-05-08\|2023-05-08]] - Obsessed with note-taking in the broadest sense
+- [[10 dailynotes/2023-05-07\|2023-05-07]] - Re-reading a classic
+- [[10 dailynotes/2023-05-06\|2023-05-06]] - Learning regex conditionals
+- [[10 dailynotes/2023-05-05\|2023-05-05]] - The snag and the slug
+- [[10 dailynotes/2023-05-04\|2023-05-04]] - An impulse foray into Anki-to-Obsidian migration | Omnisearch woes
+- [[10 dailynotes/2023-05-03\|2023-05-03]] - Tempting: 舊愛 Anki 新歡 Obsidian
+- [[10 dailynotes/2023-05-02\|2023-05-02]] - https://ericliaointerpreting.com is live!
+- [[10 dailynotes/2023-05-01\|2023-05-01]] - Wrangling tags
+- [[10 dailynotes/2023-04-30\|2023-04-30]] - World Wide Web turns 30
+- [[10 dailynotes/2023-04-29\|2023-04-29]] - Mispronunciations | SAMPA
+- [[10 dailynotes/2023-04-28\|2023-04-28]] - FaceTime calling using the Apple Watch only | Schwa
+- [[10 dailynotes/2023-04-27\|2023-04-27]] - WhatsApp login in multiple devices
+- [[10 dailynotes/2023-04-26\|2023-04-26]] - Hello, Disqus!
+- [[10 dailynotes/2023-04-25\|2023-04-25]] - Substance over structure | WebP
+- [[10 dailynotes/2023-04-24\|2023-04-24]] - EasyFind disappoints. | No joy with Disqus.
+- [[10 dailynotes/2023-04-23\|2023-04-23]] - Taking notes is not the end goal. | [[Glasp\|Glasp]]
+- [[10 dailynotes/2023-04-22\|2023-04-22]] - Certified translation | Beyond Compare is beyond comparison.
+- [[10 dailynotes/2023-04-21\|2023-04-21]] - Re-publishing this Obsidian Digital Garden from the iCloud vault
+- [[10 dailynotes/2023-04-20\|2023-04-20]] - Syncing Obsidian across devices for free
+- [[10 dailynotes/2023-04-19\|2023-04-19]] - Creepy ChatGPT | Peer emulation
+- [[10 dailynotes/2023-04-18\|2023-04-18]] - Where humans should learn from machines
+- [[10 dailynotes/2023-04-17\|2023-04-17]] - Homebody | City amenities 生活機能 | Charismatic PKM KOL
+- [[10 dailynotes/2023-04-16\|2023-04-16]] - The Day My Website Went Live! 媽，我成功架站啦！
+- [[10 dailynotes/2023-04-15\|2023-04-15]] - First look at publishing a website for free
+- [[10 dailynotes/2023-04-13\|2023-04-13]] - EmEditor, take my knees!
+- [[10 dailynotes/2023-03-16\|2023-03-16]] - ChatGPT4
