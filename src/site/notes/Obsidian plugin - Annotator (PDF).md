@@ -21,7 +21,7 @@ Or: in-line video:
 ### Pitfalls
 - (2023-05-08) Though tempting, don't ever ==edit the textual annotation directly in the markdown view==. It will cause the annotation view to not show properly!
 
-# Pics or It Didn't Happen
+# Pic or it didn't exist
 
 Lo and behold!
 
@@ -49,5 +49,6 @@ The search on the annotation pane does not work, e.g. `solutions` should find th
 
 (2023-05-19) On the iPad, selecting a portion of text beyond one line can be very frustrating, because the screen will show the wrong selection or show highlight filling the entire screen. I had previously thought this to be tolerable, but now I have experienced this terrible problem enough that I am counting out this plugin as a be all, end all PDF reading and annotating tool for me. Despite the OB integration, this is not worth it. Use LiquidText instead. It allows free-form drawing, and that trumps anything.
 
-# The verdict
+# Quick verdict: 3 stars
+
 For this reason, I ~~am reconsidering~~ decided to return to [[LiquidText\|LiquidText]] as the all-around tool for PDF note-taking.
