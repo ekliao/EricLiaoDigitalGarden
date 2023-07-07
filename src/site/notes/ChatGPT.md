@@ -38,8 +38,11 @@
 ### Data extraction
 - [[Data extraction with ChatGPT\|Data extraction with ChatGPT]]
 
-### Understand a foreign language dictionary
+### Foreign language learning
 - [[ChatGPT can do French to English literal translation, dictionary style\|ChatGPT can do French to English literal translation, dictionary style]]
+
+### Voice journaling and coaching
+- [[ChatGPT takes Voice memo and turns it into neat journals + iOS Automation\|ChatGPT takes Voice memo and turns it into neat journals + iOS Automation]]
 
 ## Issues
 
