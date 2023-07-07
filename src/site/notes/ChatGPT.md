@@ -38,6 +38,9 @@
 ### Data extraction
 - [[Data extraction with ChatGPT\|Data extraction with ChatGPT]]
 
+### Understand a foreign language dictionary
+- [[ChatGPT can do French to English literal translation, dictionary style\|ChatGPT can do French to English literal translation, dictionary style]]
+
 ## Issues
 
 ###  [[GPT - Reorder misaligned or out-of-order bilingual data\|GPT - Reorder misaligned or out-of-order bilingual data]]
