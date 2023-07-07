@@ -41,3 +41,8 @@ p.s. Alas, the "LiquidText Pro" label is deceptive. On LQ Mac, such account stat
 
 - [DEVONthink + LiquidText forum](https://www.google.com/search?q=define+trifecta)
 - [LiquidText lacks linking to the outside world](https://www.reddit.com/r/LiquidText/comments/r99tzg/integration_into_a_larger_information_environment/), or has that changed?
+
+---
+# More ...
+- [[LiquidText cross-app transclusion\|LiquidText cross-app transclusion]]
+- [[Obsidian plugin - Excalidraw\|Obsidian plugin - Excalidraw]]
