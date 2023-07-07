@@ -17,11 +17,11 @@ See some of my ~~awesome~~ (scary) [[00 Home/A/A-Dict/My regexes in use\|regexes
 ---
 ## Perl and regex: a match made in heaven
 
-I am not exaggerating if I say that my career as a localization engineer (2002–2020) was launched entirely by my fascination with and my eventual self-taught expertise in [Perl](https://www.tiobe.com/tiobe-index/) and regex.
+I am not exaggerating if I say that my career as a localization engineer (2002–2020) was launched entirely by my fascination with and my eventual self-taught expertise in [Perl](https://www.tiobe.com/tiobe-index/) and regex. 
 
 ## Perl 6, regexes, and grammars: nirvana
 
-- Book: [Parsing With Perl 6 Regexes and Grammars](https://www.amazon.com/Parsing-Perl-Regexes-Grammars-Recursive/dp/1484232275)
+- Book: 🔥 [Parsing With Perl 6 Regexes and Grammars](https://www.amazon.com/Parsing-Perl-Regexes-Grammars-Recursive/dp/1484232275) 
 
 ## Unicode
 - [Scripts, blocks, etc.](https://www.regular-expressions.info/unicode.html)
@@ -32,7 +32,10 @@ The Unicode property shorthand ``\p{Han}`` is a great discovery about regex. So 
 - [Jeffrey Friedl](http://regex.info/) wrote the seminal book on regex: *Mastering Regular Expressions*.
 - [Jan Goyvaerts](https://www.just-great-software.com/aboutjg.html) maintains [this](https://www.regular-expressions.info/) great educational site. He makes such esoteric topic as [Regex lookarounds](https://www.regular-expressions.info/lookaround.html) palatable.
 
----
 ## The dark side
 - [[Regex conditionals\|Regex conditionals]]
 - [[Atomic (Grouping) in Regex\|Atomic (Grouping) in Regex]]
+
+---
+# More ...
+- [[Regex sighting in Taiwan's public national Taigi search tool\|Regex sighting in Taiwan's public national Taigi search tool]]
