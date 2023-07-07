@@ -4,7 +4,7 @@
 
 - [[10 dailynotes/2023-07-07\|2023-07-07]] - A mysterious French word
 - [[10 dailynotes/2023-07-06\|2023-07-06]] - Sight translation's 順句驅動 and the anatomy of a legalese sentence
-- [[10 dailynotes/2023-07-05\|2023-07-05]] - Learning Obsidian's Excalibrain plugin and getting a prize windfall: PDF freehand drawing
+- [[10 dailynotes/2023-07-05\|2023-07-05]] - Learning Obsidian's Excalibrain plugin and getting a prize windfall: PDF freehand drawing with Excalidraw
 - [[10 dailynotes/2023-07-04\|2023-07-04]] - Hello, Debugging Perl 6 in a GUI IDE! 🎉
 - [[10 dailynotes/2023-07-03\|2023-07-03]] - Drinking from the Perl 6 fire hose
 - [[10 dailynotes/2023-07-02\|2023-07-02]] - Comma IDE for Perl 6
