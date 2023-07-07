@@ -8,7 +8,7 @@
 - [[10 dailynotes/2023-07-03\|2023-07-03]] - Drinking from the Perl 6 fire hose
 - [[10 dailynotes/2023-07-02\|2023-07-02]] - Comma IDE for Perl 6
 - [[10 dailynotes/2023-07-01\|2023-07-01]] - First taste of Perl 6
-- [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT
+- [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT | Regex sighting in Taiwan's public national Taigi search tool
 - [[10 dailynotes/2023-06-29\|2023-06-29]] - Anki's regex woes
 - [[10 dailynotes/2023-06-28\|2023-06-28]] - One fewer thing to do in Obsidian
 - [[10 dailynotes/2023-06-27\|2023-06-27]] - Hello, Perl 6 on Mac!
@@ -66,7 +66,7 @@
 - [[10 dailynotes/2023-05-05\|2023-05-05]] - The snag and the slug
 - [[10 dailynotes/2023-05-04\|2023-05-04]] - An impulse foray into Anki-to-Obsidian migration | Omnisearch woes
 - [[10 dailynotes/2023-05-03\|2023-05-03]] - Tempting: 舊愛 Anki 新歡 Obsidian
-- [[10 dailynotes/2023-05-02\|2023-05-02]] - https://ericliaointerpreting.com is live!
+- [[10 dailynotes/2023-05-02\|2023-05-02]] - My [website](https://ericliaointerpreting.com) is live!
 - [[10 dailynotes/2023-05-01\|2023-05-01]] - Wrangling tags
 - [[10 dailynotes/2023-04-30\|2023-04-30]] - World Wide Web turns 30
 - [[10 dailynotes/2023-04-29\|2023-04-29]] - Mispronunciations | SAMPA
@@ -75,7 +75,7 @@
 - [[10 dailynotes/2023-04-26\|2023-04-26]] - Hello, Disqus!
 - [[10 dailynotes/2023-04-25\|2023-04-25]] - Substance over structure | WebP
 - [[10 dailynotes/2023-04-24\|2023-04-24]] - EasyFind disappoints. | No joy with Disqus.
-- [[10 dailynotes/2023-04-23\|2023-04-23]] - Taking notes is not the end goal. | [[Glasp\|Glasp]]
+- [[10 dailynotes/2023-04-23\|2023-04-23]] - Taking notes is not the end goal. | Glasp
 - [[10 dailynotes/2023-04-22\|2023-04-22]] - Certified translation | Beyond Compare is beyond comparison.
 - [[10 dailynotes/2023-04-21\|2023-04-21]] - Re-publishing this Obsidian Digital Garden from the iCloud vault
 - [[10 dailynotes/2023-04-20\|2023-04-20]] - Syncing Obsidian across devices for free
