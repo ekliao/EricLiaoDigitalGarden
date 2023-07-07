@@ -27,6 +27,7 @@
 - Reading by [[Audio Book Summary\|listening to audio book summaries]]
 - [[Book digitization\|Book digitization]]
 - [[Literary appreciation\|Literary appreciation]]
+- [[ChatGPT can do French to English literal translation, dictionary style\|Up-leveling my French]]
 
 ---
 ### Major short-term
