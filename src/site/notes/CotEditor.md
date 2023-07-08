@@ -12,7 +12,7 @@ The [[Regex\|regex]] used is CUI regular expression engine ([Important changes o
 
 ## Cons
 
-- Large files: Freezes or crashes, or grinds to a halt, when opening large text files (~ > 100MB), something [[EmEditor\|EmEditor]] would handle with grace and ease.
+- Large files: Freezes or crashes, or grinds to a halt, when opening large text files (~ > 100MB), something [[EmEditor\|EmEditor]] would handle with grace and ease. Even [Sublime Text](https://www.sublimetext.com/) (Mac) will do.
 - Can't handle deleting duplicates in 800K-line files. Can't hold a candle to [[EmEditor\|EmEditor]]
 	
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/em-editor/#9a79d5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
