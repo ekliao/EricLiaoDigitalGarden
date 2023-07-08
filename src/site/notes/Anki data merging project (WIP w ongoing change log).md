@@ -222,4 +222,3 @@ into
 
 into the space separated list of tags. It's not there in the latest result.txt
 ```
-
