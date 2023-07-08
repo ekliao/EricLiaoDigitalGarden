@@ -4,7 +4,7 @@
 
 A list of mostly software and hardware, excluding abstract ideas, methods (e.g. Zettelkasten), and plugins that don't exist without the underlying tool (e.g. Obsidian and Anki).
 
-*(New to old. x = obsolete; g = a cursory glance)*
+*(New to old. x = obsolete; b = backup; g = a cursory glance)*
 
 ## Software/apps/websites
 
@@ -29,8 +29,8 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Descript\|Descript]] (2022)
 - Keynote (2022/7)
 - [[DaisyDisk\|DaisyDisk]]
-- [[Git\|Git]] (2021, The Apple Siri team) x
-- [[Sublime Text\|Sublime Text]] (2021) x
+- [[Git\|Git]] (2021, *a fruity company*) 
+- [Sublime Text](https://www.sublimetext.com/) (2021) b
 - [[InterpretBank\|InterpretBank]] (2020/8)
 - AutoSleep app (2020/6)
 - [[Web Captioner\|Web Captioner]]
