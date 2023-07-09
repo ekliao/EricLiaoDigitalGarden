@@ -28,6 +28,7 @@
 - [[Book digitization\|Book digitization]]
 - [[Literary appreciation\|Literary appreciation]]
 - [[ChatGPT can do French to English literal translation, dictionary style\|Up-leveling my French]]
+- [[Perl 6 (Raku) Programming\|Perl 6 (Raku) Programming]]
 
 ---
 ### Major short-term
