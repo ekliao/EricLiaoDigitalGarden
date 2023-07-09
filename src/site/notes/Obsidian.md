@@ -45,3 +45,7 @@ Nice! It's copy 'n' paste.
 ## [[Obsidian features of interest\|Features of interest]]
 
 ## [[Making use and creating stuff out of Obsidian notes\|Making use and creating stuff out of Obsidian notes]]
+
+---
+# More ...
+- [[Markdown formatting syntax and best practices\|Markdown formatting syntax and best practices]]
