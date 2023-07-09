@@ -7,6 +7,7 @@
 - The language "speaks" to me like no others can.
 - Built-in support for grammars for parsing text, with regexes on steroids
 
+# [[Perl 6 Notes\|Perl 6 Notes]]
 ---
 # More...
 
