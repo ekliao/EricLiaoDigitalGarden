@@ -31,6 +31,9 @@ Now I have this as my second weapon: [[Ekliao\|My first Obsidian vault: EKLIAO]]
 #### Page Comment
 Despite Anki's official documentation, Anki does not support parentheses at all. I have tried many times and have given up. Parentheses for grouping (either capturing or non-capturing kind) is crucial in regex searching.
 
+## Random ideas of metacharacters in regex search
+- Simply put, Anki's search has the weirdest idea of what works and what doesn't. For example, a literal space won't work in a regex search. Don't get me started.
+
 ## No "search as you type" functionality
 
 ---
