@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/search-tools/","noteIcon":"2","created":"","updated":""}
 ---
 
+[[DEVONthink\|DEVONthink]]
+[[Evernote\|Evernote]]
+[[DTSearch\|DTSearch]]
+
 # Features to Look for
 
 ## Automatic update of indexing
