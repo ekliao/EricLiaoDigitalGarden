@@ -6,7 +6,7 @@ PKM stands for *personal knowledge management*.
 
 A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecutive Note-Taking\|Consecutive Note-Taking]], and for managing notes and documents in various formats.
 
-## PKM Systems
+# PKM Systems
 *(broadly, including spaced repetition systems and some note-taking apps)*
 
 ### In use
@@ -56,12 +56,19 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[GoodNotes\|GoodNotes]]
 [[Quizlet\|Quizlet]]
 
-## Note-taking/Annotation Apps
+# Note-taking/Annotation Apps
 
 *Apps that clearly don't count as PKM are listed here.*
 
 [Highlights](https://highlightsapp.net/)
 
+---
+## Tools for research
+- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[00 Home/A/A-Dict/tinderbox\|Tinderbox]]
+	- [video](https://www.youtube.com/watch?v=NZgI9uq7EQU)
+- [[Zotero\|Zotero]]
+
+---
 ## [[Search tools\|Search tools]]
 A PKM system without good search functionality is not worth having.
 
