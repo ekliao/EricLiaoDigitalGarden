@@ -13,7 +13,7 @@ Another [video](https://www.youtube.com/watch?v=t5YAJUbGxLU&t=16s) by Rafeh is e
 I don't think I'll stop using Obsidian just yet. I second several users' comments who predict that Obsidian will be able to pull off the same AI magic soon. This should not prevent me from making Mem another active PKM of mine.
 
 #Glasp 
-# (336) Why I Switched From Notion to Mem - YouTube
+## (336) Why I Switched From Notion to Mem - YouTube
 ### Metadata
 - Title: (336) Why I Switched From Notion to Mem - YouTube
 - Tags: #Mem.ai, #Mem, #Obsidian, #PKM
@@ -37,7 +37,7 @@ I don't think I'll stop using Obsidian just yet. I second several users' comment
 #Glasp 
 #nsfw 
 
-# (336) F\*ck Obsidian. Learn THIS Instead - YouTube
+## (336) F\*ck Obsidian. Learn THIS Instead - YouTube
 
 ### Metadata
 - Title: (336) F*ck Obsidian. Learn THIS Instead - YouTube
@@ -58,7 +58,7 @@ I don't think I'll stop using Obsidian just yet. I second several users' comment
 
 6. Ultimately, the goal is CREATIVE OUTPUT. Agreed!
 
-## 7. Killer app: AI.
+#### 7. Killer app: AI.
 Rafeh: this AI is revolutionary and different.
 comp: chatGPT, Notion AI.
 example: ask a question about Mr. Beast. what did he say?
