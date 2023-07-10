@@ -13,7 +13,7 @@ I was successful in publishing a subset of my Obsidian vault [here](https://eric
 , but not with Hugo nor Quartz as the rest of this note describes, but with [[Web publishing with Obsidian + Github + Netlify\|Obsidian Digital Garden plugin + Github + Netlify]].
 
 ## Steps
-1. I successfully followed [[people/Daniel Kehoe\|Daniel Kehoe]]'s excellent [guide](https://mac.install.guide/ruby/index.html) in setting up the [[Ruby\|Ruby]] and [[GitHub\|GitHub]] development environment on my [[MacOS\|MacOS]]. My process started [[MacOS Shell\|here]].
+1. I successfully followed [[people/Daniel Kehoe\|Daniel Kehoe]]'s excellent [guide](https://mac.install.guide/ruby/index.html) in setting up the [[Ruby\|Ruby]] and [[GitHub\|GitHub]] development environment on my [[MacOS\|MacOS]]. My process started [[MacOS Shell Development Environment\|here]].
 	1. MacOS
 	2. Shell
 	3. Xcode
