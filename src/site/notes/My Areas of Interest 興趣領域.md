@@ -37,11 +37,12 @@
 - [[Migrating and merging glossary data\|Migrating and merging glossary data]]
 
 ### Minor short-term
+- [[Computer Programming\|Computer Programming]]
 - [[ChatGPT\|ChatGPT]] applications
-- [[Computer programming\|Computer programming]]
 
 ### Minor transient (the shining objects of the moment)
 *(New to old)*
+- [[Migrating and merging glossary data\|Migrating and merging glossary data]]
 - A large rolling briefcase, such as [[Briefcase on wheels\|Briefcase on wheels]]
 - Typography, [[Fonts\|fonts]]
 
