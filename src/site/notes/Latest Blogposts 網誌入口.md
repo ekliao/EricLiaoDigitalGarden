@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-10\|2023-07-10]] - In iCloud limbo
 - [[10 dailynotes/2023-07-09\|2023-07-09]] - Debugging Perl 6 books while learning
 - [[10 dailynotes/2023-07-08\|2023-07-08]] - State court interpreter's oral exams 美國法庭口譯考試
 - [[10 dailynotes/2023-07-07\|2023-07-07]] - A mysterious French word
