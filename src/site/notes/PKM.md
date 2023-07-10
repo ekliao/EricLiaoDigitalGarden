@@ -27,6 +27,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Tana](https://tana.inc/pkm)- An outlining app; Supertag
 [Craft.do](https://www.craft.do/)
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
