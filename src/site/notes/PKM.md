@@ -27,7 +27,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
-[Tana](https://tana.inc/pkm)- An outlining app; Supertag
+[[Tana\|Tana]] ([Official](https://tana.inc/pkm)- An outlining app; Supertag
 [Craft.do](https://www.craft.do/)
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
@@ -83,3 +83,6 @@ A PKM system without good search functionality is not worth having.
 - [Nick Milo](https://www.linkingyourthinking.com/)
 - [Tiago Forte](https://fortelabs.com/)
 - [[Ernest Chiang\|Ernest Chiang]] (Taiwan)
+
+---
+- [[Tools for Thought (TfTs)\|Tools for Thought (TfTs)]]
