@@ -30,6 +30,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Capacities.io](https://capacities.io/) - Akin to Notion. Object-based note-taking.
 [Notesnook](https://notesnook.com/) - End-to-end encryption.
 [[Tana\|Tana]] ([Official](https://tana.inc/pkm)) - Outlining, supertags, semantics.
+[Workflowy](https://workflowy.com/)
 [Craft.do](https://www.craft.do/)
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
