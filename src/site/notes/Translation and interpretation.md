@@ -8,13 +8,15 @@ Often abbreviated T&I.
 
 # Interpretation
 
-## Sight translation
+## [[Sight translation\|Sight translation]]
 
 ## Consecutive interpretation
 
 ### Note-taking
 
 ## Simultaneous interpretation
+
+### [[Simultaneous interpreting - basics\|Basics]]
 
 ---
 # Interpretation Techniques
