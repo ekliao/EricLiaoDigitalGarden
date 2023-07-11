@@ -42,6 +42,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 - [[Customer Testimonials\|Customer Testimonials]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
+- [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
 - [[Interpreting：Just for Laughs\|Just for laughs]]
 
 ## Start Exploring
