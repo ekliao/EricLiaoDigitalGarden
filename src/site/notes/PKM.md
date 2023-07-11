@@ -27,7 +27,9 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
-[[Tana\|Tana]] ([Official](https://tana.inc/pkm)- An outlining app; Supertag
+[Capacities.io](https://capacities.io/) - Akin to Notion. Object-based note-taking.
+[Notesnook](https://notesnook.com/) - End-to-end encryption.
+[[Tana\|Tana]] ([Official](https://tana.inc/pkm)) - Outlining, supertags, semantics.
 [Craft.do](https://www.craft.do/)
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
