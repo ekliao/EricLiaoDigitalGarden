@@ -22,7 +22,7 @@
 
 ---
 
-## About Me
+# About Me
 
 My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu/institute/academics/degree-programs/translation-interpretation) freelance conference interpreter, a state-certified court interpreter (CA/NJ/AZ/WY), and an [ATA-credentialed](https://www.atanet.org/member-center/credentialed-interpreter-designation/) interpreter. I am based in the San Francisco Bay Area, California, but [[VRI\|VRI/RSI]] enables working for any event anywhere. I am originally from Taipei, Taiwan. 
 
@@ -32,11 +32,17 @@ I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and
 
 ---
 
-## Welcome! 
+# Welcome! 
 
 Welcome to my “digital garden”! It's a collection of notes in various stages of maturity and polish, open to the world. Created April 16, 2023, it is still nascent but an exciting start. After all, 千里之行，始於足下。 *A journey of a thousand miles begins with a single step.* Read its [[This digital garden's raison d'être\|raison d'être]].
 
-## My Work as Interpreter
+# Start Exploring
+
+## [[Latest Blogposts 網誌入口\|Latest Blogposts 網誌入口]]
+
+## [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
+
+# My Work as Interpreter
 
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
 - [[Customer Testimonials\|Customer Testimonials]]
@@ -45,14 +51,9 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 - [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
 - [[Interpreting：Just for Laughs\|Just for laughs]]
 
-## Start Exploring
-
-- [[Latest Blogposts 網誌入口\|Latest Blogposts 網誌入口]]
-- [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
-
 ---
 
-## Contact, Comment, Question?
+# Contact, Comment, Question?
 
 Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box at the bottom of every page of the site.
 
