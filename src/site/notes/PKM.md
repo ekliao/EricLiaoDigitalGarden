@@ -27,6 +27,8 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Foam](https://github.com/foambubble/foam) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code.
+[Zettlr](https://www.zettlr.com/) - Markdown editor
 [Capacities.io](https://capacities.io/) - Akin to Notion. Object-based note-taking.
 [Notesnook](https://notesnook.com/) - End-to-end encryption.
 [[Tana\|Tana]] ([Official](https://tana.inc/pkm)) - Outlining, supertags, semantics.
@@ -43,18 +45,19 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten. Both Nicole and Zsolt started with it before Obsidian. Nicole used it for 10 years.
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
 [Scrintal](https://www.scrintal.com/)
+[Dendron](https://www.dendron.so)
 [[Zotero\|Zotero]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 [[00 Home/A/A-Dict/Zettelkasten\|Zettelkasten]]
 	Not an app but a method with apps implementing it to some degree, notably Roam
-[[Logseq\|Logseq]]
-[[Remnote\|Remnote]]
+[[Logseq\|Logseq]] - /"lQg si:k"/
+[[Remnote\|Remnote]] ([Official](https://www.remnote.com/)） 
 [Roam Research](https://roamresearch.com/)
 	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year. Zsolt used this after The Brain before Obsidian.
 [[Obsidian\|Obsidian]]
 [[Mnemosyne\|Mnemosyne]]
 [[Notion (AI)\|Notion (AI)]]
 [SuperMemo](https://en.wikipedia.org/wiki/SuperMemo)
-	Out of which came Anki
+	Out of which came Anki.
 [[Notability\|Notability]]
 [[OneNote\|OneNote]]
 [[GoodNotes\|GoodNotes]]
