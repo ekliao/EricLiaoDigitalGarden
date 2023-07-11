@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/obsidian-issues/","noteIcon":"2","created":"","updated":""}
 ---
 
-*(new to old)*
-
 ## Forum and Chrome
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/chrome/#04499e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -22,13 +20,19 @@ The pound sign (\#) for tags in file name is allowed if the file is directly cop
 ![../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
 
 ---
-## iCloud free sync is often stuck in synchronizing the Obsidian configuration files
+## iCloud
+### Indexing
+
+- iCloud is the suspect in constant Obdidian indexing: [Thread](https://forum.obsidian.md/t/obsidian-keeps-indexing-my-vault/30636)
+
+### iCloud free sync is often stuck in synchronizing the Obsidian configuration files
 
 This view on my iPhone has become a daily eyesore:
 
 ![_attachments/IMG_EAE1F33EA278-1.jpeg|250](/img/user/_attachments/IMG_EAE1F33EA278-1.jpeg)
 - [The problem, and two potential solutions using Github (manual sync) and Apple Scriptable](https://www.reddit.com/r/ObsidianMD/comments/vdal97/is_there_a_way_to_shorten_this_waiting_time_or/)
 
+---
 ## Hierarchical tags
 
 Metadata hierarchical tags can't be searched through the hashtag syntax
