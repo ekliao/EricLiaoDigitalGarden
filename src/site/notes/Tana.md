@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tana/","noteIcon":"2","created":"","updated":""}
 ---
 
+#PKM 
 # At a glance
 
 - Unified design: everything is a node
@@ -13,8 +14,14 @@
 - Still in beta, not a full publicly available commercial product
 - Norwegian
 
-#PKM 
-# Web publishing
+# Pros
+- Enforces structured/semantic data
+
+# Cons
+- Does not support long-form writing
+	- [Long-form writing in Tana](https://ideas.tana.inc/posts/91-long-form-writing-in-tana)
+
+- No web publishing of articles
 
 Tana's web publishing works only through "workspace." Too much remains to be seen. I won't give up the current free and working Obsidian publishing solution for something this unknown.
 
@@ -111,18 +118,18 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 ---
 ## CortexFutura
 #people 
-[Video: Data about nodes](https://www.youtube.com/watch?v=f4FcNhlU7G4)
-- Notes
+### [Video: Data about nodes](https://www.youtube.com/watch?v=f4FcNhlU7G4)
+- Video notes
 	- Nodes
 		- Has a description
 	- Fields
 		- Field types
 		- Default tags
 	- Tags
-- \@ to reference a node
-	- Typed backlinks: powerful concept
-- Views
-	- Table view
-		- Add a new field to the view
-			- e.g. "Topic"
-				- Value "US Presidents" itself is also a node
+	- \@ to reference a node
+		- Typed backlinks: powerful concept
+	- Views
+		- Table view
+			- Add a new field to the view
+				- e.g. "Topic"
+					- Value "US Presidents" itself is also a node
