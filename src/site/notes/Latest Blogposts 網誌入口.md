@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-12\|2023-07-12]] - Tana, an exciting semantic PKM system
 - [[10 dailynotes/2023-07-11\|2023-07-11]] - Does Obsidian has a file limit?
 - [[10 dailynotes/2023-07-10\|2023-07-10]] - In iCloud limbo
 - [[10 dailynotes/2023-07-09\|2023-07-09]] - Debugging Perl 6 books while learning
