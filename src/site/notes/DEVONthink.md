@@ -48,11 +48,10 @@ Wow. This is a richer set of search operators than DTSearch! I'm instantly sold 
 # Issues
 
 - Auto indexing (https://discourse.devontechnologies.com/t/automatic-indexing/59382)
-	- Conflict with other syncing apps
+	- Conflict with other syncing app, e.g. iCloud, requiring manual indexing
 
 ## Using it for dictionary, glossary lookup
-
-(https://discourse.devontechnologies.com/t/personal-dictionary-glossary-in-dtp/3241/5)
+- [Article](https://discourse.devontechnologies.com/t/personal-dictionary-glossary-in-dtp/3241/5)
 
 ### Works with Unicode characters
 (https://discourse.devontechnologies.com/t/building-a-word-dictionary-as-devonthink-database/52283/17)
