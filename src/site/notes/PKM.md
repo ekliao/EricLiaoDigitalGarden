@@ -27,6 +27,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
 [Heptabase](https://heptabase.com/) - Whiteboard
 [Foam](https://github.com/foambubble/foam) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code.
