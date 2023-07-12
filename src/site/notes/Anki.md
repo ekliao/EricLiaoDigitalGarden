@@ -60,7 +60,7 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 - Rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
 
 - Use [[Anki add-on - Customize keyboard shortcuts\|Anki add-on - Customize keyboard shortcuts]]
-	- to change default [[keyboard shortcut\|keyboard shortcut]] for [[Cloze deletion - different card\|Cloze deletion - different card]] for "adding [[Cloze deletion - different card\|Cloze deletion - different card]]" to `Cmd+Shift+Z`
+	- to change default [[Keyboard shortcuts\|Keyboard shortcuts]] for [[Cloze deletion - different card\|Cloze deletion - different card]] for "adding [[Cloze deletion - different card\|Cloze deletion - different card]]" to `Cmd+Shift+Z`
 
 - Change font color in the styling section of a [[note type\|note type]]
 
