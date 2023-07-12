@@ -107,3 +107,22 @@ Markdown-like input text into Tana structures.
 ![_attachments/Screen Shot 2023-07-12 at 01.59.54.png|600](/img/user/_attachments/Screen%20Shot%202023-07-12%20at%2001.59.54.png)
 
 In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main feature: Notion-like semantic structure.
+
+---
+## CortexFutura
+#people 
+[Video: Data about nodes](https://www.youtube.com/watch?v=f4FcNhlU7G4)
+- Notes
+	- Nodes
+		- Has a description
+	- Fields
+		- Field types
+		- Default tags
+	- Tags
+- \@ to reference a node
+	- Typed backlinks: powerful concept
+- Views
+	- Table view
+		- Add a new field to the view
+			- e.g. "Topic"
+				- Value "US Presidents" itself is also a node
