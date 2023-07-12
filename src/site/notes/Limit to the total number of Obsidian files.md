@@ -34,7 +34,17 @@ I created a new vault, and started adding folders/files gradually...
 
 Almost 300K. A new milestone!
 
-- 355K - In progress...until it hanged eventually with the screen turning blank.
+- 469K - In progress...until it hanged eventually with the screen turning blank
+
+Paring down...
+
+- 442K - In progress...seems to be heading toward hanging
+
+Paring down...
+
+- 419K - A welcome sign of life:
+
+![_attachments/Screen Shot 2023-07-12 at 15.57.20.png](/img/user/_attachments/Screen%20Shot%202023-07-12%20at%2015.57.20.png)
 
 ### Don't disturb the indexing
 
@@ -45,6 +55,10 @@ Here's a tip: If a file is found, appears to be opened, but content isn't showin
 While this problem occurred, iCloud is busy too.
 
 ![../_attachments/Screen Shot 2023-07-11 at 06.50.48.png|600](/img/user/_attachments/Screen%20Shot%202023-07-11%20at%2006.50.48.png)
+
+## Conclusion: Obsidian on iCloud for 300~400K files = dead end
+
+It's enough pain so far to decide to go against an Obsidian vault with at least 400K files on iCloud. To have a dictionary database with English words and phrases, and Chinese terms, the total number of entries naturally goes toward one million. If I include professional terminology from various fields, the number blows up to over two millions (think 金山詞霸). A 400K limit isn't going to cut it. I am hinging all my hope on the off-iCloud local vault.
 
 # Alt-alternative approach
 
@@ -88,11 +102,17 @@ While I wait for good news, I found someone demanding 500K:
 The OP's use case is also linguistic. Great minds think alike? 😆 But can I up the ante? As my Glasp page comment says, my goal is at least 800K. 
 
 - 535K - New limit - In progress... hanged (without the indexing progress)
-Reducing
+
+Paring down...
+
 - 442K - In progress... until 10 hours later when the progress died with screen turning blank. The hang was caught with this screen recording:
 
 ![[../_attachments/ob-local-index-turns-blank-after-10hrs 2.mp4]]
 
 Shut the app window. Restarted it. This time, I learned for the first time that it did make progress indexing despite the "hang." It now starts with 171K files remaining to index instead of 442K, meaning the previous attempt was at least 60% complete.
+
+
+
+
 
 
