@@ -2,18 +2,18 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[10 dailynotes/2023-07-12\|2023-07-12]] - Tana, an exciting semantic PKM system
+- [[10 dailynotes/2023-07-12\|2023-07-12]] - ChatGPT Code Interpreter
 - [[10 dailynotes/2023-07-11\|2023-07-11]] - Does Obsidian has a file limit?
 - [[10 dailynotes/2023-07-10\|2023-07-10]] - In iCloud limbo
 - [[10 dailynotes/2023-07-09\|2023-07-09]] - Debugging Perl 6 books while learning
 - [[10 dailynotes/2023-07-08\|2023-07-08]] - State court interpreter's oral exams 美國法庭口譯考試
-- [[10 dailynotes/2023-07-07\|2023-07-07]] - A mysterious French word
+- [[10 dailynotes/2023-07-07\|2023-07-07]] - Tana, an exciting semantic PKM system
 - [[10 dailynotes/2023-07-06\|2023-07-06]] - Sight translation's 順句驅動 and the anatomy of a legalese sentence
 - [[10 dailynotes/2023-07-05\|2023-07-05]] - Learning Obsidian's Excalibrain plugin and getting a prize windfall: PDF freehand drawing with Excalidraw
 - [[10 dailynotes/2023-07-04\|2023-07-04]] - Hello, Debugging Perl 6 in a GUI IDE! 🎉
 - [[10 dailynotes/2023-07-03\|2023-07-03]] - Drinking from the Perl 6 fire hose
 - [[10 dailynotes/2023-07-02\|2023-07-02]] - Comma IDE for Perl 6
-- [[10 dailynotes/2023-07-01\|2023-07-01]] - First taste of Perl 6
+- [[10 dailynotes/2023-07-01\|2023-07-01]] - First taste of Perl 6 | A mysterious French word
 - [[10 dailynotes/2023-06-30\|2023-06-30]] - Data extraction with ChatGPT | Regex sighting in Taiwan's public national Taigi search tool
 - [[10 dailynotes/2023-06-29\|2023-06-29]] - Anki's regex woes
 - [[10 dailynotes/2023-06-28\|2023-06-28]] - One fewer thing to do in Obsidian
