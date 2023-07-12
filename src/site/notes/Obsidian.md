@@ -28,7 +28,7 @@ Nice! It's copy 'n' paste.
 
 #### [[My successful attempt at Obsidian web publishing\|My successful attempt at Obsidian web publishing]]
 
-#### [[Obsidian Issues\|Issues I found]]
+#### [[Obsidian issues\|Issues I found]]
 
 #### [[Obsidian Publish\|Obsidian Publish]]
 #### [[Obsidian Hotkeys\|Hotkeys]]
@@ -49,3 +49,4 @@ Nice! It's copy 'n' paste.
 ---
 # More ...
 - [[Markdown formatting syntax and best practices\|Markdown formatting syntax and best practices]]
+- [[Good habit - Open an existing note instead of create a new note\|Good habit - Open an existing note instead of create a new note]]
