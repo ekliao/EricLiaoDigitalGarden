@@ -5,7 +5,7 @@
 # At a glance
 
 - Unified design: everything is a node
-- AirTable + ?
+- AirTable + Notion + Roam
 - An outlining app rather than writing app like Obsidian
 - Supertags
 - Cloud
@@ -29,52 +29,80 @@ Tana's web publishing works only through "workspace." Too much remains to be see
 - Publish to web I’ve shared my digital garden online using Obsidian almost since the beginning. At first, I used Obsidian Publish and then started to experiment with different options, finally settling on the Digital Garden plugin.  I deleted my WordPress website and replaced it with my digital garden. It’s easy to update, even on my iPhone, a cinch to add new content and lends itself to writing.  Tana has an option to publish a workspace. I think this is to facilitate sharing templates at the moment rather than a full blown publication solution.
 
 ---
-## Intro of Tana straight from the horse's mouth: Stian Horklev
-
+## Stian Horklev
+#people 
+### Video: Intro of Tana straight from the horse's mouth: Stian Horklev
 [src: 回到Axton](https://www.youtube.com/watch?v=o-6b1UpxWYQ)
+- Notes
+	- Notion, AirTable
+	- Backlinks
+	- Outliner
+	- Nodes (hierarchical)
+	- Semantic structure through Supertags
+		- Define something however you like
+	- Tana templates (a bunch of fields)
+		- Like creating applets or databases for anything
+		- Sharable
+	- Long ways to go to improve UI
+	- AI
+		- AI field
+			e.g. AI-suggested action items based on YOUR content
+			e.g. AI giving you critique of a plan
+		- System of commands ("Tana Commands")
+	- Command nodes
+		- Ask AI
+		- API
+			- Webhooks
+				- Whatsapp
+				- Telegram
+			- Automation / handshakes with other apps
+	- Ecosystem (long-term goal)
+		- Integration
+		- Plugins
+		- API
+	- Input API
+		- e.g. let GPT do some magic/coding for you, given sample data, like airline itineraries
+		- AI for app builders
+			- LangChain
+	- Onboarding is a challenge for new users not familiar with workflows
+	- Likely freemium model
+	- AI is expensive
 
-- Notion, AirTable
-- Backlinks
-- Outliner
-- Nodes (hierarchical)
-- Semantic structure through Supertags
-	- Define something however you like
-- Tana templates (a bunch of fields)
-	- Like creating applets or databases for anything
-	- Sharable
-- Long ways to go to improve UI
-- AI
-	- AI field
-		e.g. AI-suggested action items based on YOUR content
-		e.g. AI giving you critique of a plan
-	- System of commands ("Tana Commands")
-- Command nodes
-	- Ask AI
-	- API
-		- Webhooks
-			- Whatsapp
-			- Telegram
-		- Automation / handshakes with other apps
-- Ecosystem (long-term goal)
-	- Integration
-	- Plugins
-	- API
-- Input API
-	- e.g. let GPT do some magic/coding for you, given sample data, like airline iteneraries
-	- AI for app builders
-		- LangChain
-- Onboarding is a challenge for new users not familiar with workflows
-- Likely freemium model
-- AI is expensive
-
-## Tana Paste
+### Tana Paste
 
 Markdown-like input text into Tana structures.
 
-[Video by Stian](https://www.loom.com/share/6fd81ff1ab364acf9f448ffdedfeb57f)
+- [Video by Stian](https://www.loom.com/share/6fd81ff1ab364acf9f448ffdedfeb57f)
 
 ---
-# More ...
+## Ev Chapman 
+#people 
+### [Video: Ev's first week with Tana](https://www.youtube.com/watch?v=3Jhr_xDPKvI&t=305s)
+- Video notes
+	- Block-based Outliner like Roam + database/structured data like Notion
+	- Demo node: "idea for a long-form article"
+		- Supertag
+		- "Opening" a node = expand the bullet point
+			- Reveals some fields like "status," "type." Are they built-in or user-defined?
+		- Add a tag ("#spark idea")
+			- Configure the tag (e.g. "#spark idea")
+			- Here, "status" and "type" are shown as the first two fields, suggesting they are user-defined.
+			- Define "default content"
+				- e.g. "Brain dump" : a child node!
+			- Define each field
+				- type
+		- Add another tag (e.g. "#YouTube video")
+			- It gets its own default content: "YouTube script" node
+				- Can have children nodes, further defining the "YouTube script" parent node
+			- The fields of this tag can have the same name, e.g. "type"
+				- Can identify/pick the same "type" field as used in "#spark idea"
+	- Live searches
+		- Construct a query (with auto-complete help), which can be named
+			- Generates a list of nodes
+			- Different views (e.g. table)
+			- Can be filtered (through field values)
+			- Her "Content Hub," mentioned by Note Aloud (Nicola Fisher) as inspiring, is an example of a named live search.
 
-- [Ev's Tana Academy](https://tana.academy/)
+![_attachments/Screen Shot 2023-07-12 at 01.59.54.png|600](/img/user/_attachments/Screen%20Shot%202023-07-12%20at%2001.59.54.png)
 
+In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main feature: Notion-like semantic structure.
