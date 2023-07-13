@@ -7,6 +7,7 @@
 - This website: [[Web publishing with Obsidian + Github + Netlify\|Web publishing with Obsidian + Github + Netlify]]
 - #project/aborted 4/15/2023 - After much toiling, I abandoned any attempts and hopes of doing free publishing alternatives ([[GitHub\|Github]]/Hugo/Quarts)! Forget about it!
 - [MindStone](https://mindstone.tuancao.me/)
+- [[Web publishing - Obsidian + Ghost\|Web publishing - Obsidian + Ghost]]
 
 ## How to publish
 
