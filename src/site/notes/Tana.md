@@ -15,11 +15,18 @@
 - Norwegian
 
 # Pros
-- Enforces structured/semantic data
+
+## Enforces structured/semantic data
+
+## AI integration
+- Get ready to have your mind blown: [Santi Younger's video](https://www.youtube.com/watch?v=6M8fPCBcwCY&list=PL_7j1BHf-xmirrPrmMi3LLzbfgEvk9oHS&index=11)
+	- Not free
+	- This seems way tighter integration than [[MEM.ai\|Mem.ai]]
 
 # Cons
 - Does not support long-form writing
 	- [Long-form writing in Tana](https://ideas.tana.inc/posts/91-long-form-writing-in-tana)
+		- A hack: [Santi Younger's video](https://www.youtube.com/watch?v=Gli6rFhjhXw)
 
 - No web publishing of articles
 
