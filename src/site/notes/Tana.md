@@ -140,3 +140,23 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 			- Add a new field to the view
 				- e.g. "Topic"
 					- Value "US Presidents" itself is also a node
+
+---
+## Santi Younger
+#people 
+[Video: Interviewing Riccardo Busetti](https://www.youtube.com/watch?v=wj2jvd7wmjs&list=PL_7j1BHf-xmirrPrmMi3LLzbfgEvk9oHS&index=4)
+- Notes
+	- Cloud/sync
+		- Not necessarily bad if secure
+		- Pro: accessible everywhere with Internet
+	- Tana has made Notion/Roam/Logseq obsolete
+	- Can Tana replace Obsidian?
+		- Yes if it decides to expand the node for long-form writing
+	- Lacking Heptabase visuals
+		- Can be built too
+	- SRS: go with Anki or Mochi
+	- Craft for long-form writing
+		- Sharable
+		- Aesthetic
+	- Notion is strong with sharing/creating website
+		- Santi did this but moved to [[Webflow\|Webflow]], more powerful, more options
