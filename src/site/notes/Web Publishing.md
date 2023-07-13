@@ -35,7 +35,34 @@
 ---
 #### Non-template
 
+[[Super.so\|Super.so]] - A wrapper built around [[Notion\|Notion]]
+- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Namanh Kapur
+#people
+- [Video that may sell me on notion!](https://www.youtube.com/watch?v=8u45QMEn1o4)
+	- Reiterates why having a personal website is important
+		- But having a website without good SEO is useless
+- Video notes
+	- Progression of building a website
+		- v1: Git 2/5
+		- v2: Script for Medium 3/5
+		- v3: Ghost 3.5/5
+			- Copy-and-paste from Medium
+		- v4: Notion 4/5
+			- Free
+			- Templates
+		- v5: super.so 4.9/5 (wrapper around Notion workspace)
+			- Free!
+
+
+</div></div>
+
 ###### Ghost
+- [Heptabase founder Chan's website](https://sheracaolity.ghost.io/)
 
 ---
 ## Digital Gardening
