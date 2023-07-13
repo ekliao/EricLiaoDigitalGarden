@@ -12,6 +12,22 @@ Another [video](https://www.youtube.com/watch?v=t5YAJUbGxLU&t=16s) by Rafeh is e
 
 I don't think I'll stop using Obsidian just yet. I second several users' comments who predict that Obsidian will be able to pull off the same AI magic soon. This should not prevent me from making Mem another active PKM of mine.
 
+Update 2023-07-12: [[Tana\|Tana]] seems to have taken the AI cake:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tana/#ai-integration" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## AI integration
+- Get ready to have your mind blown: [Santi Younger's video](https://www.youtube.com/watch?v=6M8fPCBcwCY&list=PL_7j1BHf-xmirrPrmMi3LLzbfgEvk9oHS&index=11)
+	- Not free
+	- This seems way tighter integration than [[MEM.ai\|Mem.ai]]
+
+
+</div></div>
+
+
 #Glasp 
 ## (336) Why I Switched From Notion to Mem - YouTube
 ### Metadata
