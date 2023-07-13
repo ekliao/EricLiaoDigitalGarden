@@ -36,7 +36,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Notesnook](https://notesnook.com/) - End-to-end encryption.
 [[Tana\|Tana]] ([Official](https://tana.inc/pkm)) - Outlining, supertags, semantics.
 [Workflowy](https://workflowy.com/)
-[Craft.do](https://www.craft.do/)
+[Craft.do](https://www.craft.do/) - Block-based
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
 [Matter](https://hq.getmatter.com/)
@@ -58,7 +58,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year. Zsolt used this after The Brain before Obsidian.
 [[Obsidian\|Obsidian]]
 [[Mnemosyne\|Mnemosyne]]
-[[Notion (AI)\|Notion (AI)]]
+[[Notion\|Notion]] - Database, AI, strong in publishing
 [SuperMemo](https://en.wikipedia.org/wiki/SuperMemo)
 	Out of which came Anki.
 [[Notability\|Notability]]
