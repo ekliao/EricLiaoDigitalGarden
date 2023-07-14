@@ -4,7 +4,7 @@
 
 ## [[Issues with the Obsidian iOS, iPadOS app\|Issues with the Obsidian iOS, iPadOS app]]
 
-## [[Limit to the total number of Obsidian files\|Limit to the total number of Obsidian files]]
+## [[Obsidian's limitations - number of files, slow search\|Obsidian's limitations - number of files, slow search]]
 
 ## Forum and Chrome
 
