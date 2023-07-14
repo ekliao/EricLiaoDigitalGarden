@@ -12,7 +12,7 @@ Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expressio
 
 ## My regexes in use
 
-See some of my ~~awesome~~ (scary) [[00 Home/A/A-Dict/My regexes in use\|regexes in use]]. (*Warning: not for the faint of heart*)
+See some of my ~~awesome~~ (scary) [[My regexes in use\|regexes in use]]. (*Warning: not for the faint of heart*)
 
 ---
 ## Perl and regex: a match made in heaven
