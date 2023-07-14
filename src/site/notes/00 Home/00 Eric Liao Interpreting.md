@@ -40,7 +40,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 ## [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
 
-# My Work as Interpreter
+## My Work as Interpreter
 
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
 - [[Customer Testimonials\|Customer Testimonials]]
