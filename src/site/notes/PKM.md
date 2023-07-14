@@ -27,6 +27,8 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Athens](https://github.com/athensresearch/athens/releases)
+[Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)
 [[Napkin\|Napkin]]
 [Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
@@ -97,3 +99,4 @@ A PKM system without good search functionality is not worth having.
 
 ---
 - [[Tools for Thought (TfTs)\|Tools for Thought (TfTs)]]
+- [Performance (files, speed) of some popular PKMs](https://www.goedel.io/p/tft-performance-interim-results)
