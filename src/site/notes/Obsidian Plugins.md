@@ -21,8 +21,8 @@
 ## Of interest
 *(new to old)*
 
+- Metadata ([video](https://www.youtube.com/watch?v=7o9j7WJfhi0))- Implements Tana supertags
 - [Admonition](https://github.com/javalent/admonitions)
-- File Diff
 - [DEVONlink - Obsidian and DEVONthink](https://github.com/ryanjamurphy/DEVONlink-obsidian)
 	- A trick connecting the two (https://www.productived.net/articles/how-i-connect-devonthink-and-obsidian)
 - [Quick Add](https://www.youtube.com/watch?v=c-UGeOEStZE) (templater)
