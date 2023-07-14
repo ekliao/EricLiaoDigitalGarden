@@ -86,6 +86,44 @@ She may be wrong about [DT](https://youtube.com/clip/Ugkx4DpcLU6AHKPmvpUHNMkpp6J
 
 ---
 
+# Editions
+
+Indeed. Here’s a matrix of all editions
+[src](https://discourse.devontechnologies.com/t/devonthink-standard-vs-devonthink-pro/59048/6)
+
+|Feature|Standard|Pro|Server|
+|---|---|---|---|
+|Annotations|X|X|X|
+|AppleScript|X|X|X|
+|Classify|X|X|X|
+|Encrypted databases|X|X|X|
+|Feeds|X|X|X|
+|Filters (dates, marks, tags, or geolocation)|X|X|X|
+|Indexing|X|X|X|
+|Item links|X|X|X|
+|Reading List|X|X|X|
+|Reminders|X|X|X|
+|See Also|X|X|X|
+|Smart Groups|X|X|X|
+|Smart Rules|X|X|X|
+|Smart Templates|X|X|X|
+|Synch|X|X|X|
+|Tags|X|X|X|
+|Bookends integration||X|X|
+|Concordance||X|X|
+|Custom metadata||X|X|
+|Download Manager||X|X|
+|Email archiving||X|X|
+|Form views||X|X|
+|Grouping similar items||X|X|
+|Image Capture||X|X|
+|Imprinting PDFs and images||X|X|
+|OCR||X|X|
+|Scanner integration||X|X|
+|Web interface|||X|
+
+
+---
 # Books
 
 - Joel Kissell - Take Control of DEVONthink 3
