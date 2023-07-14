@@ -27,6 +27,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[[Napkin\|Napkin]]
 [Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
 [Heptabase](https://heptabase.com/) - Whiteboard
@@ -37,6 +38,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[Tana\|Tana]] ([Official](https://tana.inc/pkm)) - Outlining, supertags, semantics.
 [Workflowy](https://workflowy.com/)
 [Craft.do](https://www.craft.do/) - Block-based
+[[Mochi Cards\|Mochi Cards]] - SRS in markdown, web
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
 [Matter](https://hq.getmatter.com/)
