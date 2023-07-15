@@ -78,7 +78,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 
 ---
 ## Tools for research
-- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[00 Home/A/A-Dict/tinderbox\|Tinderbox]]
+- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[Tinderbox\|Tinderbox]]
 	- [video](https://www.youtube.com/watch?v=NZgI9uq7EQU)
 - [[Zotero\|Zotero]]
 
