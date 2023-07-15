@@ -20,9 +20,9 @@
 - ([00:00](https://www.youtube.com/watch?v=CKgCwzNTWWc&t=0s)) if you're using Logseq and obsidian side by side this question becomes a bit moot because the way internal blocks are linked doesn't transfer well as i found out using Obsidian for months and going back to Logseq as a result you're probably better off using pages for everything. ==No, I won't use pages for everything.
 
 ---
-# Todo
+# Todo: Understand the philosophy of Logseq
 #todo 
-Learn about Logseq's block writing and reference philosophy. It may be a game changer for me.
+Learn about Logseq's block writing and reference philosophy. It may be a game changer for me. Watch and study [Dario's video](https://www.youtube.com/watch?v=ZtRozP8hfEY) carefully, and go back to [Bas's video].
 
 ---
 # Issues
