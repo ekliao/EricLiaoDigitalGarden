@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [2023_07_15](journals/2023_07_15.md) - PKM system longevity (New date format for Logseq compatibility)
+- [[journals/2023_07_15\|2023-07-15]] - PKM system longevity | Obsidian Logseq cohabitation
 - [[10 dailynotes/2023-07-12\|2023-07-12]] - ChatGPT Code Interpreter | Ankiweb delight
 - [[10 dailynotes/2023-07-11\|2023-07-11]] - Does Obsidian has a file limit?
 - [[10 dailynotes/2023-07-10\|2023-07-10]] - In iCloud limbo
