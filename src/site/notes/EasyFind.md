@@ -5,6 +5,7 @@
 ## Pros
 - Free
 - [[Regex\|Regex]] search of file names and content
+- 
 ## Cons
 - A query can't operate on BOTH file names and content. Only one.
 
@@ -16,5 +17,15 @@
 
 </div></div>
 
-## Verdict
-- Use it mainly for quick search of files by name. Nothing else.
+
+## Verdict: 4 stars
+- Use it mainly for quick search of files by name. 
+- Can be convenient for regex search inside files (see Hacks below).
+
+---
+## Hacks
+
+- *(2023-07-13)* Selecting all and moving those resulting files in one go into a single target directory can be done. Slow but possible (see video below). This trick can be handy.
+	- e.g. In the video, I search for `#md\b` and moving found files from at least two different folders en masse into one single target. Took 2 tries.
+
+![[_attachments/easyfind - moving files from different source directories into one target directory - possible but slow, may need several tries.mp4]]
