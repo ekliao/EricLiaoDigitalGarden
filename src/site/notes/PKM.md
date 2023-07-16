@@ -44,7 +44,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
 [Matter](https://hq.getmatter.com/)
-[Joplin](https://joplinapp.org/) - See [[10 dailynotes/2023-07-16\|2023-07-16]]
+[[Joplin\|Joplin]] ([Official](https://joplinapp.org/) ) - New [[Evernote\|Evernote]], markdown, open source, cross-platform, bad at linking notes.
 [TheBrain](https://www.thebrain.com/) - Zsolt started with this.
 [[Glasp\|Glasp]]
 [[DEVONthink\|DEVONthink]]
