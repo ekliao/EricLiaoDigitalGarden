@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-16\|2023-07-16]] - Hello, and good-bye, Joplin!
 - [[10 dailynotes/2023-07-15\|2023-07-15]] - PKM system longevity | Obsidian Logseq cohabitation
 - [[10 dailynotes/2023-07-13\|2023-07-13]] - An EasyFind trick
 - [[10 dailynotes/2023-07-12\|2023-07-12]] - ChatGPT Code Interpreter | Ankiweb delight
