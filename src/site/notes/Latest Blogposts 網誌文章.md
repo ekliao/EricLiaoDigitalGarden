@@ -3,6 +3,7 @@
 ---
 
 - [[10 dailynotes/2023-07-15\|2023-07-15]] - PKM system longevity | Obsidian Logseq cohabitation
+- [[10 dailynotes/2023-07-13\|2023-07-13]] - An EasyFind trick
 - [[10 dailynotes/2023-07-12\|2023-07-12]] - ChatGPT Code Interpreter | Ankiweb delight
 - [[10 dailynotes/2023-07-11\|2023-07-11]] - Does Obsidian has a file limit?
 - [[10 dailynotes/2023-07-10\|2023-07-10]] - In iCloud limbo
