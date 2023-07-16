@@ -24,6 +24,7 @@ Custom  #Domain-name  setup SSL certificate
  
 - Obsidian Publish Has a [Technical SEO Issue](https://www.reddit.com/r/ObsidianMD/comments/xib3m0/obsidian_publish_has_a_technical_seo_issue/)
 > The \<a\> #html-tag vs \<div\> tag #markdown
+- Related: [Danny Hatcher](https://www.reddit.com/r/ObsidianMD/comments/xgd91n/is_obsidian_publish_a_viable_alternative_to/)
 
 ## CSS
 
