@@ -45,5 +45,27 @@
 
 ---
 
-[[]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-dailynotes/2023-07-17/#logseq-first-actual-use-i-m-lovin-it" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+$<div class="markdown-embed-title">
+
+# 2023-07-17
+
+</div>
+
+
+
+# Logseq: First actual use. I'm lovin' it!
+
+See this picture. On the top 3 bullet points (blocks in Logseq lingo), I was still playing with the idea of parent/child hierarchy, and adding "intra-block" line breaks (by SHIFT-ENTER). I also tested block reference by name.
+
+Then, having watched Bas's videos and taken notes in Obsidian partly from Glasp, I decided to give Logseq a try. I replicated my notes from memory, and the results were beautiful: the notes in outline form are so neat. Everything is either a parent or child or a sibling. I already know markdown. That helped a lot. The "bullet threads" plugin Bas introduced, which I installed immediately, is great.
+
+I am smitten! Don't think I'll stop Obsidian just yet, or if at all, but Logseq with its block/outliner DNA is now officially in my PKM arsenal!
+
+![../_attachments/Screen Shot 2023-07-17 at 00.12.44.png](/img/user/_attachments/Screen%20Shot%202023-07-17%20at%2000.12.44.png)
+
+</div></div>
+
 
