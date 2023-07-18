@@ -6,6 +6,7 @@
 [video](https://www.youtube.com/watch?v=5u9e-eDCKu8)
 
 ---
+#project/aborted 
 # [[Obsidian + Logseq cohabitation\|Obsidian + Logseq cohabitation]]
 
 ---
@@ -74,3 +75,9 @@ I have since watched and noted several Logseq videos, learning more about blocks
 </div></div>
 
 
+# Long-form writing
+- [Article](https://www.appsntips.com/learn/setup-logseq-for-long-form-writing/)
+## Document mode
+- [Thread](https://www.reddit.com/r/logseq/comments/w860ho/loqseq_is_not_a_notetaking_app_because_every/)
+- Toggle with `t d` to make bullet points disappear while keeping the indentation
+- 
