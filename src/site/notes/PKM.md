@@ -27,6 +27,10 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[[Ulysses\|Ulysses]]
+[[iWriter\|iWriter]]
+[[Legend (was Moo.do)\|Legend (was Moo.do)]]
+[[Dynalist\|Dynalist]]
 [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
 [Athens](https://github.com/athensresearch/athens/releases)
 [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)
@@ -45,6 +49,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Reflect](https://reflect.app/)
 [[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
 [Matter](https://hq.getmatter.com/)
+[Highlights](https://highlightsapp.net/)
 [[Joplin\|Joplin]] ([Official](https://joplinapp.org/) ) - New [[Evernote\|Evernote]], markdown, open source, cross-platform, bad at linking notes.
 [TheBrain](https://www.thebrain.com/) - Zsolt started with this.
 [[Glasp\|Glasp]]
@@ -57,7 +62,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[Zotero\|Zotero]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 [[00 Home/A/A-Dict/Zettelkasten\|Zettelkasten]]
 	Not an app but a method with apps implementing it to some degree, notably Roam
-[[Logseq\|Logseq]] - /"lQg si:k"/
+[[Logseq\|Logseq]] 🔥 - /"lQg si:k"/, not /"lQg sEk/, as it means "sequence of log"
 [[Remnote\|Remnote]] ([Official](https://www.remnote.com/)） 
 [Roam Research](https://roamresearch.com/)
 	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year. Zsolt used this after The Brain before Obsidian.
@@ -71,9 +76,9 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[GoodNotes\|GoodNotes]]
 [[Quizlet\|Quizlet]]
 
-# Note-taking/Annotation Apps
-
-*Apps that clearly don't count as PKM are listed here.*
+## Note-taking/Annotation Apps
+*Apps that clearly don't count as PKM are listed here.* 
+(Update 2023-07-18) I have neglected categorization of the long list above for long. It's futile trying to pigeon hole each of them. It's an exercise best suited for dataview and Tana)
 
 [Highlights](https://highlightsapp.net/)
 
