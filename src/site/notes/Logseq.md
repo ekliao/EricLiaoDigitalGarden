@@ -47,6 +47,8 @@
 ---
 
 # Logseq breaking-in: First actual use and I'm lovin' it!
+{ #44d18a}
+
 
 See this picture. On the top 3 bullet points (blocks in Logseq lingo), I was still playing with the idea of parent/child hierarchy, and adding "intra-block" line breaks (by SHIFT-ENTER). I also tested block reference by name.
 
