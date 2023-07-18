@@ -46,18 +46,7 @@
 
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-dailynotes/2023-07-17/#logseq-first-actual-use-i-m-lovin-it" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-$<div class="markdown-embed-title">
-
-# 2023-07-17
-
-</div>
-
-
-
-# Logseq: First actual use. I'm lovin' it!
+# Logseq breaking-in: First actual use and I'm lovin' it!
 
 See this picture. On the top 3 bullet points (blocks in Logseq lingo), I was still playing with the idea of parent/child hierarchy, and adding "intra-block" line breaks (by SHIFT-ENTER). I also tested block reference by name.
 
@@ -67,17 +56,36 @@ I am smitten! Don't think I'll stop Obsidian just yet, or if at all, but Logseq 
 
 ![../_attachments/Screen Shot 2023-07-17 at 00.12.44.png](/img/user/_attachments/Screen%20Shot%202023-07-17%20at%2000.12.44.png)
 
----
-# Drinking from the Logseq fire hose
+## Drinking from the fire hose
 
 I have since watched and noted several Logseq videos, learning more about blocks and pages. I have yet to acquaint myself with properties, and page properties (are they the same?), as these are about templates, which are super important, and according to [[Dario da Silva\|Dario da Silva]] the page properties are going to be crucial for the future of Logseq.
 
-</div></div>
+---
 
+# The gravitational pull of Logseq
+
+## Markmap plugin
+
+Thanks to [Dario da Silva](https://www.logseqmastery.com/)'s free YouTube introductory videos for demonstrating this wonderful visualization of the hierarchical nature of Logseq as a terrific outliner.
+
+![../_attachments/2023-07-18 markmap LQ.png](/img/user/_attachments/2023-07-18%20markmap%20LQ.png)
+
+In just three days, my learning and using of Logseq accelerated. Look at this chart for just today. It's mainly notes I took from watching PKM videos. Very meta. I positively love it!
+
+## Long-form writing
+
+The very last video I just watched is about a hack of promoting long-form writing in Logseq, which I consider to be yet lacking in LQ without native support. I am kind of sold on the idea of using the focus mode plugin plus the built-in document mode as illustrated in the video. With that, I think the barrier for long-form is largely removed, leaving me with pure admiration of LQ's block-based approach, which is turning out to be more granular and structured than page-based, and is way more conducive to future enhancement of LQ as a database app like Tana and notion. This development is very unlikely for Obsidian. That said, I am feeling a strong gravitational pull toward LQ as the go-to note-taking app for everything, even including long-form writing. 
+
+## Todo
+
+#todo What I have yet to do:
+- Study the page markdown files more closely.
+- Learn about publishing pages from LQ. This may turn out to be crucial if not a dealbreaker.
+
+---
 
 # Long-form writing
 - [Article](https://www.appsntips.com/learn/setup-logseq-for-long-form-writing/)
 ## Document mode
 - [Thread](https://www.reddit.com/r/logseq/comments/w860ho/loqseq_is_not_a_notetaking_app_because_every/)
 - Toggle with `t d` to make bullet points disappear while keeping the indentation
-- 
