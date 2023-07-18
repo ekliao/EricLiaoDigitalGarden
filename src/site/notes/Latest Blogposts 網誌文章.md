@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-18\|2023-07-18]] - The gravitational pull of Logseq
 - [[10 dailynotes/2023-07-17\|2023-07-17]] - I'm lovin' Logseq after first actual use.
 - [[10 dailynotes/2023-07-16\|2023-07-16]] - Hello, and good-bye, Joplin!
 - [[10 dailynotes/2023-07-15\|2023-07-15]] - PKM system longevity | Obsidian Logseq cohabitation
