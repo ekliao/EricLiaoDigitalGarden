@@ -66,6 +66,11 @@ I am smitten! Don't think I'll stop Obsidian just yet, or if at all, but Logseq 
 
 ![../_attachments/Screen Shot 2023-07-17 at 00.12.44.png](/img/user/_attachments/Screen%20Shot%202023-07-17%20at%2000.12.44.png)
 
+---
+# Drinking from the Logseq fire hose
+
+I have since watched and noted several Logseq videos, learning more about blocks and pages. I have yet to acquaint myself with properties, and page properties (are they the same?), as these are about templates, which are super important, and according to [[Dario da Silva\|Dario da Silva]] the page properties are going to be crucial for the future of Logseq.
+
 </div></div>
 
 
