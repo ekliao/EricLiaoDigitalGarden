@@ -27,6 +27,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[MindMup](https://www.mindmup.com/)
 [[Ulysses\|Ulysses]]
 [[iWriter\|iWriter]]
 [[Legend (was Moo.do)\|Legend (was Moo.do)]]
