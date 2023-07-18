@@ -63,6 +63,8 @@ I have since watched and noted several Logseq videos, learning more about blocks
 ---
 
 # The gravitational pull of Logseq
+{ #4d1a72}
+
 
 ## Markmap plugin
 
