@@ -27,6 +27,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
 [Athens](https://github.com/athensresearch/athens/releases)
 [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)
 [[Napkin\|Napkin]]
