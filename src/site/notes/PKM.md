@@ -11,6 +11,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 
 ### In use
 *(By frequency)*
+- [[Logseq\|Logseq]]
 - [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
 - [[Apple Notes\|Apple Notes]]
@@ -27,6 +28,9 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[Drafts](https://getdrafts.com/) - Mobile-only app
+[Trilium Notes](https://flathub.org/apps/com.github.zadam.trilium)
+[Transno](https://transno.com/)
 [MindMup](https://www.mindmup.com/)
 [[Ulysses\|Ulysses]]
 [[iWriter\|iWriter]]
@@ -34,7 +38,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[Dynalist\|Dynalist]]
 [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo)
 [Athens](https://github.com/athensresearch/athens/releases)
-[Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop)
+[Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop) - "Dead," per some user but "still usable"
 [[Napkin\|Napkin]]
 [Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
@@ -98,6 +102,7 @@ A PKM system without good search functionality is not worth having.
 
 ## People in PKM
 
+- [Ramses Oudt]
 - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes)
 - [Nicole Van Der Hoeven](https://nicolevanderhoeven.com/)
 - [Nick Milo](https://www.linkingyourthinking.com/)
