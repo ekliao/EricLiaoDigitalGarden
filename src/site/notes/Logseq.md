@@ -10,7 +10,7 @@
 # [[Obsidian + Logseq cohabitation\|Obsidian + Logseq cohabitation]]
 
 ---
-## Dario de Silva
+## Dario da Silva
 #people 
 [Profile](https://www.logseqmastery.com/)
 
