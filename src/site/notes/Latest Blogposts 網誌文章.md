@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-21\|2023-07-21]] - Continuing accelerated Logseq learning 🥰
 - [[10 dailynotes/2023-07-19\|2023-07-19]] - Generic knowledge cross-informing
 - [[10 dailynotes/2023-07-18\|2023-07-18]] - Lovin' Logseq after first use | The gravitational pull
 - [[10 dailynotes/2023-07-16\|2023-07-16]] - Hello, and good-bye, Joplin!
