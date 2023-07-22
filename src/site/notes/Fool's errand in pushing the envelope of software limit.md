@@ -13,3 +13,4 @@ Today, after more such frustrating experiments trying to find the upper limits o
 Bottom line, just stop. Perhaps the best medium-term approach is to be happy with the less ambitious Anki data merge project, and be satisfied and content in enjoying the not-trivial reduction of records from 1.2 million to under 800K! If I can achieve this goal, and enjoy better speed on Anki, I will have already won. In the process, I have also gained valuable knowledge about how to design and structure glossary data, and be ready to do something big when software products emerge that meet my need of capacity and performance. (Think Tana, but I will not hold any delusions.)
 
 Okay, enough ranting. Now dial back the monkeying around and settle for something realistic that will result in actual tangible improvement of my professional and personal life.
+{ #74ed44}
