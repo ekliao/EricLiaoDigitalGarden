@@ -4,7 +4,7 @@
 
 - [[2023-07-21\|2023-07-21]] - Lowered expectations, fruitful results
 - [[10 dailynotes/2023-07-20\|2023-07-20]] - Fool's errand in pushing the envelope of software limit
-- [[10 dailynotes/2023-07-19\|2023-07-19]] - Continuing accelerated Logseq learning 🥰
+- [[10 dailynotes/2023-07-19\|2023-07-19]] - Continuing accelerated Logseq learning 🥰 | My second website is live!
 - [[2023-07-18\|2023-07-18]] - Fragile systems
 - [[10 dailynotes/2023-07-17\|2023-07-17]] - Generic knowledge cross-informing
 - [[10 dailynotes/2023-07-16\|2023-07-16]] - Lovin' Logseq after first use | The gravitational pull
@@ -81,7 +81,7 @@
 - [[10 dailynotes/2023-05-05\|2023-05-05]] - The snag and the slug
 - [[10 dailynotes/2023-05-04\|2023-05-04]] - An impulse foray into Anki-to-Obsidian migration | Omnisearch woes
 - [[10 dailynotes/2023-05-03\|2023-05-03]] - Tempting: 舊愛 Anki 新歡 Obsidian
-- [[10 dailynotes/2023-05-02\|2023-05-02]] - My [website](https://ericliaointerpreting.com) is live!
+- [[10 dailynotes/2023-05-02\|2023-05-02]] - My first professional [website](https://ericliaointerpreting.com) is live!
 - [[10 dailynotes/2023-05-01\|2023-05-01]] - Wrangling tags
 - [[10 dailynotes/2023-04-30\|2023-04-30]] - World Wide Web turns 30
 - [[10 dailynotes/2023-04-29\|2023-04-29]] - Mispronunciations | SAMPA
