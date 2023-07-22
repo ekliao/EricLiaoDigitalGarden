@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[10 dailynotes/2023-07-22\|2023-07-22]] - Fool's errand in pushing the envelope of software limit
 - [[10 dailynotes/2023-07-21\|2023-07-21]] - Continuing accelerated Logseq learning 🥰
 - [[2023-07-20\|2023-07-20]] - Fragile
 - [[10 dailynotes/2023-07-19\|2023-07-19]] - Generic knowledge cross-informing
