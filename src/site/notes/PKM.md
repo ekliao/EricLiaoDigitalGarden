@@ -32,7 +32,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Trilium Notes](https://flathub.org/apps/com.github.zadam.trilium)
 [Transno](https://transno.com/)
 [MindMup](https://www.mindmup.com/)
-[[Ulysses\|Ulysses]]
+[[_d/ulysses\|Ulysses]]
 [[iWriter\|iWriter]]
 [[Legend (was Moo.do)\|Legend (was Moo.do)]]
 [[Dynalist\|Dynalist]]
@@ -89,7 +89,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 
 ---
 ## Tools for research
-- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[Tinderbox\|Tinderbox]]
+- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[_d/tinderbox\|Tinderbox]]
 	- [video](https://www.youtube.com/watch?v=NZgI9uq7EQU)
 - [[Zotero\|Zotero]]
 
