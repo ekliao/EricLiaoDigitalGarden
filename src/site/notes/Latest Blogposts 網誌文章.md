@@ -5,7 +5,7 @@
 - [[2023-07-21\|2023-07-21]] - Lowered expectations, fruitful results
 - [[10 dailynotes/2023-07-20\|2023-07-20]] - Fool's errand in pushing the envelope of software limit
 - [[10 dailynotes/2023-07-19\|2023-07-19]] - Continuing accelerated Logseq learning 🥰
-- [[2023-07-18\|2023-07-18]] - Fragile
+- [[2023-07-18\|2023-07-18]] - Fragile systems
 - [[10 dailynotes/2023-07-17\|2023-07-17]] - Generic knowledge cross-informing
 - [[10 dailynotes/2023-07-16\|2023-07-16]] - Lovin' Logseq after first use | The gravitational pull
 - [[10 dailynotes/2023-07-15\|2023-07-15]] - Hello, and good-bye, Joplin!
