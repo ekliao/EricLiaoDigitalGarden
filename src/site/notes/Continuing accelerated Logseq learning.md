@@ -8,7 +8,7 @@ Both readings of "learning Logseq" and "learning through Logseq" are possible. T
 
 I am trying to catch two birds with one ambiguous title.
 
-As mentioned in the recent post about [[10 dailynotes/2023-07-19#Generic knowledge cross-informing\|generic knowledge]], I truly feel that Logseq (and to a large extent Obsidian too) is quite an amazing tool for note-taking with a prime emphasis on short notes and daily journals, both of which encourage writing.
+As mentioned in the recent post about [[10 dailynotes/2023-07-17#Generic knowledge cross-informing\|generic knowledge]], I truly feel that Logseq (and to a large extent Obsidian too) is quite an amazing tool for note-taking with a prime emphasis on short notes and daily journals, both of which encourage writing.
 
 ## My second website created from Logseq
 
