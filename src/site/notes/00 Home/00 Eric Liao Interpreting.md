@@ -56,8 +56,12 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 Feel free to roam, linger, interact by email (ekliao @ gmail.com), or connect on [LinkedIn](http://linkedin.com/in/ericliaointerpreter). You can also fill out the [[Question or Comment?\|Question or Comment?]] box at the bottom of every page of the site.
 
-[Twitter](https://twitter.com/EKLinterpret)
-<a rel="me" href="https://mastodon.social/@EricLiaoInterpreting">Mastodon</a>
+**Other social media**
+- Twitter: [https://twitter.com/eklinterpret](https://twitter.com/eklinterpret)
+- YouTube: [https://www.youtube.com/@ericliaointerpreter](https://www.youtube.com/@ericliaointerpreter)
+- Telegram: @leokhik
+- Threads: @ericliao.interpreter
+- <a rel="me" href="https://mastodon.social/@EricLiaoInterpreting">Mastodon</a>
 
 ---
 *This website is built using [[Obsidian\|Obsidian]], its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
