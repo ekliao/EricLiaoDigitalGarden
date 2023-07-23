@@ -16,7 +16,7 @@ Perhaps it's a perfect segue into announcing here that I have created a second w
 
 So, to anyone who happens to stumble upon this post, here's my second (experimental) website:
 
-https://ericliaointerpreter.netlify.app
+https://ericliaointerpreting.netlify.app
 
 
 <iframe src="https://giphy.com/embed/26tOZ42Mg6pbTUPHW" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26tOZ42Mg6pbTUPHW">via GIPHY</a></p>
