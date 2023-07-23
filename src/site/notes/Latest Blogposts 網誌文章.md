@@ -3,7 +3,6 @@
 ---
 
 - [[More realistic use of note-taking apps as a glossary, terminology management and lookup tool\|Lowered expectations, fruitful results]] (2023-07-21)
-
 - [[10 dailynotes/2023-07-20\|2023-07-20]] - Fool's errand in pushing the envelope of software limit
 - [[10 dailynotes/2023-07-19\|2023-07-19]] - Continuing accelerated Logseq learning 🥰 | My second website is live!
 - [[2023-07-18\|2023-07-18]] - Fragile systems
