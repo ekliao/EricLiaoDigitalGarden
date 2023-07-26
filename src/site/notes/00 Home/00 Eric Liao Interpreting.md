@@ -13,6 +13,7 @@
 #### 庭外採證口譯（主翻或糾翻）/ 庭外采证口译（主翻或纠翻）
 - IPR 智慧財產權
 - Patents 專利
+- Semiconductors 半導體
 - Telecoms 電訊
 - Cryptocurrency 密幣
 - Pharma 製藥
@@ -38,7 +39,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 # [[Latest Blogposts 網誌文章\|Blog 網誌]]
 
-## My Second [Website and Blog 試驗網站](https://ericliaointerpreting.netlify.app)
+## [My Second Website and Blog 試驗網站](https://ericliaointerpreting.netlify.app)
 
 ## [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
 
