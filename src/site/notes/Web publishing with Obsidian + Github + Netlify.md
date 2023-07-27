@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/web-publishing-with-obsidian-github-netlify/","noteIcon":"2","created":"","updated":""}
 ---
 
-This is the main guide, with thanks to [峰的博客](https://fengrin.me/), that directly helped me build the website you're seeing. Its opening paragraphs enticed me with the idea of "publishing at the push of a button" (通過命令一鍵發布). It provides high-level steps without going into detailed steps, but luckily I managed to figure them out, especially the seemingly magical yet baffling parts of Netlify's role in this undertaking.
+This is the main guide, with thanks to [Feng Zhang (峰的博客)](https://fengrin.me/), that directly helped me build the website you're seeing. Its opening paragraphs enticed me with the idea of "publishing at the push of a button" (通過命令一鍵發布). It provides high-level steps without going into detailed steps, but luckily I managed to figure them out, especially the seemingly magical yet baffling parts of Netlify's role in this undertaking.
 
 #project/learn-by-doing 
 #paste/b 
-[src](https://fengrin.me/posts/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify)
+[src: Feng's blog post](https://fengrin.me/posts/2022-12-19-publish-your-website-free-use-your-local-note-obsidian-gitHub-netlify)
 
 ## 免費直接把筆記發布成網站: Obsidian+GitHub+Netlify
 
@@ -107,4 +107,7 @@ dg-home: true
 #paste/e
 
 ## Related resources
+- Another [short article in Chinese](https://anotherdayu.com/2022/4222/) that supposedly describes the same process. #todo/verify 
+	- This is a brief translation of the very detailed official English [guide](https://dg-docs.ole.dev/getting-started/01-getting-started/) by the author of the Digital Garden plugin, hosted on a site enabled by the plugin itself. How apropos!
+	- The guide itself spans several steps and pages.
 - [How to Set Up a Digital Garden With Obsidian For Free](https://www.youtube.com/watch?v=kg-9n_A4Tf0) #todo Watch to see if it's a better step-by-step guide and alternative to Feng's article (this one).
