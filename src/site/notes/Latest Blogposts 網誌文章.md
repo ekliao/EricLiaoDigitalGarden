@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
+- [[Anki - (Basic) note type naming mess (variants without a difference)\|Many spawns of the Basic Anki note type?]]
 - [[Cancelation or cancellation? Don't get "canceled" for spelling wrong.\|Cancelation or cancellation? Don't get "canceled" for spelling wrong.]]
 - [Hierarchical organization of pages in Logseq makes a sane mind](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fpage%20hierarchy) (2023-07-24)
 - [Want long-form writing in Logseq? No problemo!](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fhacks%2Flong-form%20writing) (2023-07-18)
