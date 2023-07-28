@@ -50,6 +50,10 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 # Anki hacks I've learned
 *(New to old)*
 
+- [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|Anki - AnkiWeb (cloud storage) file size limit - official and actual]]
+
+- [[Anki - (Basic) note type naming mess (variants without a difference)\|Anki - (Basic) note type naming mess (variants without a difference)]]
+
 - User interface size
 	- Though obvious, I didn't discover this adjustable parameter earlier. Once I changed it to 150%, Anki immediately felt a lot more accessible.
 
@@ -87,3 +91,4 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 [[Anki Export Considerations： text vs apkg\|Anki Export Considerations： text vs apkg]]
 
 [[Anki data merging project (WIP w ongoing change log)\|Anki data merging project (WIP w ongoing change log)]]
+
