@@ -64,6 +64,10 @@
 ###### Ghost
 - [Heptabase founder Chan's website](https://sheracaolity.ghost.io/)
 
+###### Jekyll (SSG)
+- [Article](https://github.com/khoguan/khoguan.github.io) (in Taigi) by [[people/潘科元\|people/潘科元]]
+
+
 ---
 ## Digital Gardening
 - [How to set up a digital garden](https://nesslabs.com/digital-garden-set-up)
