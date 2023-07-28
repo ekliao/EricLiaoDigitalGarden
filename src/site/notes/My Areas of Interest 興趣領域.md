@@ -42,7 +42,7 @@
 *(New to old)*
 - [[Migrating and merging glossary data\|Migrating and merging glossary data]]
 - A large rolling briefcase, such as [[Briefcase on wheels\|Briefcase on wheels]]
-- Typography, [[Fonts\|fonts]]
+- Typography, [[Typefaces and fonts\|typefaces and fonts]]
 
 ---
 ## [[Tools I use\|Tools I use]]
