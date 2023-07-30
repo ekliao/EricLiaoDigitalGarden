@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
 - [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
 - [[Anki - (Basic) note type naming mess (variants without a difference)\|Many spawns of the Basic Anki note type?]]
 - [[Cancelation or cancellation? Don't get "canceled" for spelling wrong.\|Cancelation or cancellation? Don't get "canceled" for spelling wrong.]]
