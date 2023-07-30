@@ -93,3 +93,13 @@ The very last video I just watched is about a hack of promoting long-form writin
 ## Document mode
 - [Thread](https://www.reddit.com/r/logseq/comments/w860ho/loqseq_is_not_a_notetaking_app_because_every/)
 - Toggle with `t d` to make bullet points disappear while keeping the indentation
+---
+# Issues
+
+## Speed and sync
+
+- [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
+
+## Coexistence with Obsidian
+
+- [[Logseq bak woes\|Logseq bak woes]]
