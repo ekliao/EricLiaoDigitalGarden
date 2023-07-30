@@ -7,10 +7,11 @@
 - [[Anki - (Basic) note type naming mess (variants without a difference)\|Many spawns of the Basic Anki note type?]]
 - [[Cancelation or cancellation? Don't get "canceled" for spelling wrong.\|Cancelation or cancellation? Don't get "canceled" for spelling wrong.]]
 - [Hierarchical organization of pages in Logseq makes a sane mind](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fpage%20hierarchy) (2023-07-24)
-- [Want long-form writing in Logseq? No problemo!](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fhacks%2Flong-form%20writing) (2023-07-18)
-- [How I published a second website using Logseq](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fpublish) (2023-07-18)
 - [[Obsidian has blocks too, just not as native as in Logseq\|Obsidian has blocks too, just not as native as in Logseq]] (2023-07-23)
 - [[More realistic use of note-taking apps as a glossary, terminology management and lookup tool\|Lowered expectations, fruitful results]] (2023-07-21)
+- [Want long-form writing in Logseq? No problemo!](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fhacks%2Flong-form%20writing) (2023-07-18)
+- [How I published a second website using Logseq](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fpublish) (2023-07-18)
+- [[Obsidian + Logseq cohabitation\|Obsidian + Logseq cohabitation]]
 - [[10 dailynotes/2023-07-20\|2023-07-20]] - Fool's errand in pushing the envelope of software limit
 - [[10 dailynotes/2023-07-19\|2023-07-19]] - Continuing accelerated Logseq learning 🥰 | My second website is live!
 - [[2023-07-18\|2023-07-18]] - Fragile systems
