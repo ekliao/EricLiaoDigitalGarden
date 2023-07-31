@@ -14,9 +14,10 @@ Now I have this as my second weapon: [[Vault home - Ekliao\|My first Obsidian va
 
 # Pro
 
-## Ankiweb surprisingly fast
+## AnkiWeb surprisingly fast
 
-- Having experienced the awful slowness of Obsidian (iCloud and local) in handling 400K data, I gave Ankiweb a try. It's already there, but I actually never used it, assuming it wasn't going to be fast compared to the desktop app. Gosh, I was so wrong. On 1.2 million entries, the search for a headword takes less than 5 seconds, sometimes only 1-2 seconds. What a surprise!
+- Having experienced the awful slowness of Obsidian (iCloud and local) in handling 400K data, I gave AnkiWeb a try. It's already there, but I actually never used it, assuming it wasn't going to be fast compared to the desktop app. Gosh, I was so wrong. On 1.2 million entries, the search for a headword takes less than 5 seconds, sometimes only 1-2 seconds. What a surprise!
+- More about [[AnkiWeb\|AnkiWeb]] (its pros and cons).
 
 ## Hierarchical tags and search
 
