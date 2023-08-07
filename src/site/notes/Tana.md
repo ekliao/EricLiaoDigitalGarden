@@ -3,6 +3,15 @@
 ---
 
 #PKM 
+# Hello, Tana!
+
+*(2023-08-07)* Just got early access to Tana. My first impressions: 
+- Slick UI design
+- Quick response
+- In-context guide
+
+Having played with Logseq, Tana's design philosophy is now very clear. I am on my way to try implementing my glossary/terminology management/lookup system.
+
 # At a glance
 
 - Unified design: everything is a node
@@ -92,7 +101,7 @@ Markdown-like input text into Tana structures.
 ## Ev Chapman 
 #people 
 ### [Video: Ev's first week with Tana](https://www.youtube.com/watch?v=3Jhr_xDPKvI&t=305s)
-- Video notes
+- #videoNote 
 	- Block-based Outliner like Roam + database/structured data like Notion
 	- Demo node: "idea for a long-form article"
 		- Supertag
@@ -126,7 +135,7 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 ## CortexFutura
 #people 
 ### [Video: Tana fundamentals 01: UI](https://www.youtube.com/watch?v=WqASI-p-dJM&t=57s)
-- Video notes
+- #videoNote 
 	- A node's bullet point with gray outer circle means it's collapsed.
 		- Exactly like Logseq (or Workflowy)
 	- Quick keyboard shortcuts to go up or down the indentation tree of nodes
@@ -142,7 +151,7 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 	- CMD+E for quick add to daily node
 
 ### [Video: Tana fundamentals 02: Everything is a node](https://www.youtube.com/watch?v=v6C7t6l8iL4)
-- Video notes
+- #videoNote 
 	- Two ways of referencing:
 		- At the beginning of a node, use @ sign to create "backlink" or "reference node"; it is identified by dotted line outline of the bullet point.
 		- It works like embedding in Obsidian
@@ -163,9 +172,25 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 		- as tabs
 	- 
 ### [Video: Tana fundamentals 03: Data about nodes](https://www.youtube.com/watch?v=f4FcNhlU7G4)
-- Video notes
-	- Nodes
-		- Has a description
+- #videoNote 
+	- Think of a tag as a relationship.
+		- e.g. "Washington: A Life" is a book. Give it a tag named "book". Here, the relationship is: "is a book."
+	- Type ">" (greater than) to create a field under the tag.
+		- e.g. "Author"
+			- Any previously created field names will be shown as prompt (auto-complete) when creating a field in the future.
+	- Command: configure a field
+		- name
+		- description
+		- field type
+			- Anything (freeform data)
+			- **Instance of an existing tag** (shown as `#instance`)
+				- This is great convenience. Will remind you to add a tag in the future for the same field name.
+	- Can use mouse to select multiple consecutive nodes and apply bulk change
+		- e.g. add a tag
+	- Tags can contain spaces
+		- e.g. "US President"
+- OLDER video ntoes
+	- CTRL-I to add a description to any node
 	- Fields
 		- Field types
 		- Default tags
@@ -177,6 +202,11 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 			- Add a new field to the view
 				- e.g. "Topic"
 					- Value "US Presidents" itself is also a node
+
+### [Video: Tana fundamentals 04: Live Search](https://www.youtube.com/watch?v=ohisZOdNNFY)
+- #videoNote 
+	- #todo/watch
+	- 
 
 ---
 ## Santi Younger
