@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
 - [[Old habits die hard\|Old habits die hard]] 新習慣養成的阻力
 - [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
 - [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
