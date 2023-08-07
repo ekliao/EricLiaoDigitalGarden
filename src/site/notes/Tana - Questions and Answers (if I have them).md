@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tana-questions-and-answers-if-i-have-them/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-08-07
 ## In terms of long-term storage/retrieval (of videos), what would be the upload limit/file and total storage? Are we better off linking externally i.e. a Dropbox link to the video?
 
 #answer/authority/quote
