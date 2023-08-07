@@ -3,6 +3,14 @@
 ---
 
 date-created:: 2023-08-07
+
+## Tana publish?
+
+[src](https://tana.pub)
+
+![_attachments/Screen Shot 2023-08-07 at 15.22.21.png](/img/user/_attachments/Screen%20Shot%202023-08-07%20at%2015.22.21.png)
+
+This is tantalizing. I think this means that some form of publishing of Tana is possible, in the way of Notion. (I haven't tried Notion publish. Only heard of it.)
 ## In terms of long-term storage/retrieval (of videos), what would be the upload limit/file and total storage? Are we better off linking externally i.e. a Dropbox link to the video?
 
 #answer/authority/quote
