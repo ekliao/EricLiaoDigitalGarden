@@ -125,7 +125,44 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 ---
 ## CortexFutura
 #people 
-### [Video: Data about nodes](https://www.youtube.com/watch?v=f4FcNhlU7G4)
+### [Video: Tana fundamentals 01: UI](https://www.youtube.com/watch?v=WqASI-p-dJM&t=57s)
+- Video notes
+	- A node's bullet point with gray outer circle means it's collapsed.
+		- Exactly like Logseq (or Workflowy)
+	- Quick keyboard shortcuts to go up or down the indentation tree of nodes
+	- Root node
+		- Automatically contains
+			- Calendar
+			- Todo
+			- Everything else (nodes)
+	- Command prompt: CMD+K
+		- Can sort nodes
+	- TanaLab
+		- Regex search
+	- CMD+E for quick add to daily node
+
+### [Video: Tana fundamentals 02: Everything is a node](https://www.youtube.com/watch?v=v6C7t6l8iL4)
+- Video notes
+	- Two ways of referencing:
+		- At the beginning of a node, use @ sign to create "backlink" or "reference node"; it is identified by dotted line outline of the bullet point.
+		- It works like embedding in Obsidian
+			- But can be edited directly.
+		- Inline reference: use also the @ sign. Shows as a link (underline). Click on it to visit the node.
+			- If the referenced node hasn't been created, you'll be prompted to create it, and it goes under the Library node (child of root).
+			- SHIFT-click will embed it below the node.
+	- MOVE TO command, 3 destinations
+			- Home
+			- Library
+			- Today
+	- Backlinks are shown at the end of a node, the "referenced in" section.
+	- Views
+		- as table
+		- as list
+		- as cards
+		- as columns
+		- as tabs
+	- 
+### [Video: Tana fundamentals 03: Data about nodes](https://www.youtube.com/watch?v=f4FcNhlU7G4)
 - Video notes
 	- Nodes
 		- Has a description
