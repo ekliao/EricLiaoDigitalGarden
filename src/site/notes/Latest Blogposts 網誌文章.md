@@ -3,12 +3,18 @@
 ---
 
 - [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
-	- [[Tana - Questions and Answers (if I have them)\|Tana Q&A]] 我最迫切的Tanawenti
+	- [[Tana - Questions and Answers (if I have them)\|Tana Q&A]] 我最迫切的Tana疑問
+
 - [[Old habits die hard\|Old habits die hard]] 新習慣養成的阻力
+
 - [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
+
 - [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
+
 - [[Anki - (Basic) note type naming mess (variants without a difference)\|Many spawns of the Basic Anki note type?]]
+
 - [[Cancelation or cancellation? Don't get "canceled" for spelling wrong.\|Cancelation or cancellation? Don't get "canceled" for spelling wrong.]]
+
 - [Hierarchical organization of pages in Logseq makes a sane mind](https://ericliaointerpreting.netlify.app/#/page/logseq%2Fpage%20hierarchy) (2023-07-24)
 - [[Obsidian has blocks too, just not as native as in Logseq\|Obsidian has blocks too, just not as native as in Logseq]] (2023-07-23)
 - [[More realistic use of note-taking apps as a glossary, terminology management and lookup tool\|Lowered expectations, fruitful results]] (2023-07-21)
