@@ -43,7 +43,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
 [Heptabase](https://heptabase.com/) - Whiteboard
-[Foam](https://github.com/foambubble/foam) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code.
+[[Foam, FoamBubble\|Foam, FoamBubble]] - [Official](https://github.com/foambubble/foam) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code as a collection of extensions
 [Zettlr](https://www.zettlr.com/) - Markdown editor
 [Capacities.io](https://capacities.io/) - Akin to Notion. Object-based note-taking.
 [Notesnook](https://notesnook.com/) - End-to-end encryption.
