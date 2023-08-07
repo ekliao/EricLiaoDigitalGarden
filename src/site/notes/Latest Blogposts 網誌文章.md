@@ -3,6 +3,7 @@
 ---
 
 - [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
+	- [[Tana - Questions and Answers (if I have them)\|Tana Q&A]] 我最迫切的Tanawenti
 - [[Old habits die hard\|Old habits die hard]] 新習慣養成的阻力
 - [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
 - [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
