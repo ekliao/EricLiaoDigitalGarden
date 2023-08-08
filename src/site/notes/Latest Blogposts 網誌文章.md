@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Heptabase\|Heptabase]] 原來勝過Tana的神器在此
+
 - [[Note-linking anxiety\|Note-linking anxiety]] 我是否患了筆記關聯焦慮症？
 
 - [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
