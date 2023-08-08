@@ -29,11 +29,12 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[[_d/arc\|Arc]] - Browser
 [[Sunsama\|Sunsama]] - Daily planner
 [[VimCal\|VimCal]] - Calendar and time management
 [[Superhuman\|Superhuman]] - Email
 [[Lazy\|Lazy]]
-[Drafts](https://getdrafts.com/) - Mobile-only app
+	[Drafts](https://getdrafts.com/) - Mobile-only app
 [Trilium Notes](https://flathub.org/apps/com.github.zadam.trilium)
 [Transno](https://transno.com/)
 [MindMup](https://www.mindmup.com/)
