@@ -175,10 +175,14 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 - #videoNote 
 	- Think of a tag as a relationship.
 		- e.g. "Washington: A Life" is a book. Give it a tag named "book". Here, the relationship is: "is a book."
-	- Type ">" (greater than) to create a field under the tag.
+	- Indent under a node with a tag (tab), then type ">" (greater than) to create a field under the tag.
 		- e.g. "Author"
 			- Any previously created field names will be shown as prompt (auto-complete) when creating a field in the future.
-	- Command: configure a field
+			- Notice how a tag can be created for the value of this "Author" field (the value is the name of the author).
+				- This Author tag seems to serve a different function than the Author field.
+					- Duh! The Author tag is a supertag, a template. The Author field is very insignificant.
+						- Appreciate the subtlety!
+	- CMD-K: configure a field
 		- name
 		- description
 		- field type
@@ -189,7 +193,16 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 		- e.g. add a tag
 	- Tags can contain spaces
 		- e.g. "US President"
-- OLDER video ntoes
+	- Can tag a linked new node. 
+		- @ to create the link
+		- Use arrow key to select the link (shows a thin blue outline)
+			- ![_attachments/Screen Shot 2023-08-07 at 23.55.54.png|200](/img/user/_attachments/Screen%20Shot%202023-08-07%20at%2023.55.54.png)
+		- CMD-K to add a tag to it.
+			- The tag won't show on current page, but it is added to the linked node:
+				- ![_attachments/Screen Shot 2023-08-07 at 23.57.16.png|100](/img/user/_attachments/Screen%20Shot%202023-08-07%20at%2023.57.16.png)
+				- #progress  
+				- 
+- OLDER video notes
 	- CTRL-I to add a description to any node
 	- Fields
 		- Field types
