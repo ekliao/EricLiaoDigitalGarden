@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Note-linking anxiety\|Note-linking anxiety]] 我是否患了筆記關聯焦慮症？
+
 - [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
 	- [[Tana - My Questions and Answers\|Tana Q&A]] 我最迫切的Tana問題
 	- [[Tana Paste\|Tana Paste]] 匯入資料的唯一希望
