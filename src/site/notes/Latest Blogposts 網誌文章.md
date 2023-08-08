@@ -4,6 +4,7 @@
 
 - [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
 	- [[Tana - Questions and Answers (if I have them)\|Tana Q&A]] 我最迫切的Tana疑問
+	- [[Tana Paste\|Tana Paste]] 匯入資料的唯一希望
 
 - [[Old habits die hard\|Old habits die hard]] 新習慣養成的阻力
 
