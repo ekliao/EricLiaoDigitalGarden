@@ -11,15 +11,16 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 
 ### In use
 *(By frequency)*
-- [[Logseq\|Logseq]]
 - [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
 - [[Apple Notes\|Apple Notes]]
+- [[Tana\|Tana]]
 - [[Evernote\|Evernote]]
+- [[Logseq\|Logseq]]
 - [[DTSearch\|DTSearch]]
 - [[Notability\|Notability]]
 - [[LiquidText\|LiquidText]] ([Official](https://www.liquidtext.net/)) - Rediscovered its value in 2023
-	
+
 ### Obsolete
 - [[MarginNote\|MarginNote]] ([official](https://www.marginnote.com/) )
  [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
@@ -28,6 +29,10 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[[Sunsama\|Sunsama]] - Daily planner
+[[VimCal\|VimCal]] - Calendar and time management
+[[Superhuman\|Superhuman]] - Email
+[[Lazy\|Lazy]]
 [Drafts](https://getdrafts.com/) - Mobile-only app
 [Trilium Notes](https://flathub.org/apps/com.github.zadam.trilium)
 [Transno](https://transno.com/)
@@ -42,17 +47,16 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[Napkin\|Napkin]]
 [Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
-[Heptabase](https://heptabase.com/) - Whiteboard
+[[Heptabase\|Heptabase]] [Official](https://heptabase.com/) - Whiteboard
 [[Foam, FoamBubble\|Foam, FoamBubble]] - [Official](https://github.com/foambubble/foam) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code as a collection of extensions
 [Zettlr](https://www.zettlr.com/) - Markdown editor
 [Capacities.io](https://capacities.io/) - Akin to Notion. Object-based note-taking.
 [Notesnook](https://notesnook.com/) - End-to-end encryption.
-[[Tana\|Tana]] ([Official](https://tana.inc/pkm)) - Outlining, supertags, semantics.
 [Workflowy](https://workflowy.com/)
 [Craft.do](https://www.craft.do/) - Block-based
 [[Mochi Cards\|Mochi Cards]] - SRS in markdown, web
 [Reflect](https://reflect.app/)
-[[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/))
+[[MEM.ai\|MEM.ai]] ([Official](https://mem.ai/)) - PKM with killer AI
 [Matter](https://hq.getmatter.com/)
 [Highlights](https://highlightsapp.net/)
 [[Joplin\|Joplin]] ([Official](https://joplinapp.org/) ) - New [[Evernote\|Evernote]], markdown, open source, cross-platform, bad at linking notes.
@@ -64,19 +68,17 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
 [Scrintal](https://www.scrintal.com/)
 [Dendron](https://www.dendron.so)
+[[Todoist\|Todoist]]
 [[Zotero\|Zotero]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 [[00 Home/A/A-Dict/Zettelkasten\|Zettelkasten]]
 	Not an app but a method with apps implementing it to some degree, notably Roam
-[[Logseq\|Logseq]] 🔥 - /"lQg si:k"/, not /"lQg sEk/, as it means "sequence of log"
 [[Remnote\|Remnote]] ([Official](https://www.remnote.com/)） 
 [Roam Research](https://roamresearch.com/)
 	A famous block-based note-taking system but not a [Freemium](https://en.wikipedia.org/wiki/Freemium) (zh:[Freemium](https://zh.wikipedia.org/wiki/Freemium)) at $165/year. Zsolt used this after The Brain before Obsidian.
-[[Obsidian\|Obsidian]]
 [[Mnemosyne\|Mnemosyne]]
 [[Notion\|Notion]] - Database, AI, strong in publishing
 [SuperMemo](https://en.wikipedia.org/wiki/SuperMemo)
 	Out of which came Anki.
-[[Notability\|Notability]]
 [[OneNote\|OneNote]]
 [[GoodNotes\|GoodNotes]]
 [[Quizlet\|Quizlet]]
