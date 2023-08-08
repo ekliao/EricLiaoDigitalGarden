@@ -227,3 +227,22 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 		- Aesthetic
 	- Notion is strong with sharing/creating website
 		- Santi did this but moved to [[Webflow\|Webflow]], more powerful, more options
+
+### Fred Jame
+#people 
+#paste/b 
+[src](https://www.facebook.com/thefredjame/posts/pfbid0xhrPZxFEoBJAGBWsU7pMCGogcLESZb972WhUbwUBipxgSj4tVJmc9SpttfXDd6czl?__cft__[0]=AZVx0Kh3ikZfbNuIimJ3EG3hQeU5A26wrOyJtpgC42-KeH_g1DdS_tLc7AVdaKTZ8F7g6ecxVc2oAJDzqk8O55t082DjjQHwXd2Kl8aSrpcTna5MSr7_TP7bzACFtIjpFX4eSQymQnafis6PtTSS0IRh6O1RcMQ85GmBbqxCbVlOVzFs1ZYdGqiCVOI0_IesdeU&__tn__=%2CO%2CP-R)  
+
+這兩天花最多時間做的事是深入玩Tana和AI功能的整合。雖然還不是很完整，但Tana的資料使用彈性和AI整合深度大概贏Notion有5個馬身。
+
+但如果這些功能用不到，只是單純的做筆記，兩者的差異就沒那麼大，甚至Notion還簡單一點（會說Notion「簡單一點」，就知道Tana有多強）。
+
+但Tana的弱點在於：
+
+1. 資料的展現方式（字體變化、排版等等）遠不如Notion
+
+2. 缺乏與外部資料（行事曆、通訊錄、其他SaaS等）的連結整合
+
+3. 資料很難變成共通格式（PDF之類）跟其他軟體共享、或用於列印
+
+4. 用於收集資料（錄音、照相、辨識文字）的手機版Tana Capture工具很好用，錄到的聲音可以在網頁版上轉成正確度相當高的文字檔（中文也可以），但目前還沒有行動app，只能用在行動裝置上很難用的網頁版。
