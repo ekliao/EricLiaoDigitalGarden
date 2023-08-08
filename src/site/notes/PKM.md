@@ -29,12 +29,15 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
-[[_d/arc\|Arc]] - Browser
+[[XMind\|XMind]] ([Official](https://xmind.app/))
+[[Snipd\|Snipd]] ([Official](https://blog.snipd.com/how-to-take-notes-from-podcasts-with-snipd-6dd564d1c4ae)) - Note-taking from podcasts
+[[UpNote\|UpNote]] ([Official](https://getupnote.com/))
+[[_d/arc\|Arc]] - A new browser
 [[Sunsama\|Sunsama]] - Daily planner
 [[VimCal\|VimCal]] - Calendar and time management
 [[Superhuman\|Superhuman]] - Email
-[[Lazy\|Lazy]]
-	[Drafts](https://getdrafts.com/) - Mobile-only app
+[[Lazy AI\|Lazy AI]] - [Official](https://lazy.so/)
+[Drafts](https://getdrafts.com/) - Mobile-only app
 [Trilium Notes](https://flathub.org/apps/com.github.zadam.trilium)
 [Transno](https://transno.com/)
 [MindMup](https://www.mindmup.com/)
@@ -49,9 +52,9 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Miro](https://miro.com/) - Whiteboard
 [Flomo 浮墨筆記](https://flomoapp.com/login) - personal microblog
 [[Heptabase\|Heptabase]] [Official](https://heptabase.com/) - Whiteboard
-[[Foam, FoamBubble\|Foam, FoamBubble]] - [Official](https://github.com/foambubble/foam) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code as a collection of extensions
+[[Foam, FoamBubble\|Foam, FoamBubble]] ([Official](https://github.com/foambubble/foam) ) - Inspired by [[Roam Research\|Roam Research]] and written in VS Code as a collection of extensions
 [Zettlr](https://www.zettlr.com/) - Markdown editor
-[Capacities.io](https://capacities.io/) - Akin to Notion. Object-based note-taking.
+[[Capacities.io\|Capacities.io]] ([Official](https://capacities.io/) - Akin to Notion. Object-based note-taking.
 [Notesnook](https://notesnook.com/) - End-to-end encryption.
 [Workflowy](https://workflowy.com/)
 [Craft.do](https://www.craft.do/) - Block-based
