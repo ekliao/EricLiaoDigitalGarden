@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tana-paste/","noteIcon":"2","created":"","updated":""}
 ---
 
-date-created: 2023-08-07
+date-created:: 2023-08-07
 #Tana 
 
 Currently, I have high hopes of Tana Paste being the only way for me to import huge amount of glossary/terminology data into Tana.
