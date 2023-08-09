@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Refocusing on Glossary Management\|Refocusing on Glossary Management]] 不理筆記啦，重新聚焦詞彙管理工具
+
 - [[Heptabase\|Heptabase]] 原來勝過Tana的神器在此
 
 - [[Note-linking anxiety\|Note-linking anxiety]] 我是否患了筆記關聯焦慮症？
