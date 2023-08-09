@@ -5,9 +5,9 @@
 date-created:: 2023-08-09
 # Barking up the wrong tree
 
-Yesterday, I focused all my energy on experimenting with creating a glossary management system using Supertags in Tana, the latest and greatest PKM that's all the range. I hit the wall very quickly. By actually doing it, I realized that Tana's template/database approach suffers these serious problems:
+Yesterday, I focused all my energy on experimenting with creating a glossary management system using Supertags in Tana, the latest and greatest PKM that's all the rage. I hit the wall very quickly. ***Doing is believing. By actually doing it, I realized that Tana's template/database approach suffers these serious problems:
 
-- Slow entry
+- Cumbersome entry
 - Slow lookup
 - Unnecessary complexity
 - Questionable ability at best for bulk import (say, 1.2 million record)
@@ -20,11 +20,11 @@ Then I realized that I've not really given Anki a proper evaluation for its cust
 
 So, I am sharing with whoever interested in glossary management this ongoing evaluation: 
 
-[My evaluation](https://docs.google.com/spreadsheets/d/1MxtXcajosk5Rc4bDptNOGm9BFl7Jc0US02rpt0LybWA/edit?usp=sharing)
+[Glossary/terminology management and lookup app comparison and evaluation](https://docs.google.com/spreadsheets/d/1MxtXcajosk5Rc4bDptNOGm9BFl7Jc0US02rpt0LybWA/edit?usp=sharing)
 
 I'm re-focusing solely on glossary/terminology concerns, not note-taking or publishing.
 
-The major issues would be:
+The major criteria now are:
 
 - Custom fields
 - Bulk entry or import/export
@@ -33,5 +33,7 @@ The major issues would be:
 	- Single entry update
 - Searching by fields
 - Speed of search
+
+On first blush, the tried-and-true old friend Anki actually fits the bill perfectly.
 
 
