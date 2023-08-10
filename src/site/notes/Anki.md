@@ -83,6 +83,8 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 # Add-ons
 
 - [[Merging Notes： Anki Add-ons of Interest\|Merging Notes： Anki Add-ons of Interest]]
+
+# [[Anki Issues\|Issues]]
 ---
 
 # More ...
