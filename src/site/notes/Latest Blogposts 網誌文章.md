@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Anki Issues\|Anki Issues]] 晴天霹靂：桌面版崩壞
 
 - [[AnkiWeb\|AnkiWeb]] unlimited cloud storage 無限雲端容量的小撇步
 
