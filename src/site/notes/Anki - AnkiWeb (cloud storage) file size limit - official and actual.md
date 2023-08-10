@@ -4,7 +4,7 @@
 
 creation-date:: 2023-07-28
 
-Over the years I have enjoyed a larger limit than officially advertised. So, I have no complaint. I just need to avoid the trigger of whole-collection upload as much as possible, because it really is a pain in the neck.
+Over the years I have enjoyed a larger [[Anki\|Anki]] storage limit than officially advertised. So, I have no complaint. I just need to avoid the trigger of whole-collection upload as much as possible, because it really is a pain in the neck.
 
 # Official limit is 250MB
 
@@ -60,3 +60,7 @@ So glad to have this latest addition. I just looked up this Chinese idiom I just
 
 ![_attachments/Screen Shot 2023-07-29 at 15.11.15.png|400](/img/user/_attachments/Screen%20Shot%202023-07-29%20at%2015.11.15.png)
 
+---
+# Related
+
+[[AnkiWeb\|AnkiWeb]]
