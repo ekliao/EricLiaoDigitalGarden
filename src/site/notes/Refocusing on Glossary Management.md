@@ -5,7 +5,7 @@
 date-created:: 2023-08-09
 # Barking up the wrong tree
 
-Yesterday, I focused all my energy on experimenting with creating a glossary management system using Supertags in Tana, the latest and greatest PKM that's all the rage. I hit the wall very quickly. ***Doing is believing. By actually doing it, I realized that Tana's template/database approach suffers these serious problems:
+Yesterday, I focused all my energy on experimenting with creating a glossary management system using Supertags in [[Tana\|Tana]], the latest and greatest [[PKM\|PKM]] that's all the rage. I hit the wall very quickly. ***Doing is believing. By actually doing it, I realized that Tana's template/database approach suffers these serious problems:
 
 - Cumbersome entry
 - Slow lookup
@@ -16,7 +16,7 @@ I am sure Logseq is in the same quandary. Notion? Don't know, but since it is in
 
 Obsidian is hopeful, with its relaxed and versatile search using keywords like file, section, block, line, and regex on everything.
 
-Then I realized that I've not really given Anki a proper evaluation for its custom fields. It does have those things. I finally get it.
+Then I realized that I've not really given [[Anki\|Anki]] a proper evaluation for its custom fields. It does have those things. I finally get it.
 
 So, I am sharing with whoever interested in glossary management this ongoing evaluation: 
 
