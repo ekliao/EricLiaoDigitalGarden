@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+
+- [[AnkiWeb\|AnkiWeb]] unlimited cloud storage 無限雲端容量的小撇步
+
 - [[Refocusing on Glossary Management\|Refocusing on Glossary Management]] 不理筆記啦，重新聚焦詞彙管理工具
 
 - [[Heptabase\|Heptabase]] 原來勝過Tana的神器在此
