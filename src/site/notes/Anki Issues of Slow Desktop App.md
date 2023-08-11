@@ -80,3 +80,6 @@ And finally for sanity check, the cloud storage version does preserve each and e
 
 ![_attachments/Screen Shot 2023-08-10 at 20.40.48.png|400](/img/user/_attachments/Screen%20Shot%202023-08-10%20at%2020.40.48.png)
 
+---
+
+[[Anki performance tracking\|Anki performance tracking]]
