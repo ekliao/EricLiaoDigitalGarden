@@ -2,21 +2,21 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[Anki performance tracking\|Anki performance tracking]] 逃過一劫後，開始追蹤性能
+- [[Anki performance tracking\|Anki performance tracking]] | 逃過一劫後，開始追蹤Anki性能
 
-- [[Anki Issues of Slow Desktop App\|Anki Issues of Slow Desktop App]] 晴天霹靂：桌面版崩壞
+- [[Anki Issues of Slow Desktop App\|Anki Issues of Slow Desktop App]] | 晴天霹靂：Anki桌面版崩壞
 
-- [[AnkiWeb\|AnkiWeb]] unlimited cloud storage 無限雲端容量的小撇步
+- [[AnkiWeb\|AnkiWeb]] unlimited cloud storage | Anki無限雲端容量的小撇步
 
-- [[Refocusing on Glossary Management\|Refocusing on Glossary Management]] 不理筆記啦，重新聚焦詞彙管理工具
+- [[Refocusing on Glossary Management\|Refocusing on Glossary Management]] | 筆記軟體滾一邊，重新聚焦詞彙管理
 
-- [[Heptabase\|Heptabase]] 原來勝過Tana的神器在此
+- [[Heptabase\|Heptabase]] | 原來Heptabase是勝過Tana的神器，台灣之光
 
-- [[Note-linking anxiety\|Note-linking anxiety]] 我是否患了筆記關聯焦慮症？
+- [[Note-linking anxiety\|Note-linking anxiety]] | 我是否患了筆記關聯焦慮症？
 
-- [[Tana\|Hello, Tana!]] 成了新工具Tana的早鳥用戶
-	- [[Tana - My Questions and Answers\|Tana Q&A]] 我最迫切的Tana問題
-	- [[Tana Paste\|Tana Paste]] 匯入資料的唯一希望
+- [[Tana\|Hello, Tana!]] | 成了新工具Tana的早鳥用戶
+	- [[Tana - My Questions and Answers\|Tana Q&A]] | 最迫切的Tana問題
+	- [[Tana Paste\|Tana Paste]] | Tana匯入資料的唯一希望
 
 - [[Old habits die hard\|Old habits die hard]] 新習慣養成的阻力
 
