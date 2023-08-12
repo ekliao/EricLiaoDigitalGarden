@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- Hello, [[Notion\|Notion]]! | Notion，我來了
+- 
 - [[Anki performance tracking\|Anki performance tracking]] | 逃過一劫後，開始追蹤Anki性能
 
 - [[Anki Issues of Slow Desktop App\|Anki Issues of Slow Desktop App]] | 晴天霹靂：Anki桌面版崩壞
