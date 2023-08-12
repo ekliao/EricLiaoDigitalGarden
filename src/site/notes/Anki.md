@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/anki/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 20230221
+
 [[Anki\|Anki]] is the third [[PKM\|PKM]] that I built, after [[DTSearch\|DTSearch]] and [[Evernote\|Evernote]]. Today, it is my most frequently used and updated system. I almost stopped using [[DTSearch\|DTSearch]] altogether for its being on the old [[Windows 10 VM\|Windows 10 VM]], a resource hog on my [[Mid-2014 MacBook Pro\|Mid-2014 MacBook Pro]]. As for [[Evernote\|Evernote]], it is where garbage data goes to die. I still use it today, making most of the free 60MB storage per month to store random web content and short memos.
 { #2bb266}
 
@@ -102,5 +104,6 @@ After [[Anki Issues of Slow Desktop App\|Anki Issues of Slow Desktop App]], I de
 
 [[Anki data merging project (WIP w ongoing change log)\|Anki data merging project (WIP w ongoing change log)]]
 
+[[Refocusing on Glossary Management\|Refocusing on Glossary Management]]
 
 
