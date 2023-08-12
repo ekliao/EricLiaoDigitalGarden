@@ -56,3 +56,8 @@ This was screaming-worthy. I skipped the celebratory drink (it was just 11AM) an
 			- Templates
 		- v5: super.so 4.9/5 (wrapper around Notion workspace)
 			- Free!
+
+---
+# More ...
+
+- [[Refocusing on Glossary Management\|Refocusing on Glossary Management]]
