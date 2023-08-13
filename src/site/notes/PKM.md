@@ -2,10 +2,11 @@
 {"dg-publish":true,"permalink":"/pkm/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-create:: 20230221
+
 PKM stands for *personal knowledge management*.
 
 A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecutive Note-Taking\|Consecutive Note-Taking]], and for managing notes and documents in various formats.
-
 # PKM Systems
 *(broadly, including spaced repetition systems and some note-taking apps)*
 
@@ -14,13 +15,12 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
 - [[Apple Notes\|Apple Notes]]
-- [[Tana\|Tana]]
 - [[Evernote\|Evernote]]
+- [[Notability\|Notability]]
 - [[Logseq\|Logseq]]
 - [[DTSearch\|DTSearch]]
-- [[Notability\|Notability]]
 - [[LiquidText\|LiquidText]] ([Official](https://www.liquidtext.net/)) - Rediscovered its value in 2023
-
+- [[Tana\|Tana]]
 ### Obsolete
 - [[MarginNote\|MarginNote]] ([official](https://www.marginnote.com/) )
  [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
@@ -29,6 +29,9 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard Of
 *(New to old)*
 
+[[Innos Note\|Innos Note]]
+[[Nota.md\|Nota.md]]
+[[Minddode\|Minddode]]
 [[XMind\|XMind]] ([Official](https://xmind.app/))
 [[Snipd\|Snipd]] ([Official](https://blog.snipd.com/how-to-take-notes-from-podcasts-with-snipd-6dd564d1c4ae)) - Note-taking from podcasts
 [[UpNote\|UpNote]] ([Official](https://getupnote.com/))
