@@ -25,6 +25,7 @@ I am not exaggerating if I say that my career as a localization engineer (2002â€
 
 ## Unicode
 - [Scripts, blocks, etc.](https://www.regular-expressions.info/unicode.html)
+- [[Unicode properties for quoting or enclosing characters\|Unicode properties for quoting or enclosing characters]]
 
 The Unicode property shorthand ``\p{Han}`` is a great discovery about regex. So glad that [[CotEditor\|CotEditor]] on [[MacOS\|MacOS]] supports it, so does [[EmEditor\|EmEditor]] ([[Windows\|Windows]] only).
 
@@ -38,4 +39,5 @@ The Unicode property shorthand ``\p{Han}`` is a great discovery about regex. So 
 
 ---
 # More ...
+
 - [[Regex sighting in Taiwan's public national Taigi search tool\|Regex sighting in Taiwan's public national Taigi search tool]]
