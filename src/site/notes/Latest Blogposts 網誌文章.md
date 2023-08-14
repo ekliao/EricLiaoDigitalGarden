@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Glossary lookup - (Anki) custom fields - HEBSC\|Designing glossary lookup]] 詞彙庫系統欄位設計
+
 - [[Unicode properties for quoting or enclosing characters\|Unicode properties for quoting or enclosing characters]] 搜尋括弧性標點括起的文字
 
 - [[Notion\|Hello, Notion]]! | Notion，我來了
