@@ -82,4 +82,4 @@ And finally for sanity check, the cloud storage version does preserve each and e
 
 ---
 
-[[Anki performance tracking\|Anki performance tracking]]
+[[Anki add-on performance tracking\|Anki add-on performance tracking]]
