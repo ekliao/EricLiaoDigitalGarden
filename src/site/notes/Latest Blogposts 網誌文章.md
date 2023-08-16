@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[Glossary lookup - (Anki) custom fields - HEBSC\|Designing glossary lookup]] 詞彙庫系統欄位設計
+- [[Google Sheets - Regex Find and Replace\|Google Sheets - Regex Find and Replace]] | 幸好 Google Sheets 懂 regex
+
+- [[Glossary lookup - (Anki) custom fields - HEBSC\|Designing glossary lookup]] | 詞彙庫系統欄位設計
 
 - [[Unicode properties for quoting or enclosing characters\|Unicode properties for quoting or enclosing characters]] 搜尋括弧性標點括起的文字
 
 - [[Notion\|Hello, Notion]]! | Notion，我來了
 
-- [[Anki performance tracking\|Anki performance tracking]] | 逃過一劫後，開始追蹤Anki性能
+- [[Anki add-on performance tracking\|Anki add-on performance tracking]] | 逃過一劫後，開始追蹤Anki性能
 
 - [[Anki Issues of Slow Desktop App\|Anki Issues of Slow Desktop App]] | 晴天霹靂：Anki桌面版崩壞
 
