@@ -61,3 +61,16 @@ Rationale:
 H comes last for textual entry. 
 
 C is mostly empty or 'y' so logically should go last in data entry.
+
+# First implementation
+
+## 2023-08-17
+
+![_attachments/Screen Shot 2023-08-17 at 16.02.43.png](/img/user/_attachments/Screen%20Shot%202023-08-17%20at%2016.02.43.png)
+
+So glad I now have my most important deck (A-Dict) retyped as HEBSC. The search is more powerful with the addition of the 'h', 's', and 'c' fields. 
+# Issues
+
+I can see a struggle between the using the 'source' field and hashtags. Sometimes the source isn't clear. If I heard something on TV, from the radio, from watching a video, or simply by reading an article on the web or a post on some social media. Should it be of source=web or given a hashtag of web? 
+
+For now, go for always filling out the source field (because it is defined) with one single piece of information, likely "web," if there's no better and more narrow description, like "netflix," "economist," (The Economist) or "nytimes" (The New York Times).
