@@ -3,8 +3,6 @@
 ---
 
 date-created:: 2023-08-19
-#todo/post 
-
 # A huge time sink
 
 Beware! Although Anki has the option of recording the deck name in the export, allowing you to export the entire collection into one TXT (TSV) file, it does not allow you to perform the reverse action of importing this very TXT file with multiple decks in it back into Anki! This can be a nasty surprise if you aren't prepared for this. It forces you to choose one and only one existing deck name to import into, regardless of whether the import file contain the deck column or not. If it does, the deck column is IGNORED silently; ***it has zero effect.*** I feel positively duped. 😡
