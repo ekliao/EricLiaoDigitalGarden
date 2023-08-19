@@ -6,8 +6,6 @@
 
 - [[Gmail hierarchical labels for organization\|Gmail hierarchical labels for organization]] | 善用 Gmail 階層式標籤管理生活日常 
 
-- [[Anki and Google Sheets\|Anki and Google Sheets]] | 善用 Google Sheets 處理 Anki 的 txt 匯出/匯入格式
-
 - [[Google Sheets - Regex Find and Replace\|Google Sheets - Regex Find and Replace]] | 幸好 Google Sheets 懂 regex
 
 - [[Glossary lookup - (Anki) custom fields - HEBSC\|Designing glossary lookup]] | 詞彙庫系統欄位設計
