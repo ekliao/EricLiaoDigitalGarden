@@ -4,7 +4,7 @@
 
 - [[Anki text TSV import - one huge surprise\|Anki text TSV import - one huge surprise]] | Anki 匯入 text 格式一個重大設計缺失 
 
-- [[Gmail hierarchical labels for organization\|Gmail hierarchical labels for organization]] | 善用 Gmail 階層式標籤管理生活日常
+- [[Gmail hierarchical labels for organization\|Gmail hierarchical labels for organization]] | 善用 Gmail 階層式標籤管理生活日常 
 
 - [[Anki and Google Sheets\|Anki and Google Sheets]] | 善用 Google Sheets 處理 Anki 的 txt 匯出/匯入格式
 
