@@ -17,14 +17,12 @@ Pros and cons of these two basic ways of export, especially for:
 - Export into cards
 	- No tags
 	- No deck names
-
 # Best Choice
 - Export into "Notes in Plain Text" with the following choices
 	- include deck names
 	- include html
 	- include tags
 	- optional “unique identifier” — usually not wanted
-
 # Notes in Plain Text export format
 - An entry per line
 - Tab-separated values (fields)
@@ -37,10 +35,8 @@ Pros and cons of these two basic ways of export, especially for:
 #tags column:4
 ```
 - Entries without tags will still end with a tab character.
-
 ## The tab character
 - Make sure there are no literal tab characters (\\t) in the third (content) field. Protect it first before exporting, or it will be replaced with 3 consecutive `&nbsp;`. What is worse, the plain html tags (< and >) in that entry will each become `&lt;` and `&gt;`.
-
 ## The double quote
 ### Where a pair surrounds the entire field
 - When not needed, e.g. when the content field contains no spaces nor embedded double quotes:
@@ -54,7 +50,6 @@ Pros and cons of these two basic ways of export, especially for:
 deckname[tab]front[tab]"<p>foo<p/><div>
 bar</div>baz"[tab]tag1 tag2
 ```
-
 ### Absence
 - The backslash (\\) is not escaped. 
 - Commas are not the delimiter,. They are simple, not escaped nor surrounded by double quotes, e.g.
@@ -62,3 +57,8 @@ bar</div>baz"[tab]tag1 tag2
 
 ## Non-functional HTML characters
 - In the third (content) field, non-functional HTML characters (<, >, &) are shown as HTML entities, e.g. `&lt;`, `&gt;`, `&amp;`.
+
+---
+# More ...
+
+[[Anki text TSV import - one surprise\|Anki text TSV import - one surprise]]
