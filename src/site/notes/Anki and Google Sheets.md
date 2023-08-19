@@ -4,11 +4,11 @@
 
 date-created:: 2023-08-17
 
-Google Sheets is invaluable at processing Anki txt export especially in being able to process ****embedded newlines*** correctly in Anki's TSV output. 
+Google Sheets is invaluable at processing Anki txt export especially in being able to process ***embedded newlines*** correctly in Anki's TSV output. 
 
 Upon importing an Anki txt file, specifically choose the separator as Tab, and absolutely uncheck the ***Convert text to numbers, etc.*** checkbox. We want everything treated as plain text.
 
-![_attachments/Screen Shot 2023-08-17 at 14.27.50.png|300](/img/user/_attachments/Screen%20Shot%202023-08-17%20at%2014.27.50.png)
+![_attachments/Screen Shot 2023-08-17 at 14.27.50.png|250](/img/user/_attachments/Screen%20Shot%202023-08-17%20at%2014.27.50.png)
 
 As I have mentioned in a different post, before downloading the spreadsheet as TSV for importing into Anki:
 
@@ -22,4 +22,4 @@ It's important to do this find and replace to recode newlines as HTML before dow
 </div></div>
 
 
-![_attachments/Screen Shot 2023-08-15 at 22.04.34 1.png|500](/img/user/_attachments/Screen%20Shot%202023-08-15%20at%2022.04.34%201.png)
+![_attachments/Screen Shot 2023-08-15 at 22.04.34 1.png|400](/img/user/_attachments/Screen%20Shot%202023-08-15%20at%2022.04.34%201.png)
