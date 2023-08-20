@@ -36,12 +36,11 @@ I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and
 # Welcome! 
 
 Welcome to my “digital garden”! It's a collection of notes in various stages of maturity and polish, open to the world. Created April 16, 2023, it is still nascent but an exciting start. After all, 千里之行，始於足下。 *A journey of a thousand miles begins with a single step.* Read its [[This digital garden's raison d'être\|raison d'être]].
-
-# [[Latest Blogposts 網誌文章\|Blog 網誌]]
-
-## [My Second Website and Blog 試驗網站](https://ericliaointerpreting.netlify.app)
+## [[Latest Blogposts 網誌文章\|Blog 網誌]]
 
 ## [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
+
+#### [My Second Website and Blog 試驗網站](https://ericliaointerpreting.netlify.app)
 
 ## My Work as Interpreter
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
