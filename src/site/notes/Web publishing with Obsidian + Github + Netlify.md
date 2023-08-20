@@ -113,3 +113,7 @@ dg-home: true
 	- This is a brief translation of the very detailed official English [guide](https://dg-docs.ole.dev/getting-started/01-getting-started/) by the author of the Digital Garden plugin, hosted on a site enabled by the plugin itself. How apropos!
 	- The guide itself spans several steps and pages.
 - [How to Set Up a Digital Garden With Obsidian For Free](https://www.youtube.com/watch?v=kg-9n_A4Tf0) #todo/verify y Watch to see if it's a better step-by-step guide and alternative to Feng's article (this one).
+
+# Issues
+
+- 🔥 [[Obsidian Digital Garden Plugin + Netlify build failure scares\|Obsidian Digital Garden Plugin + Netlify build failure scares]]
