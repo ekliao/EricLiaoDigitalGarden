@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[professional terminology dictionary - English to Chinese - largest so far\|Largest English-Chinese terminological dictionary found]] | 宇宙量級的英漢術語詞典：速譯通
+- [[Terminological dictionary - English to Chinese - largest yet\|Largest English-Chinese terminological dictionary found]] | 宇宙量級的英漢術語詞典：速譯通
 
 - [[Anki text TSV import - one huge surprise\|Anki text TSV import - one huge surprise]] | Anki 匯入 text 格式一個重大設計缺失 
 
