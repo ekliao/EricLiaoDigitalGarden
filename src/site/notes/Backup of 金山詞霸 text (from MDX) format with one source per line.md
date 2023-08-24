@@ -3,7 +3,7 @@
 ---
 
 date-created:: 2023-08-23
-# Never-ending struggle between two competing glossary formats
+## My never-ending struggle between two competing glossary formats
 
 A few years ago I decided to merge millions of 金山詞霸 entries around the headword in the interest of reducing the total number of entries for Anki. This is generally the right design approach. But over recent weeks I discovered several reasons that argue against it. The key issues are the lack of a consistent and robust database schema and my sad loss of the ability to automate through programming. This makes it hard to come up with an automated workflow for updating such merged entries.
 
