@@ -3,7 +3,7 @@
 ---
 
 date-created:: 2023-08-23
-# A ginormous dictionary 速譯通 edges out the previous winner 金山詞霸
+## Found a ginormous dictionary 速譯通 that edges out the previous winner 金山詞霸
 
 I just found a free online dictionary that boasts of 7 million unique terms, larger than the 3-million-term 金山詞霸 (Jinshanciba) I knew to be the largest collection. The 7 million figure came from a Google search when I tried to find out the size of 金山詞霸:
 
@@ -64,6 +64,6 @@ out of which two (箱涵, 矩形涵洞) aren't offered by 速譯通.
 So, by consulting both 速譯通 and 金山詞霸, one can get 10 distinct Chinese translations for `box culvert`. This is mind-blowing! 速譯通's 8 is especially impressive and this single anecdotal data point seems to support its claim of 7 million versus 金山詞霸's 3.
 
 To play the demanding critic, I wish 速譯通 would contain those two missing terms. That would make it the undisputed one-stop shop.
-## 海詞 may be the second place?
+### 海詞 may be the second place?
 
 So, if 7 million is likely true, how about the claimed 5 million for 海詞? That would be the second place if true. I will keep my eyes peeled for further information.
