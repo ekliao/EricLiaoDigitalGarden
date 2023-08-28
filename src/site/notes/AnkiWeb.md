@@ -22,4 +22,4 @@ After initial account login and verification of email at the first sync attempt,
 ---
 # Related
 
-[[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|Anki - AnkiWeb (cloud storage) file size limit - official and actual]]
+[[Anki - AnkiWeb (cloud storage) file size limits - official and actual\|Anki - AnkiWeb (cloud storage) file size limits - official and actual]]
