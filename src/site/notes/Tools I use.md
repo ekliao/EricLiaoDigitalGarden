@@ -64,7 +64,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 
 ### iOS/iPadOS
 - 每日英語聽力 (2023/4; made by Eudic, freemium)
-- [[Safari\|Safari]]
+- [[Safari browser app on iOS - how to close all tabs at once\|Safari]]
 
 ---
 ## Hardware
