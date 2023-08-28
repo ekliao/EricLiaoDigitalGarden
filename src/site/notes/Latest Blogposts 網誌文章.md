@@ -38,7 +38,7 @@
 
 - [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
 
-- [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
+- [[Anki - AnkiWeb (cloud storage) file size limits - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
 
 - [[Anki - (Basic) note type naming mess (variants without a difference)\|Many spawns of the Basic Anki note type?]]
 
