@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Safari browser app on iOS - how to close all tabs at once\|A time-saving Safari browser hack on iOS]] | 關閉 iOS 上 Safari 瀏覽器所有頁籤的絕招
+
 - [[Backup of 金山詞霸 text (from MDX) format with one source per line\|Best practice: always save a copy of data of a given format]] | 幸好我沒有丟掉最早起格式的金山詞霸
 
 - [[Terminological dictionary - English to Chinese - largest yet\|Largest English-Chinese terminological dictionary found]] | 宇宙量級的英漢術語詞典：速譯通
