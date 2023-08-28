@@ -53,7 +53,7 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 # Anki hacks I've learned
 *(New to old)*
 
-- [[Anki - AnkiWeb (cloud storage) file size limit - official and actual\|Anki - AnkiWeb (cloud storage) file size limit - official and actual]]
+- [[Anki - AnkiWeb (cloud storage) file size limits - official and actual\|Anki - AnkiWeb (cloud storage) file size limits - official and actual]]
 
 - [[Anki - (Basic) note type naming mess (variants without a difference)\|Anki - (Basic) note type naming mess (variants without a difference)]]
 
