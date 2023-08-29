@@ -8,10 +8,12 @@ Free stuff is hard to break up with. After all, it hasn't changed its 60MB-per-m
 ## Migration whence
 
 Since April 2023, I have reduced but not entirely eliminated Evernote usage. I still put "junk" stuff in it when clipping a web article or when I am not writing anything myself except a short one-line comment. For anything that requires some writing, I tend to put it in Obsidian. One exception: I still use it to keep my audio book summary records.
-## Quick verdict: 2.5 stars (see issues)
-## Issues
+## Quick verdict: 3 stars (see issues)
+# Issues
 
-2023-08-25 iOS version suddenly failed: I could no longer add a new note. The new note interface grayed out and doesn't allow data entry. How ridiculous! Searching for notes and editing existing notes seem okay.
+*2023-08-25* iOS version suddenly failed: I could no longer add a new note. The new note interface grayed out and doesn't allow data entry. How ridiculous! Searching for notes and editing existing notes seem okay.
+
+*(Update 2023-08-28)* After reinstalling the app twice and approving some iOS permission prompts, the problem seems resolved for now
 
 ---
 ### More...
