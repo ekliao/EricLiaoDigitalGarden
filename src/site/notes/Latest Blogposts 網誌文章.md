@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[Syncing or sharing Contacts between iOS (iPhone) and Mac OS (Contacts app)\|Syncing or sharing Contacts between iOS (iPhone) and Mac OS (Contacts app)]] | 聯絡人 app 不總在手機和Mac電腦上自動同步，如何自救
+
 - [[How to enable texting (SMS) in the iMessage app on MacOS and other iOS devices (e.g. iPad)\|How to enable texting (SMS) in the iMessage app on MacOS and other iOS devices (e.g. iPad)]] | 如何在 Mac 電腦上收送 SMS 簡訊
 
 - [[Evernote\|Evernote has got an iOS problem]] | 曾經紅極一時的 Evernote 如今根本在擺爛
