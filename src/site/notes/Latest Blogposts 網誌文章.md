@@ -46,6 +46,8 @@
 
 - [[Old habits die hard\|Old habits die hard]] 新習慣養成的阻力
 
+- [[ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)\|ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)]] | GPT 大車拼：解釋法律概念
+
 - [[Logseq iCloud sync woes\|Logseq iCloud sync woes]]
 
 - [[Anki - AnkiWeb (cloud storage) file size limits - official and actual\|AnkiWeb storage limit lenient on my super sized collection]]
