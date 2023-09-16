@@ -36,7 +36,7 @@
 
 - [[Refocusing on Glossary Management\|Refocusing on Glossary Management]] | 筆記軟體滾一邊，重新聚焦詞彙管理
 
-- [[Heptabase\|Heptabase]] | 原來Heptabase是勝過Tana的神器，台灣之光
+- [[Heptabase\|Heptabase]] | 原來 Heptabase 是勝過 Tana 的神器，台灣之光
 
 - [[Note-linking anxiety\|Note-linking anxiety]] | 我是否患了筆記關聯焦慮症？
 
