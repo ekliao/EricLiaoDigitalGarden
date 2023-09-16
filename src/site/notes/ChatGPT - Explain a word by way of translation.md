@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/chat-gpt-explain-a-word-by-way-of-translation/","noteIcon":"2","created":"","updated":""}
 ---
 
+Here, I learn of the meaning of "fold" and "blouse," both as nouns and verbs, by checking the Chinese translation from ChatGPT of a typical English-to-English dictionary definition. To be sure, ChatGPT does not do a perfect job here, because most English-Chinese dictionaries would use the verb 鬆垂 instead of 蓬鬆(usually an adjective, not a verb) for the verb "blouse." Yet, such exercises are a great learning aid to supplement the lack of a direct and literal English-Chinese translation of a definitional item at hand.
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/attachments/gpt-archive/gpt-2023-05-30-fold/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
