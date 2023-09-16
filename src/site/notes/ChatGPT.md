@@ -33,7 +33,7 @@
 - ⛔️ [[_attachments/gpt-archive/gpt 2023-06-04 - syntactic linearity and spokenness\|gpt 2023-06-04 - syntactic linearity and spokenness]]
 
 ### Explaining
-- [[_attachments/gpt-archive/ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)\|ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)]]
+- [[ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)\|ChatGPT - Bing - Bard 3-way knockout in explaining (a legal concept)]]
 
 ### Data extraction
 - [[Data extraction with ChatGPT\|Data extraction with ChatGPT]]
