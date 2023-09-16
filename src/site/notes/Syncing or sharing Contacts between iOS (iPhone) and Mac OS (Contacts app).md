@@ -4,7 +4,9 @@
 
 Just as I was going to dis the Apple ecosystem for dropping the ball on even the most basic functionality: syncing of Contacts across devices, it worked in front of my own eyes for the first time.
 
-# Test
+*(Update 2023-09-16)* A few days later, when I created a new contact on the iPhone for real, the Mac side didn't show it after moments have elapsed. I had to rely on Airdrop, which worked. Phew!
+
+# Test (when sync works)
 
 ## Create a new contact on iPhone
 
