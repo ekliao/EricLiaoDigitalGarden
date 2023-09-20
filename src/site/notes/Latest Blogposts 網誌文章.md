@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
+- [[test new version\|test new version]]
+
 - [[Using MT to prepare for interpretation assignments, make a bilingual document of presentation\|Using MT to prepare for interpretation assignments, make a bilingual document of presentation]] | 快速產生雙語資料用於口譯
 
 - [[Syncing or sharing Contacts between iOS (iPhone) and Mac OS (Contacts app)\|Syncing or sharing Contacts between iOS (iPhone) and Mac OS (Contacts app)]] | 聯絡人 app 不總在手機和Mac電腦上自動同步，如何自救
