@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/obsidian-plugin-annotator-pdf/","noteIcon":"2","created":"","updated":""}
 ---
 
-This seems a cool tool I've been searching for to highlight and annotate a PDF file in OB.
+This seems a cool tool. I've been searching for a consistent and habit-forming way to highlight and annotate a PDF file in Obsidian.
 
 #project/learn-by-doing 
 #project/completed 
-- Requires a new OB file/note pointing to the PDF
+- Requires a new OB file/note pointing to the PDF (as attachment)
 - Add frontmatter	
 	- `annotation-target:<pdf-file-name-including-extension-dot-pdf`	
 	 - [Clip](https://youtube.com/clip/Ugkxo50smJxJAAF5F-SxhnAsN2FGYklE5D0i)
@@ -42,6 +42,7 @@ Lo and behold!
 ![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/IMG_6A993934BA76-1.jpeg)
 
 ## Annotation pane search does not work
+
 The search on the annotation pane does not work, e.g. `solutions` should find the specific annotation that says "solutions inside". This works, however, on the left-nav general search for all files. Even though it is findable, locating the found annotation from the left-nav result is a pain, because clicking on the result doesn't home in on the target.
 ![_attachments/Screen Shot 2023-05-19 at 21.06.48.png](/img/user/_attachments/Screen%20Shot%202023-05-19%20at%2021.06.48.png)
 
