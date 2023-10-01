@@ -6,7 +6,7 @@
 - [Docs](https://dg-docs.ole.dev/)
 ### [[Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題\|Issues]]
 
-- 🔥 [[Obsidian Digital Garden Plugin + Netlify build failure scares\|Netlify builds may fail]]  
+- 🔥 [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Netlify builds may fail]]  
 
 ---
 ## [Netlify](https://www.netlify.com/)
