@@ -23,4 +23,4 @@
 - Solution: Simply delete the app. Data and vaults on iCloud won't be affected. Reinstall the app and it'll recognize all vaults in iCloud. You'll get a reset in everything but vault settings and plugins are intact.
 
 ## Digital garden
-- [[Issues with the Obsidian Digital Garden plugin\|Issues with the Obsidian Digital Garden plugin]]
+- [[Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題\|Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題]]
