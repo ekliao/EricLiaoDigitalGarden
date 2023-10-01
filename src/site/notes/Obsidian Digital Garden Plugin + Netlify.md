@@ -4,7 +4,7 @@
 
 ## The Obsidian Digital Garden plugin
 - [Docs](https://dg-docs.ole.dev/)
-### [[Issues with the Obsidian Digital Garden plugin\|Issues]]
+### [[Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題\|Issues]]
 
 - 🔥 [[Obsidian Digital Garden Plugin + Netlify build failure scares\|Netlify builds may fail]]  
 
