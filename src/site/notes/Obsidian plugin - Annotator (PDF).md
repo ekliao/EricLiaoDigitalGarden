@@ -72,4 +72,6 @@ This view on my iPhone has become a daily eyesore:
 
 # Quick verdict: 3 stars
 
-For this reason, I ~~am reconsidering~~ decided to return to [[LiquidText\|LiquidText]] as the all-around tool for PDF note-taking.
+(2023-05-08) For this reason, I ~~am reconsidering~~ decided to return to [[LiquidText\|LiquidText]] as the all-around tool for PDF note-taking.
+
+(2023-10-01) I am thinking twice about my decision to return to LQ. One major issue is LQ's search: it's local and limited to LQ, unlike the expansive universe of OB.
