@@ -58,11 +58,9 @@ Feel free to connect by email (ekliao@gmail.com), You can also fill out the [[Qu
 
 **Other social media**
 - [LinkedIn](http://linkedin.com/in/ericliaointerpreter)
-- [Twitter](https://twitter.com/eklinterpret)
 - [YouTube](https://www.youtube.com/@ericliaointerpreter)
+- [Twitter](https://twitter.com/eklinterpret)
 - Telegram: @leokhik
-- <a rel="me" href="https://mastodon.social/@EricLiaoInterpreting">Mastodon</a>
-- Threads: @ericliao.interpreter
 
 ---
 *This website is built using [[Obsidian\|Obsidian]], its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
