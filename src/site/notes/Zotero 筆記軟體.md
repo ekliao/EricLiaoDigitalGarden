@@ -53,7 +53,7 @@ I quickly learned how to annotate using highlighter that comes with several defa
 
 # Obsidian + Zotero = heavenly bliss
 
-With this new found hope in finding the best way to annotate a PDF including freehand drawing or inking, I wasted no time in moving on to the next short-term goal: I am now determined to look into ways to integrate Zotero into Obsidian. Yes, there are several methods available, but I must take the time to understand what they actually do. First in line: [[Obsidian plugin - Zotero Integration\|Obsidian plugin - Zotero Integration]].
+With this new found hope in finding the best way to annotate a PDF including freehand drawing or inking, I wasted no time in moving on to the next short-term goal: I am now determined to look into ways to integrate Zotero into Obsidian. Yes, there are several methods available, but I must take the time to understand what they actually do. First in line: [[Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動\|Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動]].
 
 ---
 # More ...
