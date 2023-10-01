@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/syncing-or-sharing-contacts-between-i-os-i-phone-and-mac-os-contacts-app/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-09-11
+
 Just as I was going to dis the Apple ecosystem for dropping the ball on even the most basic functionality: syncing of Contacts across devices, it worked in front of my own eyes for the first time.
 
 *(Update 2023-09-16)* A few days later, when I created a new contact on the iPhone for real, the Mac side didn't show it after moments have elapsed. I had to rely on Airdrop, which worked. Phew!
