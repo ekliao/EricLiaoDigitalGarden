@@ -34,7 +34,7 @@ Nice! It's copy 'n' paste.
 #### [[Obsidian Hotkeys\|Hotkeys]]
 #### [[OB Tips and Hacks I've Got\|Tips and Hacks]]
 #### [[Obsidian Sync\|Sync]]
-#### [[Obsidian Plugins\|Plugins]]
+#### [[Obsidian Plugins 插件\|Plugins]]
 #### [[Obsidian Search\|Search]]
 #### [[OB Settings\|OB Settings]]
 #### [[Using Obsidian\|Using Obsidian]]
