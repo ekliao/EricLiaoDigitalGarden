@@ -7,7 +7,7 @@ date-created:: 2023-05-20
 Zotero is a tool I've heard enough about but never tried until today. One showstopper feature I care about is handwritten annotation, which is woefully missing in the almost perfect [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]].
 # Desideratum
 
-This official forum thread below suggests that Zotero doesn't support freehand drawing on a PDF page. Too bad! By the way, they call this functionality "inking."
+Zotero's official forum thread below suggests that Zotero doesn't support freehand drawing on a PDF page. What a pity! By the way, they call this functionality "inking."
 
 #paste/glasp/link 
 ## PDF Annotation: Inking
