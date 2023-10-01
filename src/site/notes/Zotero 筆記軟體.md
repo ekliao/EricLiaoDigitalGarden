@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/zotero/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-05-20
+
 Zotero is a tool I've heard enough about but never tried until today. One showstopper feature I care about is handwritten annotation, which is woefully missing in the almost perfect [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]].
 # Desideratum
 
