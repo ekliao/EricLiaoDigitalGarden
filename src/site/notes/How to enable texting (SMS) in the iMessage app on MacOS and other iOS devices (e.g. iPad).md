@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/how-to-enable-texting-sms-in-the-i-message-app-on-mac-os-and-other-i-os-devices-e-g-i-pad/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-09-10
+
 I thought the iMessage app on the MacOS could simply work to send/receive SMS texts and was baffled why it never worked. I just learned I need to set it up:
 ## iPhone > Settings > Messages > Text message forwarding > turn on the device to enable the service
 
