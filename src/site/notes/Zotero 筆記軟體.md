@@ -6,6 +6,7 @@ Zotero is a tool I've heard enough about but never tried until today. One showst
 # Desideratum
 
 From this official forum thread below, it seems Zotero doesn't support freehand drawing on a PDF page. Too bad! BTW they call this "inking." See:
+
 #paste/glasp/link 
 ## PDF Annotation: Inking
 
@@ -14,13 +15,15 @@ From this official forum thread below, it seems Zotero doesn't support freehand 
 - Tags: #zotero, #inking, #freehand-drawing, #handwritten, #annotation
 - URL: https://forums.zotero.org/discussion/88240/pdf-annotation-inking
 #### Highlights & Notes
-- PDF Annotation: Inking bwiernik March 10, 2021 I read a lot statistics PDFs. As I do, I like to write with a stylus on the page. For example, I will write alternative forms of an equation in the margins or write out steps of proofs that aren’t clear. I also like to circle parts of equations that are most relevant (the highlight tool often does a poor job of this). I would really like if Zotero’s new PDF reader could support the ink annotation tool for these purposes, especially as part the iPad app.
+- PDF Annotation: Inking bwiernik March 10, 2021 
+	- I read a lot statistics PDFs. As I do, I like to write with a stylus on the page. For example, I will write alternative forms of an equation in the margins or write out steps of proofs that aren’t clear. I also like to circle parts of equations that are most relevant (the highlight tool often does a poor job of this). I would really like if Zotero’s new PDF reader could support the ink annotation tool for these purposes, especially as part the iPad app.
 
 ---
 # Saving grace
 
-That said, it took just a little Googling to dig deeper. I needed to confirm this "defect" before I am wiling to walk away. Glad I did! I am happy to report that Zotero 6 on iOS actually supports inking, as evidenced in this [video](https://www.bilibili.com/video/BV1P54y1N7Gr/?spm_id_from=333.337.search-card.all.click). 
+That said, it took just a little Googling to dig deeper. I needed to confirm this "defect" before I am wiling to walk away. Glad I did! I am happy to report that the latest Zotero app on iOS actually supports inking, as evidenced in this [video](https://www.bilibili.com/video/BV1P54y1N7Gr/?spm_id_from=333.337.search-card.all.click). This is also confirmed by the official account.
 
+#paste/glasp/link 
 ## Official app description
 #### Metadata
 
