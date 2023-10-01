@@ -10,13 +10,13 @@
 - [[Language and languages\|Language and languages]]
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
 - [[Writing\|Writing]]
-- [[PKM\|PKM]] and [[Note-taking\|Note-taking]]
+- [[PKM 個人知識管理\|PKM 個人知識管理]] and [[Note-taking\|Note-taking]]
 - [[Glossary Lookup\|Glossary Lookup]] and management
 
 ### Minor long-term
 - [[Speech sound and audio processing\|Speech sound and audio processing]]
 - [[Teaching and Coaching\|Teaching]] language and interpretation
-- [[PKM\|PKM]], especially [[Anki\|Anki]] and [[Obsidian\|Obsidian]] (you are looking at an instance of it)
+- [[PKM 個人知識管理\|PKM 個人知識管理]], especially [[Anki\|Anki]] and [[Obsidian\|Obsidian]] (you are looking at an instance of it)
 - [[Regex\|Regular expressions (Regex or RegExp)]]
 - Computer-assisted interpretation (CAI) tools
 - [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), [[Note on the SAMPA phonetic transcription\|SAMPA]] and [[00 Home/A/A-Dict/orthoepy\|orthoepy]]
