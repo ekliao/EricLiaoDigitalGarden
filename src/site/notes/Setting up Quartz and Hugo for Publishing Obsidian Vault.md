@@ -10,7 +10,7 @@ Setting up and running a working static web site for my professional Obsidian va
 
 ## Results
 I was successful in publishing a subset of my Obsidian vault [here](https://ericliaointerpreting.netlify.app)
-, but not with Hugo nor Quartz as the rest of this note describes, but with [[Web publishing with Obsidian + Github + Netlify\|Obsidian Digital Garden plugin + Github + Netlify]].
+, but not with Hugo nor Quartz as the rest of this note describes, but with [[Web publishing with Obsidian + Github + Netlify｜Obdisian 架站成功的做法\|Obsidian Digital Garden plugin + Github + Netlify]].
 
 ## Steps
 1. I successfully followed [[people/Daniel Kehoe\|Daniel Kehoe]]'s excellent [guide](https://mac.install.guide/ruby/index.html) in setting up the [[Ruby\|Ruby]] and [[GitHub\|GitHub]] development environment on my [[MacOS\|MacOS]]. My process started [[MacOS Shell Development Environment\|here]].
