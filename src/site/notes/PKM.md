@@ -17,6 +17,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[Apple Notes\|Apple Notes]]
 - [[Evernote\|Evernote]]
 - [[Notability\|Notability]]
+- [[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 - [[Logseq\|Logseq]]
 - [[DTSearch\|DTSearch]]
 - [[LiquidText\|LiquidText]] ([Official](https://www.liquidtext.net/)) - Rediscovered its value in 2023
@@ -76,7 +77,6 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Scrintal](https://www.scrintal.com/)
 [Dendron](https://www.dendron.so)
 [[Todoist\|Todoist]]
-[[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 [[00 Home/A/A-Dict/Zettelkasten\|Zettelkasten]]
 	Not an app but a method with apps implementing it to some degree, notably Roam
 [[Remnote\|Remnote]] ([Official](https://www.remnote.com/)） 
