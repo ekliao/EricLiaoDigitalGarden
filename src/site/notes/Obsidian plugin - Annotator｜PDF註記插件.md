@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/obsidian-plugin-annotator-pdf/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-05-08
+
 This seems a cool tool. I've been searching for a consistent and habit-forming way to highlight and annotate a PDF file in Obsidian.
 
 #project/learn-by-doing 
