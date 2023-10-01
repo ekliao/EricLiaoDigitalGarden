@@ -28,7 +28,6 @@ The pound sign (\#) for tags in file name is allowed if the file is directly cop
 ### Indexing
 
 - iCloud is the suspect in constant Obdidian indexing: [Thread](https://forum.obsidian.md/t/obsidian-keeps-indexing-my-vault/30636)
-
 ### iCloud free sync is often stuck in synchronizing the Obsidian configuration files
 
 This view on my iPhone has become a daily eyesore:
