@@ -4,7 +4,7 @@
 
 - 🔥🤞 [[Zotero 筆記軟體\|Zotero 筆記軟體]] | 百聞不如一見的 PDF 筆記工具
 
-- [[Obsidian plugin - Annotator (PDF)\|Obsidian plugin - Annotator (PDF)]] | 和 Obsidian 完美嵌合的 PDF 筆記工具，遺珠：手寫
+- [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]] | 和 Obsidian 完美嵌合的 PDF 筆記工具，遺珠：手寫
 
 - [[Using MT to prepare for interpretation assignments, make a bilingual document of presentation\|Using MT to prepare for interpretation assignments, make a bilingual document of presentation]] | 快速產生雙語資料用於口譯
 
