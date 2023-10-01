@@ -15,7 +15,7 @@ She may be wrong about [DT](https://youtube.com/clip/Ugkx4DpcLU6AHKPmvpUHNMkpp6J
 # Pros
 - [Deep linking into PDF by page number](https://youtube.com/clip/UgkxpiKDXHRy0qFUwXxeb426abPCcmPY-jo9)
 # Cons
-- The [[Obsidian plugin - Annotator (PDF)\|Obsidian plugin - Annotator (PDF)]] is limited to two ways: highlighter on text and textual annotation. Selecting text is nightmarish on the iPad.
+- The [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]] is limited to two ways: highlighter on text and textual annotation. Selecting text is nightmarish on the iPad.
 
 ---
 [[Note-taking\|Note-taking]]
