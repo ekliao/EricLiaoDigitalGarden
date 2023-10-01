@@ -14,7 +14,7 @@ date-created:: 2023-04-15
 - Wikipedia Search
 - (Obsidian) Wikipedia
 	- [[Reference Wikipedia in Obsidian\|Reference Wikipedia in Obsidian]]
-- [[Obsidian plugin - Annotator｜PDF註記插件\|Annotator]] (https://github.com/elias-sundqvist/obsidian-annotator)
+- [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]] - [Official](https://github.com/elias-sundqvist/obsidian-annotator)
 	- Highlights and annotates PDF inside OB
 - [[OB plugin - Omnisearch\|Omnisearch]]
 - [[OB plugin -- Regex Find - Replace\|Regex Find/Replace]] (https://github.com/Gru80/obsidian-regex-replace)
