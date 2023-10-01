@@ -15,6 +15,8 @@ date-created:: 2023-04-21
 
 - [[How to enable texting (SMS) in the iMessage app on MacOS and other iOS devices (e.g. iPad)\|How to enable texting (SMS) in the iMessage app on MacOS and other iOS devices (e.g. iPad)]] | 如何在 Mac 電腦上收送 SMS 簡訊
 
+- [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗]]
+
 - [[Evernote\|Evernote has got an iOS problem]] | 曾經紅極一時的 Evernote 如今根本在擺爛
 
 - [[Safari browser app on iOS - how to close all tabs at once\|A time-saving Safari browser hack on iOS]] | 關閉 iOS 上 Safari 瀏覽器所有頁籤的絕招
