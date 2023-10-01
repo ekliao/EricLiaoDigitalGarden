@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/liquid-text-full-feature-list/","noteIcon":"2","created":"","updated":""}
 ---
 
-Detailed Feature Summary
+date-created:: 2023-05-20
+# Detailed Feature Summary
 
 **Features available in LiquidText BASIC**
 
