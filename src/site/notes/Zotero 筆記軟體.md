@@ -7,7 +7,7 @@ date-created:: 2023-05-20
 Zotero is a tool I've heard enough about but never tried until today. One showstopper feature I care about is handwritten annotation, which is woefully missing in the almost perfect [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]].
 # Desideratum
 
-From this official forum thread below, it seems Zotero doesn't support freehand drawing on a PDF page. Too bad! BTW they call this "inking." See:
+This official forum thread below suggests that Zotero doesn't support freehand drawing on a PDF page. Too bad! By the way, they call this functionality "inking."
 
 #paste/glasp/link 
 ## PDF Annotation: Inking
@@ -23,7 +23,7 @@ From this official forum thread below, it seems Zotero doesn't support freehand 
 ---
 # Saving grace
 
-That said, it took just a little Googling to dig deeper. I needed to confirm this "defect" before I am wiling to walk away. Glad I did! I am happy to report that the latest Zotero app on iOS actually supports inking, as evidenced in this [video](https://www.bilibili.com/video/BV1P54y1N7Gr/?spm_id_from=333.337.search-card.all.click). This is also confirmed by the official account.
+That said, it took just a little Googling to dig deeper. I needed to confirm this "defect" before I am wiling to walk away from a promising new find. Glad I did! I am happy to report that the latest Zotero app on iOS actually supports inking, as evidenced in this [video](https://www.bilibili.com/video/BV1P54y1N7Gr/?spm_id_from=333.337.search-card.all.click). It's also confirmed by an official account:
 
 #paste/glasp/link 
 ## Official app description
@@ -34,14 +34,14 @@ That said, it took just a little Googling to dig deeper. I needed to confirm thi
 - URL: https://apps.apple.com/us/app/zotero/id1513554812
 ### #Highlights & Notes
 
-- ANNOTATE  • Read PDFs and add highlights and notes, or use an Apple Pencil to make freehand annotations
+- ANNOTATE  • Read PDFs and add highlights and notes, or ***use an Apple Pencil to make freehand annotations***
 
 ![[_attachments/626x0w.webp|450]]
 
 ---
 # Trying is believing
 
-With my interest piqued, I quickly installed the app on my iPad, learned how to add a PDF to the desktop app (can't seem to do this on the iOS app), and learned how to turn on sync. Once sync was enabled, the first PDF document, my favorite grammar book, immediately appeared on the iPad app and I clicked it to download and open. I then scribbled the first hand-written note on a page:
+With my interest piqued, I quickly installed the app on my iPad, learned how to add a PDF document to the desktop app (can't seem to do this on the iOS app), and learned how to turn on sync. Once sync was enabled, the first PDF document, my favorite grammar book, immediately appeared on the iPad app and I clicked it to download and open. I then scribbled the first hand-written note on a page:
 
 ![_attachments/IMG_9AA69E097BD2-1.jpeg|250](/img/user/_attachments/IMG_9AA69E097BD2-1.jpeg)
 
@@ -51,11 +51,10 @@ As if by magic, a few second later, the same handwriting appeared on the the des
 
 This is so delightful to see! And seeing is believing. I am a believer!
 
-I quickly learned how to annotate using highlighter that comes with several default colors. It is fast and intuitive, more so than in LiquidText.
-
+I quickly learned how to annotate using the highlighter pen that comes in several default colors. It is fast and intuitive, more so than in [[LiquidText\|LiquidText]].
 # Obsidian + Zotero = heavenly bliss
 
-With this new found hope in finding the best way to annotate a PDF including freehand drawing or inking, I wasted no time in moving on to the next short-term goal: I am now determined to look into ways to integrate Zotero into Obsidian. Yes, there are several methods available, but I must take the time to understand what they actually do. First in line: [[Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動\|Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動]].
+With this new found hope in finding the best way to annotate PDF including freehand drawing, I wasted no time in moving on to the next short-term goal, determined to look into ways to integrate Zotero into Obsidian. Indeed, there are several methods available, but I must take the time to understand what they actually do. First in line: [[Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動\|Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動]].
 
 ---
 # More ...
