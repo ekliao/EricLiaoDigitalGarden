@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/evernote/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created: 2023-02-21
+
 The second [[PKM 個人知識管理\|PKM 個人知識管理]] I have, since 2011 (really? Feels much longer ago to me), collecting mostly unread detritus of web articles and more and more posts by others, but still useful for memos, account info, passwords, etc.
 
 Free stuff is hard to break up with. After all, it hasn't changed its 60MB-per-month free cloud storage (without an upper total limit, as far as I remember) and unlimited syncing for ages. Only lately did I hear about an upper limit of 200K notes for the Pro user. I am not even that, but luckily my EV notes number *only* around 30K.
