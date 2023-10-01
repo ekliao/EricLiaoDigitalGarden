@@ -14,4 +14,4 @@ As shown, choosing "Notetype and deck" as Match scope (instead of just "Notetype
 
 [[Anki Export Considerations： text vs apkg\|Anki Export Considerations： text vs apkg]]
 
-[[Anki - steps - bulk change notetype for multiple decks\|Anki - steps - bulk change notetype for multiple decks]]
+[[Anki - steps for bulk changing notetypes for multiple decks\|Anki - steps for bulk changing notetypes for multiple decks]]
