@@ -76,7 +76,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Scrintal](https://www.scrintal.com/)
 [Dendron](https://www.dendron.so)
 [[Todoist\|Todoist]]
-[[Zotero\|Zotero]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
+[[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 [[00 Home/A/A-Dict/Zettelkasten\|Zettelkasten]]
 	Not an app but a method with apps implementing it to some degree, notably Roam
 [[Remnote\|Remnote]] ([Official](https://www.remnote.com/)） 
@@ -100,7 +100,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ## Tools for research
 - [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[_d/tinderbox\|Tinderbox]]
 	- [video](https://www.youtube.com/watch?v=NZgI9uq7EQU)
-- [[Zotero\|Zotero]]
+- [[Zotero 筆記軟體\|Zotero 筆記軟體]]
 
 ---
 ## [[Search tools\|Search tools]]
