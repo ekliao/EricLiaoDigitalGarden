@@ -387,7 +387,7 @@ Now the site is successfully published! You can also customize your background i
 > 
 > I truly feel that this Github business is not for me. It requires too much knowledge about code development, pushing, committing, version control and all that friggin' hassle. I'm done, after several hours of toiling through this not-so-helpful article, whose expected results are totally different from mine and the author never covered all the potential errors (in password, theme, config file) that I encountered. Maybe I need to pony up almost $200/year for the [[Obsidian Publish\|Obsidian Publish]] service.
 > 
-> Update: Before I became $200 poorer, I found another way through [[Web publishing with Obsidian + Github + Netlify\|Github + Netlify]].
+> Update: Before I became $200 poorer, I found another way through [[Web publishing with Obsidian + Github + Netlify｜Obdisian 架站成功的做法\|Github + Netlify]].
 
 # The End
 
