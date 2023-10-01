@@ -53,6 +53,7 @@ I quickly learned how to annotate using highlighter that comes with several defa
 With this new found hope in finding the best way to annotate a PDF including freehand drawing or inking, I wasted no time in moving on to the next short-term goal: I am now determined to look into ways to integrate Zotero into Obsidian. Yes, there are several methods available, but I must take the time to understand what they actually do. First in line: [[Obsidian plugin - Zotero Integration\|Obsidian plugin - Zotero Integration]].
 
 ---
+# More ...
 
 [Video: Zotero 6 PDF handling - separate annotations + export to Obsidian](https://www.youtube.com/watch?v=mMpVMuGBGe8)
 
@@ -60,5 +61,4 @@ With this new found hope in finding the best way to annotate a PDF including fre
 - This college teacher attributes high student scores to use of Zotero
 - It's not the best PDF annotation tool on the iPad, but the best for storing research data.
 
----
 [[Obsidian and PDF\|Obsidian and PDF]]
