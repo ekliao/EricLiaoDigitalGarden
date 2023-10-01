@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-issues/","noteIcon":"2","created":"","updated":""}
 ---
 
-date-created:: 2023-02-28
+date-created:: 2023-02-28   
 ## [[Obsidian iOS, iPadOS app - Issues\|Obsidian iOS, iPadOS app - Issues]]
 
 ## [[Obsidian's limitations - number of files, slow search\|Obsidian's limitations - number of files, slow search]]
