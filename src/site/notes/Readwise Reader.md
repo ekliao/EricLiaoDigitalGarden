@@ -59,7 +59,7 @@ Watch [Nicole's](https://www.youtube.com/watch?v=VqOc9OsMX_s) great overview and
 	[[DEVONthink\|DEVONthink]]
 	Readwise Reader
 	Skim
-	[[Zotero\|Zotero]] - all boxes checked
+	[[Zotero 筆記軟體\|Zotero 筆記軟體]] - all boxes checked
 She may be wrong about [DT](https://youtube.com/clip/Ugkx4DpcLU6AHKPmvpUHNMkpp6J8w7dZl7bz) but it's a cautionary tale. 
 
 </div></div>
