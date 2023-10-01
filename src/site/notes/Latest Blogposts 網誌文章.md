@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-- [[Zotero 筆記軟體\|Zotero 筆記軟體]] | 百聞不如一見的 PDF 筆記工具
+- 🔥🤞 [[Zotero 筆記軟體\|Zotero 筆記軟體]] | 百聞不如一見的 PDF 筆記工具
 
 - [[Using MT to prepare for interpretation assignments, make a bilingual document of presentation\|Using MT to prepare for interpretation assignments, make a bilingual document of presentation]] | 快速產生雙語資料用於口譯
 
