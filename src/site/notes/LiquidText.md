@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/liquid-text/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-05-02
+
 I bought LiquidText (henceforth LT to avoid confusion with LQ, which I will give Logseq) with a onetime purchase price of around $30 for the “Enterprise” edition when I noticed how amazing it was to be able to link any two points within a document or even between documents. 
 
 *(August 2018)*
