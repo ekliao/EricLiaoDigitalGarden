@@ -7,7 +7,7 @@
 #project/aborted 
 Steps
 1. Register an account with [Disqus]([https://disqus.](https://disqus.com/)
-2. Install it according to the site's [platform](https://ericliaointerpreting-netlify-app.disqus.com/admin/settings/install/). My site is built with [[Web publishing with Obsidian + Github + Netlify\|Github + Netlify]], not in the pre-defined list, so I had to [manually install Disqus using the Universal Code](https://ericliaointerpreting-netlify-app.disqus.com/admin/settings/universalcode/)
+2. Install it according to the site's [platform](https://ericliaointerpreting-netlify-app.disqus.com/admin/settings/install/). My site is built with [[Web publishing with Obsidian + Github + Netlify｜Obdisian 架站成功的做法\|Github + Netlify]], not in the pre-defined list, so I had to [manually install Disqus using the Universal Code](https://ericliaointerpreting-netlify-app.disqus.com/admin/settings/universalcode/)
 3. #paste/glasp/link I saw someone's [success](https://glasp.co/highlight-embed?u=zeYBfVAGSvNl7zMHjBkmeoK0t0g1&d=GIk4F86kOFIl9B2B642P&h=97ia3eqcu5xz4xij&m=h)
 
 (The same highlight with #paste/glasp)
