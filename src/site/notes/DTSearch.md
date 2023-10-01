@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/dt-search/","noteIcon":"2","created":"","updated":""}
 ---
 
-The earliest [[PKM\|PKM]] that is still in use but getting littler and littler attention due to it being on a [[Parallels Desktop\|Parallels Desktop]] VM.
+The earliest [[PKM 個人知識管理\|PKM 個人知識管理]] that is still in use but getting littler and littler attention due to it being on a [[Parallels Desktop\|Parallels Desktop]] VM.
 
 I'm delighted that [[EasyFind\|EasyFind]] the free [[Regex\|regex]] tool on [[MacOS\|MacOS]] can search the text within files, therefore I can do, e.g.
 
