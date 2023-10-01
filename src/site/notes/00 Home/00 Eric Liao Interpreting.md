@@ -27,7 +27,7 @@
 
 My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu/institute/academics/degree-programs/translation-interpretation) freelance conference interpreter, a state-certified court interpreter (CA/NJ/AZ/WY), and an [ATA-credentialed](https://www.atanet.org/member-center/credentialed-interpreter-designation/) interpreter. I am based in the San Francisco Bay Area, California, but [[VRI\|VRI/RSI]] enables working for any event anywhere. I am originally from Taipei, Taiwan. 
 
-Here's my [CV/résumé](https://drive.google.com/file/d/1x2w2NirxGCWH6FfUQIGFDNAa1wWMs3oS/view?usp=sharing) or if you prefer it in [Word](https://docs.google.com/document/d/1PSfvw_oGpZYrjDhLmePZDfkx-2DQbcLdtMUTyIZMV40/edit?usp=sharing) *(last updated: Jan 16, 2023.)* 
+Here's my [CV/résumé](https://drive.google.com/file/d/1q2dJ8xEBhOYocV9xmIbwggp6PHxXJ52H/view?usp=sharing) or if you prefer it in [Word](https://docs.google.com/document/d/1Z-mvBrFned77oRa69CpAl4YwTDLX75oOlIAJ1T6eA2A/edit?usp=sharing) *(last updated: September 17, 2023.)* 
 
 I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and also from [[Taigi\|Tâigí]].
 
