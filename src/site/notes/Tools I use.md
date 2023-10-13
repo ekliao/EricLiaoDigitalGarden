@@ -36,7 +36,8 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Web Captioner\|Web Captioner]]
 - [[Otter.ai\|Otter.ai]]
 - [[Zoom\|Zoom]] (2020)
-- [[Movavi Video Editor\|Movavi Video Editor]]
+- [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
+- [[Movavi Video Editor 4\|Movavi Video Editor 4]]
 - [[Movavi Screen Recorder\|Movavi Screen Recorder]]
 - [[Loopback\|Loopback]]
 - QuickTime
