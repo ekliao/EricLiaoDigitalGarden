@@ -57,6 +57,11 @@ I quickly learned how to annotate using the highlighter pen that comes in severa
 With this new found hope in finding the best way to annotate PDF including freehand drawing, I wasted no time in moving on to the next short-term goal, determined to look into ways to integrate Zotero into Obsidian. Indeed, there are several methods available, but I must take the time to understand what they actually do. First in line: [[Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動\|Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動]].
 
 ---
+# Exports
+- [[Zotero PDF export - two kinds of annotations\|Zotero PDF export - two kinds of annotations]]
+
+---
+
 # More ...
 
 [Video: Zotero 6 PDF handling - separate annotations + export to Obsidian](https://www.youtube.com/watch?v=mMpVMuGBGe8)
