@@ -10,4 +10,4 @@ Simpler editing features than [[Movavi Video Editor Plus 2020\|Movavi Video Edit
 
 # Best practice
 
-On my 27-inch Apple monitor, downsampling in 720p or below will produce rather fuzzy and illegible text (on computer screen, such as from web site). For that, one needs at least 960p.
+On my 27-inch Apple monitor, downsampling in 720p or below will produce fuzzy and illegible text (on computer screen, such as from web site or moving Otter.ai transcription). For that, one needs at least 960p and likely 1024p.
