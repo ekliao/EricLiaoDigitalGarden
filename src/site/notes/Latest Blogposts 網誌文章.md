@@ -5,6 +5,8 @@
 last-updated:: 2023-10-01
 date-created:: 2023-04-21
 
+- Use [[Movavi Video Editor 4\|Movavi Video Editor 4]] for downsampling videos | 值得使用的影片瘦身軟體
+
 - 🔥🤞 [[Zotero 筆記軟體\|Zotero 筆記軟體]] | 百聞不如一見的 PDF 筆記工具
 
 - [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]] | 和 Obsidian 完美嵌合的 PDF 筆記工具，手寫是最大遺珠
