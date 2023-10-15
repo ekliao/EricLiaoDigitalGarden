@@ -4,11 +4,11 @@
 
 last-updated:: 2023-10-15
 
-- [[LEP 英語能力有限\|LEP 英語能力有限]] | 某加州法官有一次竟還問我這詞是什麼意思
+- [[LEP 英語能力有限\|LEP 英語能力有限]] | 某法官有一次竟還問我這詞啥意思
 
 - [[My portable interpreting equipment\|My portable interpreting equipment]] | 我的隨身口譯設備
 
-- [[Otter.ai\|Otter.ai]] | 好用的英語AI實時語音轉寫雲端軟體
+- [[Otter.ai\|Otter.ai]] | 好用的英語 AI 實時語音轉寫雲端軟體
 
 - Use [[Movavi Video Editor 4\|Movavi Video Editor 4]] for downsampling videos | 值得使用的影片編輯軟體
 
@@ -24,7 +24,7 @@ last-updated:: 2023-10-15
 
 - [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗]]
 
-- [[Evernote\|Evernote has got an iOS problem]] | 曾經紅極一時的 Evernote 如今根本在擺爛
+- [[Evernote\|Evernote has got an iOS problem]] | 曾紅極一時的 Evernote 如今在擺爛
 
 - [[Safari browser app on iOS - how to close all tabs at once\|A time-saving Safari browser hack on iOS]] | 關閉 iOS 上 Safari 瀏覽器所有頁籤的絕招
 
