@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-last-updated:: 2023-10-01
+	last-updated:: 2023-10-14
 date-created:: 2023-04-21
+
+- [[Otter.ai\|Otter.ai]] | 好用的英語AI實時語音轉寫雲端軟體
 
 - Use [[Movavi Video Editor 4\|Movavi Video Editor 4]] for downsampling videos | 值得使用的影片瘦身軟體
 
