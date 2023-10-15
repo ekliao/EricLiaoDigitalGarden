@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-	last-updated:: 2023-10-14
+last-updated:: 2023-10-14
 date-created:: 2023-04-21
 
 - [[Otter.ai\|Otter.ai]] | 好用的英語AI實時語音轉寫雲端軟體
