@@ -2,12 +2,15 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-last-updated:: 2023-10-14
-date-created:: 2023-04-21
+last-updated:: 2023-10-15
+
+- [[LEP 英語能力有限\|LEP 英語能力有限]] | 某加州法官有一次竟還問我這詞是什麼意思
+
+- [[My portable interpreting equipment\|My portable interpreting equipment]] | 我的隨身口譯設備
 
 - [[Otter.ai\|Otter.ai]] | 好用的英語AI實時語音轉寫雲端軟體
 
-- Use [[Movavi Video Editor 4\|Movavi Video Editor 4]] for downsampling videos | 值得使用的影片瘦身軟體
+- Use [[Movavi Video Editor 4\|Movavi Video Editor 4]] for downsampling videos | 值得使用的影片編輯軟體
 
 - 🔥🤞 [[Zotero 筆記軟體\|Zotero 筆記軟體]] | 百聞不如一見的 PDF 筆記工具
 
