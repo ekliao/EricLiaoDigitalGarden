@@ -4,6 +4,8 @@
 
 last-updated:: 2023-10-15
 
+- [[Write for pleasure 為了爽而寫\|Write for pleasure 為了爽而寫]]
+
 - [[LEP 英語能力有限\|LEP 英語能力有限]] | 某法官有一次竟還問我這詞啥意思
 
 - [[My portable interpreting equipment\|My portable interpreting equipment]] | 我的隨身口譯設備
