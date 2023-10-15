@@ -45,6 +45,7 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 ## My Work as Interpreter
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
 - [[Customer Testimonials\|Customer Testimonials]]
+- [[My portable interpreting equipment\|../My portable interpreting equipment]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
 - [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
