@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-last-updated:: 2023-10-15
+last-updated:: 2023-10-16
 
-- [[Write for pleasure 為了爽而寫\|Write for pleasure 為了爽而寫]]
+- [[Writing for Pleasure 為了爽而寫\|Writing for Pleasure 為了爽而寫]]
 
 - [[LEP 英語能力有限\|LEP 英語能力有限]] | 某法官有一次竟還問我這詞啥意思
 
