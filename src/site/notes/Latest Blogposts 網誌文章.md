@@ -4,6 +4,8 @@
 
 last-updated:: 2023-10-16
 
+- [[Audio Flashcards - iOS app - handsfree and eyes-free 光用耳不用眼手的抽認卡學習神器\|Audio Flashcards - iOS app - handsfree and eyes-free 光用耳不用眼手的抽認卡學習神器]]
+
 - [[Why you need to learn a little regex - an Anki example 正規表式是啥？能吃嗎？\|Why you need to learn a little regex - an Anki example 正規表式是啥？能吃嗎？]]
 
 - [[Language nerd identification 你是語言宅嗎？\|Language nerd identification 你是語言宅嗎？]]
