@@ -71,9 +71,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [TheBrain](https://www.thebrain.com/) - Zsolt started with this.
 [[Glasp\|Glasp]]
 [[DEVONthink\|DEVONthink]]
-[Tiddlywiki](https://tiddlywiki.com/) 
-	A personal wiki; not young, created in 2004; no backlinks; not really a Zettelkasten. Both Nicole and Zsolt started with it before Obsidian. Nicole used it for 10 years.
-	- [Intro video](https://www.youtube.com/watch?v=CNCM_-Hgf3M)
+[[Tiddlywiki\|Tiddlywiki]] ([Official](https://tiddlywiki.com/) )	
 [Scrintal](https://www.scrintal.com/)
 [Dendron](https://www.dendron.so)
 [[Todoist\|Todoist]]
