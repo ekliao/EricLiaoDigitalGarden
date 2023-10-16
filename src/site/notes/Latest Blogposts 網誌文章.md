@@ -14,7 +14,7 @@ last-updated:: 2023-10-16
 
 - [[My portable interpreting equipment\|My portable interpreting equipment]] | 我的隨身口譯設備
 
-- [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]] | 好用的英語 AI 實時語音轉寫雲端軟體
+- [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]]
 
 - Use [[Movavi Video Editor 4\|Movavi Video Editor 4]] for downsampling videos | 值得使用的影片編輯軟體
 
