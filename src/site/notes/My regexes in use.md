@@ -5,7 +5,6 @@
 date-created:: 2023-05-05
 
 Here is a list of quickly-hacked-together regex patterns to mitigate tasks that otherwise seem Herculean.
-
 ## In OB
 
 - Find all newly created dictionary entries with tag #td and file path not already under /A/A-Dict/(word).md
