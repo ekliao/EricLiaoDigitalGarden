@@ -12,7 +12,7 @@ I found your iOS app for audio flashcards. The handsfree nature of the design is
 If the app does not yet support bulk imports of audio files, I really hope you’ll consider adding this feature. I am sure many users will welcome it and find it extremely useful. If you add this feature, people will pay a fee to use it!  
   
 ---
-The developer responded almost immediately:
+The developer's almost immediate reply:
 
 I’m glad you’re enjoying the app. At the moment you can only import individual audio files to a card. Have you just using the Anki iOS app to create cards?  
   
@@ -22,21 +22,24 @@ My follow-up response:
 Thanks for the quick response. I have used Anki for years and learned how to bulk import audio cards (or text + audio mixed cards) into Anki through a text file or a spreadsheet (in tab-separated value or comma-separated value) easily. Anki recognizes this format for an embedded audio media file in running text, e.g.:  `[sound:abc.m4a]`
   
 Several formats are supported: mp3, m4a, etc. The key is being able to bulk import many cards at once through some mechanism. That'll be extremely useful and efficient. I don't know if this answered your question. Let me know if you need me to clarify anything.
-
 # Quick verdict: 4 stars
 ## Pros
 
+- One of a kind. There's nothing like it.
 - Handsfree, eyes-free
 - Free of charge
 - ASR to make searching by text possible (awesome!)
-- Auto detection of languages: English and Mandarin!
+- Auto detection of languages: English and Mandarin both work
 - Thoughtful configuration of audio playback during review to suit personal needs
 ## Cons
 
-- No bulk imports of audio yet
-- UI of editing/trimming of each recorded clip is a bit awkward and counter-intuitive
+- No Anki interoperability
+- No bulk imports of audio (yet); request made
+- The UI of editing/trimming of each recorded clip is a bit awkward and counter-intuitive
 - No bulk exports of audio cards that one has painstakingly made (though I found a backdoor and learned how to bulk export; method not idea; still takes some programming)
 # User reviews
+
+[src](https://apps.apple.com/us/app/audio-flashcards-app/id1583231998?see-all=reviews)
 
 ![_attachments/Screen Shot 2023-10-16 at 14.08.14.png](/img/user/_attachments/Screen%20Shot%202023-10-16%20at%2014.08.14.png)
 ## A useful review
