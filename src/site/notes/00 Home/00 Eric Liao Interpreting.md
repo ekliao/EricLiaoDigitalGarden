@@ -9,8 +9,8 @@
 
 #### Mandarin - English Conference Interpreter 中英文會議同步口譯 / 中英文会议同声传译
 
-#### Deposition Interpreter (as main or check interpreter)
-#### 庭外採證口譯（主翻或糾翻）/ 庭外采证口译（主翻或纠翻）
+#### Deposition Interpreter (as main or check interpreter) 庭外採證口譯（主翻或糾翻）/ 庭外采证口译（主翻或纠翻）
+
 - IPR 智慧財產權
 - Patents 專利
 - Semiconductors 半導體
@@ -18,11 +18,9 @@
 - Cryptocurrency 密幣
 - Pharma 製藥
 - Software/Hardware 電腦軟硬體
-
 #### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
 
 ---
-
 # About Me
 
 My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu/institute/academics/degree-programs/translation-interpretation) freelance conference interpreter, a state-certified court interpreter (CA/NJ/AZ/WY), and an [ATA-credentialed](https://www.atanet.org/member-center/credentialed-interpreter-designation/) interpreter. I am based in the San Francisco Bay Area, California, but [[VRI\|VRI/RSI]] enables working for any event anywhere. I am originally from Taipei, Taiwan. 
@@ -32,7 +30,6 @@ Here's my [CV/résumé](https://drive.google.com/file/d/1q2dJ8xEBhOYocV9xmIbwggp
 I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and also from [[Taigi\|Tâigí]].
 
 ---
-
 # Welcome! 
 
 Welcome to my “digital garden”! It's a collection of notes in various stages of maturity and polish, open to the world. Created April 16, 2023, it is still nascent but an exciting start. After all, 千里之行，始於足下。 *A journey of a thousand miles begins with a single step.* Read its [[This digital garden's raison d'être\|raison d'être]].
@@ -43,16 +40,16 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 #### [My Second Website and Blog 試驗網站](https://ericliaointerpreting.netlify.app)
 
 ## My Work as Interpreter
+
 - [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
 - [[Customer Testimonials\|Customer Testimonials]]
-- [[My portable interpreting equipment\|../My portable interpreting equipment]]
+- [[My portable interpreting equipment\|My portable interpreting equipment]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
 - [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
 - [[Interpreting：Just for Laughs\|Just for laughs]]
 
 ---
-
 # Contact, Comment, Question?
 
 Feel free to connect by email (ekliao@gmail.com), You can also fill out the [[Question or Comment?\|Question or Comment?]] box at the bottom of every page of the site.
