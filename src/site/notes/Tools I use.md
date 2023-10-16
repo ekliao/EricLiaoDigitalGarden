@@ -34,7 +34,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[InterpretBank\|InterpretBank]] (2020/8)
 - AutoSleep app (2020/6)
 - [[Web Captioner\|Web Captioner]]
-- [[Otter.ai\|Otter.ai]]
+- [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]]
 - [[Zoom\|Zoom]] (2020)
 - [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
 - [[Movavi Video Editor 4\|Movavi Video Editor 4]]
