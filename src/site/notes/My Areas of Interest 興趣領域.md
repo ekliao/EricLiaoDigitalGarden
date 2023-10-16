@@ -30,7 +30,7 @@
 
 ---
 ### Major short-term
-- [[Web Publishing\|Web publishing]] - The process of publishing this website
+- [[Web Publishing 發布內容\|Web publishing]] - The process of publishing this website
 - [[Hearing loudly and clearly\|Hearing loudly and clearly]]
 - [[Migrating and merging glossary data\|Migrating and merging glossary data]]
 
