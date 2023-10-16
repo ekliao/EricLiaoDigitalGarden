@@ -4,7 +4,7 @@
 
 ## Pros
 - Free
-- [[Regex 正則表示式\|Regex 正則表示式]] search of file names and content
+- [[Regex 正規表式\|Regex 正規表式]] search of file names and content
 - 
 ## Cons
 - A query can't operate on BOTH file names and content. Only one.
