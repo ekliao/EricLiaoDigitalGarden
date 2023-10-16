@@ -35,7 +35,7 @@ This is from [[people/Nicole Van Der Hoeven\|Nicole Van Der Hoeven]]'s digital g
 
 
 
-## Work with the garage door up
+
 
 </div></div>
 
