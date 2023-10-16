@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/regex/","noteIcon":"2","created":"","updated":""}
 ---
 
-Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
+date-created:: 2023-02-26
 
+Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
 ## Regex power
 
 [src](https://xkcd.com/208/)
