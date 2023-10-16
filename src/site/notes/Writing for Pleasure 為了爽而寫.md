@@ -4,13 +4,11 @@
 
 date-created:: 2023-10-15
 
-這個中文標題雖然有點「倯」(台語，sông)，卻恰恰是我的心境，但「為爽而寫」這麼強有力的自我呼籲不是我自己想到的，是來自一篇臉書長文，整篇充滿珠璣金句，就不客氣整篇給它拷貝下來了：
+這個中文標題雖然有點「倯」(台語，sông)，卻恰恰是我的心境，但「為爽而寫」這麼強有力的自我呼籲不是我自己想到的，是來自一篇臉書長文，整篇充滿珠璣金句，就不客氣整篇給它拷貝下來了。
 
-
-# [一個分析師的閱讀時間]([https://www.facebook.com/readandanalyseSeanHuang?__cft__[0]=AZWZ0fKa4MKtKmbRe3i2u-hBvoTQDBOxCjVeGjs9V0YVIRQx0TGuYd0YzCHMmi9LPJNzFuVJw9n15xRmN0iSAHzN1iRaRKYxmA4mT0JjF55ucWzeK2XGAZJgVZyHJ_bmd6v8zbZBCYIMXrTJm1gyFYRF&__tn__=-UC%2CP-R](<# [**一個分析師的閱讀時間**](https://www.facebook.com/readandanalyseSeanHuang?__cft__[0]=AZWZ0fKa4MKtKmbRe3i2u-hBvoTQDBOxCjVeGjs9V0YVIRQx0TGuYd0YzCHMmi9LPJNzFuVJw9n15xRmN0iSAHzN1iRaRKYxmA4mT0JjF55ucWzeK2XGAZJgVZyHJ_bmd6v8zbZBCYIMXrTJm1gyFYRF&__tn__=-UC%2CP-R)>)
+[來源：一個分析師的閱讀時間](https://www.facebook.com/readandanalyseSeanHuang/posts/pfbid0THhg3djGKj6CQaUiucpzXRqTnA3Bge5u2Gax4Q7ob6x6t9qjFKLPUWpJJSZRwr3jl)
 
 #paste/b 
-
 我在網路上寫blog、開粉絲團也超過十年了，在這段時間見證了自媒體這事情的興衰；最近剛好看到谷阿莫在談為什麼最近很多YT大頻道開始收掉，很有感觸。
 
 我開始寫文章是在2010年左右，當時的網路創作環境剛好從無名小站那種完全文字型自媒體的時代，開始轉向正規媒體也加入戰爭。我寫文章一直很重視觀點以及品質，因此幾乎是才寫一兩個月就被當時的商周網路部找到，於是開始了在商周網站上開數位專欄的日子。隨後，我從金融業被天下雜誌挖角，專欄也跟著搬到天下雜誌旗下的獨立評論，同時我在天下也以社長特助兼PM的身分創了換日線這個品牌。當時換日線以三個月的時間就創下單月流量破百萬的紀錄，是當時集團內數位品牌最快達到這紀錄的。
