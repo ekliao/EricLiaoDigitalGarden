@@ -4,7 +4,7 @@
 
 last-updated:: 2023-10-16
 
-- [[Why you need to learn a little regex - an Anki example 正則表示式是啥？能吃嗎？\|Why you need to learn a little regex - an Anki example 正則表示式是啥？能吃嗎？]]
+- [[Why you need to learn a little regex - an Anki example 正規表式是啥？能吃嗎？\|Why you need to learn a little regex - an Anki example 正規表式是啥？能吃嗎？]]
 
 - [[Language nerd identification 你是語言宅嗎？\|Language nerd identification 你是語言宅嗎？]]
 
