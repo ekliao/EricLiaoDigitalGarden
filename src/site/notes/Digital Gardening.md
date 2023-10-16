@@ -5,7 +5,7 @@
 
 ## Digital Gardening (Beyond Obsidian) for Non-Technical Folks
 
-I came across Maggie Appleton's website with a nice balance between graphic and text. Her [essay](https://maggieappleton.com/nontechnical-gardening) is a great 30,000-foot overview. #list She also compiled this extensive [list](https://github.com/MaggieAppleton/digital-gardeners) of all systems and tools beyond my limited exposure.
+I came across Maggie Appleton's website with a nice balance between graphic and text. Her [essay "Digital Gardening for Non-Technical Folks"](https://maggieappleton.com/nontechnical-gardening) is a great 30,000-foot overview. #list She also compiled this extensive [list](https://github.com/MaggieAppleton/digital-gardeners) of all systems and tools beyond my limited exposure.
 
 > What is "digital gardening"?
 > A garden is something in-between a personal blog and a wiki. It's a collection of evolving notes, essays, and ideas that aren't strictly organized by their publication date. They're inherently exploratory – posts are linked through contextual associations. They aren't refined or complete - posts can be published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal "blogs" we're used to encountering on the web. \- Maggie Appleton
@@ -22,7 +22,7 @@ Markdown is a smart choice.
 
 
 
-## Work with the garage door up
+
 
 </div></div>
 
@@ -36,3 +36,11 @@ Markdown is a smart choice.
 > Part of the problem of social media is that there is no equivalent to the scientific glassblowers’ sign, or the woodworker’s open door, or Dafna and Jesse’s sandwich boards. On the internet, if you stop speaking: you disappear. And, by corollary: on the internet, you only notice the people who are speaking nonstop.
 
 > If you could put on magic internet goggles that enabled you to see through this gnarly selection bias and view the composition of reality fairly, correctly—well, just come walk around Emeryville and West Berkeley. It would look like that! All the tumult of Twitter would shrink into a single weird cafe—just a speck, in an enormous city made up entirely of people quietly working. \- Robin Sloan
+
+# History
+
+Maggie Appleton's excellent [article](https://maggieappleton.com/garden-history) on the history and ethos of the digital garden, which provides this wonderful illustration:
+
+![a spectrum of knowledge management, ranging from chaos streams to the cultivated performance of publishing a book. Gardening sits in the middle.](https://res.cloudinary.com/dg3gyk0gu/image/upload/c_scale,f_auto,q_auto:good,w_1100/v1593765637/maggieappleton.com/notes/garden-history/digital-garden.png)
+
+This harkens right back to the aforementioned "working with the garage door open" mentality.
