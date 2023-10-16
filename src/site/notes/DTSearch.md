@@ -4,7 +4,7 @@
 
 The earliest [[PKM 個人知識管理\|PKM 個人知識管理]] that is still in use but getting littler and littler attention due to it being on a [[Parallels Desktop\|Parallels Desktop]] VM.
 
-I'm delighted that [[EasyFind\|EasyFind]] the free [[Regex 正則表示式\|Regex 正則表示式]] tool on [[MacOS\|MacOS]] can search the text within files, therefore I can do, e.g.
+I'm delighted that [[EasyFind\|EasyFind]] the free [[Regex 正規表式\|Regex 正規表式]] tool on [[MacOS\|MacOS]] can search the text within files, therefore I can do, e.g.
 
 `\bhappen(ed|s|ing)? to\b.{1,300}(碰|巧|剛|恰|適|湊)`
 
