@@ -14,7 +14,6 @@
 
 ###### [[Obsidian Digital Garden Plugin + Netlify\|Obsidian Digital Garden Plugin + Netlify]]
 - How this website is built.
-
 ###### [[Andy Matuschak's Mysterious Sliding-Notes System\|Andy Matuschak's Mysterious Sliding-Notes System]]
 
 ###### [[Quartz + Hugo\|Quartz + Hugo]]
@@ -67,7 +66,6 @@
 
 ###### Jekyll (SSG)
 - [Article](https://github.com/khoguan/khoguan.github.io) (in Taigi) by [[people/潘科元\|people/潘科元]]
-
 
 ---
 ## Digital Gardening
