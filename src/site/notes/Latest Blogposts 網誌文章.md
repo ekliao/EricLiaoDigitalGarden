@@ -4,6 +4,8 @@
 
 last-updated:: 2023-10-16
 
+- [[Language nerd identification 你是語言宅嗎？\|Language nerd identification 你是語言宅嗎？]]
+
 - [[Writing for Pleasure 為了爽而寫\|Writing for Pleasure 為了爽而寫]]
 
 - [[LEP 英語能力有限\|LEP 英語能力有限]] | 某法官有一次竟還問我這詞啥意思
