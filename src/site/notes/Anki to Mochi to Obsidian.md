@@ -8,7 +8,7 @@ One thing quickly led to another. Now I'm thinking of migrating at least the mos
 
 To that end, I found [Mochi](https://mochi.cards/). It looks promising.
 
-Update: I spent most of 2024-05-04 doing lots of [[Regex 正則表示式\|Regex 正則表示式]] wrangling and massaging, but the results, the first batch of 25,000 Anki vocabulary entries in Obsidian and enjoying OB's amazing unlinked mentions, immediately proved my intuition right. All the migration work was worth it. The Anki vocab list now looks like a living organism greeting me to play with it more, and discover and create more links within it. One really has to have used both systems on the same content to feel the power of connection!
+Update: I spent most of 2024-05-04 doing lots of [[Regex 正規表式\|Regex 正規表式]] wrangling and massaging, but the results, the first batch of 25,000 Anki vocabulary entries in Obsidian and enjoying OB's amazing unlinked mentions, immediately proved my intuition right. All the migration work was worth it. The Anki vocab list now looks like a living organism greeting me to play with it more, and discover and create more links within it. One really has to have used both systems on the same content to feel the power of connection!
 { #329381}
 
 
