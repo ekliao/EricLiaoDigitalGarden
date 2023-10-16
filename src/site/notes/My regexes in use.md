@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/my-regexes-in-use/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-05-05
+
 Here is a list of quickly-hacked-together regex patterns to mitigate tasks that otherwise seem Herculean.
 
 ## In OB
