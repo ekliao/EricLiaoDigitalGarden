@@ -30,6 +30,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 ### Heard of
 *(New to old)*
 
+[[Lattics\|Lattics]] ([Official](https://lattics.zineapi.com/))
 [[Innos Note\|Innos Note]]
 [[Nota.md\|Nota.md]]
 [[Minddode\|Minddode]]
