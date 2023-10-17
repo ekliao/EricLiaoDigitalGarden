@@ -64,4 +64,16 @@ According to [[Paco Cantero\|Paco Cantero]], Heptabase:
 	- Profitable from the beginning
 	- 5 full-time employees, best talents
 	- Existing funding can last 10 years 
-- 
+# Reviews
+
+Quick take by [Fred Jame](https://www.facebook.com/thefredjame/posts/pfbid0Go5JYdsUCSPCg6nUme2not4JbodUxGxxSwuPdcF4ESRPEUuk5oBLYaeBqAXaftsSl)
+
+> 過去幾個月密集使用了Heptabase、Scrintal、Obsidian、以及原本就在用的Tana等幾個知識整理工具。
+> 
+> 除了Tana之外，整體功能最完備的應該是Heptabase（Obsidian透過上千種外掛可以更完備，但會變得很複雜、學習曲線很陡、而且不利於在行動裝置上使用）。
+> 
+> 但不知道為什麼，Heptabase用起來有一點太「厚重」的感覺，整體介面雖然不醜，但沒有Scrintal或Notion那麼精巧俐落。
+
+# Desiderata
+
+- No web publishing option (à la Obsidian, Logseq, Notion). Workaround: Sharing a whiteboard and everything in it (cards).
