@@ -40,6 +40,11 @@ This was screaming-worthy. I skipped the celebratory drink (it was just 11AM) an
 
 ---
 # Web publishing
+
+## Demo
+
+### [[Fred Jame\|Fred Jame]]'s [Notion site](https://fred.mba/)
+- At first sight, I actually like it a lot. #todo Dig deeper.
 ## Namanh Kapur
 #people
 - [Video that may sell me on notion!](https://www.youtube.com/watch?v=8u45QMEn1o4)
