@@ -10,4 +10,12 @@ Simpler editing features than [[Movavi Video Editor Plus 2020\|Movavi Video Edit
 
 # Best practice
 
-On my 27-inch Apple monitor, downsampling in 720p or below will produce fuzzy and illegible text (on computer screen, such as from web site or moving Otter.ai transcription). For that, one needs at least 960p and likely 1024p.
+## Resolution
+
+On my 27-inch Apple monitor, downsampling in 720p or below will produce fuzzy and illegible text (on computer screen, such as from web site or moving Otter.ai transcription). For that, one needs at least 960p and likely 1024p. Update: 720p may work if type faces are large enough.
+## Frame rate
+
+The file size is a function of frame rate too. The highest default is 30 fps, but setting it to 15, even 12 or 10, can produce enough clarity while reducing the file size by a lot.
+
+
+
