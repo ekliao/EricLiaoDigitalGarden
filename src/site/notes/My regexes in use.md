@@ -5,10 +5,10 @@
 date-created:: 2023-05-05
 
 Here is a list of quickly-hacked-together regex patterns to mitigate tasks that otherwise seem Herculean.
-## In OB
+## In Obsidian
 
 - Find all newly created dictionary entries with tag #td and file path not already under /A/A-Dict/(word).md
-- 
+
 `#todo/file/d path:/[^t]\/[^\/]+\.md`
 (Not robust but largely gets the job done)
 
@@ -37,4 +37,6 @@ e.g. ==\\ si-​ˈkwe-​(ˌ)lē\\==
 #todo 
 
 ---
-## Outside OB
+## Outside Obsidian
+
+- Too numerous to enumerate...
