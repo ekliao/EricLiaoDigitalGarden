@@ -4,6 +4,8 @@
 
 date-created:: 2023-10-16
 
+I drive solo for court interpreting assignments regularly. Every time I drive, the round-trip travel varies from 1 to 2.5 hours depending on location and traffic. It adds up. Time spent driving, or worse, time stuck in traffic, is time wasted. Beside mindlessly listening to radio news, I prefer to engage my brain more by actively recalling bilingual vocab and expressions that I have gathered in Anki, my go-to flashcard app. Unfortunately Anki does not offer a handsfree, eyes-free, driving-friendly mode of learning. What if there's an app designed just for that?
+
 ![_attachments/Screen Shot 2023-10-19 at 05.17.02.png|500](/img/user/_attachments/Screen%20Shot%202023-10-19%20at%2005.17.02.png)
 
 I chanced upon this gem of an app two weeks ago. A day later, having had only a cursory impression of its features and limits, I contacted the developer giving him praise but not without expressing my wishes:
