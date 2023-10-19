@@ -4,6 +4,8 @@
 
 date-created:: 2023-10-16
 
+![_attachments/Screen Shot 2023-10-19 at 05.17.02.png|500](/img/user/_attachments/Screen%20Shot%202023-10-19%20at%2005.17.02.png)
+
 I chanced upon this gem of an app two weeks ago. A day later, having had only a cursory impression of its features and limits, I contacted the developer giving him praise but not without expressing my wishes:
 
 #paste/email
