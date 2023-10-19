@@ -4,12 +4,14 @@
 
 date-created:: 2023-10-16
 
-I chanced upon this gem of an app two weeks ago. A day later, having had only a cursory impression of its features and limits, I contacted the developer giving him praise but not letting him off easy:
+I chanced upon this gem of an app two weeks ago. A day later, having had only a cursory impression of its features and limits, I contacted the developer giving him praise but not without expressing my wishes:
 
 #paste/email
-I found your iOS app for audio flashcards. The handsfree nature of the design is something I’ve been searching for for a long time. I am glad I found it. But I do have some questions: does the app support bulk import and export of audio fronts and backs in audio file formats (for example .mp3)? Entry one by one is time-consuming. I already have tons of such audio cards in Anki, but Anki doesn’t have your app’s handsfree configuration. I hope I can leverage the best of both worlds by importing existing Anki decks into your app for handsfree practice.  
+Hello,
+
+I found your iOS app for audio flashcards. The handsfree nature of the design is something I’ve been searching for for a long time. I am glad I found it. But I do have some questions: does the app support bulk import and export of audio fronts and backs in audio file formats (.mp3 for example)? Creating such audio cards one by one is time-consuming. I already have tons of them in Anki, but Anki doesn’t have your app’s handsfree configuration. I hope to leverage the best of both worlds by importing existing Anki decks of audio cards into your app for handsfree practice.  
   
-If the app does not yet support bulk imports of audio files, I really hope you’ll consider adding this feature. I am sure many users will welcome it and find it extremely useful. If you add this feature, people will pay a fee to use it!  
+If the app does not yet support bulk imports of audio files, I really hope you’ll consider adding this feature. I am sure many users will welcome it and find it extremely useful. If this feature becomes available, people will pay a fee to use the app!
   
 ---
 The developer's almost immediate reply:
@@ -19,32 +21,30 @@ I’m glad you’re enjoying the app. At the moment you can only import individu
 ---
 My follow-up response:
 
-Thanks for the quick response. I have used Anki for years and learned how to bulk import audio cards (or text + audio mixed cards) into Anki through a text file or a spreadsheet (in tab-separated value or comma-separated value) easily. Anki recognizes this format for an embedded audio media file in running text, e.g.:  `[sound:abc.m4a]`
-  
-Several formats are supported: mp3, m4a, etc. The key is being able to bulk import many cards at once through some mechanism. That'll be extremely useful and efficient. I don't know if this answered your question. Let me know if you need me to clarify anything.
+Thanks for the quick response. I have used Anki for years and learned how to bulk import audio cards (or mixed text + audio cards) into Anki through a plain text file or a spreadsheet (in tab-separated value or comma-separated value). The process is straightforward. Anki recognizes the presence of an embedded audio media file in running text. For example, `[sound:abc.m4a]` (square brackets enclosing the keyword "sound:" followed by the audio file name) refers to the audio file placed under each Anki profile's "media" folder. Several audio formats are supported. The key is being able to bulk import many cards at once through some mechanism. That'll be extremely useful and efficient. I hope this answered your question. Let me know if you need me to clarify anything.
 # Quick verdict: 4 stars
 ## Pros
 
 - One of a kind. There's nothing like it.
 - Handsfree, eyes-free
-- Free of charge
-- ASR to make searching by text possible (awesome!)
-- Auto detection of languages: English and Mandarin both work
+- Built-in ASR (automatic speech recognition) to enable search by text: *This has been awesome for the little time I've tested it.*
+- Auto detection of languages: English and Mandarin both work.
 - Thoughtful configuration of audio playback during review to suit personal needs
+- Free of charge
 ## Cons
 
 - No Anki interoperability
-- No bulk imports of audio (yet); request made
+- No bulk imports of audio (yet); requests made by at least two users
 - The UI of editing/trimming of each recorded clip is a bit awkward and counter-intuitive
-- No bulk exports of audio cards that one has painstakingly made (though I found a backdoor and learned how to bulk export; method not idea; still takes some programming)
+- No bulk exports of audio cards that one has painstakingly made. (I found a backdoor and learned how to bulk export the audio. The method is far from ideal and requires some scripting or lots of manual work.)
 # User reviews
 
 [src](https://apps.apple.com/us/app/audio-flashcards-app/id1583231998?see-all=reviews)
 
-![_attachments/Screen Shot 2023-10-16 at 14.08.14.png](/img/user/_attachments/Screen%20Shot%202023-10-16%20at%2014.08.14.png)
+![_attachments/Screen Shot 2023-10-16 at 14.08.14.png|450](/img/user/_attachments/Screen%20Shot%202023-10-16%20at%2014.08.14.png)
 ## A useful review
 
-Great minds think alike? 😆 This user had asked for the same thing: bulk importing.
+Great minds think alike? 😆 This other user had requested the same feature: bulk importing.
 
 *Code3x6, 08/02/2023*
 #### Good tool for learning languages
