@@ -4,9 +4,9 @@
 
 last-updated:: 2023-10-17
 
-- [[Ctrl-V or Cmd-V alternative - pasting only the plain text with Shift-Cmd-V 貼出純文字的小撇步\|Ctrl-V or Cmd-V alternative - pasting only the plain text with Shift-Cmd-V 貼出純文字的小撇步]]
+- [[Ctrl-V or Cmd-V alternative - pasting only the plain text with Shift-Cmd-V\|Ctrl-V or Cmd-V alternative - pasting only the plain text with Shift-Cmd-V]] | 貼出純文字的小撇步
 
-- [[Audio Flashcards - iOS app - handsfree and eyes-free 光用耳不用眼手的抽認卡學習神器\|Audio Flashcards - iOS app - handsfree and eyes-free 光用耳不用眼手的抽認卡學習神器]]
+- [[Audio Flashcards - iOS app - handsfree, eyes-free, driving-friendly\|Audio Flashcards - iOS app - handsfree, eyes-free, driving-friendly]] | 只需耳聽、開車適用的抽認卡學習神器
 
 - [[Why you need to learn a little regex - an Anki example 正規表式是啥？能吃嗎？\|Why you need to learn a little regex - an Anki example 正規表式是啥？能吃嗎？]]
 
