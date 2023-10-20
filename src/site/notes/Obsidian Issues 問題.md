@@ -13,10 +13,9 @@ date-created:: 2023-02-28   
 
 
 
-- Obsidian forum pages won't scroll (video): 
+- Obsidian forum pages won't scroll most of the time (video): 
 
 </div></div>
-
 
 ## Tags in file name and in metadata don't work as tags
 
