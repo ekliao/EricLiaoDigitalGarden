@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/tools-i-use/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-02-24
+
 A list of mostly software and hardware, excluding abstract ideas, methods (e.g. Zettelkasten), and plugins that don't exist without the underlying tool (e.g. Obsidian and Anki).
 
 *(New to old. x = obsolete; b = backup; g = a cursory glance)*
 
 ## Software/apps/websites
 
-### [[MacOS\|MacOS]] （or any web tool)
+### [[MacOS\|MacOS]] (or any web tool)
 - [[Exporter (app)\|Exporter (app)]] (2023/6)
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
 - [Mochi](https://mochi.cards/) (2023/5)
@@ -77,7 +79,6 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - iPhone
 
 [[My computer hardware\|My computer hardware]] ⛔️
-
 ### [[My audio equipment\|Audio equipment]] 
 
 ## Accessories
@@ -87,3 +88,10 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Apple Pencil Gen 1\|Apple Pencil Gen 1]]
 - Wireless mouse
 - [[USB\|USB]]
+
+---
+# More ...
+
+Glad to find like minds who share tools they use:
+
+- [Jack](https://baty.net/uses) - mentions [[DEVONthink\|DEVONthink]]
