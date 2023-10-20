@@ -4,7 +4,7 @@
 
 date-created:: 2023-02-26
 
-Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation.
+Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expression)." "RegExp" is another common abbreviation. In Chinese, 正規表示式, which I prefer to shorten as 正規表式.
 ## Regex power
 
 [src](https://xkcd.com/208/)
