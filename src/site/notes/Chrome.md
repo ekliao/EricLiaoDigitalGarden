@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/chrome/","noteIcon":"2","created":"","updated":""}
 ---
 
-A popular web browser made by Google.
+date-created:: 2023-03-01
 
+A popular web browser made by Google.
 # Issues
 
-- Obsidian forum pages won't scroll (video):
+- Obsidian forum pages won't scroll most of the time (video):
 { #04499e}
 
 
