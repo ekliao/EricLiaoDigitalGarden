@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/regex-sighting-in-taiwan-s-public-national-taigi-search-tool/","noteIcon":"2","created":"","updated":""}
 ---
 
+date-created:: 2023-07-06
+
 src: [潘科元](https://www.facebook.com/khoguan/posts/pfbid08LSoFBPVREARCWupSzA4W69s6nMXwmaGFyeV418kyoBHXLtcfeZCC8TaKU6wLUfVl)
 
 Mr. 潘 has since posted several articles exemplifying regex power.
