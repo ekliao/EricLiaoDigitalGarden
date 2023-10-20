@@ -49,6 +49,6 @@ This is the path that a diff tool such as [[Beyond Compare\|Beyond Compare]] nee
 ---
 ## ~~Dropbox~~
 
-I initially set up my desktop Obsidian vaults on [[Dropbox\|Dropbox]], but haven't found any workable solution for syncing it to mobile devices, so I moved Obsidian to [[iCloud\|iCloud]]. It's been almost smooth sailing since, with the exception of sluggishness and constant indexing.
+I initially set up my desktop Obsidian vaults on [[Dropbox\|Dropbox]], but haven't found any workable solution for syncing it to mobile devices, so I moved Obsidian to [[iCloud (Drive)\|iCloud (Drive)]]. It's been almost smooth sailing since, with the exception of sluggishness and constant indexing.
 
 Update: Dropbox Obsidian vault on iOS: [can't be done](https://forum.obsidian.md/t/mobile-app-for-iphone-sync-with-dropbox/18676/3)
