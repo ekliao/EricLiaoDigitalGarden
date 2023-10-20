@@ -26,6 +26,8 @@ date-created:: 2023-04-15
 
 #### Template-based
 
+###### [Blot.im](https://blot.im/)
+- Turning a local file folder into a web site seems too good to be true
 ###### [Wowchemy](https://wowchemy.com/)
 
 ###### Wix
