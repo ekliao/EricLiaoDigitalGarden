@@ -4,13 +4,13 @@
 
 date-created:: 2023-04-15
 ## Obsidian
-- [[My successful attempt at Obsidian web publishing\|My successful attempt at Obsidian web publishing]]
+- [[My successful attempt at Obsidian web publishing 用 Obsidian 架站的艱辛史\|My successful attempt at Obsidian web publishing 用 Obsidian 架站的艱辛史]]
 - [[Obsidian Publish Example Sites\|Obsidian Publish Example Sites]]
 - Related: [[Obsidian Sync\|Obsidian Sync]]
 
 #### [[Obsidian Publish\|Obsidian Publish]]
 - Costly at $20/month or $192/year
-
+- [video by 指導員吳剛](https://www.bilibili.com/video/BV1dU4y1p7gg/?vd_source=c5814fc82506100ec4b07566dc20d79f)
 #### Non-Obsidian-Publish Solutions
 
 ###### [[Obsidian Digital Garden Plugin + Netlify\|Obsidian Digital Garden Plugin + Netlify]]
@@ -26,8 +26,7 @@ date-created:: 2023-04-15
 
 #### Template-based
 
-###### [Blot.im](https://blot.im/)
-- Turning a local file folder into a web site seems too good to be true
+###### [[Blot.im 把本地文檔變成網站的互聯網頁\|Blot.im]]
 ###### [Wowchemy](https://wowchemy.com/)
 
 ###### Wix
