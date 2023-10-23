@@ -4,6 +4,10 @@
 
 date-created:: 2023-04-15
 
+*(Update 2023-10-23)* The original web page of Feng's blogpost referred to below is gone, as he announced the loss of the content this month in a short [post](https://www.fengrin.me/blog/my-first-post). Luckily, I copied and pasted the original text below. Unfortunately the images are broken and lost. The moral: Back up your good stuff. 好東西記得備份！
+
+---
+
 This is the main guide, with thanks to [Feng Zhang (峰的博客)](https://fengrin.me/), that directly helped me build the website you're seeing. Its opening paragraphs enticed me with the idea of "publishing at the push of a button" (通過命令一鍵發布). It provides high-level steps without going into detailed steps, but luckily I managed to figure them out, especially the seemingly magical yet baffling parts of Netlify's role in this undertaking.
 
 *(Update 2023-07-27)* For detailed guide straight from the horse's mouth, see "Related Resources" at the bottom of this page.
@@ -119,4 +123,4 @@ dg-home: true
 - A new but different [video](https://www.bilibili.com/video/BV1HF411173m/?spm_id_from=333.337.search-card.all.click&vd_source=c5814fc82506100ec4b07566dc20d79f) guide of the same setup. I haven't gone through it, but it looks straightforward.
 # Issues
 
-- 🔥 [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗]]
+- [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗]]
