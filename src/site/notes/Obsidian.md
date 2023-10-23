@@ -26,7 +26,7 @@ Nice! It's copy 'n' paste.
 
 ## OB Topics
 
-#### [[My successful attempt at Obsidian web publishing\|My successful attempt at Obsidian web publishing]]
+#### [[My successful attempt at Obsidian web publishing 用 Obsidian 架站的艱辛史\|My successful attempt at Obsidian web publishing 用 Obsidian 架站的艱辛史]]
 
 #### [[Obsidian Issues 問題\|Issues I found]]
 
