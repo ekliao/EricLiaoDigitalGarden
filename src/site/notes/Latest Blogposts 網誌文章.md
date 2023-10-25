@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","created":"","updated":""}
 ---
 
-last-updated:: 2023-10-17
+last-updated:: 2023-10-25
+
+- [[口譯員和機器的關係 The human interpreter and the machine\|口譯員和機器的關係 The human interpreter and the machine]]
+
+- [[Blot.im 把本地文檔變成網站的互聯網頁\|Blot.im 把本地文檔變成網站的互聯網頁]]
 
 - [[Ctrl-V or Cmd-V alternative - pasting only the plain text with Shift-Cmd-V\|Ctrl-V or Cmd-V alternative - pasting only the plain text with Shift-Cmd-V]] | 貼出純文字的小撇步
 
