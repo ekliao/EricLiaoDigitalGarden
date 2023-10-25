@@ -28,6 +28,9 @@ My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu
 
 Here's my [CV/résumé](https://drive.google.com/file/d/1q2dJ8xEBhOYocV9xmIbwggp6PHxXJ52H/view?usp=sharing) (PDF) or if you prefer it in [Word](https://docs.google.com/document/d/1Z-mvBrFned77oRa69CpAl4YwTDLX75oOlIAJ1T6eA2A/edit?usp=sharing) *(last updated: September 17, 2023.)* Click the link and you should be able to save a copy if you like.
 
+https://drive.google.com/file/d/1q2dJ8xEBhOYocV9xmIbwggp6PHxXJ52H/view?usp=sharing
+
+
 ---
 # Welcome! 
 
