@@ -6,7 +6,7 @@
 #project/aborted 
 
 ## Goal
-Setting up and running a working static web site for my professional Obsidian vault, which I intend to name "Eric Liao Interpreting."
+Setting up and running a working static website for my professional Obsidian vault, which I intend to name "Eric Liao Interpreting."
 
 ## Results
 I was successful in publishing a subset of my Obsidian vault [here](https://ericliaointerpreting.netlify.app)
