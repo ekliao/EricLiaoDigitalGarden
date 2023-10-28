@@ -26,7 +26,7 @@ date-created:: 2023-04-15
 
 #### Template-based
 
-###### [[Blot.im 把本地文檔變成網站的互聯網頁\|Blot.im]]
+###### [[Blot.im 把本地文檔變身成網站\|Blot.im]]
 ###### [Wowchemy](https://wowchemy.com/)
 
 ###### Wix
