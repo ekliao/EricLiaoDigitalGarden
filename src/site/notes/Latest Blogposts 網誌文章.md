@@ -4,7 +4,7 @@
 
 last-updated:: 2023-10-27
 
-- [[My consecutive note-taking practice using CADNCI 逐步口譯筆記練習 (global income inequality)\|My consecutive note-taking practice using CADNCI 逐步口譯筆記練習 (global income inequality)]]
+- [[My consecutive note-taking practice using CADNCI 數位逐步口譯筆記練習實錄影片 (global income inequality)\|My consecutive note-taking practice using CADNCI 數位逐步口譯筆記練習實錄影片 (global income inequality)]]
 
 - [[口譯員和機器的關係 The human interpreter and the machine\|口譯員和機器的關係 The human interpreter and the machine]]
 
