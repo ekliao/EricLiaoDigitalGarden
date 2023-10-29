@@ -29,7 +29,7 @@ For example, I should refrain from neatly creating hierarchical notes like this
 | ---- [[AHD5\|AHD5]]
 | -------- issue of grammar found in an AHD5 definition
 
-just for the purpose of writing about a seemingly quirky intransitive sense for `discuss` in AHD5. Instead, I should simply and directly create a note for the **substantive** issue of [[Absolute verbs 不明示受詞的動詞\|Absolute verbs 不明示受詞的動詞]], link it to the most obvious topic of [[Grammar\|Grammar]] to create at least one connection, and stop caring about whether higher-order categories of `dictionaries` or `AHD5` should exist or how and where they should fit in.
+just for the purpose of writing about a seemingly quirky intransitive sense for `discuss` in AHD5. Instead, I should simply and directly create a note for the **substantive** issue of [[Absolute verbs 不明示受詞的「絕對」動詞\|Absolute verbs 不明示受詞的「絕對」動詞]], link it to the most obvious topic of [[Grammar\|Grammar]] to create at least one connection, and stop caring about whether higher-order categories of `dictionaries` or `AHD5` should exist or how and where they should fit in.
 
 ---
 [[Andy Matuschak's Mysterious Sliding-Notes System\|Andy Matuschak's Mysterious Sliding-Notes System]]
