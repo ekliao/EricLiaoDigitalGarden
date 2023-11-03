@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systematic-mispronunciations-by-non-native-speakers-of-english/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/systematic-mispronunciations-by-non-native-speakers-of-english/","noteIcon":"2"}
 ---
 
 *([[Note on the SAMPA phonetic transcription\|Note on the SAMPA phonetic transcription]])*
