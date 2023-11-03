@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing-for-pleasure/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/writing-for-pleasure/","noteIcon":"2"}
 ---
 
 date-created:: 2023-10-15
