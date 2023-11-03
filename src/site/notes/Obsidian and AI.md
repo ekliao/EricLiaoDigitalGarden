@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-and-ai/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-and-ai/","noteIcon":"2"}
 ---
 
 ## Plugins
