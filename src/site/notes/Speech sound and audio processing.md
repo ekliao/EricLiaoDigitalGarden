@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speech-sound-and-audio-processing/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/speech-sound-and-audio-processing/","noteIcon":"2"}
 ---
 
 #phonetics/plosives
