@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systems-thinking-systemic-thinking-systematic-thinking/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/systems-thinking-systemic-thinking-systematic-thinking/","noteIcon":"2"}
 ---
 
 To be a good language interpreter, one needs to cultivate "systemic thinking" (系統觀 or 系統性思維). There are two related terms. Here's a [Quora](https://www.quora.com/What-is-the-difference-between-systems-thinking-systematic-thinking-and-systemic-thinking) question and ChatGPT's answer.
