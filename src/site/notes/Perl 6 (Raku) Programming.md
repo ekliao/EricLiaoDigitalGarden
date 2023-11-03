@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perl-6-raku-programming/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/perl-6-raku-programming/","noteIcon":"2"}
 ---
 
 # What drew me to Perl 6 (Raku)
