@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interpreter-s-help/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/interpreter-s-help/","noteIcon":"2"}
 ---
 
 This is one of my [[Glossary Lookup\|candidates]] for being the permanent, one-and-only glossary lookup tool. I have an account from to educator status. More reason to take advantage of it. Interpreter's Help (henceforth IH for short) is the closest among the candidates to InterpretBank, so both get extra consideration for having design facilitating the ease of quick lookup and sharing.
