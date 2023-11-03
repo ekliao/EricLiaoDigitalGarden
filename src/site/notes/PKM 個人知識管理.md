@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pkm/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/pkm/","noteIcon":"2"}
 ---
 
 date-create:: 2023-02-21
@@ -37,7 +37,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[XMind\|XMind]] ([Official](https://xmind.app/))
 [[Snipd\|Snipd]] ([Official](https://blog.snipd.com/how-to-take-notes-from-podcasts-with-snipd-6dd564d1c4ae)) - Note-taking from podcasts
 [[UpNote\|UpNote]] ([Official](https://getupnote.com/))
-[[_d/arc\|Arc]] - A new browser
+[[Arc\|Arc]] - A new browser
 [[Sunsama\|Sunsama]] - Daily planner
 [[VimCal\|VimCal]] - Calendar and time management
 [[Superhuman\|Superhuman]] - Email
@@ -46,7 +46,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [Trilium Notes](https://flathub.org/apps/com.github.zadam.trilium)
 [Transno](https://transno.com/)
 [MindMup](https://www.mindmup.com/)
-[[_d/ulysses\|Ulysses]]
+[[Ulysses\|Ulysses]]
 [[iWriter\|iWriter]]
 [[Legend (was Moo.do)\|Legend (was Moo.do)]]
 [[Dynalist\|Dynalist]]
@@ -97,7 +97,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 
 ---
 ## Tools for research
-- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[_d/tinderbox\|Tinderbox]]
+- [[Bookends\|Bookends]], [[Hazel\|Hazel]], [[Tinderbox\|Tinderbox]]
 	- [video](https://www.youtube.com/watch?v=NZgI9uq7EQU)
 - [[Zotero 筆記軟體\|Zotero 筆記軟體]]
 
