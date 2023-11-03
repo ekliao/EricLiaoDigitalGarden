@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usb/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/usb/","noteIcon":"2"}
 ---
 
 Why can't there be one USB to rule them all?
