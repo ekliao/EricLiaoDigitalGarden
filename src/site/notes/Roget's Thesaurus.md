@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roget-s-thesaurus/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/roget-s-thesaurus/","noteIcon":"2"}
 ---
 
 The famed [Roget's Thesaurus in Obsidian](https://publish.obsidian.md/rogets/TOC+-+Categories+(alternative)) is back online. It was inoperative for quite some time since Nick Milo raved about it in this [video](https://www.youtube.com/watch?v=qoY_TDS_DXs). See it and believe it before it goes off again. 🤣
