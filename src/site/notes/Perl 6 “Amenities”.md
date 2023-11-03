@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perl-6-amenities/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/perl-6-amenities/","noteIcon":"2"}
 ---
 
 There are so many little delightful things that Perl 6 offers, so I'm gathering them into this note.
