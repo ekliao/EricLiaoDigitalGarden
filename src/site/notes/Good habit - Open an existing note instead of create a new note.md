@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/good-habit-open-an-existing-note-instead-of-create-a-new-note/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/good-habit-open-an-existing-note-instead-of-create-a-new-note/","noteIcon":"2"}
 ---
 
 #YouTube/clip
