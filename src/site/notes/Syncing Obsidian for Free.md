@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/syncing-obsidian-for-free/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/syncing-obsidian-for-free/","noteIcon":"2"}
 ---
 
 Syncing Obsidian vaults between devices, especially desktop and mobile.
