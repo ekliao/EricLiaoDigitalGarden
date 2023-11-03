@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/writing/","noteIcon":"2"}
 ---
 
 Honestly, I am traumatized since an early schooling age about writing, and speaking,  for that matter. The 作文 *(composition)* and 說話 *(speaking)* classes always filled me with a sense of wariness and denial. That was when the martial law was in place in Taiwan, so everything felt fake. Even as a third-grader I felt the pressure to self-censor. Writing and speaking in public had since become synonymous with self-inhibition and oppression.
