@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/substance-over-structure/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/substance-over-structure/","noteIcon":"2"}
 ---
 
 date-created:: 2023-04-24
