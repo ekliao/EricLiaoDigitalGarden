@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note-taking/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/note-taking/","noteIcon":"2"}
 ---
 
 Closely related to [[PKM 個人知識管理\|PKM 個人知識管理]], it's all about the myriad ways of taking notes by writing and annotating and highlighting content in various sources (online and offline). This creates fragments and snippets of thoughts, which should ideally be organized systematically lest they grow into an intractable mess. The hope is that someday some of the unconnected notes will be synthesized into coherent and meaningful content wherein lie knowledge and value.
