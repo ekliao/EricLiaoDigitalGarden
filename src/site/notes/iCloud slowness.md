@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-cloud-slowness/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/i-cloud-slowness/","noteIcon":"2"}
 ---
 
 Despite I've crossed over from the Windows world into almost becoming an Apple "fanboy," certain things like Airdrop, Sync, and especially iCloud are constant sources of frustration.
