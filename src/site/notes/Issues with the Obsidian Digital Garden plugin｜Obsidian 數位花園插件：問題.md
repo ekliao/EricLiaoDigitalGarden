@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/issues-with-the-obsidian-digital-garden-plugin-obsidian/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/issues-with-the-obsidian-digital-garden-plugin-obsidian/","noteIcon":"2"}
 ---
 
 date-created:: 2023-04-25
