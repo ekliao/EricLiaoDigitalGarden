@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dt-search/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/dt-search/","noteIcon":"2"}
 ---
 
 The earliest [[PKM 個人知識管理\|PKM 個人知識管理]] that is still in use but getting littler and littler attention due to it being on a [[Parallels Desktop\|Parallels Desktop]] VM.
