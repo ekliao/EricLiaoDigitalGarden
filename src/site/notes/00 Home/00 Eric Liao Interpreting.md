@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/00-home/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2"}
 ---
 
 # Eric Liao Interpreting 中英文口譯
