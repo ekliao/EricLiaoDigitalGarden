@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ahd-5/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ahd-5/","noteIcon":"2"}
 ---
 
 The [American Heritage Dictionary](https://ahdictionary.com/), 5th Edition.
