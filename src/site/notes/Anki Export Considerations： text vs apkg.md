@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-export-considerations-text-vs-apkg/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/anki-export-considerations-text-vs-apkg/","noteIcon":"2"}
 ---
 
 #Anki 
