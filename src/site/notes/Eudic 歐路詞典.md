@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eudic/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/eudic/","noteIcon":"2"}
 ---
 
 date-created:: 2023-03-26
