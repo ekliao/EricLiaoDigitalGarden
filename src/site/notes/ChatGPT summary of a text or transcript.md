@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-summary-of-a-text-or-transcript/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/chat-gpt-summary-of-a-text-or-transcript/","noteIcon":"2"}
 ---
 
 
