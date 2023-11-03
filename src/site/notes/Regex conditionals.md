@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex-conditionals/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/regex-conditionals/","noteIcon":"2"}
 ---
 
 #Regex  
