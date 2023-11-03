@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/audio-flashcards-i-os-app-handsfree-eyes-free-driving-friendly/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/audio-flashcards-i-os-app-handsfree-eyes-free-driving-friendly/","noteIcon":"2"}
 ---
 
 date-created:: 2023-10-16
