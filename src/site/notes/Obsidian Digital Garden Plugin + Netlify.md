@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify/","noteIcon":"2"}
 ---
 
 ## The Obsidian Digital Garden plugin
