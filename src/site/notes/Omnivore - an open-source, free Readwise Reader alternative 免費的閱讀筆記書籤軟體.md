@@ -29,7 +29,7 @@ If Omnivore works as advertised, it will have a much stronger integration with O
 
 - The iOS app has a "reset read location" command, but I can't find the marker of the last read location on any given article.
 
-- No "link to note" with metadata. The "copy" button will copy **only plain text** of the highlight so you can paste it somewhere. But it does not keep metadata or create a link back to the Omnivore website. This is unfortunate. [[Glasp\|Glasp]], which I thought Omnivore would kill and replace, at least offers this ability.
+- No "link to note" with metadata. There is a "copy" button, as shown, but it copies **only plain text** of the highlight so you can paste it somewhere. Yet, it does not contain any metadata or create a link back to the Omnivore website. This is unfortunate. [[Glasp\|Glasp]], which I thought Omnivore would kill and replace, at least offers this ability.
 
 ![Screen Shot 2023-11-03 at 14.37.19.png|400](/img/user/Screen%20Shot%202023-11-03%20at%2014.37.19.png)
 
