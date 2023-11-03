@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/backup-of-text-from-mdx-format-with-one-source-per-line/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/backup-of-text-from-mdx-format-with-one-source-per-line/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-23
