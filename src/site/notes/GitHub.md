@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git-hub/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/git-hub/","noteIcon":"2"}
 ---
 
 My [Github](https://github.com/ekliao) page.
