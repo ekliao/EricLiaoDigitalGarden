@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ctrl-v-or-cmd-v-alternative-pasting-only-the-plain-text-with-shift-cmd-v/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ctrl-v-or-cmd-v-alternative-pasting-only-the-plain-text-with-shift-cmd-v/","noteIcon":"2"}
 ---
 
 date-created:: 2023-10-17
