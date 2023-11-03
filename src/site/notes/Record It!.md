@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/record-it/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/record-it/","noteIcon":"2"}
 ---
 
 I purchased this app for about $10 in 2018, when I was trying to make screen recordings (with internal audio) on the iPad. I didn't know that iOS/iPadOS had a built-in tool to do this already. As soon as I discovered the system tool, I never used Record It! again.
