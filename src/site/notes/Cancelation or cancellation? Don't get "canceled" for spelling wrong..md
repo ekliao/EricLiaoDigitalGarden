@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cancelation-or-cancellation-don-t-get-canceled-for-spelling-wrong/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cancelation-or-cancellation-don-t-get-canceled-for-spelling-wrong/","noteIcon":"2"}
 ---
 
 creation-date:: 2023-07-24
