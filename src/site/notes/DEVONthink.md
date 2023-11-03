@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/devo-nthink/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/devo-nthink/","noteIcon":"2"}
 ---
 
 Informally called DT or DT3, DEVONthink has an iOS/iPadOS product called [[DEVONthink To Go\|DEVONthink To Go]] or DTTG.
