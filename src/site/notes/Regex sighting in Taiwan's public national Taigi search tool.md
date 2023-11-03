@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex-sighting-in-taiwan-s-public-national-taigi-search-tool/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/regex-sighting-in-taiwan-s-public-national-taigi-search-tool/","noteIcon":"2"}
 ---
 
 date-created:: 2023-07-06
