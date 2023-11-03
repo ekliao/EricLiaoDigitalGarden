@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-anki-web-cloud-storage-file-size-limits-official-and-actual/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/anki-anki-web-cloud-storage-file-size-limits-official-and-actual/","noteIcon":"2"}
 ---
 
 creation-date:: 2023-07-28
