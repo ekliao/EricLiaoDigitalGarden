@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tools-i-use/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/tools-i-use/","noteIcon":"2"}
 ---
 
 date-created:: 2023-02-24
