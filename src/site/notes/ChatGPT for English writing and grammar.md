@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-for-english-writing-and-grammar/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/chat-gpt-for-english-writing-and-grammar/","noteIcon":"2"}
 ---
 
 ## Grammar
