@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mochi-cards/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/mochi-cards/","noteIcon":"2"}
 ---
 
 A space repetition system like Anki with a modern design.
