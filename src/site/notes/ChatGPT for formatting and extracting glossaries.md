@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-for-formatting-and-extracting-glossaries/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/chat-gpt-for-formatting-and-extracting-glossaries/","noteIcon":"2"}
 ---
 
 *(2023-05-05)* Note: The successful example below from a month ago should not be taken for granted. A later similar attempt hit a snag with ChatGPT claiming its being only an AI and unable to read a PDF file or producing only limited lines of result. This shows the commercial companies are constantly tweaking their products for maximum profits.
