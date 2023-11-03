@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/remnote/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/remnote/","noteIcon":"2"}
 ---
 
 Anki + links + PDF annotation, and then some. Check out Portals.
