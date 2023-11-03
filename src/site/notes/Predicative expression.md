@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/predicative-expression/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/predicative-expression/","noteIcon":"2"}
 ---
 
 #grammar 
@@ -8,6 +8,8 @@
 
 
 
+
+date-created:: 2023-04-22
 
 A web highlighter that is in direct competition with [[Readwise Reader\|Readwise Reader]] but is free!
 
@@ -25,11 +27,10 @@ My Glasp [profile](https://glasp.co/#/qke5s3ilkchdj7ts).
 - Intuitive UI, easy to use
 - Works with any web page content
 - Free
-
 ## Issues
 - The logged-in website is very slow, sometimes showing nothing.
 - The page comment is not always copied. This has occurred many times.
-
+- 
 ---
 ## How to use a highlight
 - Source
@@ -52,8 +53,6 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 ![Screen Shot 2023-04-23 at 03.12.40.png](/img/user/_attachments/Screen%20Shot%202023-04-23%20at%2003.12.40.png)
 #paste/glasp
 # [[Predicative expression\|Predicative expression]] - Wikipedia
-
-^5def57
 
 ### Metadata
 - Title: Predicative expression - Wikipedia
@@ -91,7 +90,6 @@ They called Jill **a thief**. 他們稱吉兒是**一個小偷**。–名詞短
 ---
 # Glasp vs [[Readwise Reader\|Readwise Reader]]
 
-^9fea1a
 
 #paste/glasp 
 ### Glasp vs Readwise: Which Is the Best Knowledge Management Tool?
