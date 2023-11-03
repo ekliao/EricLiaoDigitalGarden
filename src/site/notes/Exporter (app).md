@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exporter-app/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/exporter-app/","noteIcon":"2"}
 ---
 
 A free app for the Mac that exports all Apple Notes.app notes to markdown or HTML in one go, preserving folder structures and keeping PDF and images. No handwriting or other elements/attachments.
