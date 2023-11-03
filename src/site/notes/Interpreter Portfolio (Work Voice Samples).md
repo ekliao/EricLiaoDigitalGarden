@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interpreter-portfolio-work-voice-samples/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/interpreter-portfolio-work-voice-samples/","noteIcon":"2"}
 ---
 
 
