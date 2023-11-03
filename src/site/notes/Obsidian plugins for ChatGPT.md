@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-plugins-for-chat-gpt/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-plugins-for-chat-gpt/","noteIcon":"2"}
 ---
 
 ## Text Generator
