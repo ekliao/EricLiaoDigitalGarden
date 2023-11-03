@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note-linking-anxiety/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/note-linking-anxiety/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-08
