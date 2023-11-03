@@ -28,3 +28,7 @@ It's unthinkable how this free read-it-later app's text2speech voice is eating R
 [Clip](https://youtube.com/clip/UgkxaVVI3Eh-zBEfqsCIdp72DaX7FlTU2sOQ?si=ucT4KxoO6aIjKmsj)
 
 To give Readwise some credit: it has moving highlighting of the words as it reads.
+
+# Hacks
+
+- [Creating an email inbox 用專屬的郵箱收集內容，PDF文件](https://youtube.com/clip/UgkxI_uUePqMBtqZWfGgTvlHVhW-SyP-L_PA?si=C8V9ZwyBFXi5Qe87)
