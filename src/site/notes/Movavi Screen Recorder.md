@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movavi-screen-recorder/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/movavi-screen-recorder/","noteIcon":"2"}
 ---
 
 ## Issues
