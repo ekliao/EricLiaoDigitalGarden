@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-digitization/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/book-digitization/","noteIcon":"2"}
 ---
 
 I began scanning some of my paper reference books in an attempt to digitize them for better search quite early when I purchased the then-expensive Fujitsu ScanSnap SV600 book scanner.
