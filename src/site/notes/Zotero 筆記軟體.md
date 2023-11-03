@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zotero/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/zotero/","noteIcon":"2"}
 ---
 
 date-created:: 2023-05-20
@@ -36,7 +36,7 @@ That said, it took just a little Googling to dig deeper. I needed to confirm thi
 
 - ANNOTATE  • Read PDFs and add highlights and notes, or ***use an Apple Pencil to make freehand annotations***
 
-![[_attachments/626x0w.webp|450]]
+![_attachments/626x0w.webp|450](/img/user/_attachments/626x0w.webp)
 
 ---
 # Trying is believing
