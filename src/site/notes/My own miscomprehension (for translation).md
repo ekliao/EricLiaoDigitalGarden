@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-own-miscomprehension-for-translation/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/my-own-miscomprehension-for-translation/","noteIcon":"2"}
 ---
 
 Thanks to #rfp  for pointing out.
