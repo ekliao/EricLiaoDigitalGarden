@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify-build-failure-scares-obsidian/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify-build-failure-scares-obsidian/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-19
