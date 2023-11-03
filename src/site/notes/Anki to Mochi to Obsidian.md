@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-to-mochi-to-obsidian/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/anki-to-mochi-to-obsidian/","noteIcon":"2"}
 ---
 
 Having set up Obsidian on February 24, 2023, I am experiencing accelerated fascination with it. In less than two months, I figured out how to publish a subset of my OB vault to the web for free. Soon after that, I am now hosting the published OB digital garden on my chosen professional domain name as a professional website!
