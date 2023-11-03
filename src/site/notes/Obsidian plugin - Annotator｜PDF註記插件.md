@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-plugin-annotator-pdf/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-plugin-annotator-pdf/","noteIcon":"2"}
 ---
 
 date-created:: 2023-05-08
