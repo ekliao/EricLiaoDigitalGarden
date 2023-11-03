@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/taigi/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/taigi/","noteIcon":"2"}
 ---
 
 台語, also known as Taiwanese, Taiwanese Hokkien, Southern Min, and Taiwanese Minnan. More properly written as [Tâigí](https://en.wikipedia.org/wiki/Taiwanese_Hokkien).
