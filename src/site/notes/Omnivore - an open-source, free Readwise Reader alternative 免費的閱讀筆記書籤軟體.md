@@ -3,35 +3,38 @@
 ---
 
 date-created:: 2023-10-03
+
+Glad to learn of this free read-it-later app that could be a [[Readwise Reader\|Readwise Reader]] killer! :-)
 # Read-it-later apps as a mindset shift
 
 [Clip](https://youtube.com/clip/UgkxgTn1xElqiG59T6hAIczhPjh_5YsmU0-C?si=ZBBatEj34UZqUqa5)
-
-Glad to learn of this free read-it-later app that could be a [[Readwise Reader\|Readwise Reader]] killer! :-)
 
 每當有免費的開源軟體出現，和知名的定期付費軟體競爭，就該給它應得的關注。
 
 After creating an account, I proceeded to install the [[Obsidian plugin - Omnivore\|Obsidian plugin - Omnivore]] and hit a snag right away; had to repeat several times before Obsidian was willing to install and enable the plugin. The early difficulty didn't inspire confidence. Hope this doesn't augur more trouble to come.
 
 Update: I experienced the [[Omnivore iOS app\|Omnivore iOS app]], its website, and [[Obsidian plugin - Omnivore\|Obsidian plugin - Omnivore]] integration for the first time. Smooth and delightful. All of my highlights and text notes are synced properly, including updates to them. The iOS app's UI and those pulldown menu items take a little getting used to.
-# Glasp killer too?
+### Glasp killer too?
 
 If Omnivore works as advertised, it will have a much stronger integration with Obsidian that I won't need or want to use [[Glasp\|Glasp]] again.
-# Pros
+# Quick verdict: 4 stars
+## Pros
 
 - Free
 - Integration with Obsidian
 - Chrome extension
 - iOS app
 - Text-to-speech with ultra realistic voice
-# Cons
+## Cons
 
 - The iOS app has a "reset read location" command, but I can't find the marker of the last read location on any given article.
 
 - No "link to note" with metadata. The "copy" button will copy **only plain text** of the highlight so you can paste it somewhere. But it does not keep metadata or create a link back to the Omnivore website. This is unfortunate. [[Glasp\|Glasp]], which I thought Omnivore would kill and replace, at least offers this ability.
 
 ![Screen Shot 2023-11-03 at 14.37.19.png|400](/img/user/Screen%20Shot%202023-11-03%20at%2014.37.19.png)
-# Text-to-speech voice
+
+---
+## Text-to-speech voice
 
 It's unthinkable how this free read-it-later app's text-to-speech voice is eating Readwise Reader's lunch. [Take a listen](https://youtube.com/clip/UgkxaVVI3Eh-zBEfqsCIdp72DaX7FlTU2sOQ?si=ucT4KxoO6aIjKmsj). To Readwise's credit, it has moving highlighting of the words as it reads.
 # Hacks
