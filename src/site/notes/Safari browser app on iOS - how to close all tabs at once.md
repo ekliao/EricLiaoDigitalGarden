@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/safari-browser-app-on-i-os-how-to-close-all-tabs-at-once/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/safari-browser-app-on-i-os-how-to-close-all-tabs-at-once/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-2823-08-28
