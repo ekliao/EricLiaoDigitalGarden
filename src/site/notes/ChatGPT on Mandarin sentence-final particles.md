@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-on-mandarin-sentence-final-particles/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/chat-gpt-on-mandarin-sentence-final-particles/","noteIcon":"2"}
 ---
 
 What are [sentence-final particles 句尾助詞](https://en.wikipedia.org/wiki/Sentence-final_particle#Chinese)?
