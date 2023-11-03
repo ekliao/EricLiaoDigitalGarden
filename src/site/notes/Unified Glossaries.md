@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unified-glossaries/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/unified-glossaries/","noteIcon":"2"}
 ---
 
 # Desperate for a system of unified glossaries
