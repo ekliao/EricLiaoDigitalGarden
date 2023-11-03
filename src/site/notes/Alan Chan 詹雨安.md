@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alan-chan/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/alan-chan/","noteIcon":"2"}
 ---
 
 #people 
