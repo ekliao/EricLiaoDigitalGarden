@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/liquid-text-cross-app-transclusion/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/liquid-text-cross-app-transclusion/","noteIcon":"2"}
 ---
 
 Each LT highlight now offers a cross-app link to it that can be transcluded in another app.
