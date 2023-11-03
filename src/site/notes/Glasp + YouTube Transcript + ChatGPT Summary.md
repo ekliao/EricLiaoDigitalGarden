@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glasp-you-tube-transcript-chat-gpt-summary/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/glasp-you-tube-transcript-chat-gpt-summary/","noteIcon":"2"}
 ---
 
 #project/learn-by-doing 
