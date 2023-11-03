@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cot-editor/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cot-editor/","noteIcon":"2"}
 ---
 
 The [[Regex 正規表式\|Regex 正規表式]] used is CUI regular expression engine ([Important changes on CotEditor 4.2 - CotEditor](https://coteditor.com/news/2022/CotEditor_4.2.0). Never heard of it. 
