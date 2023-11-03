@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-data-merging-project-wip-w-ongoing-change-log/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/anki-data-merging-project-wip-w-ongoing-change-log/","noteIcon":"2"}
 ---
 
 #rfp 
