@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/continuing-accelerated-logseq-learning/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/continuing-accelerated-logseq-learning/","noteIcon":"2"}
 ---
 
 The title is deliberately semantically ambiguous :-) 
