@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/installing-perl-6-raku-on-mac/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/installing-perl-6-raku-on-mac/","noteIcon":"2"}
 ---
 
 #Perl6
