@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grammar/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/grammar/","noteIcon":"2"}
 ---
 
 # English
@@ -18,7 +18,7 @@ The term, taken from 'modal logic, comes from the Greek word alétheia 'truth', 
 
 
 
-# [[Predicative expression\|Predicative expression]] - Wikipedia
+
 
 </div></div>
 
