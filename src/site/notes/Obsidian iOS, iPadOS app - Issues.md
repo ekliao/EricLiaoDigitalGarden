@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-i-os-i-pad-os-app-issues/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-i-os-i-pad-os-app-issues/","noteIcon":"2"}
 ---
 
 # Issues
