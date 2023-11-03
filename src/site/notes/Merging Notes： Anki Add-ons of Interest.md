@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/merging-notes-anki-add-ons-of-interest/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/merging-notes-anki-add-ons-of-interest/","noteIcon":"2"}
 ---
 
 - Definitely will merge content in the “back” field
