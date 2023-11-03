@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usage-of/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/usage-of/","noteIcon":"2"}
 ---
 
 #wip 
