@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossary-lookup/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/glossary-lookup/","noteIcon":"2"}
 ---
 
 I have been thinking hard about choosing and building one and only one glossary/terminology lookup tool on the iPad. It must be accessible either online through a browser or an app with content synced from desktop. The desktop portion of the app will be responsible for creating, adding, updating, and maintaining different glossaries and their entries, while the iPad is mainly used for lookup only. 
