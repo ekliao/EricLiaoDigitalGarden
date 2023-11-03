@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homebrew/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/homebrew/","noteIcon":"2"}
 ---
 
 #project/learn-by-doing 
