@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian/","noteIcon":"2"}
 ---
 
 ## [Markdown syntax cheatsheet](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
