@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ob-tips-and-hacks-i-ve-got/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ob-tips-and-hacks-i-ve-got/","noteIcon":"2"}
 ---
 
 *(New to Old)*
