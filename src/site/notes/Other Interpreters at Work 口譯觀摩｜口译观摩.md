@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other-interpreters-at-work/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/other-interpreters-at-work/","noteIcon":"2"}
 ---
 
 - [卡片筆記寫作法](https://www.bilibili.com/video/BV1mV411W7hb/?vd_source=c5814fc82506100ec4b07566dc20d79f)
