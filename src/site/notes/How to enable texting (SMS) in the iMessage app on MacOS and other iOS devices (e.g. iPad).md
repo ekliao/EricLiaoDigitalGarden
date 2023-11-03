@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-enable-texting-sms-in-the-i-message-app-on-mac-os-and-other-i-os-devices-e-g-i-pad/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/how-to-enable-texting-sms-in-the-i-message-app-on-mac-os-and-other-i-os-devices-e-g-i-pad/","noteIcon":"2"}
 ---
 
 date-created:: 2023-09-10
