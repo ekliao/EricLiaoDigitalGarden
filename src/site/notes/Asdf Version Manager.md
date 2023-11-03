@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/asdf-version-manager/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/asdf-version-manager/","noteIcon":"2"}
 ---
 
 #project/learn-by-doing 
