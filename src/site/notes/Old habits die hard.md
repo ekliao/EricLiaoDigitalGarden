@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/old-habits-die-hard/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/old-habits-die-hard/","noteIcon":"2"}
 ---
 
 date-created:: 2023-07-31
