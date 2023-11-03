@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/more-realistic-use-of-note-taking-apps-as-a-glossary-terminology-management-and-lookup-tool/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/more-realistic-use-of-note-taking-apps-as-a-glossary-terminology-management-and-lookup-tool/","noteIcon":"2"}
 ---
 
 # Lowered expectations, fruitful results
