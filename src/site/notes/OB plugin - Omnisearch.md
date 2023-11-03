@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ob-plugin-omnisearch/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ob-plugin-omnisearch/","noteIcon":"2"}
 ---
 
 Any functionality offering full-text indexing and search get my attention. This one for the OB vault definitely sounds awesome at first sight.
