@@ -4,7 +4,7 @@
 
 last-updated:: 2023-11-03
 
-- [[Omnivore - a Readwise alternative 免費的閱讀筆記書籤軟體\|Omnivore - a Readwise alternative 免費的閱讀筆記書籤軟體]]
+- [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體]]
 
 - [[My consecutive note-taking practice using CADNCI 數位逐步口譯筆記練習實錄影片 (global income inequality)\|My consecutive note-taking practice using CADNCI 數位逐步口譯筆記練習實錄影片 (global income inequality)]]
 
