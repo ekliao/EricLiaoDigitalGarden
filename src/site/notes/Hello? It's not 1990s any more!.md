@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello-it-s-not-1990s-any-more/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/hello-it-s-not-1990s-any-more/","noteIcon":"2"}
 ---
 
 *(begin rants)*
