@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note-on-the-sampa-phonetic-transcription/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/note-on-the-sampa-phonetic-transcription/","noteIcon":"2"}
 ---
 
 I use [SAMPA](https://en.wikipedia.org/wiki/SAMPA) as the wide phonetic transcription throughout this website because it is pure ASCII, to save time writing special symbols for [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
