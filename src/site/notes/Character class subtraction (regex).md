@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-class-subtraction-regex/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/character-class-subtraction-regex/","noteIcon":"2"}
 ---
 
 Example: `[a-z-[aeiou]]`
