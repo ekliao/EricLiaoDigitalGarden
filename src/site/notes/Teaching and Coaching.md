@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching-and-coaching/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/teaching-and-coaching/","noteIcon":"2"}
 ---
 
 ## Teaching
