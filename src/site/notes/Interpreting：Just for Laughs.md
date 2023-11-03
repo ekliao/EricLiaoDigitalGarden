@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interpreting-just-for-laughs/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/interpreting-just-for-laughs/","noteIcon":"2"}
 ---
 
 ## Unrealistic economics
@@ -17,7 +17,6 @@ $<div class="markdown-embed-title">
 
 # A Silly, Feel-Good Chart: Earning Per Hour Interpreted
 
-^ab753c
 
 ![../_attachments/Screen Shot 2023-05-31 at 12.49.52.png](/img/user/_attachments/Screen%20Shot%202023-05-31%20at%2012.49.52.png)
 
