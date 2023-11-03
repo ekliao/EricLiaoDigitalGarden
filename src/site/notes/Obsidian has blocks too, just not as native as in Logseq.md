@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-has-blocks-too-just-not-as-native-as-in-logseq/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-has-blocks-too-just-not-as-native-as-in-logseq/","noteIcon":"2"}
 ---
 
 OMG, have I been blind the past few weeks? I have been so consumed by Logseq's "greatness" about blocks that I never came back to look for similar treatment in Obsidian. Turns out, OB has block reference (though slightly less easy to identify), and most importantly, blocks can be searched using the `block:` operator.  #Obsidian/strength #Logseq 
