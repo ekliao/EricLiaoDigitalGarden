@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interpret-bank/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/interpret-bank/","noteIcon":"2"}
 ---
 
 InterpretBank (IB for short) is one the most promising [[Glossary Lookup\|candidates]] in my quest to find the one-and-only glossary lookup tool.
