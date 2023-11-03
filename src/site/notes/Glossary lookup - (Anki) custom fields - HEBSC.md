@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossary-lookup-anki-custom-fields-hebsc/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/glossary-lookup-anki-custom-fields-hebsc/","noteIcon":"2"}
 ---
 
 date-created: 2023-08-13
