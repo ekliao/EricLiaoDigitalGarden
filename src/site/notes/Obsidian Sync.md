@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-sync/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/obsidian-sync/","noteIcon":"2"}
 ---
 
 ## The paid service
