@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/napkin/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/napkin/","noteIcon":"2"}
 ---
 
 Think Glasp, Readwise, Evernote Web Clipper, with AI capability.
