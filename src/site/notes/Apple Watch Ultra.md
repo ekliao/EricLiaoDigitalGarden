@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apple-watch-ultra/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/apple-watch-ultra/","noteIcon":"2"}
 ---
 
 
