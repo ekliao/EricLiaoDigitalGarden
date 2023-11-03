@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/migrating-and-merging-glossary-data/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/migrating-and-merging-glossary-data/","noteIcon":"2"}
 ---
 
 # The Problem
