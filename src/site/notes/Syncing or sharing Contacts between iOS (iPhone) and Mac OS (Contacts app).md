@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/syncing-or-sharing-contacts-between-i-os-i-phone-and-mac-os-contacts-app/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/syncing-or-sharing-contacts-between-i-os-i-phone-and-mac-os-contacts-app/","noteIcon":"2"}
 ---
 
 date-created:: 2023-09-11
