@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/glasp/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/glasp/","noteIcon":"2"}
 ---
+
+date-created:: 2023-04-22
 
 A web highlighter that is in direct competition with [[Readwise Reader\|Readwise Reader]] but is free!
 
@@ -18,11 +20,10 @@ My Glasp [profile](https://glasp.co/#/qke5s3ilkchdj7ts).
 - Intuitive UI, easy to use
 - Works with any web page content
 - Free
-
 ## Issues
 - The logged-in website is very slow, sometimes showing nothing.
 - The page comment is not always copied. This has occurred many times.
-
+- 
 ---
 ## How to use a highlight
 - Source
@@ -46,7 +47,6 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 #paste/glasp
 # [[Predicative expression\|Predicative expression]] - Wikipedia
 { #5def57}
-
 
 ### Metadata
 - Title: Predicative expression - Wikipedia
