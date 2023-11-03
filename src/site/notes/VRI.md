@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vri/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/vri/","noteIcon":"2"}
 ---
 
 Video remote interpretation.
