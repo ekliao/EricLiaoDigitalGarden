@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logseq-bak-woes/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/logseq-bak-woes/","noteIcon":"2"}
 ---
 
 Read [thread](https://discuss.logseq.com/t/can-i-delete-the-contents-within-the-bak-folder/8068/2). Can't prevent Logseq from generating these backup files. Truly horrible.
