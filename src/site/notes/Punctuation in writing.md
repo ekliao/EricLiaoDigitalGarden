@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/punctuation-in-writing/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/punctuation-in-writing/","noteIcon":"2"}
 ---
 
 ## Oxford comma
