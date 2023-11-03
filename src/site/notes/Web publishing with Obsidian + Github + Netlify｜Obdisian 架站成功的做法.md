@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-publishing-with-obsidian-github-netlify-obdisian/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/web-publishing-with-obsidian-github-netlify-obdisian/","noteIcon":"2"}
 ---
 
 date-created:: 2023-04-15
