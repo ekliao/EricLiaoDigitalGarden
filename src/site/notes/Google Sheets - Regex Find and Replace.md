@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/google-sheets-regex-find-and-replace/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/google-sheets-regex-find-and-replace/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-15
