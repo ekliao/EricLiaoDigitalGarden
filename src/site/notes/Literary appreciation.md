@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literary-appreciation/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/literary-appreciation/","noteIcon":"2"}
 ---
 
 Here's an example of the kind of modern Chinese poetry I appreciate. I hardly find time to seek out literary works to enjoy. Whatever I chance upon, I leave it to serendipity.
