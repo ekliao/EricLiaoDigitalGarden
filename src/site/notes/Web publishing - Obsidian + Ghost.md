@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-publishing-obsidian-ghost/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/web-publishing-obsidian-ghost/","noteIcon":"2"}
 ---
 
 #questioning 
