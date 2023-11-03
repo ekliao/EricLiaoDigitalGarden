@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-audio-equipment/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/my-audio-equipment/","noteIcon":"2"}
 ---
 
 
