@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mistranslations-from-miscomprehension/","noteIcon":"2","created":"","updated":""}
+{"dg-publish":true,"permalink":"/mistranslations-from-miscomprehension/","noteIcon":"2"}
 ---
 
 I have for a long time been interested in this topic. From as far back as I can remember, I noticed easily mistranslations due to the translator's miscomprehending the source text, usually from a lack of grammatical competency. Everywhere I looked, such errors abound. 
@@ -263,7 +263,6 @@ and for 之間省略了a struggle，這是類似數學A=B+C的說法
 
 ### Anatomy of a legalese sentence in sight translation
 
-^354fda
 
 ### Key 1: ***Failure of proof by X*** simply means ***X failed to prove something***.
 
