@@ -25,6 +25,7 @@ If Omnivore works as advertised, it will have a much stronger integration with O
 - Chrome extension
 - iOS app
 - Text-to-speech with ultra realistic voice
+- Works for content in many domains that [[Glasp\|Glasp]] can't or won't reach, e.g. public Facebook posts, even ***private*** Facebook posts.
 ## Cons
 
 - The iOS app has a "reset read location" command, but I can't find the marker of the last read location on any given article.
@@ -37,6 +38,10 @@ If Omnivore works as advertised, it will have a much stronger integration with O
 ## Text-to-speech voice
 
 It's unthinkable how this free read-it-later app's text-to-speech voice is eating Readwise Reader's lunch. [Take a listen](https://youtube.com/clip/UgkxaVVI3Eh-zBEfqsCIdp72DaX7FlTU2sOQ?si=ucT4KxoO6aIjKmsj). To Readwise's credit, it has moving highlighting of the words as it reads.
+# Reachable domains 
+
+- Public Facebook posts
+- Private Facebook posts
 # Hacks
 
 - [Creating an email inbox 用專屬的郵箱收集內容，PDF文件](https://youtube.com/clip/UgkxI_uUePqMBtqZWfGgTvlHVhW-SyP-L_PA?si=C8V9ZwyBFXi5Qe87)
