@@ -40,3 +40,4 @@ It's unthinkable how this free read-it-later app's text-to-speech voice is eatin
 # Hacks
 
 - [Creating an email inbox 用專屬的郵箱收集內容，PDF文件](https://youtube.com/clip/UgkxI_uUePqMBtqZWfGgTvlHVhW-SyP-L_PA?si=C8V9ZwyBFXi5Qe87)
+- [[Omnivore - hidden benefit of keeping time-sensitive or expiring content on the web 限時開放的網上內容可透過Omnivore永久封存\|Omnivore - hidden benefit of keeping time-sensitive or expiring content on the web 限時開放的網上內容可透過Omnivore永久封存]]
