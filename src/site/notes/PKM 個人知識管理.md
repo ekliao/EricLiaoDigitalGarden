@@ -9,7 +9,6 @@ PKM stands for *personal knowledge management*.
 A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecutive Note-Taking\|Consecutive Note-Taking]], and for managing notes and documents in various formats.
 # PKM Systems
 *(broadly, including spaced repetition systems and some note-taking apps)*
-
 ### In use
 *(By frequency)*
 - [[Obsidian\|Obsidian]] - You're looking at it.
@@ -28,7 +27,6 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[MarginNote\|MarginNote]] ([official](https://www.marginnote.com/) )
  [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
 - [[EricWiki\|EricWiki]]
-
 ### Heard of
 *(New to old)*
 
