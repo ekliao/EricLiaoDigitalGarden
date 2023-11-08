@@ -4,7 +4,7 @@
 
 last-updated:: 2023-11-08
 
-- [[Hypothesis 可公可私的網上標註筆記工具\|Hypothesis 可公可私的網上標註筆記工具]]
+- [[Hypothesis - an optionally private web annotation tool 可公可私的網上標註筆記工具\|Hypothesis - an optionally private web annotation tool 可公可私的網上標註筆記工具]]
 
 - [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體]]
 
