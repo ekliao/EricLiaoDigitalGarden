@@ -17,8 +17,8 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[Apple Notes\|Apple Notes]]
 - [[Evernote\|Evernote]]
 - [[Notability\|Notability]]
-- [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體]]
-- [[Hypothesis 可公可私的網上標註筆記工具\|Hypothesis 可公可私的網上標註筆記工具]]
+- [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]]
+- [[Hypothesis - an optionally private web annotation tool 可公可私的網上標註筆記工具\|Hypothes.is]]
 - [[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 - [[Logseq\|Logseq]]
 - [[DTSearch\|DTSearch]]
