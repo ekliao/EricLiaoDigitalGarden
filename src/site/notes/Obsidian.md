@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian/","noteIcon":"2"}
 ---
 
+date-created:: 2023-02-24
 ## [Markdown syntax cheatsheet](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 
 ---
