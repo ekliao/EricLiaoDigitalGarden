@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2"}
 ---
 
-last-updated:: 2023-11-08
+last-updated:: 2023-11-11
+
+- [[Online mic etiquette 線上會議的基本麥克風禮儀\|Online mic etiquette 線上會議的基本麥克風禮儀]]
 
 - [[Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具\|Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具]]
 
@@ -34,7 +36,7 @@ last-updated:: 2023-11-08
 
 - 🔥🤞 [[Zotero 筆記軟體\|Zotero 筆記軟體]] | 百聞不如一見的 PDF 筆記工具
 
-- [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]] | 和 Obsidian 完美嵌合的 PDF 筆記工具，手寫是最大遺珠
+- [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]] | 和 Obsidian 完美嵌合的 PDF 筆記工具，手寫和iPad是最大遺珠
 
 - [[Using MT to prepare for interpretation assignments, make a bilingual document of presentation\|Using MT to prepare for interpretation assignments, make a bilingual document of presentation]] | 快速產生雙語資料用於口譯
 
