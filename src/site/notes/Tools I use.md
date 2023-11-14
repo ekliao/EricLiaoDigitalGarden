@@ -23,7 +23,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[CotEditor\|CotEditor]] (2023/2)
 - [[Interpreter's Help\|Interpreter's Help]] (2023/1)
 - [[Powerpoint\|Powerpoint]] (2023/1, really used to create)
-- [[4K Video Downloader\|4K Video Downloader]] (2023/1, works for Bilibili videos with lenient daily limit)
+- [[4K Video Downloader 影片下載神器\|4K Video Downloader 影片下載神器]] (2023/1)
 - [[Canvas\|Canvas]] (2022/12)
 - [[Word\|Word]] (2022/10, re-discovered its usefulness)
 - [[GoReact\|GoReact]] (2022/9)
