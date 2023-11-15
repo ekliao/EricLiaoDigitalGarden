@@ -4,6 +4,8 @@
 
 last-updated:: 2023-11-14
 
+- [[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
+
 - [[4K Video Downloader 影片下載神器\|4K Video Downloader 影片下載神器]]
 
 - [[Online mic etiquette 線上會議的基本麥克風禮儀\|Online mic etiquette 線上會議的基本麥克風禮儀]]
