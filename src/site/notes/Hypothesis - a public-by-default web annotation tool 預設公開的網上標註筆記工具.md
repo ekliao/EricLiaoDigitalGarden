@@ -46,3 +46,4 @@ This tool seems rather popular with teachers and students because it integrates 
 
 - [電腦玩物](https://www.playpcesor.com/2018/04/hypothesis.html)
 - [Hypothesis使用小記](https://seviche.cc/2022-05-25-hypothesis/)
+- [線上註記筆記](https://blog.jxtsai.info/post/hypothesis-/)
