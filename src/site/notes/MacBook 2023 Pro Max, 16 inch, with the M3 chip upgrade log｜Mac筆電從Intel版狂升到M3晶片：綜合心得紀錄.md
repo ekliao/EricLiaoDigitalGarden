@@ -4,7 +4,7 @@
 
 Date-created:: 2023-11-20
 
-I completed the 10-hour system to system transfer following Apple MacOS's guide after turning on the new laptop. This is a detailed log of experience.
+I completed the 10-hour system-to-system transfer following Apple MacOS's onscreen guide after turning on the new laptop. This is a detailed log of experience.
 # Quick summary
 
 - The apps that failed aren't exactly surprises. I expected extra costs in software upgrades or alternatives. 一些軟體崩壞了，並不意外。早預料會有額外的開銷。
@@ -17,7 +17,7 @@ I completed the 10-hour system to system transfer following Apple MacOS's guide 
 
 # Tested
 
-	# The smooth transition
+## The smooth transition
 
 All data and many apps and programs appear to have been transferred over without a hitch. That's a big relief, especially on the data side. The rest of the note documents the exceptions.
 ## The manual adjustments or additions
