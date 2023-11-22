@@ -6,6 +6,8 @@ last-updated:: 2023-11-22
 
 - 🔥 (Frequent updates 不斷更新) [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄]]  
 
+- [[Software for downsampling videos on Mac (M3) 影片壓縮軟體\|Software for downsampling videos on Mac (M3) 影片壓縮軟體]]
+
 - [[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
 
 - [[4K Video Downloader 影片下載神器\|4K Video Downloader 影片下載神器]]
