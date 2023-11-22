@@ -8,6 +8,8 @@ last-updated:: 2023-11-22
 
 - [[Software for downsampling videos on Mac (M3) 影片壓縮軟體\|Software for downsampling videos on Mac (M3) 影片壓縮軟體]]
 
+- [[Mac - Control Center (showing icons on top menu bar)\|Mac - Control Center (showing icons on top menu bar)]]
+
 - [[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
 
 - [[4K Video Downloader 影片下載神器\|4K Video Downloader 影片下載神器]]
