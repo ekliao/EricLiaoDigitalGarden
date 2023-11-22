@@ -34,6 +34,16 @@ Unexpectedly, specific input systems I had are lost after the transfer. I simply
 
 - [x] Re-install
 Turns out the reason had to do with security, because RIME/Squirrel/ㄎ is not from an Apple-approved developer. Makes sense. 
+### The 8-port USB Type C hub
+
+- [x] Ethernet
+- [ ] USB Type C port 1 (single one on side)
+- [x] USB Type C port 2 (one of two on a side, closer to cable)
+- [x] USB Type C port 3 (one of two on a side, away from cable)
+- [ ] HDMI
+- [ ] Card reader (wide)
+- [ ] Card reader (narrow)
+- [ ] Power port
 ## The ugly surprises
 
 ### Movavi Screen Recorder 桌面錄影軟體
@@ -45,7 +55,7 @@ Turns out the reason had to do with security, because RIME/Squirrel/ㄎ is not f
 - Sadly, anything "Movavi" (screen recorder, video editor) does not work on Apple Silicon.
 - [ ] Find alternative software
 	- [x] Quicktime (free), only for screen recording.
-	- [ ] Screenflow ($180 to buy)
+	- [ ] ScreenFlow ($180 to buy)
 ### Movavi Video Editor Plus 2020 and Movavi Video Editor 4
 
 - Both stopped working; exported videos don't play normally. 影片編輯軟體（同一系列的兩個版本）都GG了，澈底崩壞。
@@ -54,10 +64,10 @@ Turns out the reason had to do with security, because RIME/Squirrel/ㄎ is not f
 
 ### The USB-C 2-device switch hub failed
 
-很失望。這個切換兩個電腦的 USB-C 介面的硬體完全無法使用了，我靠它切換如下的裝置：
+失望卻也在意料中。這個切換兩個電腦的 USB-C 介面完全無法使用了，我靠它切換如下的裝置：
 
-- 有線鍵盤（好在新鍵盤有兩種無線模式）
-	- Nuphy Air75 USB-A dongle doesn't work for both devices, only one (new one) - 扯！
+- [x] 有線鍵盤（好在新鍵盤有兩種無線模式）
+- Nuphy Air75 USB-A dongle doesn't work for both devices, only one (new one) - 扯！
 - 無線滑鼠（目前暫用兩個滑鼠）
 	- 誇張的是，滑鼠表面上可切換，但無法「按」，只是能看到移動的游標，有夠扯！
 - 7個USB-A連接埠
