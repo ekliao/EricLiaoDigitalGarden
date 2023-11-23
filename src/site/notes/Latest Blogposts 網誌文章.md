@@ -4,11 +4,11 @@
 
 last-updated:: 2023-11-23
 
-- [[Software for downsampling videos on Mac (M3 chip) ｜M3上可用的影片壓縮軟體\|Software for downsampling videos on Mac (M3 chip) ｜M3上可用的影片壓縮軟體]]
+- [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
 
 - 🔥 (Frequent updates 不斷更新) [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄]]  
 
-- [[Software for downsampling videos on Mac (M3 chip) ｜M3上可用的影片壓縮軟體\|Software for downsampling videos on Mac (M3 chip) ｜M3上可用的影片壓縮軟體]]
+- [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
 
 - [[Mac - Control Center (showing icons on top menu bar)\|Mac - Control Center (showing icons on top menu bar)]]
 
