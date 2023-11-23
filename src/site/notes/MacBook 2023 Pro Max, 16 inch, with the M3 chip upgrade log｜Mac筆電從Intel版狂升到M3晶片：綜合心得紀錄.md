@@ -5,15 +5,19 @@
 Date-created:: 2023-11-20
 
 I completed the 10-hour system-to-system transfer following Apple MacOS's onscreen guide after turning on the new laptop. This is a detailed log of experience.
+
+經過十小時無線Wi-fi的系統和內容移植，新電腦可以用了，但一堆楣楣角角要實測。還好，新電腦因爲年底購入，享有長達40多天的退貨期（原本只有14天）。
 # Quick summary
 
 - The apps that failed aren't exactly surprises. I expected extra costs in software upgrades or alternatives. 一些軟體崩壞了，並不意外。早預料會有額外的開銷。
-- Great news regarding Loopback and Arctis Pro Wireless. My work depends so much on them. 最慶幸Loopback和Arctis Pro Wireless一切正常。吃飯的工具哩！
+- Great news regarding Loopback and Arctis Pro Wireless. My work depends so much on them. 最慶幸 Loopback 和 Arctis Pro Wireless 一切正常。吃飯的工具哩！
 
 ---
 # Todo
 
 ## Zoom (video conferencing)
+
+## Apple 27" Cinema Thunderbolt and Mini DisplayPort Displays (I have both)
 
 # Tested
 
