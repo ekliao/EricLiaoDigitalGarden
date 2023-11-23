@@ -4,9 +4,9 @@
 
 Date-created:: 2023-11-20
 
-I completed the 10-hour system-to-system transfer following Apple MacOS's onscreen guide after turning on the new laptop. This is a detailed log of experience.
+I completed the 10-hour system-to-system transfer following Apple MacOS's onscreen guide after turning on the new laptop. This is a detailed log of my findings. I really appreciate being given more than 40 days to decide whether to keep it or return.
 
-經過十小時無線Wi-fi的系統和內容移植，新電腦可以用了，但一堆楣楣角角要實測。還好，新電腦因爲年底購入，享有長達40多天的退貨期（原本只有14天）。
+經過十小時無線Wi-fi的系統和內容移植，新電腦可以用了，但一堆楣楣角角要實測。還好，新電腦因爲年底購入，享有長達40多天的退貨期（原本只有14天），可以測到元旦假期過後！
 # Quick summary
 
 - The apps that failed aren't exactly surprises. I expected extra costs in software upgrades or alternatives. 一些軟體崩壞了，並不意外。早預料會有額外的開銷。
