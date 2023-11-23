@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/chat-gpt-voice-chat-surprise-delight-and-caution-chat-gpt/","noteIcon":"2"}
 ---
 
+![IMG_0822780F33C6-1.jpeg|350](/img/user/IMG_0822780F33C6-1.jpeg)
+
 I had my first experience with the just-announced new capability of OpenAI's ChatGPT to voice chat with a user. At first I shrugged it off as just another gimmicky feature, because experience with any bots through voice had been ... meh: it is limited to one single language, either English or Mandarin for me, but not both.
 
 Well, not with ChatGPT. We already know that it gladly takes input text in any language, even mixed languages in the same paragraph or sentence. So I was surprised and delighted when the voice interface actually extends this mixed-language capability from text without imposing a single-language limitation.
