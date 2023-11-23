@@ -4,7 +4,7 @@
 
 Date-created:: 2023-11-22
 
-Since the shocking yet understandable finding that I lost both [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]] and [[Movavi Video Editor 4\|Movavi Video Editor 4]] as two oft-used video editors after upgrading from an [[Mid-2014 MacBook Pro\|Intel-based MacBook Pro]] to a [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook Pro Max M3]], one urgent task is to find alternative video editing software. While it takes time to look for a powerhouse program (like Apple's own Final Cut Pro) and evaluate its suitability, I am glad to learn how to downsample a huge raw video using at least three free tools:
+Since the shocking yet understandable finding that I lost both [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]] and [[Movavi Video Editor 4\|Movavi Video Editor 4]] as two oft-used video editors after upgrading from an [[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|Intel-based MacBook Pro]] to a [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook Pro Max M3]], one urgent task is to find alternative video editing software. While it takes time to look for a powerhouse program (like Apple's own Final Cut Pro) and evaluate its suitability, I am glad to learn how to downsample a huge raw video using at least three free tools:
 
 自從升級M3筆電發現無法再用Movavi編輯、壓縮影片後，慶幸發現至少三個免費軟體都可實現效果不錯的影片壓縮：
 # Free alternatives
