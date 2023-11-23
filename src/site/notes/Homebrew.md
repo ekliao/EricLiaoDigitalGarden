@@ -14,7 +14,7 @@ Tip: If you did not use a password to log in to your Mac (that is, if your passw
 > I use a password! Who doesn't!?
 
 These instructions are for a terminal running Zsh, the Z shell, on a newer Mac. Older Macs may be running the bash shell and you should upgrade. 
-> I have Zsh. Glad that my [[Mid-2014 MacBook Pro\|Mid-2014 MacBook Pro]] is considered "new"!
+> I have Zsh. Glad that my [[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro]] is considered "new"!
 
 Check if Homebrew is installed:
 
