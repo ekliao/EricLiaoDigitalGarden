@@ -37,7 +37,7 @@ Unexpectedly, specific input systems I had are lost after the transfer. I simply
 ![Screen Shot 2023-11-22 at 04.36.15.png|200](/img/user/Screen%20Shot%202023-11-22%20at%2004.36.15.png)
 
 - [x] Re-install
-Turns out the reason had to do with security, because RIME/Squirrel/ㄎ is not from an Apple-approved developer. Makes sense. 
+Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is not from an Apple-approved developer. Makes sense. 
 ### The 8-port USB Type C hub
 
 - [x] Ethernet
