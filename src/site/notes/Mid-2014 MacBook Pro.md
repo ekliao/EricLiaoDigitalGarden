@@ -7,10 +7,9 @@ Date-created:: 2023-02-21
 This was my first purchase and use of any Mac. The Evernote note below indicates I started using it in December 2014, or 9 years ago when I first attempted the Windows bootcamp installation (lasted a short couple of weeks). 
 
 ![Screen Shot 2023-11-20 at 15.18.28.png](/img/user/Screen%20Shot%202023-11-20%20at%2015.18.28.png)
-# Hello, M3 new mac!
+# Hello, M3 new Mac!
 
 Today (2023-11-20) my new Macbook Pro Max M3 arrived. The old horse is still perfectly fine, but shows great strain when it comes to Zoom + screenrecording + running a couple of more apps at the same time. System resource monitor can drop to 10% of CPU, at which point Zoom and audio degrades and stutters.
-
 # The old duo
 
 I have two of these mid-2014 MacBook Pros, one being abandoned into my ownership by an ex-employer. They are great, but are long in the tooth. I am waiting with bated breath the rumored M3 15- or 16-inch MacBook Pro or Max to be available, hopefully by year end of 2023. In the meantime, I have to keep squeezing the last bit of juice out of these old faithful power horses, especially in video downsampling. Why would a one-hour iPad screen recording have a monstrous size of close to 10GB and sometimes take more than 12 hours just to downsize?
