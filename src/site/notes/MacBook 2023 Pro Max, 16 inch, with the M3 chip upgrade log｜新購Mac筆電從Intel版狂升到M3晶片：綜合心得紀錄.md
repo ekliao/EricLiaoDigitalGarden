@@ -66,7 +66,7 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 - [ ] Find alternatives.
 ### Windows 10 VM can't be started. Confirmed dead.
 
-### The USB-C 2-device switch hub failed
+### The USB Type C 2-device switch hub failed
 
 失望卻也在意料中。這個切換兩個電腦的 USB-C 介面完全無法使用了，我靠它切換如下的裝置：
 
