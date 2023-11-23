@@ -41,7 +41,7 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 ### The 8-port USB Type C hub
 
 - [x] Ethernet
-- [ ] USB Type C port 1 (single one on side)
+- [x] USB Type C port 1 (single one on side)
 - [x] USB Type C port 2 (one of two on a side, closer to cable)
 - [x] USB Type C port 3 (one of two on a side, away from cable)
 - [ ] HDMI
@@ -66,15 +66,15 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 - [ ] Find alternatives.
 ### Windows 10 VM can't be started. Confirmed dead.
 
-### The USB Type C 2-device switch hub failed
+### The CKlau USB 3.0 2-device sharing switch failed
 
-失望卻也在意料中。這個切換兩個電腦的 USB-C 介面完全無法使用了，我靠它切換如下的裝置：
+失望卻也在意料中。這個切換兩個電腦的USB 3.0介面完全無法使用了，我之前靠它切換如下的裝置：
 
 - [x] 有線鍵盤（好在新鍵盤有兩種無線模式）
-- Nuphy Air75 USB-A dongle doesn't work for both devices, only one (new one) - 扯！
+- Nuphy Air75 USB-A dongle doesn't work for both devices, only one (new one) ，扯！
 - 無線滑鼠（目前暫用兩個滑鼠）
 	- 誇張的是，滑鼠表面上可切換，但無法「按」，只是能看到移動的游標，有夠扯！
-- 7個USB-A連接埠
+- 7個USB-A連接埠：目前這個介面智能直接插入M3的USB C連接埠，所以無法切換電腦
 	- 耳機
 	- 外接硬碟
 	- 其他次要裝置
@@ -83,4 +83,4 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 
 # The old faithful Mac 老當益壯的舊筆電
 
-[[Mid-2014 MacBook Pro\|Mid-2014 MacBook Pro]]
+[[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro]]
