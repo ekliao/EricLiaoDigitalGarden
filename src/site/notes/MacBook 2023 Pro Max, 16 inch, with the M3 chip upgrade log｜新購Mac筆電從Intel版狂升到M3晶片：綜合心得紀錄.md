@@ -79,3 +79,8 @@ Turns out the reason had to do with security, because RIME/Squirrel/ㄎ is not f
 	- 外接硬碟
 	- 其他次要裝置
 
+---
+
+# The old faithful Mac 老當益壯的舊筆電
+
+[[Mid-2014 MacBook Pro\|Mid-2014 MacBook Pro]]
