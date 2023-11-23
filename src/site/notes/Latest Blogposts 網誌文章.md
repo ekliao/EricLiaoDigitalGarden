@@ -4,6 +4,8 @@
 
 last-updated:: 2023-11-23
 
+- [[Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？\|Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？]]
+
 - [[ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒\|ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒]]
 
 - [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
