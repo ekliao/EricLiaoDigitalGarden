@@ -19,7 +19,7 @@
 - [[PKM 個人知識管理\|PKM 個人知識管理]], especially [[Anki\|Anki]] and [[Obsidian\|Obsidian]] (you are looking at an instance of it)
 - [[Regex 正規表式\|Regular expressions (Regex or RegExp)]]
 - Computer-assisted interpretation (CAI) tools
-- [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), [[Note on the SAMPA phonetic transcription\|SAMPA]] and [[00 Home/A/A-Dict/orthoepy\|orthoepy]]
+- [[Pronunciation\|Pronunciation]], [phonetics](https://en.wikipedia.org/wiki/Phonetics), [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), [[Note on the SAMPA phonetic transcription｜SAMPA音標說明\|SAMPA]] and [[00 Home/A/A-Dict/orthoepy\|orthoepy]]
 - Computer-assisted translation (CAT) tools
 - Singing and [vocal harmony](https://en.wikipedia.org/wiki/Vocal_harmony)
 - Reading by [[Audio Book Summary\|listening to audio book summaries]]
