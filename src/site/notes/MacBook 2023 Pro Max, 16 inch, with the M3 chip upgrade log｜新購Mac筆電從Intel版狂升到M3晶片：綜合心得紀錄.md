@@ -60,21 +60,36 @@ The older version of Anki doesn't work anymore. Luckily, Anki released a new ver
 
 ### Movavi Screen Recorder 桌面錄影軟體
 
-Initially, appears to be working after re-entering the serial number from the original purchase. Except that after recording is started, it cannot be stopped. Seriously? The result was a bogus video file, almost zero byte, that couldn't be played. This the older purchased version 11. It is dead.
+Initially, appears to be working after re-entering the serial number from the original purchase. Except that after recording is started, it cannot be stopped and must be forced to quit. Seriously? The result was a bogus video file, almost zero byte, that couldn't be played. This is the older purchased version 11; it is dead on Apple Silicon.
 
-Happily, I just installed a 7-day trial version of the new Movavi 24 (for 2024, I guess), and everything worked like before! It's just a matter of deciding whether I want to shell $73 to buy the lifetime version of the new screen recorder + editor.
+Happily, I just installed a 7-day trial version of the new Movavi 24 (for 2024, I guess), and everything worked like before! It's just a matter of deciding whether I want to shell $73 to buy the lifetime version of the new screen recorder + editor. Comparing that price to $43 for just the screen recorder and for only one-year subscription, it's a steal.
 
 ![Screenshot 2023-11-23 at 19.22.56.png|300](/img/user/Screenshot%202023-11-23%20at%2019.22.56.png)
-##### Argument for it
+##### Argument for Movavi over QuickTime
 
-Movavi can record dual screens as long as the area is a rectangle. This is better than Quicktime.
+Movavi can record dual screens as long as the area is a rectangle. This is better than QuickTime. Also, QuickTime is known to quietly quit recording midway without you knowing. That's murderous! Movavi has never done that. Other features:
+- Ability to pause and resume recording. (QuickTime can't).
+- Corner web cam with studio light, circular shape.
+- Noise cancellation on the microphone.
 
 - [ ] Alternative software
 	- [x] Quicktime (free), only for screen recording.
 	- [ ] ScreenFlow ($180 to buy)
 ### Movavi Video Editor Plus 2020 and Movavi Video Editor 4
 
-- Both stopped working; exported videos don't play normally. 影片編輯軟體（同一系列的兩個版本）都GG了，澈底崩壞。
+- Both stopped working.
+- The programs start fine.
+- Appear to work.
+- Create result video.
+	- Before installing Rosetta
+		- Result videos don't play normally.
+	- After installing Rosetta (through command-line)
+		- Result videos seem normal. (right file size, took time to render file, etc.)
+			- But freeze at first screen or is black throughout.
+
+影片編輯軟體（同一系列的兩個版本）都GG了，澈底崩壞，無論是否裝了Rosetta。
+
+[Video I followed to install Rosetta successfully](https://www.youtube.com/watch?v=hlG_6Qz1nTw)
 
 - [ ] Find alternatives
 ### Windows 10 VM can't be started. Confirmed dead.
