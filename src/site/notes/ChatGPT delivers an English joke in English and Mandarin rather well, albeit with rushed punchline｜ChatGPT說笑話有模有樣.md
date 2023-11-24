@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/chat-gpt-delivers-an-english-joke-in-english-and-mandarin-rather-well-albeit-with-rushed-punchline-chat-gpt/","noteIcon":"2"}
 ---
 
-I'm amused and impressed with its ability to deliver the punchline in Mandarin so well, though with rushed punchline.
+I'm amused and impressed with the AI voice bot's ability to deliver the punchline in Mandarin so well, though with rushed punchline.
 
 In Mandarin, the exclusively English metalinguistic joke would have been lost but for the transcreation relying on a pair of homophones in Chinese, an extraordinary stroke of genius!
 
