@@ -11,6 +11,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
+- [[Movavi Screen Recorder 24\|Movavi Screen Recorder 24]] (2023/11)
 - [[Exporter (app)\|Exporter (app)]] (2023/6)
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
 - [Mochi](https://mochi.cards/) (2023/5)
@@ -40,9 +41,9 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Zoom\|Zoom]] (2020)
 - [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
 - [[Movavi Video Editor 4\|Movavi Video Editor 4]]
-- [[Movavi Screen Recorder\|Movavi Screen Recorder]]
+- [[Movavi Screen Recorder 11\|Movavi Screen Recorder 11]]
 - [[Loopback\|Loopback]]
-- QuickTime
+- [[QuickTime Player\|QuickTime Player]]
 - [[aTimeLoggerPro\|aTimeLoggerPro]]
 - [[Record It!\|Record It!]] (2018, rediscovered its utility in 2023)
 - [[Notability\|Notability]]
@@ -82,11 +83,12 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ### [[My audio equipment\|Audio equipment]] 
 
 ## Accessories
-- [[Apple Watch Ultra\|Apple Watch Ultra]]
-- [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]]
-- [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2560 x 1440, 16:9)
-- [[Apple Pencil Gen 1\|Apple Pencil Gen 1]]
-- Wireless mouse
+- [[Wireless 2.4GH USB-A mouse\|Wireless 2.4GH USB-A mouse]] (2023/11)
+- [[USB C 8-in-1 multi-Port Adapter\|USB C 8-in-1 multi-Port Adapter]] (2023/11)
+- [[Apple Watch Ultra\|Apple Watch Ultra]] (2023/5)
+- [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]] (2023/5)
+- [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2560 x 1440, 16:9) (2019?)
+- [[Apple Pencil Gen 1\|Apple Pencil Gen 1]] (201?)
 - [[USB\|USB]]
 
 ---
