@@ -11,19 +11,24 @@ I completed the 10-hour system-to-system transfer following Apple MacOS's onscre
 
 - The apps that failed aren't exactly surprises. I expected extra costs in software upgrades or alternatives. 一些軟體崩壞了，並不意外。早預料會有額外的開銷。
 - Great news regarding Loopback and Arctis Pro Wireless. My work depends so much on them. 最慶幸 Loopback 和 Arctis Pro Wireless 一切正常。吃飯的工具哩！
+- Equally great news: a new version of Movavi screen recorder works. Tested.
 
 ---
 # Todo
 
-## Zoom (video conferencing)
-
-## Apple 27" Cinema Thunderbolt and Mini DisplayPort Displays (I have both)
+## Apple 27" Cinema Display with Mini DisplayPort adapter
 
 # Tested
 
 ## The smooth transition
 
 All data and many apps and programs appear to have been transferred over without a hitch. That's a big relief, especially on the data side. The rest of the note documents the exceptions.
+### Zoom (video conferencing)
+
+Works as expected. Can even share either of the dual screen after giving security permissions. The Cinema display's camera doesn't have pixellation or freezing as one Amazon user warned.
+### Apple 27" Cinema Display with Thunderbolt adapter
+
+Works after getting a thunderbolt to USB-C adapter.
 ## The manual adjustments or additions
 ### Loopback 音訊繞接軟體
 
@@ -48,27 +53,35 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 - [ ] Card reader (wide)
 - [ ] Card reader (narrow)
 - [ ] Power port
+### Anki
+
+The older version of Anki doesn't work anymore. Luckily, Anki released a new version that works for Apple Silicon. After installing it, everything worked without needing to re-enable existing profiles.
 ## The ugly surprises
 
 ### Movavi Screen Recorder 桌面錄影軟體
 
-- Initially, appears to be working after re-entering the serial number from the original purchase.
-- [x] Test to make sure
-##### Verdict: 0/5 
+Initially, appears to be working after re-entering the serial number from the original purchase. Except that after recording is started, it cannot be stopped. Seriously? The result was a bogus video file, almost zero byte, that couldn't be played. This the older purchased version 11. It is dead.
 
-- Sadly, anything "Movavi" (screen recorder, video editor) does not work on Apple Silicon.
-- [ ] Find alternative software
+Happily, I just installed a 7-day trial version of the new Movavi 24 (for 2024, I guess), and everything worked like before! It's just a matter of deciding whether I want to shell $73 to buy the lifetime version of the new screen recorder + editor.
+
+![Screenshot 2023-11-23 at 19.22.56.png|300](/img/user/Screenshot%202023-11-23%20at%2019.22.56.png)
+##### Argument for it
+
+Movavi can record dual screens as long as the area is a rectangle. This is better than Quicktime.
+
+- [ ] Alternative software
 	- [x] Quicktime (free), only for screen recording.
 	- [ ] ScreenFlow ($180 to buy)
 ### Movavi Video Editor Plus 2020 and Movavi Video Editor 4
 
 - Both stopped working; exported videos don't play normally. 影片編輯軟體（同一系列的兩個版本）都GG了，澈底崩壞。
-- [ ] Find alternatives.
+
+- [ ] Find alternatives
 ### Windows 10 VM can't be started. Confirmed dead.
 
 ### The CKlau USB 3.0 2-device sharing switch failed
 
-失望卻也在意料中。這個切換兩個電腦的USB 3.0介面完全無法使用了，我之前靠它切換如下的裝置：
+雖然失望卻也在意料中。這個切換兩個電腦的USB 3.0介面完全無法使用了，我之前靠它切換如下的裝置：
 
 - [x] 有線鍵盤（好在新鍵盤有兩種無線模式）
 - Nuphy Air75 USB-A dongle doesn't work for both devices, only one (new one) ，扯！
@@ -80,7 +93,6 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 	- 其他次要裝置
 
 ---
-
 # The old faithful Mac 老當益壯的舊筆電
 
 [[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro]]
