@@ -4,17 +4,17 @@
 
 last-updated:: 2023-11-23
 
+- [[Video editing software on the Mac｜Mac影片編輯軟體\|Video editing software on the Mac｜Mac影片編輯軟體]]
+
 - [[Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？\|Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？]]
 
 - [[ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒\|ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒]]
-
-- [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
 
 - 🔥 (Frequent updates 不斷更新) [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄]]  
 
 - [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
 
-- [[Mac - Control Center (showing icons on top menu bar)\|Mac - Control Center (showing icons on top menu bar)]]
+- [[Mac - Control Center (showing icons on top menu bar)｜Mac控制中心\|Mac - Control Center (showing icons on top menu bar)｜Mac控制中心]]
 
 - [[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
 
