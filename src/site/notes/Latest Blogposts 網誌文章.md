@@ -4,7 +4,7 @@
 
 last-updated:: 2023-11-24
 
-- [[ChatGPT delivers an English joke in English and Mandarin rather well, albeit with rushed punchline｜ChatGPT說笑話有模有樣\|ChatGPT delivers an English joke in English and Mandarin rather well, albeit with rushed punchline｜ChatGPT說笑話有模有樣]]
+- [[ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣\|ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣]]
 
 - [[Video editing software on the Mac｜Mac影片編輯軟體\|Video editing software on the Mac｜Mac影片編輯軟體]]
 
