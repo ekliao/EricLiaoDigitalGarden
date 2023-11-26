@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/chat-gpt-delivers-an-english-joke-in-english-and-mandarin-chat-gpt/","noteIcon":"2"}
 ---
 
+#todo/topost 
+
 Asking ChatGPT to tell a joke, I'm amused and impressed with the AI voice bot's ability to deliver the punchline in Mandarin so well, though with the punchline rushed without the all-important pause.
 
 In Mandarin, the exclusively English metalinguistic joke (word play) would have been lost but for the transcreation relying on a different pair of homophones in Chinese, where "fake noodle" and "fake face" \[of a person\] sound the same. This is truly a stroke of genius!
