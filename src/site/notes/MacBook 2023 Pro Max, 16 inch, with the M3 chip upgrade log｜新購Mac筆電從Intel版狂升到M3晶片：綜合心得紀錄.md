@@ -65,6 +65,10 @@ Initially, appears to be working after re-entering the serial number from the or
 Happily, I just installed a 7-day trial version of the new Movavi 24 (for 2024, I guess), and everything worked like before! It's just a matter of deciding whether I want to shell $73 to buy the lifetime version of the new screen recorder + editor. Comparing that price to $43 for just the screen recorder and for only one-year subscription, it's a steal.
 
 ![Screenshot 2023-11-23 at 19.22.56.png|300](/img/user/Screenshot%202023-11-23%20at%2019.22.56.png)
+
+(2023-11-25) I got an even better combo deal and pulled the trigger:
+
+![Screenshot 2023-11-25 at 19.54.30.png|300](/img/user/Screenshot%202023-11-25%20at%2019.54.30.png)
 ##### Argument for Movavi over QuickTime
 
 Movavi can record dual screens as long as the area is a rectangle. This is better than QuickTime. Also, QuickTime is known to quietly quit recording midway without you knowing. That's murderous! Movavi has never done that. Other features:
@@ -75,6 +79,7 @@ Movavi can record dual screens as long as the area is a rectangle. This is bette
 - [ ] Alternative software
 	- [x] Quicktime (free), only for screen recording.
 	- [ ] ScreenFlow ($180 to buy)
+	- [x] Movavi Screen Recorder 24
 ### Movavi Video Editor Plus 2020 and Movavi Video Editor 4
 
 - Both stopped working.
@@ -92,6 +97,7 @@ Movavi can record dual screens as long as the area is a rectangle. This is bette
 [Video I followed to install Rosetta successfully](https://www.youtube.com/watch?v=hlG_6Qz1nTw)
 
 - [ ] Find alternatives
+	- [x] Movavi Video Editor 24
 ### Windows 10 VM can't be started. Confirmed dead.
 
 ### The CKlau USB 3.0 2-device sharing switch failed
