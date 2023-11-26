@@ -7,7 +7,7 @@ date-created:: 2023-04-21
 last-updated:: 2023-11-24
 # [[譯人片語 Notes of an InterpSlator\|譯人片語 Notes of an InterpSlator]]
 
-## 譯界之外
+# 譯界之外
 
 - [[ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣\|ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣]]
 
