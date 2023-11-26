@@ -2,7 +2,12 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2"}
 ---
 
+date-created:: 2023-04-21
+
 last-updated:: 2023-11-24
+# [[譯人片語 Notes of an InterpSlator\|譯人片語 Notes of an InterpSlator]]
+
+## 譯界之外
 
 - [[ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣\|ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣]]
 
@@ -20,7 +25,7 @@ last-updated:: 2023-11-24
 
 - [[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
 
-- [[4K Video Downloader 影片下載神器\|4K Video Downloader 影片下載神器]]
+- [[Free video downloader 下載影片的免費神器\|Free video downloader 下載影片的免費神器]]
 
 - [[Online mic etiquette 線上會議的基本麥克風禮儀\|Online mic etiquette 線上會議的基本麥克風禮儀]]
 
