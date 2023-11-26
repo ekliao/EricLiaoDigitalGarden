@@ -11,9 +11,7 @@ last-updated:: 2023-11-24
 # 譯界之外 Beyond T&I
 
 - [[Video editing software on the Mac｜Mac影片編輯軟體\|Video editing software on the Mac｜Mac影片編輯軟體]]
-
 - [[Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？\|Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？]]
-
 - [[ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒\|ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒]]
 
 - 🔥 (Frequent updates 不斷更新) [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄]]  
