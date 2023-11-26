@@ -11,6 +11,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
+- [[Movavi Video Editor 24\|Movavi Video Editor 24]] (2023/11)
 - [[Movavi Screen Recorder 24\|Movavi Screen Recorder 24]] (2023/11)
 - [[Exporter (app)\|Exporter (app)]] (2023/6)
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
@@ -24,7 +25,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[CotEditor\|CotEditor]] (2023/2)
 - [[Interpreter's Help\|Interpreter's Help]] (2023/1)
 - [[Powerpoint\|Powerpoint]] (2023/1, really used to create)
-- [[4K Video Downloader 影片下載神器\|4K Video Downloader 影片下載神器]] (2023/1)
+- [[Free video downloader 下載影片的免費神器\|Free video downloader 下載影片的免費神器]] (2023/1)
 - [[Canvas\|Canvas]] (2022/12)
 - [[Word\|Word]] (2022/10, re-discovered its usefulness)
 - [[GoReact\|GoReact]] (2022/9)
@@ -65,7 +66,6 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Araxis Merge\|Araxis Merge]] x
 - [[DTSearch\|DTSearch]]
 - [[TreeSize\|TreeSize]]
-
 ### iOS/iPadOS
 - 每日英語聽力 (2023/4; made by Eudic, freemium)
 - [[Safari browser app on iOS - how to close all tabs at once\|Safari]]
@@ -74,8 +74,9 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Hardware
 
 ### Computers
+- [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook Pro Max M3]]
 - [[iPad\|iPad]]
-- MacBook Pro
+- [[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|MacBook Pro (Intel)]]
 - Android smartphone (a Samsung)
 - iPhone
 
