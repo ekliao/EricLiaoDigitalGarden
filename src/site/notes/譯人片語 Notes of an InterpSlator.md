@@ -4,7 +4,7 @@
 
 date-created:: 2023-11-26
 
-- 2023-11-26【Char 中文漢字】【Pron 英語發音】[唸 念｜when](https://hyp.is/go?url=https%3A%2F%2Fforum.babyhome.com.tw%2Farticle%2F4969407&group=__world__)
+- 2023-11-26【Char 中文漢字】【Pron 英語發音】[[_hypothesis/forum.babyhome.com.tw/家家有本難「念」的經－念與唸 - BabyHome親子討論區\|唸 念｜when (Please read "Annotation" at bottom of page 請閱讀頁面最下方的「Annotation」)]]
 
 - 2023-11-26【Vocab 詞彙用例】[verification, validation](https://hyp.is/qmf6gIyHEe6VCoOp0Ods2Q/www.ncbi.nlm.nih.gov/pmc/articles/PMC7156507/), [Context 用例](https://hyp.is/4rUJCoyHEe6Z16MK0912qw/support.apple.com/en-us/HT211856)
 
