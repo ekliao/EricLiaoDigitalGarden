@@ -7,7 +7,8 @@ date-created:: 2023-04-21
 last-updated:: 2023-11-24
 # [[譯人片語 Notes of an InterpSlator\|譯人片語 Notes of an InterpSlator]]
 
-# 譯界之外
+
+# 譯界之外 Beyond T&I
 
 - [[Video editing software on the Mac｜Mac影片編輯軟體\|Video editing software on the Mac｜Mac影片編輯軟體]]
 
