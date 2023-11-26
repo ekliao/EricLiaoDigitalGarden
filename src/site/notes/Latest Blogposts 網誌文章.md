@@ -9,8 +9,6 @@ last-updated:: 2023-11-24
 
 # 譯界之外
 
-- [[ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣\|ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣]]
-
 - [[Video editing software on the Mac｜Mac影片編輯軟體\|Video editing software on the Mac｜Mac影片編輯軟體]]
 
 - [[Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？\|Quicktime screen recording - capturing dual screens?｜Quicktime螢幕錄影能否同時擷取多螢幕？]]
@@ -22,8 +20,6 @@ last-updated:: 2023-11-24
 - [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
 
 - [[Mac - Control Center (showing icons on top menu bar)｜Mac控制中心\|Mac - Control Center (showing icons on top menu bar)｜Mac控制中心]]
-
-- [[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
 
 - [[Free video downloader 下載影片的免費神器\|Free video downloader 下載影片的免費神器]]
 
