@@ -28,6 +28,7 @@ This tool seems rather popular with teachers and students because it integrates 
 - Updated annotations don't sync successfully to Obsidian the way Omnivore does. A tedious workaround: delete the Obsidian note, reset (in plugin setting), and sync again.
 - Caution: can reveal private web content (the highlighted portion) if the note is set to public
 - No iOS app; web-based
+- The suggested solution for iOS (loading through via.hypothes.is) is crappy and practically useless.
 - Not also a reading app like Omnivore 
 - Certain web domains aren't enabled; similar limitations as Glasp, more limited than Omnivore
 - Loading of the annotation UI (after clicking the Chrome button on a web page) can be a bit iffy
@@ -40,6 +41,11 @@ This tool seems rather popular with teachers and students because it integrates 
 ## After login
 
 ![Screen Shot 2023-11-08 at 17.06.21.png|600](/img/user/Screen%20Shot%202023-11-08%20at%2017.06.21.png)
+
+---
+# Sites on which Hypothesis may experience difficulty loading 載入Hypothesis註記可能發生問題的網站
+
+- [Babyhome.com.tw](https://hyp.is/go?url=https%3A%2F%2Fforum.babyhome.com.tw%2Farticle%2F4969407&group=__world__)
 
 ---
 # More ...
