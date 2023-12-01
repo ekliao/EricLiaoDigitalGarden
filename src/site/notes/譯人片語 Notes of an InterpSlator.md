@@ -12,4 +12,4 @@ date-created:: 2023-11-26
 
 - 2023-11-25【ChatGPT 人智機譯】[[ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣\|ChatGPT delivers an English joke in English and Mandarin｜ChatGPT說笑話有模有樣]] 
 
-- 2023-11-14【Translation 筆譯碎念】[[“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記\|“The Chinese Typewriter” 《中文打字機》 - Notes on the translation 翻譯註記]]
+- 2023-11-14【Translation 筆譯碎念】[[The Chinese Typewriter 《中文打字機》 - Notes on the translation 翻譯註記\|The Chinese Typewriter 《中文打字機》 - Notes on the translation 翻譯註記]]
