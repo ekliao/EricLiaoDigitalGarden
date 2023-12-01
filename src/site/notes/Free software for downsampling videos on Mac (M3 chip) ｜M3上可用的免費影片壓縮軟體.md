@@ -21,3 +21,7 @@ File > Export As. At least it downsamples its own .mov video format. Options see
 # Light editing
 
 Of the three, only iMovie is also a light-weight video editor, allowing for simple editing such as trimming. It has many video/audio effects but I haven't tried any or learned how. One nice thing: it shows audio clipping (when the audio level is high enough to be grating) graphically (but I haven't learned how to fix it).
+
+---
+
+- [[Downsampling videos - comparison of all software (free and paid)\|Downsampling videos - comparison of all software (free and paid)]]
