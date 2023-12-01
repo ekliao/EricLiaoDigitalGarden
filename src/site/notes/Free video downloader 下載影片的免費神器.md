@@ -7,7 +7,7 @@ date-created:: 2023-11-14
 
 For downloading YouTube and [[Bilibili\|Bilibili]] videos (I haven't tried it on other platforms; Vimeo and Facebook are next) this tool is pure heavenly bliss! It beats [[Yout\|Yout]] (slow, daily limit to only 3 videos) and the shady [[Clipconverter.cc\|Clipconverter.cc]] by a mile. The free account gives you an abundant daily limit of 30 videos, and the download speed is the fastest of all tools I've tried.
 
-![Screen Shot 2023-11-14 at 00.19.54.png](/img/user/Screen%20Shot%202023-11-14%20at%2000.19.54.png)
+![Screen Shot 2023-11-14 at 00.19.54.png](/img/user/_attachments/Screen%20Shot%202023-11-14%20at%2000.19.54.png)
 
 ## Vimeo and Facebook too
 
