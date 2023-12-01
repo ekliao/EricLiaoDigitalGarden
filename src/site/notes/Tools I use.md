@@ -53,6 +53,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Calibre\|Calibre]]
 - [[Parallels Desktop\|Parallels Desktop]]
 - [[Abbyy FineReader\|Abbyy FineReader]]
+- [[VLC Player\|VLC Player]]
 - [[MT\|MT]]
 	- [[DeepL\|DeepL]]
 	- [[Google Translate\|Google Translate]] (also does [[ASR\|ASR]])
