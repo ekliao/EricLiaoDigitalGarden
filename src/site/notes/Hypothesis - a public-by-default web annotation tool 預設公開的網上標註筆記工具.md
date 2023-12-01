@@ -36,11 +36,11 @@ This tool seems rather popular with teachers and students because it integrates 
 
 ## Before login
 
-![Screen Shot 2023-11-08 at 17.05.52.png|600](/img/user/Screen%20Shot%202023-11-08%20at%2017.05.52.png)
+![Screen Shot 2023-11-08 at 17.05.52.png|600](/img/user/_attachments/Screen%20Shot%202023-11-08%20at%2017.05.52.png)
 
 ## After login
 
-![Screen Shot 2023-11-08 at 17.06.21.png|600](/img/user/Screen%20Shot%202023-11-08%20at%2017.06.21.png)
+![Screen Shot 2023-11-08 at 17.06.21.png|600](/img/user/_attachments/Screen%20Shot%202023-11-08%20at%2017.06.21.png)
 
 ---
 # Sites on which Hypothesis may experience difficulty loading 載入Hypothesis註記可能發生問題的網站
