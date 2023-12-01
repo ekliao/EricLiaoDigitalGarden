@@ -77,3 +77,10 @@ Quick take by [Fred Jame](https://www.facebook.com/thefredjame/posts/pfbid0Go5JY
 # Desiderata
 
 - No web publishing option (à la Obsidian, Logseq, Notion). Workaround: Sharing a whiteboard and everything in it (cards).
+
+---
+
+# More ...
+
+[[Using Heptabase - from capturing to writing - workflows, process, etc.\|Using Heptabase - from capturing to writing - workflows, process, etc.]]
+# [[Heptabase web publishing or blogging\|Heptabase web publishing or blogging]]
