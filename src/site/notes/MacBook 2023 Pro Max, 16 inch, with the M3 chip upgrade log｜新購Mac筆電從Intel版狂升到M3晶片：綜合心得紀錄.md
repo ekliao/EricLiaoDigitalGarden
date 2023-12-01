@@ -39,7 +39,7 @@ Requires following a detailed and clear official web guide to config permission 
 Unexpectedly, specific input systems I had are lost after the transfer. I simply needed to reinstall Squirrel as my go-to Chinese input.
 #### Squirrel/RIME/鼠鬚管
 
-![Screen Shot 2023-11-22 at 04.36.15.png|200](/img/user/Screen%20Shot%202023-11-22%20at%2004.36.15.png)
+![Screen Shot 2023-11-22 at 04.36.15.png|200](/img/user/_attachments/Screen%20Shot%202023-11-22%20at%2004.36.15.png)
 
 - [x] Re-install
 Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is not from an Apple-approved developer. Makes sense. 
@@ -64,11 +64,11 @@ Initially, appears to be working after re-entering the serial number from the or
 
 Happily, I just installed a 7-day trial version of the new Movavi 24 (for 2024, I guess), and everything worked like before! It's just a matter of deciding whether I want to shell $73 to buy the lifetime version of the new screen recorder + editor. Comparing that price to $43 for just the screen recorder and for only one-year subscription, it's a steal.
 
-![Screenshot 2023-11-23 at 19.22.56.png|300](/img/user/Screenshot%202023-11-23%20at%2019.22.56.png)
+![Screenshot 2023-11-23 at 19.22.56.png|300](/img/user/_attachments/Screenshot%202023-11-23%20at%2019.22.56.png)
 
 (2023-11-25) I got an even better combo deal and pulled the trigger:
 
-![Screenshot 2023-11-25 at 19.54.30.png|300](/img/user/Screenshot%202023-11-25%20at%2019.54.30.png)
+![Screenshot 2023-11-25 at 19.54.30.png|300](/img/user/_attachments/Screenshot%202023-11-25%20at%2019.54.30.png)
 ##### Argument for Movavi over QuickTime
 
 Movavi can record dual screens as long as the area is a rectangle. This is better than QuickTime. Also, QuickTime is known to quietly quit recording midway without you knowing. That's murderous! Movavi has never done that. Other features:
