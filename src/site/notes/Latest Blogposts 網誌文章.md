@@ -4,10 +4,12 @@
 
 date-created:: 2023-04-21
 
-last-updated:: 2023-11-24
+last-updated:: 2023-12-02
 # [[譯人片語 Notes of an InterpSlator\|譯人片語 Notes of an InterpSlator]]
 - Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文
 # 譯界之外 Beyond T&I
+
+- [[Regex tools supporting ＼p{Han} 懂中文的正規表式工具\|Regex tools supporting ＼p{Han} 懂中文的正規表式工具]]
 
 - [[Hypothesis adds YouTube annotation｜Hypothesis多了YouTube影片註解功能\|Hypothesis adds YouTube annotation｜Hypothesis多了YouTube影片註解功能]]
 
