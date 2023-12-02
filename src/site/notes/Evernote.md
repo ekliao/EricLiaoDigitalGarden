@@ -18,7 +18,10 @@ Since April 2023, I have reduced but not entirely eliminated Evernote usage. I s
 *(Update 2023-08-28)* After reinstalling the app twice and approving some iOS permission prompts, the problem seems resolved for now
 
 ---
-### More...
+# More...
+
+- [[Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠\|Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠]]
+
 - Breaking up with Evernote
 	- [Migrating from EV to OB, Pt1](https://www.dmuth.org/migrating-from-evernote-to-obisidian/)
 	- [Pt2](https://www.dmuth.org/getting-the-most-out-of-obsidian/)
