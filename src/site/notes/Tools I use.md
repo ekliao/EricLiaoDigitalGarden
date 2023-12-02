@@ -11,6 +11,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
+- [[BBEdit\|BBEdit]] (2023/12)
 - [[Movavi Video Editor 24\|Movavi Video Editor 24]] (2023/11)
 - [[Movavi Screen Recorder 24\|Movavi Screen Recorder 24]] (2023/11)
 - [[Exporter (app)\|Exporter (app)]] (2023/6)
