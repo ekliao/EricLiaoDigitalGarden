@@ -41,6 +41,6 @@ The Unicode property shorthand ``\p{Han}`` is a great discovery about regex. So 
 ---
 # More ...
 
-- [[Regex tools supporting ＼p{Han} 懂中文的正規表式工具\|Regex tools supporting ＼p{Han} 懂中文的正規表式工具]]
+- [[Regex tools supporting ＼p{Han} 方便處理中文的正規表式工具\|Regex tools supporting ＼p{Han} 方便處理中文的正規表式工具]]
 
 - [[Regex sighting in Taiwan's public national Taigi search tool\|Regex sighting in Taiwan's public national Taigi search tool]]
