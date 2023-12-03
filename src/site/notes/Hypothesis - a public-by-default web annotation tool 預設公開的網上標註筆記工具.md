@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/hypothesis-a-public-by-default-web-annotation-tool/","noteIcon":"2"}
 ---
 
-date-created:: 2023-11-08
-
 A flexible online highlighting, note-taking, and sharing app. What sets it apart from [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]] and [[Glasp\|Glasp]] is that you get to control each note's visibility: by default all notes are public and published, but you can make a note private, viewable to you only, by either creating it in a private group or setting it to "to me only" in a (default) public group. I tested this and it works as claimed. 
 
 Anyone can read and search for a public note without a Hypothesis account. 
@@ -32,20 +30,20 @@ This tool seems rather popular with teachers and students because it integrates 
 - Not also a reading app like Omnivore 
 - Certain web domains aren't enabled; similar limitations as Glasp, more limited than Omnivore
 - Loading of the annotation UI (after clicking the Chrome button on a web page) can be a bit iffy
-# Access control: sanity check
+# Observations while using it 使用心得
+## Access control: sanity check 檢驗權限：無誤
 
-## Before login
+### Before login
 
 ![Screen Shot 2023-11-08 at 17.05.52.png|600](/img/user/_attachments/Screen%20Shot%202023-11-08%20at%2017.05.52.png)
 
-## After login
+### After login
 
 ![Screen Shot 2023-11-08 at 17.06.21.png|600](/img/user/_attachments/Screen%20Shot%202023-11-08%20at%2017.06.21.png)
 
----
-# Sites on which Hypothesis may experience difficulty loading 載入Hypothesis註記可能發生問題的網站
+## Pictures can be selected along with text 圖片和文字可一起擷取，成功同步到Obsidian
 
-- [Babyhome.com.tw](https://hyp.is/go?url=https%3A%2F%2Fforum.babyhome.com.tw%2Farticle%2F4969407&group=__world__)
+![_attachments/Screenshot 2023-12-03 at 12.06.10.png](/img/user/_attachments/Screenshot%202023-12-03%20at%2012.06.10.png)
 
 ---
 # More ...
@@ -53,3 +51,8 @@ This tool seems rather popular with teachers and students because it integrates 
 - [電腦玩物](https://www.playpcesor.com/2018/04/hypothesis.html)
 - [Hypothesis使用小記](https://seviche.cc/2022-05-25-hypothesis/)
 - [線上註記筆記](https://blog.jxtsai.info/post/hypothesis-/)
+
+---
+#### Sites on which Hypothesis may experience difficulty loading 載入Hypothesis註記可能發生問題的網站
+
+- [Babyhome.com.tw](https://hyp.is/go?url=https%3A%2F%2Fforum.babyhome.com.tw%2Farticle%2F4969407&group=__world__)
