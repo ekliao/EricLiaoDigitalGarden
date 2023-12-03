@@ -7,6 +7,8 @@ date-created:: 2023-03-01
 A popular web browser made by Google.
 # Issues
 
+- ⛔️ [[Chrome browser default search engine of Google hijacked by Qsearch Yahoo (address bar, Google, failed)\|Chrome browser default search engine of Google hijacked by Qsearch Yahoo (address bar, Google, failed)]] 
+
 - Obsidian forum pages won't scroll most of the time (video):
 { #04499e}
 
