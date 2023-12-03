@@ -9,7 +9,7 @@
 	- Techniques
 - [[Language and languages\|Language and languages]]
 - [[Idioms and fixed expressions 成語\|Idioms and fixed expressions 成語]]
-- [[Writing\|Writing]]
+- [[Writing 寫作\|Writing 寫作]]
 - [[PKM 個人知識管理\|PKM 個人知識管理]] and [[Note-taking\|Note-taking]]
 - [[Glossary Lookup\|Glossary Lookup]] and management
 
