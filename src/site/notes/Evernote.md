@@ -10,12 +10,16 @@ Free stuff is hard to break up with. After all, it hasn't changed its 60MB-per-m
 ## Migration whence
 
 Since April 2023, I have reduced but not entirely eliminated Evernote usage. I still put "junk" stuff in it when clipping a web article or when I am not writing anything myself except a short one-line comment. For anything that requires some writing, I tend to put it in Obsidian. One exception: I still use it to keep my audio book summary records.
-## Quick verdict: 3 stars (see issues)
+## Quick verdict: 2 stars (see issues)
 # Issues
 
-*2023-08-25* iOS version suddenly failed: I could no longer add a new note. The new note interface grayed out and doesn't allow data entry. How ridiculous! Searching for notes and editing existing notes seem okay.
+- 2023-12-02 New version doesn't export tags, creation time, and modified time in visible form in html like the old version did. They are encoded in `<meta>` tag, so not readily searchable by any other programs like Apple Notes after importing the html.
 
-*(Update 2023-08-28)* After reinstalling the app twice and approving some iOS permission prompts, the problem seems resolved for now
+- 2023-12-02 While manually managing exports, Evernote desktop (Mac) kept crashing.
+
+- 2023-12-01 Free version limited to 50 notes and one notebook. I began [[Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠\|Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠]]. Deducting one full point from quick verdict to 2.
+
+- 2023-08-25 iOS version suddenly failed: I could no longer add a new note. The new note interface grayed out and doesn't allow data entry. How ridiculous! Searching for notes and editing existing notes seem okay. (Update 2023-08-28) After reinstalling the app twice and approving some iOS permission prompts, the problem seems resolved for now
 
 ---
 # More...
