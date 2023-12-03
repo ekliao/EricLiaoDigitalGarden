@@ -13,11 +13,13 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 *(By frequency)*
 - [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
+- [[Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具\|Hypothes.is]]
 - [[Apple Notes\|Apple Notes]]
 - [[Evernote\|Evernote]]
 - [[Notability\|Notability]]
 - [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]]
-- [[Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具\|Hypothes.is]]
+
+- [[UpNote\|UpNote]] ([Official](https://getupnote.com/))
 - [[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 - [[Logseq\|Logseq]]
 - [[DTSearch\|DTSearch]]
@@ -36,7 +38,6 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 [[Minddode\|Minddode]]
 [[XMind\|XMind]] ([Official](https://xmind.app/))
 [[Snipd\|Snipd]] ([Official](https://blog.snipd.com/how-to-take-notes-from-podcasts-with-snipd-6dd564d1c4ae)) - Note-taking from podcasts
-[[UpNote\|UpNote]] ([Official](https://getupnote.com/))
 [[Arc\|Arc]] - A new browser
 [[Sunsama\|Sunsama]] - Daily planner
 [[VimCal\|VimCal]] - Calendar and time management
