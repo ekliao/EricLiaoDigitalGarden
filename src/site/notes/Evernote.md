@@ -13,6 +13,8 @@ Since April 2023, I have reduced but not entirely eliminated Evernote usage. I s
 ## Quick verdict: 2 stars (see issues)
 # Issues
 
+- 2023-12-03 Evernote whole-notebook export to its native format .enex couldn't complete the 25k notes without erroring out. So far, 3 times at 8%, 12% and about 32%. I had to delete the mysterious offending notes and keep trying. A huge time sink. 2.5 hours to reach only 30%.
+
 - 2023-12-02 New version doesn't export tags, creation time, and modified time in visible form in html like the old version did. They are encoded in `<meta>` tag, so not readily searchable by any other programs like Apple Notes after importing the html.
 
 - 2023-12-02 While manually managing exports, Evernote desktop (Mac) kept crashing.
