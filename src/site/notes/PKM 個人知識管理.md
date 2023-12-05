@@ -14,17 +14,17 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
 - [[Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具\|Hypothes.is]]
-- [[Apple Notes\|Apple Notes]]
-- [[Evernote\|Evernote]]
-- [[Notability\|Notability]]
-- [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]]
-
 - [[UpNote\|UpNote]] ([Official](https://getupnote.com/))
-- [[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
+- [[Apple Notes\|Apple Notes]]
+- [[Notability\|Notability]]
+- [[Glasp\|Glasp]]
+- [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]]
+- [[Evernote\|Evernote]]
 - [[Logseq\|Logseq]]
 - [[DTSearch\|DTSearch]]
 - [[LiquidText\|LiquidText]] ([Official](https://www.liquidtext.net/)) - Rediscovered its value in 2023
 - [[Tana\|Tana]]
+- [[Zotero 筆記軟體\|Zotero 筆記軟體]] ([Official](https://www.zotero.org/)) - A research assistant, great for working with PDF
 ### Obsolete
 - [[MarginNote\|MarginNote]] ([official](https://www.marginnote.com/) )
  [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
