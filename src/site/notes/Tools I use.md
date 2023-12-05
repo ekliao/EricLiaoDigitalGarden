@@ -4,10 +4,9 @@
 
 date-created:: 2023-02-24
 
-A list of mostly software and hardware, excluding abstract ideas, methods (e.g. Zettelkasten), and plugins that don't exist without the underlying tool (e.g. Obsidian and Anki).
+A list of mostly software and hardware, excluding abstract ideas, methods (e.g. Zettelkasten), [[PKM 個人知識管理\|PKM]], and plugins that don't exist without the underlying tool (e.g. Obsidian plugins and Anki add-ons).
 
 *(New to old. x = obsolete; b = backup; g = a cursory glance)*
-
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
