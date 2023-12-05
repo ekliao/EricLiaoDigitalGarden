@@ -9,6 +9,8 @@ last-updated:: 2023-12-02
 - Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文
 # 譯界之外 Beyond T&I
 
+- [[Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠\|Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠]]
+
 - [[Prescription painkiller 處方止痛藥\|Prescription painkiller 處方止痛藥]]
 
 - [[Obsidian tag "gptTrg"｜說明Obsidian的「gptTrg」標籤\|Obsidian tag "gptTrg"｜說明Obsidian的「gptTrg」標籤]]
