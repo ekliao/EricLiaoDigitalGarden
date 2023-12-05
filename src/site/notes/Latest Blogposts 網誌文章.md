@@ -9,6 +9,10 @@ last-updated:: 2023-12-02
 - Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文
 # 譯界之外 Beyond T&I
 
+- [[Prescription painkiller 處方止痛藥\|Prescription painkiller 處方止痛藥]]
+
+- [[Obsidian tag "gptTrg"｜說明Obsidian的「gptTrg」標籤\|Obsidian tag "gptTrg"｜說明Obsidian的「gptTrg」標籤]]
+
 - [[Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件\|Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件]]
 
 - [[Regex tools supporting ＼p{Han} 方便處理中文的正規表式工具\|Regex tools supporting ＼p{Han} 方便處理中文的正規表式工具]]
