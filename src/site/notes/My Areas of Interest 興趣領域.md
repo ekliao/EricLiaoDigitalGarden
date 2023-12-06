@@ -28,14 +28,13 @@
 - [[ChatGPT can do French to English literal translation, dictionary style\|Up-leveling my French]]
 - [[Perl 6 (Raku) Programming\|Perl 6 (Raku) Programming]]
 
----
 ### Major short-term
 - [[Web Publishing 發布內容\|Web publishing]] - The process of publishing this website
 - [[Hearing loudly and clearly\|Hearing loudly and clearly]]
 - [[Migrating and merging glossary data\|Migrating and merging glossary data]]
 
 ### Minor short-term
-- [[Computer Programming\|Computer Programming]]
+- [[Computer Programming 電腦程式設計\|Computer Programming 電腦程式設計]]
 - [[ChatGPT\|ChatGPT]] applications
 
 ### Minor transient (the shining objects of the moment)
