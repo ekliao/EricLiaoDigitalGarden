@@ -3,14 +3,13 @@
 ---
 
 #rating 
-## Quick Verdict: 3.5 stars
+# Quick Verdict: 3.5 stars
 
 Easy to use, especially as a replacement of Evernote and for creating tags, but it is a very closed system with kinks. See under Cons.
-
 ## Pros
 - Superb sync across all Apple devices
 - Smart tags
 - Quick notes
 ## Cons
 - [[Apple Notes disinteroperability\|Apple Notes disinteroperability]]
-- No bulk operation of selected or filtered notes, except to use an external tool for all-of-notes export
+- No bulk operation of selected or filtered notes, except to use an external tool, [[Exporter (app)\|Exporter (app)]], for exporting all notes.
