@@ -18,4 +18,4 @@ The only thing YARLE does better is that it also adds the creation date metadata
 ---
 # More ...
 
-- [[Obsidian plugin - Importer - issue with attachment path\|Obsidian plugin - Importer - issue with attachment path]]
+- [[Obsidian plugin - Importer - issue with attachment path (PRIV)\|Obsidian plugin - Importer - issue with attachment path (PRIV)]]
