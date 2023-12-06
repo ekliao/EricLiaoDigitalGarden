@@ -7,9 +7,9 @@
 
 ![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
-#### Mandarin - English Conference Interpreter 中英文會議同步口譯 / 中英文会议同声传译
+#### Mandarin - English Conference Interpreter 中英文會議同步口譯/中英文会议同声传译
 
-#### Deposition Interpreter (as main or check interpreter) 庭外採證口譯（主翻或糾翻）/ 庭外采证口译（主翻或纠翻）
+#### Deposition Interpreter 庭外採證口譯(主翻或糾翻)/庭外采证口译(主翻或纠翻)
 
 - IPR 智慧財產權
 - Patents 專利
@@ -18,7 +18,7 @@
 - Cryptocurrency 密幣
 - Pharma 製藥
 - Software/Hardware 電腦軟硬體
-#### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
+#### Certified Court Interpreter 法庭認證口譯/法庭认证口译
 
 ---
 # About Me
