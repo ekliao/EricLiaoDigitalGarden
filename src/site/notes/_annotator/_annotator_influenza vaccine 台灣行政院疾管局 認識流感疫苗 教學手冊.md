@@ -11,7 +11,8 @@
 >
 >「濾過性病毒」官方手冊竟然誤植為「fowl plague virus」（家禽疫，雞瘟），應作 filterable virus 或 ultravirus。這個應該是編輯錯誤，把前一個詞彙複製張貼過來而未改正。
 >
->原PDFhttps://www.cdc.gov.tw/uploads/files/9229ebe8-c089-4ab3-980a-fe0e38b1d16f.pdf
+>原 PDF [在此下載](https://www.cdc.gov.tw/uploads/files/9229ebe8-c089-4ab3-980a-fe0e38b1d16f.pdf)
+>
 >
 >
 >#mistranslation{ #0zw2px2itq7}
