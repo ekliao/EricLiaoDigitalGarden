@@ -14,7 +14,7 @@ A PKM system is used for [[Note-taking\|Note-taking]], as opposed to [[Consecuti
 - [[Obsidian\|Obsidian]] - You're looking at it.
 - [[Anki\|Anki]]
 - [[Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具\|Hypothes.is]]
-- [[UpNote\|UpNote]] ([Official](https://getupnote.com/))
+- [[UpNote - Escape from Evernote｜幫助Evernote難民出走的佛心軟體\|Upnote]] ([Official](https://getupnote.com/))
 - [[Apple Notes\|Apple Notes]]
 - [[Notability\|Notability]]
 - [[Glasp\|Glasp]]
