@@ -12,6 +12,8 @@ last-updated:: 2023-12-02
 
 # 譯界之外 Beyond T&I
 
+- [[debug only\|debug only]]
+
 - [[Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠\|Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠]]
 
 - [[Prescription painkiller 處方止痛藥\|Prescription painkiller 處方止痛藥]]
