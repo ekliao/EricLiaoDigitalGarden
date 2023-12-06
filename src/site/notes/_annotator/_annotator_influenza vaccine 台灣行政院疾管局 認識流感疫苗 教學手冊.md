@@ -17,3 +17,13 @@
 >
 >#mistranslation{ #0zw2px2itq7}
 
+
+
+>
+>*NA由8個節段（segment）組成，第1、2、3個節段編碼的是 ==RNA聚合酶（RNA  polymerase）== ，第4個節段負責編碼血球凝集素；第5個節段負責編碼核蛋白（nuc*
+>[[_annotator/_annotator_influenza vaccine 台灣行政院疾管局 認識流感疫苗 教學手冊#^abvj45rkrdr\|show annotation]]
+>
+>聚合酶 polymerase
+>
+>{ #abvj45rkrdr}
+
