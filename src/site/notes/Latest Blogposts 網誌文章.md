@@ -6,7 +6,10 @@ date-created:: 2023-04-21
 
 last-updated:: 2023-12-02
 # [[譯人片語 Notes of an InterpSlator\|譯人片語 Notes of an InterpSlator]]
-- Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文
+
+> Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文。
+
+
 # 譯界之外 Beyond T&I
 
 - [[Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠\|Evernote termination and exodus 「永遠」筆記(Evernote)不再永遠]]
