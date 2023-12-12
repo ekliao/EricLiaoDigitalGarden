@@ -18,4 +18,12 @@ Started using it only for the ability to painlessly import Evernote ENEX, keepin
 ![_attachments/Screenshot 2023-12-05 at 18.09.32.png](/img/user/_attachments/Screenshot%202023-12-05%20at%2018.09.32.png)
 ## Cons
 
-### Lacking a good web clipper solution like Evernote
+### The web clipper is less powerful than Evernote's
+
+### Not free, though quite affordable ($0.99/month or $30 buy-out)
+
+---
+# More ...
+
+- [[Upnote - export folder structure｜Upnote的匯出檔案結構\|Upnote - export folder structure｜Upnote的匯出檔案結構]]
+- [[Upnote web clipper｜Upnote網頁擷取工具\|Upnote web clipper｜Upnote網頁擷取工具]]
