@@ -6,7 +6,7 @@ A flexible online highlighting, note-taking, and sharing app. What sets it apart
 
 Anyone can read and search for a public note without a Hypothesis account. 
 
-Hypothesis doesn't compete head-on with [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]] because it isn't also a reading app, but in my opinion it kind of eats [[Glasp\|Glasp]]'s lunch simply by having a functioning [[Obsidian plugin - Hypothesis\|Obsidian plugin]] that syncs to Obsidian, like Omnivore does. However, Glasp uniquely offers a very cool capability of video annotations for YouTube.
+Hypothesis doesn't compete head-on with [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]] because it isn't also a reading app, but in my opinion it kind of eats [[Glasp\|Glasp]]'s lunch simply by having a functioning [[Obsidian plugin - Hypothesis\|Obsidian plugin]] that syncs to Obsidian, like Omnivore does. However, ~~Glasp uniquely offers a very cool capability of video annotations for YouTube.~~ *(2023-12-16)* YouTube annotation is now possible with Hypothesis, for videos that have subtitles at least. #todo Test videos with purely Chinese subtitles.
 
 This tool seems rather popular with teachers and students because it integrates with learning management platforms like [[Canvas\|Canvas]].
 # Quick verdict: 4.5 stars 強力推薦
@@ -21,9 +21,16 @@ This tool seems rather popular with teachers and students because it integrates 
 - Searching is top-notch
 - Said to comply with annotation "standards"
 - More convenient in-place (the web page) quick highlighting and noting action than Omnivore, which is a reading app first, requiring adding the web page to collection before highlighting/noting is possible.
+- Video annotation for YouTube: a huge plus for me.
 ## Cons
 
-- Updated annotations don't sync successfully to Obsidian the way Omnivore does. A tedious workaround: delete the Obsidian note, reset (in plugin setting), and sync again.
+- 2023-12-16 Annotations **NOT fully synced for the first time** (for example, a heavily annotated YouTube video on Readwise Reader).
+- **Updated annotations** don't sync successfully to Obsidian the way Omnivore does. 
+	- A tedious workaround: **delete the Obsidian note, reset (in plugin setting), and sync again**.
+
+> These two problems with Hypothesis may nudge me into trying out Reader to see if its sync is always complete and covering updated highlights and annotations.
+
+- The Sync button in Obsidian "toolbar" and the Reset button in Settings are too "quiet" -- they don't give you feedback after clicking and I don't know if the click registered or not.
 - Caution: can reveal private web content (the highlighted portion) if the note is set to public
 - No iOS app; web-based
 - The suggested solution for iOS (loading through via.hypothes.is) is crappy and practically useless.
