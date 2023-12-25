@@ -17,9 +17,9 @@ My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu
 Here's my [CV/résumé (PDF履歷)](https://drive.google.com/file/d/1q2dJ8xEBhOYocV9xmIbwggp6PHxXJ52H/view?usp=sharing) or if you prefer it in [MS Word (Word格式)](https://docs.google.com/document/d/1Z-mvBrFned77oRa69CpAl4YwTDLX75oOlIAJ1T6eA2A/edit?usp=sharing) *(last updated: September 17, 2023.)* Click this  [link 下載](https://drive.google.com/file/d/1q2dJ8xEBhOYocV9xmIbwggp6PHxXJ52H/view?usp=sharing) and you should be able to save a copy if you like. (可網上閱覽或下載)
 # My Work as a Conference Interpreter 會議口譯工作
 
-### [[Clients and Speakers I Interpreted for 服務過的的客戶與講者\|Clients and Speakers I Interpreted for 服務過的的客戶與講者]]
+## [[Clients and Speakers I Interpreted for 服務過的的客戶與講者\|Clients and Speakers I Interpreted for 服務過的的客戶與講者]]
 
-### [[Interpreter Portfolio (Work Voice Samples) 口譯員工作實錄\|Interpreter Portfolio (Work Voice Samples) 口譯員工作實錄]]
+## [[Interpreter Portfolio (Work Voice Samples) 口譯員工作實錄\|Interpreter Portfolio (Work Voice Samples) 口譯員工作實錄]]
 
 - [[Customer Testimonials\|Customer Testimonials]]
 - [[My portable interpreting equipment 小型會議活動同步口譯設備\|My portable interpreting equipment 小型會議活動同步口譯設備]]
