@@ -39,13 +39,12 @@ Welcome to my “digital garden”! It's a collection of notes in various stages
 
 ### [[My Areas of Interest 興趣領域\|My Areas of Interest 興趣領域]]
 
-##### [My Second Website and Blog 試驗網站](https://ericliaointerpreting.netlify.app)
-
 ## My Work as Interpreter 口譯工作
 
-- [[Interpreter Portfolio (Work Voice Samples)\|Interpreter Portfolio (Work Voice Samples)]]
+- [[Interpreter Portfolio (Work Voice Samples) 口譯工作實錄參考\|Interpreter Portfolio (Work Voice Samples) 口譯工作實錄參考]]
+- [[Notable clients and speakers 著名客戶與講者\|Notable clients and speakers 著名客戶與講者]]
 - [[Customer Testimonials\|Customer Testimonials]]
-- [[My portable interpreting equipment\|My portable interpreting equipment]]
+- [[My portable interpreting equipment 小型會議活動同步口譯設備\|My portable interpreting equipment 小型會議活動同步口譯設備]]
 - [[Interpretation Photo Gallery\|Photo Gallery]]
 - [[Interpretation Fees\|Interpretation Fees]]
 - [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
