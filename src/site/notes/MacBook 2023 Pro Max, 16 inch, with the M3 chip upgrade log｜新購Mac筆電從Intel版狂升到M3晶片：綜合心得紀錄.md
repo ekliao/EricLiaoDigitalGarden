@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/mac-book-2023-pro-max-16-inch-with-the-m3-chip-upgrade-log-mac-intel-m3/","noteIcon":"2"}
 ---
 
-Date-created:: 2023-11-20
-
 I completed the 10-hour system-to-system transfer following Apple MacOS's onscreen guide after turning on the new laptop. This is a log of my findings. I really appreciate being given more than 40 days to decide whether to keep it or return.
 
 經過十小時無線Wi-fi的系統和內容移植，新電腦可以用了，但一堆楣楣角角要實測。還好，新電腦因爲年底購入，享有長達40多天的退貨期（原本只有14天），可以測到元旦假期過後！
