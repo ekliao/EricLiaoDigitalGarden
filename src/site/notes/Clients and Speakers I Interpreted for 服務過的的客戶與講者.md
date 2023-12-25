@@ -34,17 +34,26 @@ Below is a sample of interpretation clients I have served:
 
 ## Commonwealth of Massachusetts 美國麻州政府
 
+## Los Angeles County, California 美國加州洛杉磯縣
+
 ## City of San Jose, California 美國加州聖荷西市
 
-## Los Angeles County, California 美國加州洛杉磯縣
+## City of Boston 波士頓政府
+
+## Consulate General office of China, San Francisco 舊金山中國總領事館
 
 ## Walmart 沃爾瑪零售公司
 
-## Visa 信用卡公司
+## Visa International | Visa 公司
 
 ## Rolls Royce 勞斯萊斯汽車公司
 
 ## Hewlett-Packard Enterprise 惠普企業
 
-## Carnegie-Mellon University 卡內基梅隆大學
-## IndiEV 電動車公司
+## Carnegie Mellon University 卡內基梅隆大學
+
+## Zoom Video Communications 視訊平臺公司 Zoom
+
+### Gibson Dunn (a top-20 US law firm) 美國前20大律師事務所 Gibson Dunn
+
+### Indi EV 新創電動車公司
