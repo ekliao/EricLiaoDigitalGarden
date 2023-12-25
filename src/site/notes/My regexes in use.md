@@ -5,6 +5,18 @@
 date-created:: 2023-05-05
 
 Here is a list of quickly-hacked-together regex patterns to mitigate tasks that otherwise seem Herculean.
+
+## Subtitler (app) subtitle file .srt output
+
+Search for (in CotEditor)
+`^\{.*"([^\}]+)"\}\n`
+Peplace with
+`$1\n`
+### Example
+
+![Screenshot 2023-12-17 at 14.37.19.png|500](/img/user/Screenshot%202023-12-17%20at%2014.37.19.png)
+
+![Screenshot 2023-12-17 at 14.37.50.png|250](/img/user/Screenshot%202023-12-17%20at%2014.37.50.png)
 ## In Obsidian
 
 - Find all newly created dictionary entries with tag #td and file path not already under /A/A-Dict/(word).md
