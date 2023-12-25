@@ -28,8 +28,8 @@ Here's my [CV/résumé (PDF履歷)](https://drive.google.com/file/d/1q2dJ8xEBhOY
 - [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
 - [[Interpreting：Just for Laughs\|Just for laughs]]
 ## Legal Interpreting 法律口譯
-#### Deposition Interpreter 庭外採證口譯(主翻或糾翻) / 庭外采证口译(主翻或纠翻)
 #### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
+#### Deposition Interpreter 庭外採證口譯(主翻或糾翻) / 庭外采证口译
 
 - IPR 智慧財產權
 - Patents 專利
@@ -38,6 +38,9 @@ Here's my [CV/résumé (PDF履歷)](https://drive.google.com/file/d/1q2dJ8xEBhOY
 - Cryptocurrency 密幣
 - Pharma 製藥
 - Software/Hardware 電腦軟硬體
+### Medical Interpreting 醫療口譯
+
+##### Certified Medical Interpreter 認證醫療口譯 / 认证医疗口译
 ---
 # Welcome! 歡迎 / 欢迎
 
