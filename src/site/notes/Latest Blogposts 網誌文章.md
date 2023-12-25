@@ -64,7 +64,7 @@ last-updated:: 2023-12-02
 
 - [[LEP 英語能力有限\|LEP 英語能力有限]] | 某法官有一次竟還問我這詞啥意思
 
-- [[My portable interpreting equipment\|My portable interpreting equipment]] | 我的隨身口譯設備
+- [[My portable interpreting equipment 小型會議活動同步口譯設備\|My portable interpreting equipment 小型會議活動同步口譯設備]] | 我的隨身口譯設備
 
 - [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]]
 
