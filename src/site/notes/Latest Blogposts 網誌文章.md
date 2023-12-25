@@ -8,8 +8,6 @@ last-updated:: 2023-12-02
 # [[譯人片語 Notes of an InterpSlator\|譯人片語 Notes of an InterpSlator]]
 
 > Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文。
-
-
 # 譯界之外 Beyond T&I
 
 - [[Upnote web clipper｜Upnote網頁擷取工具\|Upnote web clipper｜Upnote網頁擷取工具]]
@@ -32,7 +30,7 @@ last-updated:: 2023-12-02
 
 - [[ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒\|ChatGPT voice chat surprise, delight, and caution｜和ChatGPT中英雙語對話：既驚豔又心存警戒]]
 
-- 🔥 (Frequent updates 不斷更新) [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄]]  
+- [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄]]  
 
 - [[Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體\|Free software for downsampling videos on Mac (M3 chip) ｜M3上可用的免費影片壓縮軟體]]
 
