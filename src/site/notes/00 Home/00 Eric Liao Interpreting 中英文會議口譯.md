@@ -9,20 +9,6 @@
 
 #### Mandarin - English Conference Interpreter 中英文會議同步口譯、逐步口譯 / 中英文会议同声传译、交替传译
 
-# My Work as Interpreter 口譯工作
-
-### [[Clients and Speakers I Interpreted for 服務過的的客戶與講者\|Clients and Speakers I Interpreted for 服務過的的客戶與講者]]
-
-### [[Interpreter Portfolio (Work Voice Samples) 口譯員工作實錄\|Interpreter Portfolio (Work Voice Samples) 口譯員工作實錄]]
-
-- [[Customer Testimonials\|Customer Testimonials]]
-- [[My portable interpreting equipment 小型會議活動同步口譯設備\|My portable interpreting equipment 小型會議活動同步口譯設備]]
-- [[Interpretation Photo Gallery\|Photo Gallery]]
-- [[Interpretation Fees\|Interpretation Fees]]
-- [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
-- [[Interpreting：Just for Laughs\|Just for laughs]]
-
----
 # About Me 口譯員自介
 
 My name is Eric Liao. I am a [professionally-trained](https://www.middlebury.edu/institute/academics/degree-programs/translation-interpretation) freelance conference interpreter, a state-certified court interpreter (CA/NJ/AZ/WY), and an [ATA-credentialed](https://www.atanet.org/member-center/credentialed-interpreter-designation/) interpreter. I am based in the San Francisco Bay Area, California, but [[VRI\|VRI/RSI]] enables working for any event anywhere. I am originally from Taipei, Taiwan. I interpret between Mandarin Chinese *(native)* and English *(near-native)*, and also from [[Taigi\|Tâigí]].
@@ -41,8 +27,9 @@ Here's my [CV/résumé (PDF履歷)](https://drive.google.com/file/d/1q2dJ8xEBhOY
 - [[Interpretation Fees\|Interpretation Fees]]
 - [[Other Interpreters at Work 口譯觀摩｜口译观摩\|Other Interpreters at Work 口譯觀摩｜口译观摩]]
 - [[Interpreting：Just for Laughs\|Just for laughs]]
-# Legal Interpreting 法律口譯
+## Legal Interpreting 法律口譯
 #### Deposition Interpreter 庭外採證口譯(主翻或糾翻) / 庭外采证口译(主翻或纠翻)
+#### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
 
 - IPR 智慧財產權
 - Patents 專利
@@ -51,7 +38,6 @@ Here's my [CV/résumé (PDF履歷)](https://drive.google.com/file/d/1q2dJ8xEBhOY
 - Cryptocurrency 密幣
 - Pharma 製藥
 - Software/Hardware 電腦軟硬體
-#### Certified Court Interpreter 法庭認證口譯 / 法庭认证口译
 ---
 # Welcome! 歡迎 / 欢迎
 
