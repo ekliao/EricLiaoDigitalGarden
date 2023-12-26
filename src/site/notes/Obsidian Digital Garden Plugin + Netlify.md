@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify/","noteIcon":"2"}
 ---
 
-date-created:: 2023-04-15
 ## The Obsidian Digital Garden plugin
 - [Docs](https://dg-docs.ole.dev/)
 ### [[Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題\|Issues]]
@@ -20,9 +19,9 @@ Netlify is a game changer, a godsend for me, when I don't even believe in any de
 - [[Netlify with GoDaddy domain name\|GoDaddy]]
 
 ---
-# 2023-11-03 New look of the Publication Center
+# New look of the Publication Center
 
-#todo  Two videos to post on YouTube showing one-time whole-garden update, and the first subsequent normal incremental update:
+#todo  2023-11-03  Two videos to post on YouTube showing one-time whole-garden update, and the first subsequent normal incremental update:
 
 Videos:
 
