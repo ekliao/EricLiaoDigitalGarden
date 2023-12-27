@@ -17,11 +17,19 @@ Over the years, I've had the privilege of interpreting for notable speakers, eac
 
 ## Director-General Dr. Tedros Adhanom Ghebreyesus, WHO 世界衛生組織總幹事譚德塞博士
 
+## Antony J. Blinken, U.S. Secretary of State 美國國務卿 Blinken
+
+## Gina Raimondo, U.S. Secretary of Commerce 美國商務部部長 Raimondo
+
 ### Joanne Liu, Former International President of Médecins Sans Frontières 無國界醫生組織前國際總裁 Liu
+
+### Chiu Tai-san, Former Taiwan Minister of Justice 臺灣司法前部長邱太三
 
 ### Yu Mei-nu, Member of Parliament, Taiwan 臺灣立法委員尤美女
 
-### Evan Low, California Assemblymember, Former Major of City of Campbell, California 加州眾議員、Campbell 前市長羅達倫
+### Evan Low, California Assemblymember, Former Major of City of Campbell, California｜加州眾議員、Campbell 市前市長羅達倫
+
+### Shi Hai, Indi EV Founder and CEO｜美國 Indi EV 電動車公司創始人兼執行長石海
 
 # Notable Clients I Served 服務過的知名客戶
 Below is a selected list of interpretation clients I have served:
