@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes-of-an-interp-slator/","noteIcon":"2"}
 ---
 
+- 2024-01-06 【Money issues 向錢看】[[_hypothesis/facebook.com/頂級單日口譯待遇 Top interpreter's rates\|頂級單日口譯待遇 Top interpreter's rates]]
+
 - 2023-12-05 【Mistranslation 誤譯校正】濾過性病毒：[[_annotator/_annotator_influenza vaccine 台灣行政院疾管局 認識流感疫苗 教學手冊\|_annotator_influenza vaccine 台灣行政院疾管局 認識流感疫苗 教學手冊]]
 
 - 2023-11-26 【Terp hack 順句驅動】[be taken by sth](https://glasp.co/#/qke5s3ilkchdj7ts/?p=OKQtic5UtKWzm4Voj4wi)
