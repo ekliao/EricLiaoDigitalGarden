@@ -24,4 +24,4 @@ Of the three, only iMovie is also a light-weight video editor, allowing for simp
 
 ---
 
-- [[Downsampling videos - comparison of all software (free and paid)\|Downsampling videos - comparison of all software (free and paid)]]
+- [[Downsampling videos - software comparison (free and paid)\|Downsampling videos - software comparison (free and paid)]]
