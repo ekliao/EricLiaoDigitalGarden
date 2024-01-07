@@ -25,3 +25,8 @@
 To allow Zoom participants hear the sound in VLC, make sure to set its audio device to "system sound output" as shown.
 
 ![Screenshot 2023-12-12 at 19.22.45.png](/img/user/Screenshot%202023-12-12%20at%2019.22.45.png)
+
+# Conversion (into audio, etc.) and downsampling (downsizing) of videos
+
+- [Blogpost: how to downsample a video with VLC](https://fabiomarroni.wordpress.com/2018/04/14/compress-video-with-vlc/)
+	- Recommends the simple factor of 0.75
