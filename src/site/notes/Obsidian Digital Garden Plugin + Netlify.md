@@ -6,7 +6,8 @@
 - [Docs](https://dg-docs.ole.dev/)
 ### [[Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題\|Issues]]
 
-- 🔥 [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Netlify builds may fail]]  
+- 🔥 [[Obsidian Digital Garden plugin - Certain characters in note name won't work (empty page) but will build successfully on Netlify\|Certain characters in note name won't work (empty page) but will build successfully on Netlify]]
+- [[Obsidian Digital Garden Plugin + Netlify build failure scares｜Obsidian 網站建置失敗\|Netlify builds may fail]]  
 
 ---
 ## [Netlify](https://www.netlify.com/)
