@@ -11,4 +11,4 @@ Ibuprofen 800mg (to take 3 times a day) is powerful. One pill taken 40 minutes a
 ---
 
 Note 註：
-\[1\]  [[Obsidian tag "gptTrg"｜說明Obsidian的「gptTrg」標籤\|Obsidian tag "gptTrg"｜說明Obsidian的「gptTrg」標籤]]
+\[1\]  [[Obsidian tag "gptTrg"｜Obsidian的「gptTrg」標籤\|Obsidian tag "gptTrg"｜Obsidian的「gptTrg」標籤]]
