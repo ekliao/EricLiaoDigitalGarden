@@ -4,7 +4,7 @@
 
 *(New to old)*
 
-- 🔥 [[Obsidian Digital Garden plugin - Certain characters in note name won't work (empty page) but will build successfully on Netlify｜數位花園頁名不允許某些合法字元\|Obsidian Digital Garden plugin - Certain characters in note name won't work (empty page) but will build successfully on Netlify｜數位花園頁名不允許某些合法字元]]
+- 🔥 *2024-01-17* [[Obsidian Digital Garden plugin - Certain characters in note name won't work (empty page) but will build successfully on Netlify｜數位花園頁名不允許某些合法字元\|Obsidian Digital Garden plugin - Certain characters in note name won't work (empty page) but will build successfully on Netlify｜數位花園頁名不允許某些合法字元]]
 
 - Buggy implementation in the Publication Status on both the desktop and iOS. Problem: the same entry should not appear twice, e.g.
 
