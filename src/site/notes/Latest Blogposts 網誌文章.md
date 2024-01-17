@@ -16,7 +16,7 @@ last-updated:: 2023-12-02
 
 - [[Prescription painkiller 處方止痛藥\|Prescription painkiller 處方止痛藥]]
 
-- [[Obsidian tag "gptTrg"｜Obsidian的「gptTrg」標籤\|Obsidian tag "gptTrg"｜Obsidian的「gptTrg」標籤]]
+- [[Obsidian tag 'gptTrg'｜Obsidian的「gptTrg」標籤\|Obsidian tag 'gptTrg'｜Obsidian的「gptTrg」標籤]]
 
 - [[Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件\|Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件]]
 
