@@ -6,4 +6,4 @@ This tag precedes a text to indicate it is the translation done by ChatGPT (free
 
 #gptTrg 
 
-此標籤位於文本之前，表示這是 ChatGPT（免費版本，v3.5）對目標語言（通常是英文或繁體中文）的翻譯，並未經過任何修改。
+此標籤位於文本之前，表示這是 ChatGPT（免費版本，v3.5）所翻譯的目標語言（通常是英文或繁體中文），並未經過任何修改。
