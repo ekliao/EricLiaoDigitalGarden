@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-certain-characters-in-note-name-won-t-work-empty-page-but-will-build-successfully-on-netlify/","noteIcon":"2"}
 ---
 
-I was annoyed to find the following valid characters in the note name (file name) can't be used for publishing:
+It's annoying and surprising to find that following valid characters in the note name (file name) cannot be used for publishing. The Netlify build will work yet result in an empty page:
 
-- double quote (")
-	- change into a single quote / apostrophe (')
+- Double quote (")
+
+Change into a single quote / apostrophe (')
+
