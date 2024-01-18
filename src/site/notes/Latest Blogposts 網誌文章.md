@@ -10,7 +10,7 @@ last-updated:: 2023-12-02
 > Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文。
 # 譯界之外 Beyond T&I
 
-- [[Docdrop - another great web annotation interface powered by Hypothesis｜發現新的開放網頁或影片註記介面：Docdrop\|Docdrop - another great web annotation interface powered by Hypothesis｜發現新的開放網頁或影片註記介面：Docdrop]]
+- [[Docdrop - another great web annotation interface powered by Hypothesis｜發現新的文件或影片註記介面：Docdrop\|Docdrop - another great web annotation interface powered by Hypothesis｜發現新的文件或影片註記介面：Docdrop]]
 
 - [[Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題\|Issues with the Obsidian Digital Garden plugin｜Obsidian 數位花園插件：問題]]
 
