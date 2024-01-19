@@ -9,6 +9,7 @@ last-updated:: 2023-12-02
 
 > Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文。
 # 譯界之外 Beyond T&I
+- [[Zoom host can share video with sound to ALL breakout rooms｜Zoom主持人可對分組房播放影音\|Zoom host can share video with sound to ALL breakout rooms｜Zoom主持人可對分組房播放影音]]
 
 - [[Docdrop - another great web annotation interface powered by Hypothesis｜發現新的文件或影片註記介面：Docdrop\|Docdrop - another great web annotation interface powered by Hypothesis｜發現新的文件或影片註記介面：Docdrop]]
 
