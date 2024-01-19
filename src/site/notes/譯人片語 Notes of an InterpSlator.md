@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes-of-an-interp-slator/","noteIcon":"2"}
 ---
 
+- 2024-01-19 【Phonemic awareness 音位意識】[[Threads音義雙全的中文譯名｜Give Threads a decent name\|Threads音義雙全的中文譯名｜Give Threads a decent name]]
+
 - 2024-01-09 【Terminology 譯名】[[_hypothesis/zh.wikipedia.org/音位 - 維基百科，自由的百科全書\|Please use 音位, not 音素 for "phoneme" to avoid perpetuating an avoidable confusion]]
 
 - 2024-01-06 【Money issues 向錢行】[[_hypothesis/facebook.com/頂級單日口譯待遇 Top rates for an interpreter\|頂級單日口譯待遇 Top rates for an interpreter]]
