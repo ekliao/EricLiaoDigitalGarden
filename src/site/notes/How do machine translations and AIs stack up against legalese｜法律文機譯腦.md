@@ -6,8 +6,7 @@ While interpreting in court today, I learned a new term from a judge's written r
 ### An affirmative defense is a defense asserted by the defendant that essentially says, “even if all of the facts in the complaint are correct, I’m still not liable for a different reason.”
 
 Seeing that there is a negative clause ("not liable") followed by a prepositional phrase, for which the scope of "not" either applies or does not. Knowing which case it is is a frequent issue in grammar and semantics that can trip up human translators and interpreters unless they understand the context, which makes the meaning clear despite the inherent ambiguity. So, I decided to feed the same text into all machine translation engines and AIs I know to see how they perform.
-
-# How many MTs and AIs does it take to get this right?
+## How many MTs and AIs does it take to get negation right?
 
 View the results: [View Google Doc](https://docs.google.com/spreadsheets/d/1xYJIzlxyGZONYkiQ0Xnzv15Z8hMDMta1EeTkNTMT8k8/edit?usp=sharing)
 
@@ -34,7 +33,7 @@ An affirmative defense is a defense asserted by the defendant that essentially s
 Google Bard 也翻對了重點部分，很棒，我對它更敬重了（相較於ChatGPT），但它很不爭氣，搞錯了“affirmative defense”這個詞，所以給它80分。
 
 看到這樣一個簡單且並不罕見的法律文本，機譯和AI整體的表現如此掉漆，2266，我們人類口譯員還可以放鬆一下下。
-# Join the test
+## Join the test
 If you have access to any other machine translation engines or AIs, feel free to test it out using the same text and send me the result (either Chinese script is fine). I'll gladly update the spreadsheets. Send it through the comment box below or email me at ekliao@gmail.com
 
 如果你有其他機譯或 AI 結果，正體或簡體中文皆可，歡迎告知，我會更新文件。請用以下的留言箱或電郵給我 ekliao@gmail.com。
