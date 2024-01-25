@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-of-an-interp-slator/","noteIcon":"2"}
 ---
 
-- 2024-01-25 【Legalese 機譯腦法律文】[[How do machine translations and AIs stack up on legalese｜一眾AI機譯法律文比一比\|How do machine translations and AIs stack up on legalese｜一眾AI機譯法律文比一比]]
+- 2024-01-25 【Legalese 機譯腦法律文】[[How do machine translations and AIs stack up against legalese｜法律文機譯腦\|How do machine translations and AIs stack up against legalese｜法律文機譯腦]]
 
 - 2024-01-19 【Phonemic awareness 音位意識】[[Threads音義雙全的中文譯名｜Give Threads a decent name\|Threads音義雙全的中文譯名｜Give Threads a decent name]]
 
