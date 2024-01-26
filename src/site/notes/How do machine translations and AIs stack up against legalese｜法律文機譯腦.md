@@ -30,9 +30,9 @@ An affirmative defense is a defense asserted by the defendant that essentially s
 
 很樂見 Claude 百分之百正確，擠霸昏！這是我給它的第一個測試，我今天才註冊帳號，之前聽說它可能是譯者的不錯的工具。
 
-Google Bard 也翻對了重點部分，很棒，我對它更敬重了（相較於ChatGPT），但它很不爭氣，搞錯了“affirmative defense”這個詞，所以給它80分。
+Google Bard 也翻對了重點部分，很棒，我對它更敬重了（相較於ChatGPT），但它頭腦有點阿達阿達，搞錯了“affirmative defense”這個詞，所以給它80分。
 
-看到這樣一個簡單且並不罕見的法律文本，機譯和AI整體的表現如此掉漆，2266，我們人類口譯員還可以放鬆一下下。
+看到這樣一個簡單且並不罕見的法律文本，AI 機譯整體的表現如此掉漆，2266，我們人類口譯員還可以放鬆一下下。
 ## Join the test
 If you have access to any other machine translation engines or AIs, feel free to test it out using the same text and send me the result (either Chinese script is fine). I'll gladly update the spreadsheets. Send it through the comment box below or email me at ekliao@gmail.com
 
