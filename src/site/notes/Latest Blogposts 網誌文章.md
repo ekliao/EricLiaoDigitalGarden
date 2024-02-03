@@ -10,7 +10,7 @@ last-updated:: 2023-12-02
 > Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文。
 # 譯界之外 Beyond T&I
 
-- [[小城 ethernet vs. wi-fi\|在臺灣的有線網速 vs. wi-fi]]
+- [[台灣住家的 Ethernet vs. Wi-fi\|在台灣的網速 Ethernet vs. wi-fi]]
 
 - [[Zoom host can share video with sound to ALL breakout rooms｜Zoom主持人可對分組房播放影音\|Zoom host can share video with sound to ALL breakout rooms｜Zoom主持人可對分組房播放影音]]
 
