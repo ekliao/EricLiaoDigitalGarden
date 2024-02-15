@@ -16,4 +16,4 @@ Here's a screenshot of what the web note should look like, after loading, using 
 For fellow Obsidian users, here's what the notes look like when automatically synced to Obsidian:
 如果你也跟我一樣愛用 Obsidian，以下是同一份註記自動同步到 Obsidian 後的結果，供參：
 
-[[_hypothesis/books.com.tw/中文打字機：機械書寫時代的漢字輸入進化史\|中文打字機：機械書寫時代的漢字輸入進化史]]
+[[__x_not-my-writing/_hypothesis/books.com.tw/中文打字機：機械書寫時代的漢字輸入進化史\|中文打字機：機械書寫時代的漢字輸入進化史]]
