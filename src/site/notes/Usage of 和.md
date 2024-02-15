@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/usage-of/","noteIcon":"2"}
 ---
 
-#wip 
+#todo/wip 
 #grammar 
 I've always suspected that the Chinese coordinating conjunction 和 (he2) should not be used to connect verbs and verbal phrases, despite how common this practice is. I have yet to find a grammar book or treatise to support this view, but here's one article on 知乎, a popular Answer site in China analogous to Quora/Reddit, that implicitly approves of `唱歌和跳舞`, if the example is meant to illustrate conjunction of verbs. I'll keep my eyes peeled.
 
