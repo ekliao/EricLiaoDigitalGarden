@@ -8,7 +8,7 @@
 
 Squat house 不是低矮房子，但也不是「違建」。違建是建築物本身違法興建起來，但 squat house 本身是合法的建築，卻被非法占用、占住，尤其在貧民區裡經常有遊民非法占用空置建築的情形。
 
-例如，以下找到某書中的 squat house 實際用例：有個人非法占住某間squat house，被警察趕出。
+例如，以下找到某書中的 squat house 實際用例：有個人非法占住某間 squat house，被警察趕出。
 
 [src](https://www.google.com.tw/books/edition/A_House_on_Stilts/oc-nDwAAQBAJ?hl=en&gbpv=1)
 
