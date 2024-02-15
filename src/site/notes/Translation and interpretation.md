@@ -8,7 +8,7 @@ Often abbreviated T&I.
 
 # Interpretation
 
-## [[Sight translation\|Sight translation]]
+## [[Sight translation 視譯\|Sight translation 視譯]]
 
 ## Consecutive interpretation
 
