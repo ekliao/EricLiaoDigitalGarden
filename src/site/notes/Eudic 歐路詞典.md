@@ -9,16 +9,40 @@ This is a meta-dictionary app and my no. 1 go-to tool for all read-only dictiona
 
 - The desktop version also requires a separate purchase, albeit still inexpensive. I really wish there were sync capability across all devices.
 
-# [[Eudic 歐路詞典 Mac 電腦版 - purchased\|Eudic 歐路詞典 Mac 電腦版 - purchased]]
+# Mac version - purchased
+## Adding/removing custom dictionaries (main benefit)
+### Path to custom dictionaries
 
-- List of my [[Dictionaries (mostly mdx) installed on Eudic  (synced on Mac and iOS) 歐路詞典已安裝資源（Mac和iOS手動同步）\|installed Eudic]] reference materials. ⛔️
+~/Library/Eudb_en
+
+![Screenshot 2024-02-11 at 4.26.04 PM.png|350](/img/user/_attachments/_OB/Screenshot%202024-02-11%20at%204.26.04%E2%80%AFPM.png)
+
+### Caution: use only the app to manage custom dictionaries
+#### *(2024-02-15)* Don't delete files directly from this directory
+Deleting files would cause errors in app later when you "delete properly" from the app.
+#### Don't add directly to this directory
+*Don't just drop the mdx, mdd (if available), and css files (if available) to this path* either. It won't work (no effect except creating bloat). Instead, drag and drop the files (multiple files are okay; it will ask you if you want to apply the same preferences to all files) into the app's 管理 interface, to the area indicated here:
+
+![Screenshot 2024-02-11 at 5.05.38 PM.png|500](/img/user/_attachments/_OB/Screenshot%202024-02-11%20at%205.05.38%E2%80%AFPM.png)
+## Features
+
+### [[Eudic 歐路詞典 AI Simultaneous 同傳功能（僅有英中，無中英）on Mac (through System audio settings and Loopback or on iOS (CADNCI)\|"AI Simul"]]
+
+## List of my [[Dictionaries (mostly mdx) installed on Eudic  (synced on Mac and iOS) 歐路詞典已安裝資源（Mac和iOS手動同步）\|installed Eudic]] reference materials. ⛔️
 
 ---
-
 # More ...
+
+## My videos
+⛔️ [[LIST (keep private!) - My private and unlisted YouTube videos in varied topics#Eudic\|LIST (keep private!) - My private and unlisted YouTube videos in varied topics#Eudic]]
 
 [[Eudic 歐路詞典 css - how the css file name should be\|Eudic 歐路詞典 css - how the css file name should be]]
 
 [[__EV/_Upnote_ekliao_ENEX/Eudic 歐路詞典 (學習帳號) ekliao@gmail.com pw q60\|學習帳號]]
 
-[[priv - Eudic 歐路詞典 2024-02-11 purchase info, order number 購買資料，訂單號#Activation code (working)\|priv - Eudic 歐路詞典 2024-02-11 purchase info, order number 購買資料，訂單號#Activation code (working)]]
+⛔️ [[priv - Eudic 歐路詞典 2024-02-11 purchase info, order number 購買資料，訂單號#Activation code (working)\|priv - Eudic 歐路詞典 2024-02-11 purchase info, order number 購買資料，訂單號#Activation code (working)]]
+
+[[Eudic 歐路詞典 iOS - pasting mdx (and mdd, css if available) into directory of "external custom DB path" on iOS does work - immediately adds the dict to Eudic\|Eudic 歐路詞典 iOS - pasting mdx (and mdd, css if available) into directory of "external custom DB path" on iOS does work - immediately adds the dict to Eudic]]
+
+
+
