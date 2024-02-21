@@ -8,6 +8,8 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
+- [[PDFSam Basic\|PDFSam Basic]] (2024/2 for "alternative mix," collaging PDF pages that are left-right-page out of order)
+- [[UltraEdit\|UltraEdit]] (2024/2, for Replace In Files - fail compared to [[EmEditor\|EmEditor]])
 - [[CapCut 剪映\|CapCut 剪映]] (2023/12)
 - [[BBEdit\|BBEdit]] (2023/12)
 - [[Movavi Video Editor 24\|Movavi Video Editor 24]] (2023/11)
