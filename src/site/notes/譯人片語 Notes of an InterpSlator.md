@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-of-an-interp-slator/","noteIcon":"2"}
 ---
 
-- 2024-02-15 【Comprehension 英語理解】[[何謂 squat house\|何謂 squat house]]
+- 2024-02-15 【Comprehension 英語理解】[[Ugly, squat houses vs. ugly squat houses\|Ugly, squat houses vs. ugly squat houses]]
 
 - 2024-01-19 【Phonemic awareness 音位意識】[[Threads音義雙全的中文譯名｜Give Threads a decent name\|Threads音義雙全的中文譯名｜Give Threads a decent name]]
 
