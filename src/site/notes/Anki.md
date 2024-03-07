@@ -10,7 +10,7 @@ date-created:: 2023-02-21
 
 I started putting all my effort into [[Anki\|Anki]] in ... 2019, when I successfully imported 200,000 English-Chinese dictionary entries into it and started liking its versatility. The rest is history. 
 
-Now I have this as my second weapon: [[Vault home - Ekliao\|My first Obsidian vault: EKLIAO]].
+Now I have this as my second weapon: [[Vault home - EKL (Ekliao)\|My first Obsidian vault: EKLIAO]].
 
 # Verdict: 4 stars
 
