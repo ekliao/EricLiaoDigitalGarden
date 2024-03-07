@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-of-an-interp-slator/","noteIcon":"2"}
 ---
 
-- 2024-03-07 【Translationese 翻譯體】[[史上最長的中文名詞前置修飾語？\|史上最長的中文名詞前置修飾語？]]
+- 2024-03-07 【Translationese 翻譯體】[[Sighting of the longest-ever prenominal modifier in Chinese (50 characters long)？ ｜史上最長的中文名詞前置修飾語？\|Sighting of the longest-ever prenominal modifier in Chinese (50 characters long)？ ｜史上最長的中文名詞前置修飾語？]]
 - 2024-02-15 【Comprehension 英語理解】[[Ugly, squat houses vs. ugly squat houses\|Ugly, squat houses vs. ugly squat houses]]
 
 - 2024-01-19 【Phonemic awareness 音位意識】[[Threads音義雙全的中文譯名｜Give Threads a decent name\|Threads音義雙全的中文譯名｜Give Threads a decent name]]
