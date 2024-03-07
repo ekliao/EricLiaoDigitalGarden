@@ -18,3 +18,7 @@ A caveat:
 - To my disappointment, [[EasyFind\|EasyFind]] does not reliably find text in files as expected. I tried to look for a simple fixed string such as `disqus` in a directory tree of files and it found fewer files than expected. I have no idea why such a simple search failed. In comparison, the tried-and-true [[Text Editors#^81cbb4\|EmEditor]] (available on Windows only, alas) did fine. 
 
 </div></div>
+
+# On Mac 2023 (Apple Silicon M3 chip laptop)
+
+*(2024-02-26)* Everything is working! Phew! I can see myself using it a lot again (and perhaps delaying considering [[DEVONthink\|DEVONthink]]) because now the [[MacBook Pro Max 2023 with Apple Silicon M3 chip + Windows 11 Pro VM (Parallels Desktop) + Movavi screen recorder 24 + Loopback = total success! Yay!\|Windows 11 Pro VM]] runs side by side Mac 2023 like a powerhouse!
