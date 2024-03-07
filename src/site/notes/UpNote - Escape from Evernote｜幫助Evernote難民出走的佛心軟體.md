@@ -16,11 +16,15 @@ Started using it only for the ability to painlessly import Evernote ENEX, keepin
 - Upnote not only preserves metadata like creation time and modification time (and tags), it even makes sure the markdown files generated today (2023) have the creation time and modification time that mimic the original times!! Thank you so much!!
 
 ![_attachments/Screenshot 2023-12-05 at 18.09.32.png](/img/user/_attachments/Screenshot%202023-12-05%20at%2018.09.32.png)
+
+### Cross links between notes
+
+- Using the \[\[ syntax, a linked note has info back into the linking note.
 ## Cons
 
 ### The web clipper is less powerful than Evernote's
 
-### Not free, though quite affordable ($0.99/month or $30 buy-out)
+### Not free, though quite affordable ($0.99/month or $30 obuy-out)
 
 ---
 # More ...
