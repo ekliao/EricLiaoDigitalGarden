@@ -62,7 +62,8 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Chrome\|Chrome]]
 
 ### [[Windows\|Windows]]-only tools
-- [[Windows 10 VM\|Windows 10 VM]]
+- [[Windows 11 Pro VM - document everything here\|Windows 11 Pro VM]] (2024-02) - brand-new installation
+- [[Windows 10 VM\|Windows 10 VM]] - to retire because its Intel-based Parallels Desktop image cannot be transferred to the new ARM-based Apple Silicon M3
 - Abbyy FineReader
 - [[EmEditor\|EmEditor]]
 - [[Araxis Merge\|Araxis Merge]] x
@@ -92,6 +93,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]] (2023/5)
 - [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2560 x 1440, 16:9) (2019?)
 - [[Apple Pencil Gen 1\|Apple Pencil Gen 1]] (201?)
+- [[Behringer U-Control UCA222 audio interface\|Behringer U-Control UCA222 audio interface]] (201?)
 - [[USB\|USB]]
 
 ---
