@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/ugly-squat-houses-vs-ugly-squat-houses/","noteIcon":"2"}
 ---
 
+#english-comprehension 
+#english-grammar 
+#comma 
+
 [See the original discussion 線上筆記（需登入臉書）](https://hyp.is/HE4bkMwPEe6KwQsEFJFnVg/www.facebook.com/groups/434650196632629?multi_permalinks=6965024946928422&hoisted_section_header_type=recently_seen)
 
 蘇老師在此改掉錯誤理解 squat house 為「低矮的房子」，稱正解為「違建」，但我有不同看法如下。
@@ -20,7 +24,7 @@ a row of ugly squat houses
 
 [src](https://www.google.com.tw/books/edition/A_House_on_Stilts/oc-nDwAAQBAJ?hl=en&gbpv=1)
 
-![Screenshot 2024-02-15 at 11.02.36 PM.png|500](/img/user/_attachments/_OB/Screenshot%202024-02-15%20at%2011.02.36%E2%80%AFPM.png)
+![[Screenshot 2024-02-15 at 11.02.36 PM.png\|500]]
 
 
 結論：a row of ugly, squat houses 的確是「一排低矮難看的房子」，文法上不允許把「squat house」理解為「被占用的房子」，如果更進一步，不僅無視文法且誤解「squat」而誤解爲房子本身「違建」，那就該反省自己是否真的理解這句英文了！
