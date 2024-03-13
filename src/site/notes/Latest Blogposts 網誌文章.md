@@ -211,7 +211,7 @@ last-updated:: 2023-12-02
 - [[10 dailynotes/2023-05-14\|2023-05-14]] - Need more computing power
 - [[10 dailynotes/2023-05-13\|2023-05-13]] - Proprioception
 - [[10 dailynotes/2023-05-12\|2023-05-12]] - Which slash is it?
-- [[10 dailynotes/2023-05-11\|2023-05-11]] - Touch typing test
+- [[10 dailynotes/2023-05-11\|2023-05-11]] - Touch typing test on my newly acquired Nuphy Air75 wireless mechanical keyboard
 - [[10 dailynotes/2023-05-10\|2023-05-10]] - Data interoperability
 - [[10 dailynotes/2023-05-09\|2023-05-09]] - LiquidText and my opaque memory
 - [[10 dailynotes/2023-05-08\|2023-05-08]] - Obsessed with note-taking in the broadest sense
