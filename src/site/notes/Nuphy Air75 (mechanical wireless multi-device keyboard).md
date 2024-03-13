@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/nuphy-air75-mechanical-wireless-multi-device-keyboard/","noteIcon":"2"}
 ---
 
+# Verdict: 4/5
+
+*202403* Would have been 5/5, but I had to deduct one full point due to recent degraded wireless performance for unknown reasons.
+
+---
+# Pre-purchase
+
 #paste/glasp 
 #### Metadata
 Title: Nuphy Air 75 | 怎么会有这么漂亮的矮轴键盘？手感和质感 3 周使用评测 - YouTube
@@ -11,6 +18,8 @@ mechanical keyboard; 4 devices; bluetooth; 2.4GHz
 cf. Air96, Air60
 
 ---
+
+# After purchase
 ## Touch typing
 
 
@@ -44,3 +53,12 @@ $<div class="markdown-embed-title">
 	- e.g. `CTRL-R` (or `CTRL-CMD-R`) to start OCR on selected pages in FineReader
 - Use F1-F12 function keys like normal, e.g. F5 for refresh, F3 for next hit
 	- Toggle `FN-TAB-'F'` (the letter 'F')
+
+---
+# Issues
+
+*202403* Soon after I came home from the Taiwan trip and reconnected all the USB hubs including setting up the newly purchased 7-port USB 3.0 to USB Type C adapter, the Nuphy Air75 wireless connection, which used to be fast and smooth, started to become iffy--it was either slow, unstable, or skipping or adding letters. Very annoying. I had to resort to using the wired option (thank goodness it is an option) almost always now. Very disappointed! It's strange this problem coincided with the failure of the old 7-port hub and the addition of the new one.
+
+---
+
+[[Nuphy Air75 wireless device settings - follow this scheme 遵照此無限鍵盤設定\|Nuphy Air75 wireless device settings - follow this scheme 遵照此無限鍵盤設定]]
