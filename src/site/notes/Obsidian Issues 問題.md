@@ -2,7 +2,17 @@
 {"dg-publish":true,"permalink":"/obsidian-issues/","noteIcon":"2"}
 ---
 
-date-created:: 2023-02-28   
+## Attachments
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[20240311 obsidian attachment image cannot be found problem within a note (but the image file exists in the latest path) - probably due to onetime change of attachment path - how to fix](https://youtu.be/FvzZiPNw6Lc) 
+
+</div></div>
+
 ## [[Obsidian iOS, iPadOS app - Issues\|Obsidian iOS, iPadOS app - Issues]]
 
 ## [[Obsidian's limitations - number of files, slow search\|Obsidian's limitations - number of files, slow search]]
