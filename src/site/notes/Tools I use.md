@@ -87,6 +87,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ### [[My audio equipment\|Audio equipment]] 
 
 ## Accessories
+- [[7-port powered USB 3.0 hub with USB Type C and USB-A adapter\|7-port powered USB 3.0 hub with USB Type C and USB-A adapter]] (2024/3)
 - [[Wireless 2.4GH USB-A mouse\|Wireless 2.4GH USB-A mouse]] (2023/11)
 - [[USB C 8-in-1 multi-Port Adapter\|USB C 8-in-1 multi-Port Adapter]] (2023/11)
 - [[Apple Watch Ultra\|Apple Watch Ultra]] (2023/5)
