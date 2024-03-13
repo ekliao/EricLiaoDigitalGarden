@@ -5,7 +5,10 @@
 ## Pros
 - Free
 - [[Regex 正規表式\|Regex 正規表式]] search of file names and content
-- 
+- Useful operations on result list of files:
+	- can be moved (physically) into a new Finder folder
+	- can be deleted (physically)
+	- can be compressed using Kela (iffy, hit and miss)
 ## Cons
 - A query can't operate on BOTH file names and content. Only one.
 
