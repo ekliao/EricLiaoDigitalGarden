@@ -11,7 +11,7 @@ This is a meta-dictionary app and my no. 1 go-to tool for all read-only dictiona
 
 # Mac version - purchased
 ## Adding/removing custom dictionaries (main benefit)
-### Path/directorr to custom dictionaries
+### Path/director to custom dictionaries
 
 ~/Library/Eudb_en
 
@@ -30,10 +30,10 @@ Deleting files would cause errors in app later when you "delete properly" from t
 ## List of my [[Dictionaries (mostly mdx) installed on Eudic  (synced on Mac and iOS) 歐路詞典已安裝資源（Mac和iOS手動同步）\|installed Eudic]] reference materials. ⛔️
 
 ---
-# More ...
-
-## My videos
+## My YouTube videos: category Eudic 歐路詞典
 ⛔️ [[LIST (keep private!) - My private and unlisted YouTube videos in varied topics#Eudic\|LIST (keep private!) - My private and unlisted YouTube videos in varied topics#Eudic]]
+
+# More ...
 
 [[Eudic 歐路詞典 css - how the css file name should be\|Eudic 歐路詞典 css - how the css file name should be]]
 
@@ -43,5 +43,5 @@ Deleting files would cause errors in app later when you "delete properly" from t
 
 [[Eudic 歐路詞典 iOS - pasting mdx (and mdd, css if available) into directory of "external custom DB path" on iOS does work - immediately adds the dict to Eudic\|Eudic 歐路詞典 iOS - pasting mdx (and mdd, css if available) into directory of "external custom DB path" on iOS does work - immediately adds the dict to Eudic]]
 
-
+[[Eudic 歐路詞典 issues\|Eudic 歐路詞典 issues]]
 
