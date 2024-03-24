@@ -22,6 +22,9 @@ Started using it only for the ability to painlessly import Evernote ENEX, keepin
 - Using the \[\[ syntax, a linked note has info back into the linking note.
 ## Cons
 
+### Search has become slow, sometimes painfully so
+
+Previously unnoticed, search sometimes takes more than 5 seconds to get any results. This feels like an eon compared to most tools. The silver lining is I have not found the search results to be unreliable (false positives or negatives).
 ### The web clipper is less powerful than Evernote's
 
 The clipped content is usually quite complete. But it may miss certain headings or user names (attributions), strangely. This may be a problem because in a forum or post, knowing where one's comment begins and ends is as important as the comment itself. This problem is observed mostly in complex posting structures e.g. Facebook and Reddit. For simpler articles, such as the bilingual New York Times articles (English and Chinese translation), it is perfect.
