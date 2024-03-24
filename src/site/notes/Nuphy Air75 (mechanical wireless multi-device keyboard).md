@@ -18,7 +18,6 @@ mechanical keyboard; 4 devices; bluetooth; 2.4GHz
 cf. Air96, Air60
 
 ---
-
 # After purchase
 ## Touch typing
 
@@ -37,16 +36,23 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
-## Win/Mac switch
-- 🤷 Ironically, setting it to Mac will enable F3 for 'next hit' after the toggle, but setting it to Win will not work.  
-
 ## Settings shortcuts
+
+- Power switch (second one from top right)
+	- OFF: right-most position
+	- Wired: middle position
+	- Wireless (using USB dongle): left-most position
+
+- Win/Mac switch (top right)
+	- Mac: left
+	- Win: right
+	- 🤷 Quirkiness: Ironically, setting it to Mac will enable F3 for 'next hit' after the toggle, but setting it to Win will not work.  ( #todo verify this is still the case)
+
 
 - Battery level: `FN + \` Green indicates a high/full level (*Beware:* the battery level is shown only when the charging cable is unplugged.)
 - Indicator lights (both sides): `FN + / + up/down arrow`
-- RGB lights: `FN + H (Halo) + up/down arrow`
-
-## Windows VM
+- RGB multicolor lights/glow/flashing: `FN + H (Halo) + up/down arrow`
+## For use by the Windows 11 Pro VM
 - Use `OPT` (option) key for `ALT` on Windows, naturally
 	- e.g. `CTRL-OPT-DEL` to effect the "three-finger salute"
 - Use `CTRL` (or sometimes `CTRL-CMD`) to effect the CTRL key on Windows
