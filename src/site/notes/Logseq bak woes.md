@@ -8,4 +8,4 @@ Read [thread](https://discuss.logseq.com/t/can-i-delete-the-contents-within-the-
 
 OMG, these bak files are published!
 
-![../_attachments/Screen Shot 2023-07-15 at 00.49.29.png|500](/img/user/_attachments/Screen%20Shot%202023-07-15%20at%2000.49.29.png)
+![[../_attachments/Screen Shot 2023-07-15 at 00.49.29.png\|500]]
