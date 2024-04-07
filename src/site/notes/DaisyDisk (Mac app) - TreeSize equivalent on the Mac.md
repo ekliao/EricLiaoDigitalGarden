@@ -6,4 +6,4 @@
 
 
 
-![_attachments/Screenshot 2023-12-11 at 12.29.49.png](/img/user/_attachments/Screenshot%202023-12-11%20at%2012.29.49.png)
+![[_attachments/Screenshot 2023-12-11 at 12.29.49.png\|_attachments/Screenshot 2023-12-11 at 12.29.49.png]]
