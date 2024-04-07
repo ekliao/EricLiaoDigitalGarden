@@ -23,7 +23,7 @@ Now I have this as my second weapon: [[Vault home - EKL (Ekliao)\|My first Obsid
 ## Hierarchical tags and search
 
 - Truly hierarchical: searching for `tag:A` alone without saying `tag:A::` or `tag:A*` will still get `A::B` and `A::B::C`, etc. Great!
- ![hierarchical tag search in anki.png](/img/user/_attachments/hierarchical%20tag%20search%20in%20anki.png)
+ ![hierarchical tag search in anki.png](/img/user/_attachments/_OB/hierarchical%20tag%20search%20in%20anki.png)
 ## Custom fields
 # Cons
 ## Very limited regex search
@@ -57,7 +57,7 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 - User interface size
 	- Though obvious, I didn't discover this adjustable parameter earlier. Once I changed it to 150%, Anki immediately felt a lot more accessible.
 
-![_attachments/Screen Shot 2023-06-16 at 12.43.32.png|350](/img/user/_attachments/Screen%20Shot%202023-06-16%20at%2012.43.32.png)
+![[_attachments/Screen Shot 2023-06-16 at 12.43.32.png\|350]]
 
 - "Set font size" add-on (enlarges everything except browser grid font/back fields)
 
@@ -66,7 +66,7 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 
 - Hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
 
-	![anki hierarchical tags vs flat tags w arbitrary delimiters.png|250](/img/user/_attachments/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
+	![anki hierarchical tags vs flat tags w arbitrary delimiters.png|250](/img/user/_attachments/_OB/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
 
 - Rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
 
