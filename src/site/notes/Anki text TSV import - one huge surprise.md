@@ -8,7 +8,7 @@ Beware! Although Anki has the option of recording the deck name in the export, a
 
 As shown, choosing "Notetype and deck" as Match scope (instead of just "Notetype") does not work as it leads you to believe what will happen. It still imports all content into the specified single deck (A::A-Dict in this example). 
 
-![_attachments/Screen Shot 2023-08-19 at 12.53.06.png](/img/user/_attachments/Screen%20Shot%202023-08-19%20at%2012.53.06.png)
+![[_attachments/Screen Shot 2023-08-19 at 12.53.06.png\|_attachments/Screen Shot 2023-08-19 at 12.53.06.png]]
 
 # More ...
 
