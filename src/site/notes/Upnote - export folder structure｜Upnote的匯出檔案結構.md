@@ -12,4 +12,4 @@
 
 No separation of attachments. This is a minor annoyance but understandable. Contribute to bloat if you have many attachments from different notebooks. Best to export one large notebook at a time.
 
-![_attachments/Screenshot 2023-12-08 at 03.20.36.png](/img/user/_attachments/Screenshot%202023-12-08%20at%2003.20.36.png)
+![[_attachments/Screenshot 2023-12-08 at 03.20.36.png\|_attachments/Screenshot 2023-12-08 at 03.20.36.png]]
