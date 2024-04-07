@@ -21,7 +21,7 @@ Turns out this is also one of the note that the [[Exporter (app)\|Exporter (app)
 
 The overall fail rate is 1% (12 out of 1063) in my first experiment.
 
-![_attachments/Screen Shot 2023-06-08 at 15.10.51.png|150](/img/user/_attachments/Screen%20Shot%202023-06-08%20at%2015.10.51.png)
+![[_attachments/Screen Shot 2023-06-08 at 15.10.51.png\|150]]
 
 This export of 1000 notes took about 30 minutes. A bit slow.
 
