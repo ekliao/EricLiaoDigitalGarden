@@ -10,7 +10,7 @@
 - Tana internal format
 - Other standard markdown-based apps
 
-![_attachments/Screenshot 2023-12-05 at 10.55.58.png](/img/user/_attachments/Screenshot%202023-12-05%20at%2010.55.58.png)
+![[_attachments/Screenshot 2023-12-05 at 10.55.58.png\|_attachments/Screenshot 2023-12-05 at 10.55.58.png]]
 
 # Observation
 
