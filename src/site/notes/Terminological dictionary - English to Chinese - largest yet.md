@@ -31,7 +31,7 @@ The proof is in the pudding. So I tried to search for one technical term, which 
   
 函渠,箱形涵洞,箱形暗渠,盒形排水渠,盒形暗渠,方形去水渠,方形排水渠,方形暗渠
 ```
-![_attachments/Screen Shot 2023-08-23 at 12.37.07.png](/img/user/_attachments/Screen%20Shot%202023-08-23%20at%2012.37.07.png)
+![[_attachments/Screen Shot 2023-08-23 at 12.37.07.png\|_attachments/Screen Shot 2023-08-23 at 12.37.07.png]]
 
 So, it gives 8 distinct Chinese terms. (Kudos to it for not listing duplicates!)
 
