@@ -18,7 +18,7 @@ Or, as they call it, my second brains?
 In any case, [[Notion\|Notion]] feels like a complete overkill.
 
 First image (testing attachment folder): 
-![Pasted image 20230221063443.png](/img/user/_attachments/Pasted%20image%2020230221063443.png)
+![Pasted image 20230221063443.png](/img/user/_attachments/_OB/Pasted%20image%2020230221063443.png)
 Nice! It's copy 'n' paste.
 
 中文字體看來如何？
