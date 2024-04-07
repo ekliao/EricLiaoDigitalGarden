@@ -31,7 +31,7 @@
 
 The pound sign (\#) for tags in file name is allowed if the file is directly copied under vault externally. Despite this, it does not work as tags in OB, e.g.:
 
-![../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
+![[../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png\|500]]
 
 ---
 ## iCloud
@@ -42,7 +42,7 @@ The pound sign (\#) for tags in file name is allowed if the file is directly cop
 
 This view on my iPhone has become a daily eyesore:
 
-![_attachments/IMG_EAE1F33EA278-1.jpeg|250](/img/user/_attachments/IMG_EAE1F33EA278-1.jpeg)
+![[_attachments/IMG_EAE1F33EA278-1.jpeg\|250]]
 - [The problem, and two potential solutions using Github (manual sync) and Apple Scriptable](https://www.reddit.com/r/ObsidianMD/comments/vdal97/is_there_a_way_to_shorten_this_waiting_time_or/)
 
 ---
@@ -94,7 +94,7 @@ When "live preview" fails, it means what's depicted in this screenshot is not tr
 - Showing nice formatting
 - Page settings (three-dots menu): Both Reading view and Source mode are OFF
 
-![_attachments/Screen Shot 2023-05-21 at 11.30.38.png](/img/user/_attachments/Screen%20Shot%202023-05-21%20at%2011.30.38.png)
+![[_attachments/Screen Shot 2023-05-21 at 11.30.38.png\|_attachments/Screen Shot 2023-05-21 at 11.30.38.png]]
 
 #solution/worked
 	 - [one solution: toggle legacy editor, relaunch, and toggle back](https://forum.obsidian.md/t/live-preview-stopped-working-toggling-legacy-editor-fixed-it/30377)
@@ -103,11 +103,11 @@ When "live preview" fails, it means what's depicted in this screenshot is not tr
 
 - *(2023-06-21)* The same issue cropped up again:
 
-![_attachments/Screen Shot 2023-06-21 at 00.44.37.png|250](/img/user/_attachments/Screen%20Shot%202023-06-21%20at%2000.44.37.png)
+![[_attachments/Screen Shot 2023-06-21 at 00.44.37.png\|250]]
 
 - See how the word 'well' is not in the dictionary:
 #issue/gone (2023-04-16)
-> ![Screen Shot 2023-02-28 at 11.47.17 PM.png|250](/img/user/_attachments/Screen%20Shot%202023-02-28%20at%2011.47.17%20PM.png)
+> ![Screen Shot 2023-02-28 at 11.47.17 PM.png|250](/img/user/_attachments/_OB/Screen%20Shot%202023-02-28%20at%2011.47.17%20PM.png)
 
 ---
 
