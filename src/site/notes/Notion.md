@@ -9,7 +9,7 @@ I have said a few times that Notion looked like overkill compared with [[Obsidia
 
 My first distrust and distaste of Notion came a few weeks ago when it simply failed to delivery by bluntly showing this "Import failed" message without any explanation:
 
-![_attachments/useless Notion CSV import error message.png|400](/img/user/_attachments/useless%20Notion%20CSV%20import%20error%20message.png)
+![[_attachments/useless Notion CSV import error message.png\|400]]
 
 I chose to import a CSV file that I converted using Google Sheets from an Anki TSV. 
 
@@ -19,7 +19,7 @@ I thought I was going to leave it for good, ready to chalk it as a completely ov
 
 Then, after trials and tribulations with Logseq, Tana, and recently with a new surprise from Anki, I chanced upon the cause of import failure: Notion "capriciously" gave more helpful error message:
 
-![_attachments/helpful Notion CSV import error message.png|250](/img/user/_attachments/helpful%20Notion%20CSV%20import%20error%20message.png)
+![[_attachments/helpful Notion CSV import error message.png\|250]]
 
 So, the failure was caused by inconsistent number of columns, which is strange coming from Anki, but I dug deeper and found why. It was due to my overly simple attempt to convert from TSV to CSV. To make a long story short, after using Sheets to read TSV, double-checking data consistency, and exporting as CSV, the CSV was magically processed by Notion, and I had my first Notion page with 3000 entries from Anki!
 
