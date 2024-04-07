@@ -16,4 +16,4 @@ regex ws { <!ww> \s*}
 ```
 then clearly it matches **zero to many** different whitespace characters unless it's **within a word**. The two fatal errors are: =="at least one"== and =="unless it's at a word boundary"==.
 
-![_attachments/s an example, these two SQL statements produce identical parse.png|500](/img/user/_attachments/s%20an%20example,%20these%20two%20SQL%20statements%20produce%20identical%20parse.png)
+![[_attachments/s an example, these two SQL statements produce identical parse.png\|500]]
