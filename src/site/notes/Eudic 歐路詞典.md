@@ -37,7 +37,7 @@ Deleting files would cause errors in app later when you "delete properly" from t
 
 [[Eudic 歐路詞典 css - how the css file name should be\|Eudic 歐路詞典 css - how the css file name should be]]
 
-[[__EV/_Upnote_ekliao_ENEX/Eudic 歐路詞典 (學習帳號) ekliao@gmail.com pw q60\|學習帳號]]
+[[Eudic 歐路詞典 (學習帳號) ekliao@gmail.com pw q60\|學習帳號]]
 
 ⛔️ [[priv - Eudic 歐路詞典 2024-02-11 purchase info, order number 購買資料，訂單號#Activation code (working)\|priv - Eudic 歐路詞典 2024-02-11 purchase info, order number 購買資料，訂單號#Activation code (working)]]
 
