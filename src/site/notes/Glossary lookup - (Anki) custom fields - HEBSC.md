@@ -66,7 +66,7 @@ C is mostly empty or 'y' so logically should go last in data entry.
 
 ## 2023-08-17
 
-![_attachments/Screen Shot 2023-08-17 at 16.02.43.png](/img/user/_attachments/Screen%20Shot%202023-08-17%20at%2016.02.43.png)
+![[_attachments/Screen Shot 2023-08-17 at 16.02.43.png\|_attachments/Screen Shot 2023-08-17 at 16.02.43.png]]
 
 So glad I now have my most important deck (A-Dict) retyped as HEBSC. The search is more powerful with the addition of the 'h', 's', and 'c' fields. 
 # Issues
