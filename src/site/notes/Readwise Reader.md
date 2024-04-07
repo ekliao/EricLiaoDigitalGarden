@@ -26,7 +26,7 @@ This is from [[people/Nicole Van Der Hoeven\|Nicole Van Der Hoeven]]'s digital g
 - Some image (where does it come from?)
 - Highlight/quote section
 
-![Screen Shot 2023-04-24 at 17.14.18.png](/img/user/_attachments/Screen%20Shot%202023-04-24%20at%2017.14.18.png)
+![Screen Shot 2023-04-24 at 17.14.18.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-24%20at%2017.14.18.png)
 
 ### Compare Visually With Glasp
 
@@ -41,7 +41,7 @@ This is from [[people/Nicole Van Der Hoeven\|Nicole Van Der Hoeven]]'s digital g
 
 
 (Screenshot below)
-![Screen Shot 2023-04-24 at 17.27.40.png](/img/user/_attachments/Screen%20Shot%202023-04-24%20at%2017.27.40.png)
+![Screen Shot 2023-04-24 at 17.27.40.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-24%20at%2017.27.40.png)
 
 ### Components Missing in Reader
 - Tags
