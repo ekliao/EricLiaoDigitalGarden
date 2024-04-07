@@ -7,7 +7,7 @@ date-created:: 2023-05-02
 I bought LiquidText (henceforth LT to avoid confusion with LQ, which I will give Logseq) with a onetime purchase price of around $30 for the “Enterprise” edition when I noticed how amazing it was to be able to link any two points within a document or even between documents. 
 
 *(August 2018)*
-![_attachments/Screen Shot 2023-05-21 at 09.40.43.png](/img/user/_attachments/Screen%20Shot%202023-05-21%20at%2009.40.43.png)
+![[_attachments/Screen Shot 2023-05-21 at 09.40.43.png\|_attachments/Screen Shot 2023-05-21 at 09.40.43.png]]
 
 Also, the ability to add all kinds of annotation: 
 - Select text and choose a color highlight
@@ -34,7 +34,7 @@ As an aside: I should question whether I have mistreated [[MarginNote\|MarginNot
 ## Update
 *(2023-05-21*) To my surprise, I found my account has the status of "LiquidText Pro." This means I can use the new Mac version of LT and sync with the iPad version without paying anything more!
 
-![_attachments/IMG_715AFB4C81E5-1.jpeg|400](/img/user/_attachments/IMG_715AFB4C81E5-1.jpeg)
+![[_attachments/IMG_715AFB4C81E5-1.jpeg\|400]]
 
 p.s. Alas, the "LiquidText Pro" label is deceptive. On LT Mac, such account status does not exist. I think LT is causing this unnecessary confusion between my iPad Enterprise purchase and what it deems "LT Pro." I am waiting for their response on this issue.
 
