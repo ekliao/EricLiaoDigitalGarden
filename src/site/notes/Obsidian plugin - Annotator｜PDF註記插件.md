@@ -41,7 +41,7 @@ Or: in-line video:
 
 Lo and behold!
 
-![Screen Shot 2023-05-08 at 11.57.50.png](/img/user/_attachments/Screen%20Shot%202023-05-08%20at%2011.57.50.png)
+![Screen Shot 2023-05-08 at 11.57.50.png](/img/user/_attachments/_OB/Screen%20Shot%202023-05-08%20at%2011.57.50.png)
 
 ---
 # Quick verdict: 3.5 stars
@@ -49,7 +49,7 @@ Lo and behold!
 
 ### Textual annotations are searchable in OB's general search, and lead to original doc and annotation
 
-![_attachments/Screen Shot 2023-05-21 at 14.13.23.png](/img/user/_attachments/Screen%20Shot%202023-05-21%20at%2014.13.23.png)
+![[_attachments/Screen Shot 2023-05-21 at 14.13.23.png\|_attachments/Screen Shot 2023-05-21 at 14.13.23.png]]
 
 ## Cons
 
@@ -57,12 +57,12 @@ Lo and behold!
 
 😭 No free-form hand-drawn annotation! Look at this page, made with the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
 
-![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/IMG_6A993934BA76-1.jpeg)
+![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/_OB/IMG_6A993934BA76-1.jpeg)
 
 ### Annotation pane search does not work
 
 The search on the annotation pane does not work, e.g. `solutions` should find the specific annotation that says "solutions inside". This works, however, on the left-nav general search for all files. Even though it is findable, locating the found annotation from the left-nav result is a pain, because clicking on the result doesn't home in on the target.
-![_attachments/Screen Shot 2023-05-19 at 21.06.48.png](/img/user/_attachments/Screen%20Shot%202023-05-19%20at%2021.06.48.png)
+![[_attachments/Screen Shot 2023-05-19 at 21.06.48.png\|_attachments/Screen Shot 2023-05-19 at 21.06.48.png]]
 
 ### iPad usability
 
@@ -79,7 +79,7 @@ The search on the annotation pane does not work, e.g. `solutions` should find th
 
 This view on my iPhone has become a daily eyesore:
 
-![_attachments/IMG_EAE1F33EA278-1.jpeg|250](/img/user/_attachments/IMG_EAE1F33EA278-1.jpeg)
+![[_attachments/IMG_EAE1F33EA278-1.jpeg\|250]]
 - [The problem, and two potential solutions using Github (manual sync) and Apple Scriptable](https://www.reddit.com/r/ObsidianMD/comments/vdal97/is_there_a_way_to_shorten_this_waiting_time_or/)
 
 ---
