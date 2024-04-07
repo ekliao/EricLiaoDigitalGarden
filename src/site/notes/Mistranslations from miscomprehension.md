@@ -276,13 +276,13 @@ Yet, the meaning of this has generated quite a bit of confusion among some class
 
 Feel free to comment on my analysis through the Disqus at the bottom of the page. I'd love to hear what you think!
 
-![../_attachments/Screen Shot 2023-07-06 at 16.16.44.png](/img/user/_attachments/Screen%20Shot%202023-07-06%20at%2016.16.44.png)
+![[../_attachments/Screen Shot 2023-07-06 at 16.16.44.png\|../_attachments/Screen Shot 2023-07-06 at 16.16.44.png]]
 
-![../_attachments/Screen Shot 2023-07-06 at 16.17.02.png](/img/user/_attachments/Screen%20Shot%202023-07-06%20at%2016.17.02.png)
+![[../_attachments/Screen Shot 2023-07-06 at 16.17.02.png\|../_attachments/Screen Shot 2023-07-06 at 16.17.02.png]]
 
 Here's the same analysis the larger context of source text: [src: People v. Vargas](https://law.justia.com/cases/california/supreme-court/3d/9/470.html)
 
-![../_attachments/Screen Shot 2023-07-06 at 01.43.07.png](/img/user/_attachments/Screen%20Shot%202023-07-06%20at%2001.43.07.png)
+![[../_attachments/Screen Shot 2023-07-06 at 01.43.07.png\|../_attachments/Screen Shot 2023-07-06 at 01.43.07.png]]
 
 p.s. For those curious not about the English grammar but about the regex for finding the "failure of..." pattern, here it is:
 `fail(s|ed|ing|ure)?\s*(, if any,\s*)?((of|to)\s*(proof|prove)\s+)?(on the part of|by|from|of)\s+the\s+(people|defen(se|dant))`
@@ -291,15 +291,15 @@ p.s. For those curious not about the English grammar but about the regex for fin
 
 #### 1937
 
-![../_attachments/Screen Shot 2023-07-06 at 17.24.04.png|600](/img/user/_attachments/Screen%20Shot%202023-07-06%20at%2017.24.04.png)
+![[../_attachments/Screen Shot 2023-07-06 at 17.24.04.png\|600]]
 
 #### 1946 [src](https://law.justia.com/cases/california/supreme-court/2d/27/478.html)
 
-![../_attachments/Screen Shot 2023-07-06 at 17.45.15.png|600](/img/user/_attachments/Screen%20Shot%202023-07-06%20at%2017.45.15.png)
+![[../_attachments/Screen Shot 2023-07-06 at 17.45.15.png\|600]]
 
 #### 1951 [src](https://law.justia.com/cases/california/court-of-appeal/2d/102/104.html)
 
-![../_attachments/Screen Shot 2023-07-06 at 17.43.54.png|600](/img/user/_attachments/Screen%20Shot%202023-07-06%20at%2017.43.54.png)
+![[../_attachments/Screen Shot 2023-07-06 at 17.43.54.png\|600]]
 
 In this last instance, the context couldn't have been clearer in showing what "supply failure" must mean. The reasoning goes: though the defendant did not testify, this cannot be used to **supply the ground/reasoning/cause/basis to indicate failure** of proof by the prosecution, because the prosecution has not failed here, evidenced by the record showing numerous facts showing the appellants collaborated in bookmaking (an illegal activity). So, we should think of "supply failure" as an abbreviated way of saying "supply the basis (or any of its synonyms) to indicate failure," otherwise it feels like an odd collocation. Despite the odd-sounding phrase, its occurrences in court record make it a frequent enough stock phrase.
 
