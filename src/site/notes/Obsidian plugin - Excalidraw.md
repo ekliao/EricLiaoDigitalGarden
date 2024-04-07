@@ -8,13 +8,13 @@ I installed the Obsidian Excalidraw plugin only because it is required for [Exca
 
 As shown, I can't wait to get my hands dirty in marking up a PDF page with highlighters any way I want!
 
-![_attachments/Screen Shot 2023-07-07 at 05.23.25.png](/img/user/_attachments/Screen%20Shot%202023-07-07%20at%2005.23.25.png)
+![[_attachments/Screen Shot 2023-07-07 at 05.23.25.png\|_attachments/Screen Shot 2023-07-07 at 05.23.25.png]]
 
 ## Transcluding and linking block highlights like text
 
 I am intrigued not so much by the free highlighting as by the linking capability. A sneak peak of the video tells me that one can transclude any free-highlighted portion of a PDF page into an Obsidian note. That's powerful!
 
-![_attachments/Screen Shot 2023-07-07 at 05.34.29.png](/img/user/_attachments/Screen%20Shot%202023-07-07%20at%2005.34.29.png)
+![[_attachments/Screen Shot 2023-07-07 at 05.34.29.png\|_attachments/Screen Shot 2023-07-07 at 05.34.29.png]]
 
 This transclusion is even clickable, bringing you back to the original imported PDF file where you can view the highlight in context!
 
