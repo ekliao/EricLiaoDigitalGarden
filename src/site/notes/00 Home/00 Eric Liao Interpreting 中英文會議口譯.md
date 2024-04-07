@@ -5,7 +5,7 @@
 # Eric Liao Interpreting 中英文會議口譯
 
 
-![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
+![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/_OB/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
 #### Mandarin - English Conference Interpreter 中英文會議同步口譯、逐步口譯 / 中英文会议同声传译、交替传译
 
@@ -62,4 +62,4 @@ Feel free to connect by email 電郵 (ekliao@gmail.com), You can also fill out t
 ---
 *This website is built using [[Obsidian\|Obsidian]], its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
 
-*© Eric K. Liao 2023*
+*© Eric K. Liao 2024*
