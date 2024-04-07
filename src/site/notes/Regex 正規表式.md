@@ -9,7 +9,7 @@ Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expressio
 
 [src](https://xkcd.com/208/)
 
-![_attachments/regular_expressions.png](/img/user/_attachments/regular_expressions.png)
+![[_attachments/regular_expressions.png\|_attachments/regular_expressions.png]]
 
 ## My regexes in use
 
