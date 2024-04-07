@@ -29,7 +29,7 @@
 
 Note that while the pound sign (\#) cannot be manually used in creating a new note, it can exist in the name of files that are copied under the Obsidian vault externally in the file system, e.g. 
 
-![../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
+![[../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png\|500]]
 
 This (#) sign, however, will not be recognized as a tag.
 
