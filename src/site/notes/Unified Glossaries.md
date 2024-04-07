@@ -4,7 +4,7 @@
 
 # Desperate for a system of unified glossaries
 
-![../_attachments/Screen Shot 2023-06-11 at 14.23.36.png](/img/user/_attachments/Screen%20Shot%202023-06-11%20at%2014.23.36.png)
+![[../_attachments/Screen Shot 2023-06-11 at 14.23.36.png\|../_attachments/Screen Shot 2023-06-11 at 14.23.36.png]]
 
 This [[Anki\|Anki]] screenshot explains my plight of "glossary data duplication," specifically in headwords, better than a thousand words can.
 
@@ -43,7 +43,7 @@ The pros and cons of the duplicated headword approach.
 
 What I prefer now is something that looks like this, merging all related entries of "petition" into just a single Obsidian note named "petition.md", whose content is a concatenation of all 35 entries for "petition," each preserving its original headword and metadata (source):
 
-![../_attachments/Screen Shot 2023-06-11 at 15.01.35.png|250](/img/user/_attachments/Screen%20Shot%202023-06-11%20at%2015.01.35.png)
+![[../_attachments/Screen Shot 2023-06-11 at 15.01.35.png\|250]]
 
 All future additions from new sources of "petition" will also be merged with or tacked onto the same note. Future search for "petition" will find exactly one note, and all 35 different definitions or contexts can be viewed at once with some scrolling. The unified view naturally promotes linking of different scenarios and contexts, including legal and non-legal uses. 
 
