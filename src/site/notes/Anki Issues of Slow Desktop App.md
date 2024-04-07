@@ -18,7 +18,7 @@ I tried restoring from backup. No joy.
 Keep slimming down until the collection isn't oversized:
 - The limit seems to be 314.5MB (consistent behavior)
 
-![_attachments/Screen Shot 2023-08-10 at 12.36.16.png|200](/img/user/_attachments/Screen%20Shot%202023-08-10%20at%2012.36.16.png)
+![[_attachments/Screen Shot 2023-08-10 at 12.36.16.png\|200]]
 
 Slim down main profile by moving these decks to ekliao+2:
 
@@ -63,7 +63,7 @@ Like magic, this time a typical full text (not "front:") search took 1-2 seconds
 - Don't move add-ons.
 - There are strange .m3u files that seem to be playlists for audio. Don't know what they are. But it's harmless to move.
 
-![_attachments/Screen Shot 2023-08-10 at 20.28.23.png|400](/img/user/_attachments/Screen%20Shot%202023-08-10%20at%2020.28.23.png)
+![[_attachments/Screen Shot 2023-08-10 at 20.28.23.png\|400]]
 # Moral of the story
 
 Software performs in mysterious ways. Try reinstalling before giving up.
@@ -74,11 +74,11 @@ This degradation has happened to me only once in the 3+ years of active use. I g
 
 For the record, these are the Anki add-ons I'm walking away from:
 
-![_attachments/anki addons i discarded on 20230810 when reinstalling to restore fast speed of desktop.png|400](/img/user/_attachments/anki%20addons%20i%20discarded%20on%2020230810%20when%20reinstalling%20to%20restore%20fast%20speed%20of%20desktop.png)
+![[_attachments/anki addons i discarded on 20230810 when reinstalling to restore fast speed of desktop.png\|400]]
 
 And finally for sanity check, the cloud storage version does preserve each and every media file, as proved from the "no diff" status of the "collection.media" folder:
 
-![_attachments/Screen Shot 2023-08-10 at 20.40.48.png|400](/img/user/_attachments/Screen%20Shot%202023-08-10%20at%2020.40.48.png)
+![[_attachments/Screen Shot 2023-08-10 at 20.40.48.png\|400]]
 
 ---
 
