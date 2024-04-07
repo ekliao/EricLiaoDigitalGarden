@@ -8,4 +8,4 @@
 - Bluetooth
 - etc.
 
-![Screenshot 2023-11-22 at 06.32.05.png|500](/img/user/_attachments/Screenshot%202023-11-22%20at%2006.32.05.png)
+![Screenshot 2023-11-22 at 06.32.05.png|500](/img/user/_attachments/_OB/Screenshot%202023-11-22%20at%2006.32.05.png)
