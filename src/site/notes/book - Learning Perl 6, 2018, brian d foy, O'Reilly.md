@@ -22,6 +22,6 @@ What the author means to say is "between words" or more verbosely, "between a wo
 `Hello^world^!`
 
 
-![_attachments/Table 15-1. Named character classes.png|450](/img/user/_attachments/Table%2015-1.%20Named%20character%20classes.png)
+![[_attachments/Table 15-1. Named character classes.png\|450]]
 
 In terms of confusing writing, seriously I'm appalled, but one instance is forgivable. Will watch out for more.
