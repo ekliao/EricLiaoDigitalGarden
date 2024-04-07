@@ -71,7 +71,7 @@ The folder structure will look like this:
 ![](https://miro.medium.com/v2/resize:fit:1016/1*K_2C8uYkEo_HRKI7In633Q.png)
 
 > Mine has more:
-![Screen Shot 2023-04-15 at 7.45.40 PM.png](/img/user/_attachments/Screen%20Shot%202023-04-15%20at%207.45.40%20PM.png)
+![Screen Shot 2023-04-15 at 7.45.40 PM.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-15%20at%207.45.40%20PM.png)
 
 What are these files/ folders used for?
 
@@ -250,10 +250,10 @@ Go to [http://localhost:1313/](http://localhost:1313/) in your web browser and
 (Here I didn’t put the background image into the `./static/images` folder, so it’s all black)
 > The Hermit theme worked!
 > Home page
-![Screen Shot 2023-04-15 at 9.05.27 PM.png](/img/user/_attachments/Screen%20Shot%202023-04-15%20at%209.05.27%20PM.png)
+![Screen Shot 2023-04-15 at 9.05.27 PM.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-15%20at%209.05.27%20PM.png)
 
 > About page
-![Screen Shot 2023-04-15 at 9.06.08 PM.png](/img/user/_attachments/Screen%20Shot%202023-04-15%20at%209.06.08%20PM.png)
+![Screen Shot 2023-04-15 at 9.06.08 PM.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-15%20at%209.06.08%20PM.png)
 
 
 # STEP 3. Deploy to Git Pages
