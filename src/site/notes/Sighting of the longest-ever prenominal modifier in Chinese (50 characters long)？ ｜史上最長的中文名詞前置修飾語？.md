@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/sighting-of-the-longest-ever-prenominal-modifier-in-chinese-50-characters-long/","noteIcon":"2"}
 ---
 
-
 我是否意外矇到了史上最長的中文形容詞？長達50字。
 
 
