@@ -28,7 +28,7 @@ If you have hit the collection size limit, you will see messages about the colle
 
 The actual limit is about 315MB (314,572,800 bytes, as shown), higher than the posted 250MB.
 
-![_attachments/Screen Shot 2023-07-28 at 20.14.10.png](/img/user/_attachments/Screen%20Shot%202023-07-28%20at%2020.14.10.png)
+![[_attachments/Screen Shot 2023-07-28 at 20.14.10.png\|_attachments/Screen Shot 2023-07-28 at 20.14.10.png]]
 
 ## Higher limit in a normal incremental sync
 
@@ -36,10 +36,10 @@ The limit for incremental sync is even greater. I've had AnkiWeb accept my colle
 
 New limit: 518MB:
 
-![_attachments/Screen Shot 2023-07-28 at 17.36.41.png|400](/img/user/_attachments/Screen%20Shot%202023-07-28%20at%2017.36.41.png)
+![[_attachments/Screen Shot 2023-07-28 at 17.36.41.png\|400]]
 
 *(Update 2023-08-28*) New record set in incremental sync: 687MB, with the latest re-notetyped of MoedTw
-![_attachments/Screen Shot 2023-08-28 at 14.27.10.png|600](/img/user/_attachments/Screen%20Shot%202023-08-28%20at%2014.27.10.png)
+![[_attachments/Screen Shot 2023-08-28 at 14.27.10.png\|600]]
 
 
 ### What forces whole-collection upload?
@@ -53,15 +53,15 @@ Export the deck to a new profile, change the note type there, and import back to
 
 *(Update 2023-07-28)* After I pulled the hack to restore Anki sync to its glory of 1.2 million records, I thought, why not see if I can add another important source of glossary: The official [Chinese dictionary by Taiwan's Ministry of Education](https://www.moedict.tw). So I did, and Anki gladly synced it to cloud. I now have 1.4 million records:
 
-![_attachments/Screen Shot 2023-07-29 at 15.00.07.png](/img/user/_attachments/Screen%20Shot%202023-07-29%20at%2015.00.07.png)
+![[_attachments/Screen Shot 2023-07-29 at 15.00.07.png\|_attachments/Screen Shot 2023-07-29 at 15.00.07.png]]
 
 With a collection size of 651MB (way over the official limit of 250MB or full-sync limit of 315MB).
 
-![_attachments/Screen Shot 2023-07-29 at 14.59.31.png](/img/user/_attachments/Screen%20Shot%202023-07-29%20at%2014.59.31.png)
+![[_attachments/Screen Shot 2023-07-29 at 14.59.31.png\|_attachments/Screen Shot 2023-07-29 at 14.59.31.png]]
 
 So glad to have this latest addition. I just looked up this Chinese idiom I just heard: 觥籌交錯. I could only think of wine cups. Now I know 酒籌 (chips used for tallying in a drinking game) is a thing.
 
-![_attachments/Screen Shot 2023-07-29 at 15.11.15.png|400](/img/user/_attachments/Screen%20Shot%202023-07-29%20at%2015.11.15.png)
+![[_attachments/Screen Shot 2023-07-29 at 15.11.15.png\|400]]
 
 ---
 # Related
