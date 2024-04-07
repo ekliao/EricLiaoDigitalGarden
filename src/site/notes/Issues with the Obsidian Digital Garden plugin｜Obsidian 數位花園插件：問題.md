@@ -10,18 +10,18 @@
 
 ### Desktop
 
-![_attachments/Screen Shot 2023-06-21 at 00.05.47.png|400](/img/user/_attachments/Screen%20Shot%202023-06-21%20at%2000.05.47.png)
+![[_attachments/Screen Shot 2023-06-21 at 00.05.47.png\|400]]
 ### iOS
 
-![_attachments/ios digital garden publication status - bogus and dupes.jpeg|300](/img/user/_attachments/ios%20digital%20garden%20publication%20status%20-%20bogus%20and%20dupes.jpeg)
+![[_attachments/ios digital garden publication status - bogus and dupes.jpeg\|300]]
 
 - Persistent discrepancy between Publication Status of in the desktop and iOS, even after iCloud has synced everything, e.g.
 
 ### Desktop
-![_attachments/Screen Shot 2023-06-20 at 13.53.16.png|300](/img/user/_attachments/Screen%20Shot%202023-06-20%20at%2013.53.16.png)
+![[_attachments/Screen Shot 2023-06-20 at 13.53.16.png\|300]]
 
 ### iOS
-![_attachments/IMG_292E3811A99C-1.jpeg|250](/img/user/_attachments/IMG_292E3811A99C-1.jpeg)
+![[_attachments/IMG_292E3811A99C-1.jpeg\|250]]
 
 Here, the iOS status is wrong, because the 2023-05-22.md page is live and well on the published site.
 
@@ -37,7 +37,7 @@ Here, the iOS status is wrong, because the 2023-05-22.md page is live and well o
 - ☠️ The Search bar at the top of the left-nav-pane does not work for all non-CJK words, even simple single-word queries. Some works, others don't. It's hit-and-miss. And, mostly annoyingly, it does not work at all for Chinese. 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/hello-it-s-not-1990s-any-more/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
