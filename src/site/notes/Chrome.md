@@ -13,7 +13,7 @@ A popular web browser made by Google.
 { #04499e}
 
 
-![[_attachments/obsidian forum (web site) has a chrome problem (smaller).mp4]]
+![[_attachments/obsidian forum (web site) has a chrome problem (smaller).mp4\|_attachments/obsidian forum (web site) has a chrome problem (smaller).mp4]]
 
 ---
 ## Extensions
