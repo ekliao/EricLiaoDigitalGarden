@@ -15,7 +15,7 @@ Started using it only for the ability to painlessly import Evernote ENEX, keepin
 - Turns Evernote tags into two styles: hashtags (most universal) or its own notebook name
 - Upnote not only preserves metadata like creation time and modification time (and tags), it even makes sure the markdown files generated today (2023) have the creation time and modification time that mimic the original times!! Thank you so much!!
 
-![_attachments/Screenshot 2023-12-05 at 18.09.32.png](/img/user/_attachments/Screenshot%202023-12-05%20at%2018.09.32.png)
+![[_attachments/Screenshot 2023-12-05 at 18.09.32.png\|_attachments/Screenshot 2023-12-05 at 18.09.32.png]]
 
 ### Cross links between notes
 
