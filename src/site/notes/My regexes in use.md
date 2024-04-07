@@ -14,9 +14,9 @@ Peplace with
 `$1\n`
 ### Example
 
-![Screenshot 2023-12-17 at 14.37.19.png|500](/img/user/Screenshot%202023-12-17%20at%2014.37.19.png)
+![Screenshot 2023-12-17 at 14.37.19.png|500](/img/user/_attachments/_OB/Screenshot%202023-12-17%20at%2014.37.19.png)
 
-![Screenshot 2023-12-17 at 14.37.50.png|250](/img/user/Screenshot%202023-12-17%20at%2014.37.50.png)
+![Screenshot 2023-12-17 at 14.37.50.png|250](/img/user/_attachments/_OB/Screenshot%202023-12-17%20at%2014.37.50.png)
 ## In Obsidian
 
 - Find all newly created dictionary entries with tag #td and file path not already under /A/A-Dict/(word).md
