@@ -8,7 +8,7 @@ creation-date:: 2023-07-28
 Q: I have about 20 different types of "basic" note types and they all look the same. Can someone explain what the difference is?
 [src]](https://www.reddit.com/r/Anki/comments/39g87o/i_have_about_20_different_types_of_basic_note/)
 
-![_attachments/anki basic or other notetype variants madness.png|300](/img/user/_attachments/anki%20basic%20or%20other%20notetype%20variants%20madness.png)
+![[_attachments/anki basic or other notetype variants madness.png\|300]]
 
 [A:](https://www.reddit.com/r/Anki/comments/39g87o/comment/cs4cua5/?utm_source=reddit&utm_medium=web2x&context=3)
 
