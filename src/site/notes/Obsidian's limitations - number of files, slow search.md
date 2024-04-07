@@ -26,7 +26,7 @@ I created a new vault, and started adding folders/files gradually...
 (Next, a big jump in files because of bigram Chinese entries of almost 90K)
 - 115K - OK. As shown. It worked after it completed indexing, which is always slow and sporadic, but at least an indication of action.
 
-![../_attachments/Screen Shot 2023-07-11 at 05.11.07.png|250](/img/user/_attachments/Screen%20Shot%202023-07-11%20at%2005.11.07.png)
+![[../_attachments/Screen Shot 2023-07-11 at 05.11.07.png\|250]]
 
 - 180K - OK
 - 228K - OK
@@ -44,7 +44,7 @@ Paring down...
 
 - 419K - A welcome sign of life:
 
-![_attachments/Screen Shot 2023-07-12 at 15.57.20.png](/img/user/_attachments/Screen%20Shot%202023-07-12%20at%2015.57.20.png)
+![[_attachments/Screen Shot 2023-07-12 at 15.57.20.png\|_attachments/Screen Shot 2023-07-12 at 15.57.20.png]]
 
 But alas it blanked out in the end. 
 
@@ -54,18 +54,18 @@ But alas it blanked out in the end.
 
 Here's a tip: If a file is found, appears to be opened, but content isn't showing, consider waiting until the indexing is done. Don't wreck it.
 
-![[../_attachments/obsidian not showing file content - indexing in progress.mp4]]
+![[../_attachments/obsidian not showing file content - indexing in progress.mp4\|../_attachments/obsidian not showing file content - indexing in progress.mp4]]
 
 While this problem occurred, iCloud is busy too.
 
-![../_attachments/Screen Shot 2023-07-11 at 06.50.48.png|600](/img/user/_attachments/Screen%20Shot%202023-07-11%20at%2006.50.48.png)
+![[../_attachments/Screen Shot 2023-07-11 at 06.50.48.png\|600]]
 
 
 ### iCloud-caused re-indexing observed
 
 Closing the app and restart: the famed re-indexing happened, as predicted by dev:
 
-![_attachments/Screen Shot 2023-07-12 at 18.01.40.png](/img/user/_attachments/Screen%20Shot%202023-07-12%20at%2018.01.40.png)
+![[_attachments/Screen Shot 2023-07-12 at 18.01.40.png\|_attachments/Screen Shot 2023-07-12 at 18.01.40.png]]
 
 
 ## Conclusion: Obsidian on iCloud for 300~400K files = dead end
@@ -83,11 +83,11 @@ By the way, this number happens to be a tad more than the limit reported by some
 
 Yay! I know it's going to be okay, because the indexing (onetime) progress finally presented itself after some wait for the initial progress bar (loading vault, workspace, cache, etc.).
 
-![../_attachments/Screen Shot 2023-07-11 at 14.01.36.png|500](/img/user/_attachments/Screen%20Shot%202023-07-11%20at%2014.01.36.png)
+![[../_attachments/Screen Shot 2023-07-11 at 14.01.36.png\|500]]
 
 And, I observed a much appreciated new behavior: while indexing, the `CMD-O` search and open found this entry and opened it right away:
 
-![../_attachments/Screen Shot 2023-07-11 at 14.05.29.png|600](/img/user/_attachments/Screen%20Shot%202023-07-11%20at%2014.05.29.png)
+![[../_attachments/Screen Shot 2023-07-11 at 14.05.29.png\|600]]
 
 This is so uplifting! Next, attempting the one-third million milestone:
 
@@ -119,7 +119,7 @@ Paring down...
 
 - 442K - In progress... until 10 hours later when the progress died with screen turning blank. The hang was caught with this screen recording:
 
-![[../_attachments/ob-local-index-turns-blank-after-10hrs 2.mp4]]
+![[../_attachments/ob-local-index-turns-blank-after-10hrs 2.mp4\|../_attachments/ob-local-index-turns-blank-after-10hrs 2.mp4]]
 
 Shut the app window. Restarted it. This time, I learned for the first time that it did make progress indexing despite the "hang." It now starts with 171K files remaining to index instead of 442K, meaning the previous attempt was at least 60% complete.
 
