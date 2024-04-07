@@ -13,7 +13,7 @@ Currently, I have high hopes of Tana Paste being the only way for me to import h
 
 ![](https://firebasestorage.googleapis.com/v0/b/tagr-prod.appspot.com/o/notespace%2Fshaklev%40gmail.com%2Fuploads%2F2022-09-29T15%3A28%3A52.417Z-image.png?alt=media&token=8335be49-122a-48e4-a0f6-c26a8a2b04bf)
 
-![_attachments/Screen Shot 2023-08-07 at 19.45.39.png](/img/user/_attachments/Screen%20Shot%202023-08-07%20at%2019.45.39.png)
+![[_attachments/Screen Shot 2023-08-07 at 19.45.39.png\|_attachments/Screen Shot 2023-08-07 at 19.45.39.png]]
 
 Tana Paste is a way of generating rich Tana structures like fields, tags, dates, checkboxes etc, through a simple plain text paste. It is a bit slow, and not designed for inputting large amounts of information. In the future, Tana will offer proper plugin support. See video intro: [https://www.loom.com/share/6fd81ff1ab364acf9f448ffdedfeb57f](https://www.loom.com/share/6fd81ff1ab364acf9f448ffdedfeb57f).
 
