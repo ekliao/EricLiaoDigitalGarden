@@ -8,7 +8,7 @@
 
 [[Glasp\|Glasp]]'s nice YouTube interface `Transcript & Summary` invoked the following ChatGPT command on my behalf:
 
-![Screen Shot 2023-04-28 at 16.51.08.png](/img/user/_attachments/Screen%20Shot%202023-04-28%20at%2016.51.08.png)
+![Screen Shot 2023-04-28 at 16.51.08.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-28%20at%2016.51.08.png)
 
 ```
 Q [as Eric Liao]: Summarize the following in 5 bullet points. 
