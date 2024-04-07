@@ -11,11 +11,11 @@ It's important to do this find and replace to recode newlines as HTML before dow
 { #bf6e98}
 
 ## Before
-![_attachments/Screen Shot 2023-08-15 at 22.03.27.png](/img/user/_attachments/Screen%20Shot%202023-08-15%20at%2022.03.27.png)
+![[_attachments/Screen Shot 2023-08-15 at 22.03.27.png\|_attachments/Screen Shot 2023-08-15 at 22.03.27.png]]
 ## Applying regex
 
-![_attachments/Screen Shot 2023-08-15 at 22.04.34.png](/img/user/_attachments/Screen%20Shot%202023-08-15%20at%2022.04.34.png)
+![[_attachments/Screen Shot 2023-08-15 at 22.04.34.png\|_attachments/Screen Shot 2023-08-15 at 22.04.34.png]]
 ## After
 
-![_attachments/Screen Shot 2023-08-15 at 22.09.08.png](/img/user/_attachments/Screen%20Shot%202023-08-15%20at%2022.09.08.png)
+![[_attachments/Screen Shot 2023-08-15 at 22.09.08.png\|_attachments/Screen Shot 2023-08-15 at 22.09.08.png]]
 
