@@ -14,12 +14,12 @@ I bid farewell to this web-to-Anki copy-and-paste nuisance. 慢走不送！
 
 Copy from a web page (e.g. ChatGPT)
 
-![_attachments/Screen Shot 2023-10-17 at 18.17.51.png|300](/img/user/_attachments/Screen%20Shot%202023-10-17%20at%2018.17.51.png)
+![[_attachments/Screen Shot 2023-10-17 at 18.17.51.png\|300]]
 
 Pasted in the traditional way (Ctrl-V/Cmd-V) into Anki:
 
-![_attachments/Screen Shot 2023-10-17 at 18.18.29.png|300](/img/user/_attachments/Screen%20Shot%202023-10-17%20at%2018.18.29.png)
+![[_attachments/Screen Shot 2023-10-17 at 18.18.29.png\|300]]
 
 This is how it'll be going forward (Shift-Cmd-V):
 
-![_attachments/Screen Shot 2023-10-17 at 18.17.21.png|300](/img/user/_attachments/Screen%20Shot%202023-10-17%20at%2018.17.21.png)
+![[_attachments/Screen Shot 2023-10-17 at 18.17.21.png\|300]]
