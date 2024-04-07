@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/nuphy-air75-mechanical-wireless-multi-device-keyboard/","noteIcon":"2"}
 ---
 
-# Verdict: 4/5
+# Verdict: 3/5
 
-*202403* Would have been 5/5, but I had to deduct one full point due to recent degraded wireless performance for unknown reasons.
+*20240330* One more point deducted due to the recent frequent wireless (USB dongle) performance issue. Bluetooth seems fine.
+
+*202403* Would have been 5/5, but I had to deduct one full point due to recent degraded wireless (USB dongle) performance for unknown reasons.
 
 ---
 # Pre-purchase
