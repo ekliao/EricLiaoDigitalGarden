@@ -22,11 +22,11 @@ $<div class="markdown-embed-title">
 
 What a delight! In researching a term ("oxycodone"), I selected partial tabular data from a web page and copy-and-pasted into Obsidian, expecting to do some manual tweaking, but look at this table:
 
-![../_attachments/Screen Shot 2023-06-15 at 12.26.20.png](/img/user/_attachments/Screen%20Shot%202023-06-15%20at%2012.26.20.png)
+![[../_attachments/Screen Shot 2023-06-15 at 12.26.20.png\|../_attachments/Screen Shot 2023-06-15 at 12.26.20.png]]
 ## Post-editing
 What's left for me to do is edit and add one vertical bar to fix the alignment problem, and voilà! It's as good as it gets. The visual elements (pictures) are nicely dealt with as linked images.
 
-![../_attachments/Screen Shot 2023-06-15 at 12.30.10.png](/img/user/_attachments/Screen%20Shot%202023-06-15%20at%2012.30.10.png)
+![[../_attachments/Screen Shot 2023-06-15 at 12.30.10.png\|../_attachments/Screen Shot 2023-06-15 at 12.30.10.png]]
 
 </div></div>
 
@@ -41,7 +41,7 @@ What's left for me to do is edit and add one vertical bar to fix the alignment p
 ![[obsidian - creating real links to a potentially unconnected note from unlinked mentions.mp4]]
 
 - Using right-nav-pane Tag Wrangler plugin (#) to rename a tag globally including making it nested! Powerful
-![Screen Shot 2023-04-16 at 11.29.31 AM.png](/img/user/_attachments/Screen%20Shot%202023-04-16%20at%2011.29.31%20AM.png)
+![Screen Shot 2023-04-16 at 11.29.31 AM.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-16%20at%2011.29.31%20AM.png)
 
 - [nested tags](https://help.obsidian.md/Editing+and+formatting/Tags#Nested+tags) (/)
 - [embedding a note](https://help.obsidian.md/Linking+notes+and+files/Embedding+files), or a [heading](https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+heading+in+a+note) or a [block](https://help.obsidian.md/Linking+notes+and+files/Internal+links#Link+to+a+block+in+a+note) of a note (! followed by usual double square-brackets), or embedding internal files (different formats) in general
