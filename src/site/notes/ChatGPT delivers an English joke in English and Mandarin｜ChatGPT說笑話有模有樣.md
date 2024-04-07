@@ -14,4 +14,4 @@ In Mandarin, the exclusively English metalinguistic joke (word play) would have 
 
 [Watch the clip 短片](https://youtu.be/H4P3fsw6fD8)
 
-![impasta imposter.jpeg|500](/img/user/_attachments/impasta%20imposter.jpeg)
+![impasta imposter.jpeg|500](/img/user/_attachments/_OB/impasta%20imposter.jpeg)
