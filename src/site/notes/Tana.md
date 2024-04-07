@@ -127,7 +127,7 @@ Markdown-like input text into Tana structures.
 			- Her "Content Hub," mentioned by Note Aloud (Nicola Fisher) as inspiring, is an example of a named live search.
 	- Foreshadows future introduction of Tana "workflows"
 
-![_attachments/Screen Shot 2023-07-12 at 01.59.54.png|600](/img/user/_attachments/Screen%20Shot%202023-07-12%20at%2001.59.54.png)
+![[_attachments/Screen Shot 2023-07-12 at 01.59.54.png\|600]]
 
 In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main feature: Notion-like semantic structure.
 
@@ -196,10 +196,10 @@ In 8 minutes' short video, E did a wonderful job getting me sold on Tana's main 
 	- Can tag a linked new node. 
 		- @ to create the link
 		- Use arrow key to select the link (shows a thin blue outline)
-			- ![_attachments/Screen Shot 2023-08-07 at 23.55.54.png|200](/img/user/_attachments/Screen%20Shot%202023-08-07%20at%2023.55.54.png)
+			- ![[_attachments/Screen Shot 2023-08-07 at 23.55.54.png\|200]]
 		- CMD-K to add a tag to it.
 			- The tag won't show on current page, but it is added to the linked node:
-				- ![_attachments/Screen Shot 2023-08-07 at 23.57.16.png|100](/img/user/_attachments/Screen%20Shot%202023-08-07%20at%2023.57.16.png)
+				- ![[_attachments/Screen Shot 2023-08-07 at 23.57.16.png\|100]]
 				- #progress  
 				- 
 - OLDER video notes
