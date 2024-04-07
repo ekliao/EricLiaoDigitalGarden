@@ -8,7 +8,7 @@ I had harbored intention to use Evernote less since I learned to use Obsidian ea
 
 Alas, the 38K note export failed twice at about 10-20%, and I have no idea which notes had been exported.
 
-![_attachments/Screenshot 2023-11-30 at 20.12.36.png|250](/img/user/_attachments/Screenshot%202023-11-30%20at%2020.12.36.png)
+![[_attachments/Screenshot 2023-11-30 at 20.12.36.png\|250]]
 
 I had to resort to exporting 100 notes at a time, for 380 times. Darn!!!
 
