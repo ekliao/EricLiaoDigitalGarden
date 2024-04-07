@@ -36,18 +36,18 @@ That said, it took just a little Googling to dig deeper. I needed to confirm thi
 
 - ANNOTATE  • Read PDFs and add highlights and notes, or ***use an Apple Pencil to make freehand annotations***
 
-![_attachments/626x0w.webp|450](/img/user/_attachments/626x0w.webp)
+![[_attachments/626x0w.webp\|450]]
 
 ---
 # Trying is believing
 
 With my interest piqued, I quickly installed the app on my iPad, learned how to add a PDF document to the desktop app (can't seem to do this on the iOS app), and learned how to turn on sync. Once sync was enabled, the first PDF document, my favorite grammar book, immediately appeared on the iPad app and I clicked it to download and open. I then scribbled the first hand-written note on a page:
 
-![_attachments/IMG_9AA69E097BD2-1.jpeg|250](/img/user/_attachments/IMG_9AA69E097BD2-1.jpeg)
+![[_attachments/IMG_9AA69E097BD2-1.jpeg\|250]]
 
 As if by magic, a few second later, the same handwriting appeared on the the desktop (Mac) app, with an extra dashed-line box:
 
-![_attachments/Screen Shot 2023-10-01 at 12.59.35.png|300](/img/user/_attachments/Screen%20Shot%202023-10-01%20at%2012.59.35.png)
+![[_attachments/Screen Shot 2023-10-01 at 12.59.35.png\|300]]
 
 This is so delightful to see! And seeing is believing. I am a believer!
 
