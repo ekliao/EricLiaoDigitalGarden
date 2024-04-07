@@ -8,6 +8,6 @@ I rely more and more on digital record-keeping for mundane things in life. Case 
 
 Luckily, the new digital record-keeping me did something right. Right after I redeemed the points on a Costco visit months ago, I practiced the habit of labeling the certificate email (in Gmail) as "redeemed." Seeing the label, I confidently know that there's no need to call the bank to verify the redemption or go to Costco to find out.
 
-![_attachments/Screen Shot 2023-08-19 at 11.58.07.png](/img/user/_attachments/Screen%20Shot%202023-08-19%20at%2011.58.07.png)
+![[_attachments/Screen Shot 2023-08-19 at 11.58.07.png\|_attachments/Screen Shot 2023-08-19 at 11.58.07.png]]
 
 Gmail supports hierarchical labels. They are really the analogs of tags and can be searched, and are great for organizing emails and recording "statuses" of things. Keep taking advantage of them!
