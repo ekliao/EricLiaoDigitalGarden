@@ -23,7 +23,7 @@ VLC Player has its own "audio" setting, in this case MacBook Pro Speakers, which
 - choose "External Headphones" in both settings, or 
 - choose "System Sound Output Device" for VLC Player, and "External Headphones" for System.
 
-![vlc independent audio output on Mac M3 from system audio - Screenshot 2023-11-28 at 20.17.31.png|500](/img/user/_attachments/vlc%20independent%20audio%20output%20on%20Mac%20M3%20from%20system%20audio%20-%20Screenshot%202023-11-28%20at%2020.17.31.png)
+![vlc independent audio output on Mac M3 from system audio - Screenshot 2023-11-28 at 20.17.31.png|500](/img/user/_attachments/_OB/vlc%20independent%20audio%20output%20on%20Mac%20M3%20from%20system%20audio%20-%20Screenshot%202023-11-28%20at%2020.17.31.png)
 
 # Applications
 
@@ -31,7 +31,7 @@ VLC Player has its own "audio" setting, in this case MacBook Pro Speakers, which
 
 To allow Zoom participants hear the sound in VLC, make sure to set its audio device to "system sound output" as shown, or to set it explicitly (as mentioned above).
 
-![Screenshot 2023-12-12 at 19.22.45.png](/img/user/Screenshot%202023-12-12%20at%2019.22.45.png)
+![Screenshot 2023-12-12 at 19.22.45.png](/img/user/_attachments/_OB/Screenshot%202023-12-12%20at%2019.22.45.png)
 
 # Conversion (into audio, etc.) and downsampling (downsizing) of videos
 
