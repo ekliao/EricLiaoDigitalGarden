@@ -37,7 +37,7 @@ iCloud Drive/Obsidian/<vault>
 ```
 as shown in `Finder`:
 
-![Screen Shot 2023-04-22 at 17.53.18.png|400](/img/user/_attachments/Screen%20Shot%202023-04-22%20at%2017.53.18.png)
+![Screen Shot 2023-04-22 at 17.53.18.png|400](/img/user/_attachments/_OB/Screen%20Shot%202023-04-22%20at%2017.53.18.png)
 
 The actual folder/directory of iCloud drive's Obsidian is actually here:
 ```
