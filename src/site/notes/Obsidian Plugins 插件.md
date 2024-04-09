@@ -6,6 +6,9 @@ date-created:: 2023-04-15
 ## In use / Tried
 *(New to old)*
 
+- [[Mixa (Obsidian plugbin) - free Obsidian Publish alternative\|Mixa (Obsidian plugbin) - free Obsidian Publish alternative]]
+- [[Spaced repetition (Obsidian plugin)\|Spaced repetition (Obsidian plugin)]]
+- [[Export to Anki (was Obsidian_to_anki)\|Export to Anki (was Obsidian_to_anki)]]
 - [[Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件\|Importer]]
 - [[Obsidian plugin - Hypothesis\|Hypothesis]]
 - [[Obsidian plugin - Omnivore\|Omnivore]]
