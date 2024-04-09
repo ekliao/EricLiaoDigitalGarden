@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes-of-an-interp-slator/","noteIcon":"2"}
 ---
 
+- 2024-04-09 【Once in a total eclipse of the sun 百年一遇】 [[美國之音 VOA 首見台灣口音的同步口譯\|美國之音 VOA 首見台灣口音的同步口譯]] 
+
 - 2024-03-07 【Translationese 翻譯體】[[Sighting of the longest-ever prenominal modifier in Chinese (50 characters long)？ ｜史上最長的中文名詞前置修飾語？\|Sighting of the longest-ever prenominal modifier in Chinese (50 characters long)？ ｜史上最長的中文名詞前置修飾語？]]
 - 2024-02-15 【Comprehension 英語理解】[[Ugly, squat houses vs. ugly squat houses\|Ugly, squat houses vs. ugly squat houses]]
 
