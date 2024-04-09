@@ -65,8 +65,10 @@ $<div class="markdown-embed-title">
 ---
 # Issues
 
+*202404* The difficulty in getting after service revealed that Nuphy is a company based in China. And, its firmware upgrade requires a Windows machine: there's no way to upgrade the firmware on a Mac or through a Windows virtual machine. I wish I had known this before the purchase.
+
 *202403* Soon after I came home from the Taiwan trip and reconnected all the USB hubs including setting up the newly purchased 7-port USB 3.0 to USB Type C adapter, the Nuphy Air75 wireless connection, which used to be fast and smooth, started to become iffy--it was either slow, unstable, or skipping or adding letters. Very annoying. I had to resort to using the wired option (thank goodness it is an option) almost always now. Very disappointed! It's strange this problem coincided with the failure of the old 7-port hub and the addition of the new one.
 
 ---
 
-[[Nuphy Air75 wireless device settings - follow this scheme 遵照此無限鍵盤設定\|Nuphy Air75 wireless device settings - follow this scheme 遵照此無限鍵盤設定]]
+[[Nuphy Air75 wireless device settings - follow this scheme 遵照此無線鍵盤設定\|Nuphy Air75 wireless device settings - follow this scheme 遵照此無線鍵盤設定]]
