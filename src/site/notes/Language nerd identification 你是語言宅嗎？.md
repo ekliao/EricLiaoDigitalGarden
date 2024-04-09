@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/language-nerd-identification/","noteIcon":"2"}
 ---
 
-date-created:: 2023-10-16
-
 Stumbled upon this [article](https://medium.com/the-language-learning-hub/the-best-of-you-know-youre-a-language-nerd-when-b569b9917b5e) behind a paywall but I was able to do the quick test from the viewable 11 items. I don't really self-identify with being a language nerd and the list confirms this, but I got to tick one checkbox at least and it tickles me:
 
 > People say IPA and you think transcription system, not beer. 聽人提到 IPA，你先想到標音系統，而非一種啤酒。
@@ -15,8 +13,6 @@ Stumbled upon this [article](https://medium.com/the-language-learning-hub/the-be
 
 
 
-
-date-created:: 2023-04-28
 
 I use [SAMPA](https://en.wikipedia.org/wiki/SAMPA) as the wide phonetic transcription throughout this website because it is pure ASCII, to save time entering quirky symbols for [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 # SAMPA – IPA Mapping 元音對照表
