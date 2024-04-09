@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/note-on-the-sampa-phonetic-transcription-sampa/","noteIcon":"2"}
 ---
 
-date-created:: 2023-04-28
-
 I use [SAMPA](https://en.wikipedia.org/wiki/SAMPA) as the wide phonetic transcription throughout this website because it is pure ASCII, to save time entering quirky symbols for [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 # SAMPA – IPA Mapping 元音對照表
 { #b7cb36}
