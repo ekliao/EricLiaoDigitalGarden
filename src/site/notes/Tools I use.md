@@ -21,7 +21,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Glasp\|Glasp]] (2023/4)
 - [[ChatGPT\|ChatGPT]] (2023/4)
 - [Globse](https://glosbe.com/zh/en/%E8%90%BD%E6%B1%A4%E9%B8%A1) (2023/3)
-- [[Microsoft Translator\|Microsoft Translator]] (2023/3)
+- [[Microsoft Translator (iOS app)\|Microsoft Translator (iOS app)]] (2023/3)
 - [[Obsidian\|Obsidian]] (2023/2)
 - Microsoft Bing (2023/2, the new one with ChatGPT)
 - [[CotEditor\|CotEditor]] (2023/2)
@@ -51,7 +51,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Record It!\|Record It!]] (2018, rediscovered its utility in 2023)
 - [[Notability\|Notability]]
 - [[Anki\|Anki]] (2018)
-- [[Google Translate\|Google Translate]]
+- [[Google Translate (iOS app)\|Google Translate (iOS app)]]
 - [[Calibre\|Calibre]]
 - [[Parallels Desktop\|Parallels Desktop]]
 - [[Abbyy FineReader\|Abbyy FineReader]]
