@@ -7,7 +7,7 @@ date-created:: 2023-08-08
 
 Watch this [video](https://www.youtube.com/watch?v=66Bn4xrshog&t=1169s). The co-creators of the YouTube channel [[Paperless Movement\|Paperless Movement]] are so excited about Heptabase that they consider it "the one tool to rule them all" (my paraphrase). Okay, they did mention using it in tandem with [[Lazy\|Lazy]], this mysterious tool, which they think will replace [[MEM.ai\|MEM.ai]].
 
-In five minutes' frantic rapid-fire showcasing Heptabase, they have sold me on the versatility and multifaceted views of this tool. I know it is co-created by a young Taiwanese genius, [[Alan Chan 詹雨安\|Alan Chan 詹雨安]]. That makes me feel really good.
+In five minutes' frantic rapid-fire showcasing Heptabase, they have sold me on the versatility and multifaceted views of this tool. I know it is co-created by a young Taiwanese genius, [[Alan Chan 詹雨安 - founder of Heptabase\|Alan Chan 詹雨安 - founder of Heptabase]]. That makes me feel really good.
 
 According to [[Paco Cantero\|Paco Cantero]], Heptabase:
 - Distills every single note-taking app
