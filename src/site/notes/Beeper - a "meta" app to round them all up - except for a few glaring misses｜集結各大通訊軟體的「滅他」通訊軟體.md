@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/beeper-a-meta-app-to-round-them-all-up-except-for-a-few-glaring-misses/","noteIcon":"2"}
 ---
 
-After painstakingly agreeing to allow communications between the aggregator app with each of these (see pictures) messaging app, one by one, providing login information and giving explicit consent, this is the result: I can now use one app to aggregate messages from all connected apps, and reply from within it.
+After painstakingly agreeing to allow communications between the aggregator app with each of these (see pictures) messaging app, one by one, providing login information and giving explicit consent, this is the result: I can now use one app to aggregate messages from all connected apps, and reply from within it. 
 
 There's one glaring absence: Apple's own iMessage app. This can't be done even on Apple's own ecosystem of MacOS and iOS. Ironic much?
 
