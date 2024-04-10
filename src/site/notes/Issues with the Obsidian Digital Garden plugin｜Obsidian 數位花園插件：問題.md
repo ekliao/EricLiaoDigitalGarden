@@ -10,18 +10,20 @@
 
 ### Desktop
 
-![[_attachments/Screen Shot 2023-06-21 at 00.05.47.png\|400]]
+![Screen Shot 2023-06-21 at 00.05.47.png|400](/img/user/_attachments/_OB/Screen%20Shot%202023-06-21%20at%2000.05.47.png)
 ### iOS
 
-![[_attachments/ios digital garden publication status - bogus and dupes.jpeg\|300]]
+![ios digital garden publication status - bogus and dupes.jpeg|300](/img/user/_attachments/_OB/ios%20digital%20garden%20publication%20status%20-%20bogus%20and%20dupes.jpeg)
 
 - Persistent discrepancy between Publication Status of in the desktop and iOS, even after iCloud has synced everything, e.g.
 
 ### Desktop
-![[_attachments/Screen Shot 2023-06-20 at 13.53.16.png\|300]]
+
+![Screen Shot 2023-06-20 at 13.53.16.png|300](/img/user/_attachments/_OB/Screen%20Shot%202023-06-20%20at%2013.53.16.png)
 
 ### iOS
-![[_attachments/IMG_292E3811A99C-1.jpeg\|250]]
+
+![IMG_292E3811A99C-1.jpeg|250](/img/user/_attachments/_OB/IMG_292E3811A99C-1.jpeg)
 
 Here, the iOS status is wrong, because the 2023-05-22.md page is live and well on the published site.
 
