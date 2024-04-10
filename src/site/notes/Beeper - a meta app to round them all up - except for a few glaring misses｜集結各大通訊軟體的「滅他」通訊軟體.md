@@ -25,6 +25,6 @@ Despite the issues, I like the idea very much. I am enjoying viewing all message
 
 It'll obviously take a while to experience usage issues. Hope there won't be any showstoppers. Check back later.
 
+![Screenshot 2024-04-10 at 4.16.18 PM.png|50](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%204.16.18%20PM.png)
 
-![Screenshot 2024-04-10 at 1.23.54 PM.png|100](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%201.23.54%20PM.png)
-*View of the left nav bar*
+*Left nav bar*
