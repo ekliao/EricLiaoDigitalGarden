@@ -35,6 +35,3 @@ I'll end by saying again that this is really just a silly way of looking at the 
 </div></div>
 
 
-## 2nd
-
-test
