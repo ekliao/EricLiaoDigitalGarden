@@ -9,6 +9,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- [[Beeper - a "meta" app to round them all up - except for a few glaring misses｜集結各大通訊軟體的「滅他」通訊軟體\|Beeper - a "meta" app to round them all up - except for a few glaring misses｜集結各大通訊軟體的「滅他」通訊軟體]]
+
 - [[在台灣住家的網速 Ethernet vs. wi-fi\|在台灣住家的網速 Ethernet vs. wi-fi]]
 
 - [[Zoom host can share video with sound to ALL breakout rooms｜Zoom主持人可對分組房播放影音\|Zoom host can share video with sound to ALL breakout rooms｜Zoom主持人可對分組房播放影音]]
