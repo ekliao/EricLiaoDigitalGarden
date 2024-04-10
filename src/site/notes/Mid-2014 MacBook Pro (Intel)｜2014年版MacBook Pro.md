@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/mid-2014-mac-book-pro-intel-2014-mac-book-pro/","noteIcon":"2"}
 ---
 
-Date-created:: 2023-02-21
-
 This was my first purchase and use of any Mac. The Evernote note below indicates I started using it in December 2014, or 9 years ago when I first attempted the Windows bootcamp installation (lasted a short couple of weeks). 
 
 ![Screen Shot 2023-11-20 at 15.18.28.png](/img/user/_attachments/_OB/Screen%20Shot%202023-11-20%20at%2015.18.28.png)
