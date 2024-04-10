@@ -1,4 +1,36 @@
 body {
+
+/* code suggested by chatgpt 3.5 (free) 20240409 */
+    
+/* Toggle button for light/dark theme */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+/* Button styling */
+.theme-toggle button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  outline: none;
+}
+
+/* Light theme icon */
+.theme-toggle .light-theme-icon {
+  color: #fff; /* Change to appropriate color for light theme */
+}
+
+/* Dark theme icon */
+.theme-toggle .dark-theme-icon {
+  color: #000; /* Change to appropriate color for dark theme */
+}
+
+/* end of chatgpt code */
+    
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
