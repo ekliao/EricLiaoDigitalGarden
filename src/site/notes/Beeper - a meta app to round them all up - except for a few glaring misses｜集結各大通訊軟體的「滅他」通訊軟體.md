@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/beeper-a-meta-app-to-round-them-all-up-except-for-a-few-glaring-misses/","noteIcon":"2"}
 ---
 
-After painstakingly agreeing to allow communications between the aggregator app with each of these (see pictures) messaging app, one by one, providing login information and giving explicit consent, this is the result: I can now use one app to aggregate messages from all connected apps, and reply from within it. 
+After painstakingly agreeing to allow communications between the aggregator app with each of these (see pictures) messaging apps, one after another by providing login information and giving explicit consent, this is the sweet fruit of labor: I can now use a single app to view messages from all connected apps and reply from within it. 
 
-There's one glaring absence: Apple's own iMessage app. This can't be done even on Apple's own ecosystem of MacOS and iOS. Ironic much?
+There's one glaring absence: Apple's own iMessage app. This integration isn't possible even on Apple's own ecosystem of MacOS and iOS. Ironic much?
 
 Actually, there's another big miss for people in Taiwan: Unfortunately your 國民軟體 LINE is not considered popular enough to be included. This is another unfortunate downside for me too because some of my contacts use LINE exclusively. I won't name names; this is not a place for public shaming 😂
 
