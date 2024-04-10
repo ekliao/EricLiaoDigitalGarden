@@ -1,8 +1,10 @@
 /* 20240409 ekliao experiment: deleting the <aside> floating control element for the email icon, 
 as it appeared twice, with the right-hand one half overlapping with the 
 light-dark toggle on site, making it impossible to click the toggle.
-Result: success! */
-    
+Result: success in fixed-toggle button, but ended up disabling page scrolling! */
+
+/*** 20240409 to bring back page scrolling, undoing below entire section
+
 <script>
     function setThemeIcon(theme) {
         let toAdd;
@@ -63,3 +65,5 @@ Result: success! */
         window.theme = theme;
     })
 </script>
+
+***/
