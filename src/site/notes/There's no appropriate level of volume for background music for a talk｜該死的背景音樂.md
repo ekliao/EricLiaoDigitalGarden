@@ -20,7 +20,9 @@ I happen to have recently set up a language learning plugin, creatively named "L
 
 This is another fun and incredibly useful Obsidian plugin I discovered recently, again even more creatively named Spaced Repetition.
 
-By light editing of note content (like the one you're reading now) into one-line items containing two semicolons separating the "question" and "answer," that line turns into a flashcard ready for me to review and learn directly within Obsidian! Anki is not required, thank goodness! I experienced some recent horror with issues of app freezing and hanging when attempting to create Anki cards from Obsidian using another set of plugin and Anki add-on.
+By light editing of note content (like the one you're reading now) into one-line items containing two semicolons separating the "question" and "answer," that line turns into a flashcard ready for me to review and learn directly within Obsidian. See pictures below. 
+
+Anki is not required, thank goodness! Despite its utility and popularity, I experienced some recent horror with issues of Obsidian freezing and hanging when attempting to create Anki cards from it using another set of plugin and Anki add-on. [[Yvonne Jiu 鞠雨融\|Yvonne Jiu 鞠雨融]] is the Taiwanese YouTuber whose great videos helped me learn the setup.
 
 #flashcards 
 visceral;;打內心裡反感；發自內心的
