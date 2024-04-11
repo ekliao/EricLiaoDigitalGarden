@@ -4,8 +4,7 @@
 
 After painstakingly agreeing to allow communications between the aggregator app with each of these (see pictures) messaging apps, one after another by providing login information and giving explicit consent, this is the sweet fruit of labor: I can now use a single app to view messages from all connected apps and reply from within it. 
 
-
-![Screenshot 2024-04-10 at 1.23.02 PM.png|300](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%201.23.02%20PM.png)
+![Screenshot 2024-04-10 at 1.23.02 PM.png|250](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%201.23.02%20PM.png)
 *Connected apps*
 
 ### Where is iMessage?
@@ -25,6 +24,10 @@ Despite the issues, I like the idea very much. I am enjoying viewing all message
 
 It'll obviously take a while to experience usage issues. Hope there won't be any showstoppers. Check back later.
 
+### The left nav bar, with Inbox at the top
+
+The Inbox is the only place getting a live count of new messages. Click the "Stack" icon above it to hide the nav bar.
+
 ![Screenshot 2024-04-10 at 4.16.18 PM.png|50](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%204.16.18%20PM.png)
 
 *Left nav bar*
@@ -35,3 +38,10 @@ It'll obviously take a while to experience usage issues. Hope there won't be any
 
 ![Screenshot 2024-04-11 at 1.11.04 PM.png|300](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.11.04%20PM.png)
 (*The three-dot menu options and keyboard shortcuts*)
+
+### Muting or low-prioritizing individual chats or groups
+
+*(2024-04-11)* I've learned to right-click a chat or high-traffic group to either mute it to avoid annoying notification sounds, or bring it out of Inbox, to which most attention is given, into the special "Low Priority" queue, as a "read it only when bored" place.
+
+![Screenshot 2024-04-11 at 1.19.29 PM.png|200](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.19.29%20PM.png)
+*(Context menu of an individual chat or group)*
