@@ -28,3 +28,10 @@ It'll obviously take a while to experience usage issues. Hope there won't be any
 ![Screenshot 2024-04-10 at 4.16.18 PM.png|50](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%204.16.18%20PM.png)
 
 *Left nav bar*
+
+### One great feature of integration
+
+*(2024-04-11)* Just realized that in this integrated messaging platform I can click the three-dots on any message and immediately hit 'R' for reply and 'F' for forward. Forwarding is where this gets exciting: I can then pick any other connected messaging platform to forward the message to, all in the same UI. This is very useful because contacts are dispersed all over the place.
+
+![Screenshot 2024-04-11 at 1.11.04 PM.png|300](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.11.04%20PM.png)
+(*The three-dot menu options and keyboard shortcuts*)
