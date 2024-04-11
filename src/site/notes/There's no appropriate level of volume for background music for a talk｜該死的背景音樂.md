@@ -18,15 +18,20 @@ I happen to have recently set up a language learning plugin, creatively named "L
 # Flashcards
 ### Creating flashcards of bilingual phrases inspired by AI's translation
 
+This is another fun and incredibly useful Obsidian plugin I discovered recently, again even more creatively named Spaced Repetition.
+
+By light editing of note content (like the one you're reading now) into one-line items containing two semicolons separating the "question" and "answer," that line turns into a flashcard ready for me to review and learn directly within Obsidian! Anki is not required, thank goodness! I experienced some recent horror with issues of app freezing and hanging when attempting to create Anki cards from Obsidian using another set of plugin and Anki add-on.
+
 #flashcards 
 visceral;;打內心裡反感；發自內心的
-<!--SR:!2024-04-12,1,230-->
-loud;;嘈雜
-<!--SR:!2024-04-15,4,270-->
 attack to sb's ears;;攻擊...的聽力
 <!--SR:!2024-04-12,1,230-->
 turn sb away;;拒之門外
 <!--SR:!2024-04-14,3,250-->
 
+### Flashcard review
+
+![Screenshot 2024-04-11 at 1.48.49 PM.png|350](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.48.49%20PM.png)
 
 
+![Screenshot 2024-04-11 at 1.50.19 PM.png|350](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.50.19%20PM.png)
