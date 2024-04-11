@@ -31,7 +31,7 @@ turn sb away;;拒之門外
 
 ### Flashcard review
 
-![Screenshot 2024-04-11 at 1.48.49 PM.png|350](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.48.49%20PM.png)
+![Screenshot 2024-04-11 at 1.48.49 PM.png|500](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.48.49%20PM.png)
 
 
-![Screenshot 2024-04-11 at 1.50.19 PM.png|350](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.50.19%20PM.png)
+![Screenshot 2024-04-11 at 1.50.19 PM.png|500](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.50.19%20PM.png)
