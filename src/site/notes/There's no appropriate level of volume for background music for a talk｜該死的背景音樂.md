@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/there-s-no-appropriate-level-of-volume-for-background-music-for-a-talk/","noteIcon":"2"}
 ---
 
-I have a visceral disgust for any talk that's literally ruined by background music, especially when the music is loud & distracting like [this](https://youtube.com/clip/UgkxnygUAYfDUaKOY6m3kZLcKbmbaCzn77tp?si=I7gaVwgKl-cB-IHS). Please just stop this attack on your listeners' ears. You are turning the audience away. If they want to enjoy real music or understand a talk, they wouldn't be listening to you.
+I have a visceral disgust for any talk that's literally ruined by background music, especially when the music is loud & distracting like [this](https://youtube.com/clip/UgkxnygUAYfDUaKOY6m3kZLcKbmbaCzn77tp?si=I7gaVwgKl-cB-IHS). Please just stop this attack on your listeners' ears. You are turning the audience away. If they want to enjoy real music or understand a talk, they wouldn't be listening to you. In other words, the only appropriate volume level of background music is zero.
 
 ---
 ## Extra
@@ -20,9 +20,13 @@ I happen to have recently set up a language learning plugin, creatively named "L
 
 #flashcards 
 visceral;;打內心裡反感；發自內心的
+<!--SR:!2024-04-12,1,230-->
 loud;;嘈雜
+<!--SR:!2024-04-15,4,270-->
 attack to sb's ears;;攻擊...的聽力
+<!--SR:!2024-04-12,1,230-->
 turn sb away;;拒之門外
+<!--SR:!2024-04-14,3,250-->
 
 
 
