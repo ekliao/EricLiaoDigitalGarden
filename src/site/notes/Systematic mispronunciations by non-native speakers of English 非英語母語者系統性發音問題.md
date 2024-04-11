@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/systematic-mispronunciations-by-non-native-speakers-of-english/","noteIcon":"2"}
 ---
 
-date-created:: 2023-04-29
 
 *([[Note on the SAMPA phonetic transcription｜SAMPA音標說明\|Note on the SAMPA phonetic transcription｜SAMPA音標說明]])*
+
 ## By native Mandarin speakers
 { #7809b0}
 
@@ -22,6 +22,7 @@ date-created:: 2023-04-29
 /{/ for /E/: `bed` -> `bad`
 /E/ for /eI/: `take` -> `tech`
 { #01fcf5}
+
 
 ## By native Spanish speakers
 - Word-initial /Est/ for /st/: `state` -> `estate`
