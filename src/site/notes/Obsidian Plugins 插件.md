@@ -6,7 +6,7 @@ date-created:: 2023-04-15
 ## In use / Tried
 *(New to old)*
 
-- [[Obsidian PDF＋＋ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++]]
+- [[Obsidian PDF-plus-plus plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++]]
 - [[Mixa (Obsidian plugbin) - free Obsidian Publish alternative\|Mixa (Obsidian plugbin) - free Obsidian Publish alternative]]
 - [[Obsidian plugin - Spaced Repetition\|Spaced Repetition]]
 - [[Export to Anki (was Obsidian_to_anki)\|Export to Anki (was Obsidian_to_anki)]]
