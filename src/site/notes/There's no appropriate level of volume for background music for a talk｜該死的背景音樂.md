@@ -26,8 +26,9 @@ Anki is not required, thank goodness! Despite its utility and popularity, I expe
 
 #flashcards 
 visceral;;打內心裡反感；發自內心的
+<!--SR:!2024-04-14,2,248-->
 attack to sb's ears;;攻擊...的聽力
-<!--SR:!2024-04-12,1,230-->
+<!--SR:!2024-04-14,2,230-->
 turn sb away;;拒之門外
 <!--SR:!2024-04-14,3,250-->
 
