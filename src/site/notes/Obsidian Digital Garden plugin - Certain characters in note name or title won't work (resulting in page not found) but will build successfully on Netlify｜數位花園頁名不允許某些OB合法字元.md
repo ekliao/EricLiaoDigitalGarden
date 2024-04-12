@@ -17,7 +17,7 @@ For example, I had a blogpost originally with "meta" in the headline/note title/
 
 ==workaround:
 
-- Use the full-width version ＋ instead.
+- Use the word "plus" instead. The full-width version won't do.
 ---
 [[Obsidian Issues 問題\|Obsidian Issues 問題]]
 
