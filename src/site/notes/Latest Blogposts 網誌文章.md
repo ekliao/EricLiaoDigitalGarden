@@ -31,6 +31,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- [[Obsidian PDF++ plugin demo｜比PDF Annotator插件還威，簡直開外掛\|Obsidian PDF++ plugin demo｜比PDF Annotator插件還威，簡直開外掛]]
+
 - [[There's no appropriate level of volume for background music for a talk｜該死的背景音樂\|There's no appropriate level of volume for background music for a talk｜該死的背景音樂]]
 
 - [[Obsidian discount for teachers and students｜Obsidian 師生優惠價\|Obsidian discount for teachers and students｜Obsidian 師生優惠價]]
