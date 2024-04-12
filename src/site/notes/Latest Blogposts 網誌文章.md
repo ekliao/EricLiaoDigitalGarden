@@ -31,7 +31,9 @@
 ---
 # 譯界之外 Beyond T&I
 
-- [[Obsidian PDF++ plugin demo｜比PDF Annotator插件還威，簡直開外掛\|Obsidian PDF++ plugin demo｜比PDF Annotator插件還威，簡直開外掛]]
+- [[Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡\|Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡]]
+
+- [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛]]
 
 - [[There's no appropriate level of volume for background music for a talk｜該死的背景音樂\|There's no appropriate level of volume for background music for a talk｜該死的背景音樂]]
 
