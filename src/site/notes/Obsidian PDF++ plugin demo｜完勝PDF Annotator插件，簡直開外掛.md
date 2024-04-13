@@ -28,6 +28,17 @@
 <!--SR:!2024-04-15,3,250-->
 
 ---
+
+# Quick verdict: 4/5
+
+## Cons
+
+### Does not work with:
+##### OCRed PDF book with vertical text e.g. Chinese
+
+The performance there is much worse than [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]]. It's practically unusable.
+
+---
 # Issues
 
 ### Mouse selection sticky
