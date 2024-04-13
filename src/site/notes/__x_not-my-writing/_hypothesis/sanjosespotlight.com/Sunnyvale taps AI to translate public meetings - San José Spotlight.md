@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/sanjosespotlight-com/sunnyvale-taps-ai-to-translate-public-meetings-san-jose-spotlight/","noteIcon":"2"}
 ---
 
-It's here. AI interpretation replaces humans at $112.50 per hour in city meetings, almost 4 times cheaper. AI mistakes are no longer a valid argument as long as their benefits are perceived to outweigh the risks. Besides, who can be sure that human interpreters don't make mistakes, perhaps even more so by omissions?
+It's here. AI interpretation replaces humans at $112.50 per hour in city meetings, almost 4 times cheaper. AI mistakes are no longer a valid argument as long as their benefits are perceived to outweigh the risks. Besides, who can be sure that human interpreters don't make as many mistakes, perhaps even more so by omissions?
 # Anno--Sunnyvale taps AI to translate public meetings - San José Spotlight
 
 ## Metadata
