@@ -33,6 +33,8 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 
 ### Auto-paste needs extra new line at the end to avoid gluing together successive quotes
 
+[Discovering the problem](https://youtu.be/xHqdvPhKyOM)
+
 #### Solution
 
 [Guided by forum, made my YT self-guide](https://youtu.be/e21eHBgthQE)
