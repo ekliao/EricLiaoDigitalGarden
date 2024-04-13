@@ -5,6 +5,8 @@
 # 譯人片語 Notes of an InterpSlator
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
+- 2024-04-12 【AI interpreters 跟真人搶飯碗】[[__x_not-my-writing/_hypothesis/sanjosespotlight.com/Sunnyvale taps AI to translate public meetings - San José Spotlight\|Sunnyvale taps AI to translate public meetings - San José Spotlight]] 
+
 - 2024-04-09 【Once in a total eclipse of the sun 百年一遇】 [[美國之音 VOA 首見台灣口音的同步口譯\|美國之音 VOA 首見台灣口音的同步口譯]] 
 
 - 2024-03-07 【Translationese 翻譯體】[[Sighting of the longest-ever prenominal modifier in Chinese (50 characters long)？ ｜史上最長的中文名詞前置修飾語？\|Sighting of the longest-ever prenominal modifier in Chinese (50 characters long)？ ｜史上最長的中文名詞前置修飾語？]]
