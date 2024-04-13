@@ -13,11 +13,7 @@ For example, I had a blogpost originally with "meta" in the headline/note title/
 
 - Remove the double quotes
 - Use the single quote (the apostrophe), smart quotes, or double byte quotes, etc.
-# Plus sign (+)
-
-==workaround:
-
-- Use the word "plus" instead. The full-width version won't do.
 ---
+
 [[Obsidian Issues 問題\|Obsidian Issues 問題]]
 
