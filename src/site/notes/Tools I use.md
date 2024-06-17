@@ -35,6 +35,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Eudic 歐路詞典\|Eudic 歐路詞典]] (2022)
 - [[Descript\|Descript]] (2022)
 - Keynote (2022/7)
+- [[SleepWatch\|SleepWatch]] (2022)
 - [[DaisyDisk (Mac app) - TreeSize equivalent on the Mac\|DaisyDisk (Mac app) - TreeSize equivalent on the Mac]]
 - [[Git\|Git]] (2021, *a fruity company*) 
 - [Sublime Text](https://www.sublimetext.com/) (2021) b
