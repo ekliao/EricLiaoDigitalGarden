@@ -5,6 +5,8 @@
 # 譯人片語 Notes of an InterpSlator
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
+- 2024-07-10  【AI-powered flashcards 人工智慧閃卡】[[HyperTTS：自動產生 Anki 閃卡語音的神器\|HyperTTS：自動產生 Anki 閃卡語音的神器]]
+
 - 2024-04-12 【AI interpreters 跟真人搶飯碗】[[__x_not-my-writing/_hypothesis/sanjosespotlight.com/Sunnyvale taps AI to translate public meetings - San José Spotlight\|Sunnyvale taps AI to translate public meetings - San José Spotlight]] 
 
 - 2024-04-09 【Once in a total eclipse of the sun 百年一遇】 [[美國之音 VOA 首見台灣口音的同步口譯\|美國之音 VOA 首見台灣口音的同步口譯]] 
