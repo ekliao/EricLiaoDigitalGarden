@@ -14,34 +14,34 @@ I completed the 10-hour system-to-system transfer following Apple MacOS's onscre
 ---
 # Todo
 
-## Apple 27" Cinema Display with Mini DisplayPort adapter
+- Apple 27" Cinema Display with Mini DisplayPort adapter
 
 # Tested
 
 ## The smooth transition
 
 All data and many apps and programs appear to have been transferred over without a hitch. That's a big relief, especially on the data side. The rest of the note documents the exceptions.
-### Zoom (video conferencing)
+#### Zoom (video conferencing)
 
 Works as expected. Can even share either of the dual screen after giving security permissions. The Cinema display's camera doesn't have pixellation or freezing as one Amazon user warned.
-### Apple 27" Cinema Display with Thunderbolt adapter
+#### Apple 27" Cinema Display with Thunderbolt adapter
 
 Works after getting a thunderbolt to USB-C adapter.
 ## The manual adjustments or additions
-### Loopback 音訊繞接軟體
+#### Loopback 音訊繞接軟體
 
 - [x] One-time config
 Requires following a detailed and clear official web guide to config permission settings accessible only through rebooting the Mac in a specific way. After the config, Loopback is working properly. Phew! This is one of my top priorities.
-### Input methods 輸入法
+#### Input methods 輸入法
 
 Unexpectedly, specific input systems I had are lost after the transfer. I simply needed to reinstall Squirrel as my go-to Chinese input.
-#### Squirrel/RIME/鼠鬚管
+##### Squirrel/RIME/鼠鬚管
 
 ![Screen Shot 2023-11-22 at 04.36.15.png|200](/img/user/_attachments/_OB/Screen%20Shot%202023-11-22%20at%2004.36.15.png)
 
 - [x] Re-install
 Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is not from an Apple-approved developer. Makes sense. 
-### The 8-port USB Type C hub
+#### The 8-port USB Type C hub
 
 - [x] Ethernet
 - [x] USB Type C port 1 (single one on side)
@@ -51,12 +51,12 @@ Turns out the reason had to do with security, because RIME/Squirrel/鼠鬚管 is
 - [ ] Card reader (wide)
 - [ ] Card reader (narrow)
 - [ ] Power port
-### Anki
+#### Anki
 
 The older version of Anki doesn't work anymore. Luckily, Anki released a new version that works for Apple Silicon. After installing it, everything worked without needing to re-enable existing profiles.
 ## The ugly surprises
 
-### Movavi Screen Recorder 桌面錄影軟體
+#### Movavi Screen Recorder 桌面錄影軟體
 
 Initially, appears to be working after re-entering the serial number from the original purchase. Except that after recording is started, it cannot be stopped and must be forced to quit. Seriously? The result was a bogus video file, almost zero byte, that couldn't be played. This is the older purchased version 11; it is dead on Apple Silicon.
 
@@ -78,7 +78,7 @@ Movavi can record dual screens as long as the area is a rectangle. This is bette
 	- [x] Quicktime (free), only for screen recording.
 	- [ ] ScreenFlow ($180 to buy)
 	- [x] Movavi Screen Recorder 24
-### Movavi Video Editor Plus 2020 and Movavi Video Editor 4
+#### Movavi Video Editor Plus 2020 and Movavi Video Editor 4
 
 - Both stopped working.
 - The programs start fine.
@@ -96,9 +96,9 @@ Movavi can record dual screens as long as the area is a rectangle. This is bette
 
 - [ ] Find alternatives
 	- [x] Movavi Video Editor 24
-### Windows 10 VM can't be started. Confirmed dead.
+#### Windows 10 VM can't be started. Confirmed dead.
 
-### The CKlau USB 3.0 2-device sharing switch failed
+#### The CKlau USB 3.0 2-device sharing switch failed
 
 雖然失望卻也在意料中。這個切換兩個電腦的USB 3.0介面完全無法使用了，我之前靠它切換如下的裝置：
 
