@@ -95,10 +95,12 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[USB C 8-in-1 multi-Port Adapter\|USB C 8-in-1 multi-Port Adapter]] (2023/11)
 - [[Apple Watch Ultra\|Apple Watch Ultra]] (2023/5)
 - [[Nuphy Air75 (mechanical wireless multi-device keyboard)\|Nuphy Air75 (mechanical wireless multi-device keyboard)]] (2023/5)
+- [[USB 3.0 Type A 4-port mini hub with USB 3.0 Type A plug\|USB 3.0 Type A 4-port mini hub with USB 3.0 Type A plug]] (2020?)
 - [Apple Thunderbolt Display](https://en.wikipedia.org/wiki/Apple_Thunderbolt_Display) (2560 x 1440, 16:9) (2019?)
 - [[Apple Pencil Gen 1\|Apple Pencil Gen 1]] (201?)
 - [[Behringer U-Control UCA222 audio interface\|Behringer U-Control UCA222 audio interface]] (201?)
-- [[USB\|USB]]
+
+### A description of [[USB\|USB]] types
 
 ---
 # More ...
