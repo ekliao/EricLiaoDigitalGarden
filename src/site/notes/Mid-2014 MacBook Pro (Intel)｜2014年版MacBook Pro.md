@@ -7,7 +7,7 @@ This was my first purchase and use of any Mac. The Evernote note below indicates
 ![Screen Shot 2023-11-20 at 15.18.28.png](/img/user/_attachments/_OB/Screen%20Shot%202023-11-20%20at%2015.18.28.png)
 # Hello, M3 new Mac!
 
-Today (2023-11-20) my new Macbook Pro Max M3 arrived. The old horse is still perfectly fine, but shows great strain when it comes to Zoom + screenrecording + running a couple of more apps at the same time. System resource monitor can drop to 10% of CPU, at which point Zoom and audio degrades and stutters.
+Today (*20231120*) my new [[MacBook 2023 Pro Max, 16 inch, with the M3 chip upgrade log｜新購Mac筆電從Intel版狂升到M3晶片：綜合心得紀錄\|MacBook 2023 Pro Max]] arrived. The old horse is still perfectly fine, but shows great strain when it comes to Zoom + screenrecording + running a couple of more apps at the same time. System resource monitor can drop to 10% of CPU, at which point Zoom and audio degrades and stutters.
 # The old duo
 
 I have two of these mid-2014 MacBook Pros, one being abandoned into my ownership by an ex-employer. They are great, but are long in the tooth. I am waiting with bated breath the rumored M3 15- or 16-inch MacBook Pro or Max to be available, hopefully by year end of 2023. In the meantime, I have to keep squeezing the last bit of juice out of these old faithful power horses, especially in video downsampling. Why would a one-hour iPad screen recording have a monstrous size of close to 10GB and sometimes take more than 12 hours just to downsize?
