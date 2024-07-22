@@ -49,7 +49,7 @@ Lo and behold!
 
 ### Textual annotations are searchable in OB's general search, and lead to original doc and annotation
 
-![[_attachments/Screen Shot 2023-05-21 at 14.13.23.png\|_attachments/Screen Shot 2023-05-21 at 14.13.23.png]]
+![_attachments/_OB/Screen Shot 2023-05-21 at 14.13.23.png](/img/user/_attachments/_OB/Screen%20Shot%202023-05-21%20at%2014.13.23.png)
 
 ## Cons
 
@@ -62,7 +62,8 @@ Lo and behold!
 ### Annotation pane search does not work
 
 The search on the annotation pane does not work, e.g. `solutions` should find the specific annotation that says "solutions inside". This works, however, on the left-nav general search for all files. Even though it is findable, locating the found annotation from the left-nav result is a pain, because clicking on the result doesn't home in on the target.
-![[_attachments/Screen Shot 2023-05-19 at 21.06.48.png\|_attachments/Screen Shot 2023-05-19 at 21.06.48.png]]
+
+![_attachments/_OB/Screen Shot 2023-05-19 at 21.06.48.png](/img/user/_attachments/_OB/Screen%20Shot%202023-05-19%20at%2021.06.48.png)
 
 ### iPad usability
 
