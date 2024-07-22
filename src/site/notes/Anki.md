@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/anki/","noteIcon":"2"}
 ---
 
-date-created:: 2023-02-21
-
 [[Anki\|Anki]] is the third [[PKM 個人知識管理\|PKM 個人知識管理]] that I built, after [[DTSearch\|DTSearch]] and [[Evernote\|Evernote]]. Today, it is my most frequently used and updated system. I almost stopped using [[DTSearch\|DTSearch]] altogether for its being on the old [[Windows 10 VM\|Windows 10 VM]], a resource hog on my [[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro]]. As for [[Evernote\|Evernote]], it is where garbage data goes to die. I still use it today, making most of the free 60MB storage per month to store random web content and short memos.
 { #2bb266}
 
@@ -95,7 +93,7 @@ After [[Anki Issues of Slow Desktop App\|Anki Issues of Slow Desktop App]], I de
 
 [[Ankification\|Ankification]]
 
-[[Anki Export Considerations： text vs apkg\|Anki Export Considerations： text vs apkg]]
+[[Anki Export Considerations - text vs apkg\|Anki Export Considerations - text vs apkg]]
 
 [[Anki data merging project (WIP w ongoing change log)\|Anki data merging project (WIP w ongoing change log)]]
 
