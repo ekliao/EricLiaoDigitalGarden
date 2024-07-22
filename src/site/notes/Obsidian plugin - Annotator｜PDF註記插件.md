@@ -26,7 +26,9 @@ This seems a cool tool. I've been searching for a consistent and habit-forming w
 - Add frontmatter	
 	- `annotation-target:<pdf-file-name-including-extension-dot-pdf`	
 	 - [Clip](https://youtube.com/clip/Ugkxo50smJxJAAF5F-SxhnAsN2FGYklE5D0i)
+
 Or: in-line video:
+
 ![[what to do after creating annotation-target frontmatter for a new note.mp4]]
 [src](https://www.youtube.com/watch?v=lISOJeu7fgU&t=326s)
 - Can switch between three views (click `Show Annotation` in markdown view to go back to the PDf view)
