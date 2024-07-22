@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify-build-failure-scares-obsidian/","noteIcon":"2"}
 ---
 
-date-created:: 2023-08-19
 # A surprise build failure
 
 ![_attachments/_OB/Screen Shot 2023-08-19 at 16.36.40.png](/img/user/_attachments/_OB/Screen%20Shot%202023-08-19%20at%2016.36.40.png)
