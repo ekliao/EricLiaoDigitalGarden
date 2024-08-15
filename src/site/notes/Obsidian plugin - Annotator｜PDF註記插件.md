@@ -94,3 +94,9 @@ This view on my iPhone has become a daily eyesore:
 ### A weird OCR failure
 
 [[Annotation of Chinese OCRed PDF in Annotator plugin - shocking fail\|Annotation of Chinese OCRed PDF in Annotator plugin - shocking fail]]
+
+---
+
+# More...
+
+[[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛]]
