@@ -5,6 +5,8 @@
 # 譯人片語 Notes of an InterpSlator
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
+- 2024-08-15 【AI 文件翻譯評比 】[[ImmersiveTranslate - quick impressions on translation quality of 4 free document translation services - 1 microsoft, 2 google, 3 tencent 騰訊, 4 siliconCloud - using the research paper titled chatGPT is Bullshit,  2024\|ImmersiveTranslate - quick impressions on translation quality of 4 free document translation services - 1 microsoft, 2 google, 3 tencent 騰訊, 4 siliconCloud - using the research paper titled chatGPT is Bullshit,  2024]]
+
 - 2024-07-10  【AI-powered flashcards 人工智慧閃卡】[[HyperTTS：自動產生 Anki 閃卡語音的神器\|自動產生 Anki 閃卡語音的神器｜HyperTTS: A Powerful Tool for Auto-generated Audio for Anki Flashcards]]
 
 - 2024-04-12 【AI interpreters 跟真人搶飯碗】[[__x_not-my-writing/_hypothesis/sanjosespotlight.com/Sunnyvale taps AI to translate public meetings - San José Spotlight\|Sunnyvale taps AI to translate public meetings - San José Spotlight]] 
