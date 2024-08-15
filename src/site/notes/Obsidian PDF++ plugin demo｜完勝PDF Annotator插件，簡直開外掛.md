@@ -10,14 +10,14 @@
 4. Hover over a link to get a popup preview of the context.
 
 ![Screenshot 2024-04-12 at 4.06.00 PM.png](/img/user/_attachments/_OB/Screenshot%202024-04-12%20at%204.06.00%20PM.png)
----
 
+---
 # Quick verdict: 4/5
 
 ## Cons
 
 ### Does not work with:
-##### OCRed PDF book with vertical text e.g. Chinese
+##### OCRed PDF book with vertical text e.g. Chinese: a huge disappointment
 
 The performance there is much worse than [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]]. It's practically unusable.
 
@@ -43,3 +43,5 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 # More ...
 
 [[Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡\|Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡]]
+
+[[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]]
