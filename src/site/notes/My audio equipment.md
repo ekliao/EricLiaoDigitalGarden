@@ -12,6 +12,7 @@
 	- [[Arctis Mic Can Be Used on the Windows VM to do Mac Movavi Screen Recording\|Arctis on Parallels Desktop VM]] ⛔️
 - Steelseries Arctis Pro GameDAC *(i)* (2019)
 - Apple AirPods Max
+- Apple AirPods (gen 3, 2021)
 - Apple AirPods (gen 2)
 - Apple earbuds
 
