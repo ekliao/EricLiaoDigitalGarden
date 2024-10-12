@@ -39,6 +39,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- [[Audio recording - 48KHz or 44.1 KHz？\| Audio recording - 48KHz or 44.1 KHz？｜錄音時選擇 48KHz 的用意]]
+
 - [[Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡\|Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡]]
 
 - [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛]]
