@@ -47,7 +47,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
 - [[Movavi Video Editor 4\|Movavi Video Editor 4]]
 - [[Movavi Screen Recorder 11\|Movavi Screen Recorder 11]]
-- [[Loopback\|Loopback]]
+- [[Loopback (Rogue Amoeba) new issues under MacOS Sequoia\|Loopback (Rogue Amoeba) new issues under MacOS Sequoia]]
 - [[QuickTime Player\|QuickTime Player]]
 - [[aTimeLoggerPro\|aTimeLoggerPro]]
 - [[Record It!\|Record It!]] (2018, rediscovered its utility in 2023)
