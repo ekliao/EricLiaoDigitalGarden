@@ -8,6 +8,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
+- [[Audio Hijack 4 (Rogue Amoeba)\|Audio Hijack 4 (Rogue Amoeba)]] (2024/10)
 - [[Beeper - a meta app to round them all up - except for a few glaring misses｜集結各大通訊軟體的「滅他」通訊軟體\|Beeper]] (2024/4)
 - [[PDFSam Basic\|PDFSam Basic]] (2024/2 for "alternative mix," collaging PDF pages that are left-right-page out of order)
 - [[UltraEdit\|UltraEdit]] (2024/2, for Replace In Files - fail compared to [[EmEditor\|EmEditor]])
@@ -47,7 +48,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
 - [[Movavi Video Editor 4\|Movavi Video Editor 4]]
 - [[Movavi Screen Recorder 11\|Movavi Screen Recorder 11]]
-- [[Loopback (Rogue Amoeba) new issues under MacOS Sequoia\|Loopback (Rogue Amoeba) new issues under MacOS Sequoia]]
+- [[Loopback (Rogue Amoeba)\|Loopback (Rogue Amoeba)]]
 - [[QuickTime Player\|QuickTime Player]]
 - [[aTimeLoggerPro\|aTimeLoggerPro]]
 - [[Record It!\|Record It!]] (2018, rediscovered its utility in 2023)
