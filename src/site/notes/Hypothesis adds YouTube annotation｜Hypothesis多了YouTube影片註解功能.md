@@ -7,3 +7,7 @@ I am excited to learn that my favorite social annotation tool, [[Hypothesis - 
 今天發現我不久前開始狂推的筆記工具 Hypothesis 最近多了一個期待已久的功能：YouTube 影片註釋，興奮之餘，做了一段示範影片（同時也試用了一個影片後製工具 Descript）。
 
 [Watch the video](https://www.youtube.com/watch?v=KIjlL21UJE8)
+
+# New discovery about annotating private and unlisted YouTube videos
+
+⛔️ [[Hypothesis hack - annotating private YouTube videos\|Hypothesis hack - annotating private YouTube videos]]
