@@ -33,3 +33,4 @@ Sunnyvale taps AI to translate public meetings
 該來的還是來了。AI口譯將會從底層漸漸蠶食真人口譯的工作。
 
 
+
