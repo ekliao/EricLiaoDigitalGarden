@@ -15,7 +15,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[CapCut 剪映\|CapCut 剪映]] (2023/12)
 - [[UpNote - Escape from Evernote｜幫助Evernote難民出走的佛心軟體\|Upnote]] (2023/12)
 - [[BBEdit\|BBEdit]] (2023/12)
-- [[Movavi Video Editor 24\|Movavi Video Editor 24]] (2023/11)
+- [[Movavi Video Editor 24 (2)\|Movavi Video Editor 24 (2)]] (2023/11)
 - [[Movavi Screen Recorder 24\|Movavi Screen Recorder 24]] (2023/11)
 - [[Exporter (app)\|Exporter (app)]] (2023/6)
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
