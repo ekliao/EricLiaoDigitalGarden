@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/movavi-video-editor-4/","noteIcon":"2"}
 ---
 
-date-created:: 2023-10-13
-
 This Movavi edition offers simpler editing features than [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]] but proves more efficient in downsampling, reducing the file size faster at the same quality. I have been using it more since discovering how much time it saves.
 
 ![[_attachments/Screen Shot 2023-10-13 at 18.45.29.png\|600]]
