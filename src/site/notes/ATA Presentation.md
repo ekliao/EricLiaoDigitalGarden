@@ -8,5 +8,5 @@ Title: [[digital note-taking\|digital note-taking]] for [[Consecutive Interpreti
 
 ATA63, October 15, 2022, Los Angeles.
 
-Not yet titled [[CADNCI\|CADNCI]], which I decided to use for my first [[Research Paper\|Research Paper]].
+Not yet titled [[CADNCI\|CADNCI]], which I decided to use for my first [[My first research paper\|My first research paper]].
 
