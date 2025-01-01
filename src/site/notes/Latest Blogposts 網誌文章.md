@@ -5,7 +5,7 @@
 # 譯人片語 Notes of an InterpSlator
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
-- 2024-11030 【Dictionaries 字典工具】[[Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信\|Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信]]
+- 2024-11-30 【Dictionaries 字典工具】[[Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信\|Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信]]
 
 - 2024-09-22 【Mistranslation du jour 今日誤譯】[[Mistranslation du jour 今日誤譯 - to go back on sth 改變想法，反悔\|to go back on 反悔，改變想法]]
 
@@ -41,9 +41,9 @@
 ---
 # 譯界之外 Beyond T&I
 
-- [[Hello, Obsidian Sync! 一試成主顧\|Hello, Obsidian Sync! 一試成主顧]]
+- 2025-01-01 [[Hello, Obsidian Sync! 一試成主顧\|Hello, Obsidian Sync! 一試成主顧]]
 
-- [[Completionism, or completism 求全主義\|Completionism, or completism 求全主義]]
+- 2024-12-31 [[Completionism, or completism 求全主義\|Completionism, or completism 求全主義]]
 
 - [[Audio recording - should I choose 48KHz or 44.1 KHz？｜錄音時選擇 48KHz 的用意\|Audio recording - should I choose 48KHz or 44.1 KHz？｜錄音時選擇 48KHz 的用意]]
 
