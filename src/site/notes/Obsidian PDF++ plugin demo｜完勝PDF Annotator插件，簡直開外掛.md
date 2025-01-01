@@ -21,6 +21,8 @@
 
 The performance there is much worse than [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]]. It's practically unusable.
 
+One more proof: [[Notes (PDF++) - Grammaire du français (sorbonne) - 法文文法快易通 修訂版 fr-tc (ocr).pdf\|Notes (PDF++) - Grammaire du français (sorbonne) - 法文文法快易通 修訂版 fr-tc (ocr).pdf]]
+
 ---
 # Issues
 
@@ -45,3 +47,5 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 [[Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡\|Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡]]
 
 [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]]
+
+[[PDF annotation - non-OCR PDF - text selection woes\|PDF annotation - non-OCR PDF - text selection woes]]
