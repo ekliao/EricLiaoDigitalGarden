@@ -41,6 +41,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- [[Hello, Obsidian Sync! 一試成主顧\|Hello, Obsidian Sync! 一試成主顧]]
+
 - [[Audio recording - should I choose 48KHz or 44.1 KHz？｜錄音時選擇 48KHz 的用意\|Audio recording - should I choose 48KHz or 44.1 KHz？｜錄音時選擇 48KHz 的用意]]
 
 - [[Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡\|Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡]]
