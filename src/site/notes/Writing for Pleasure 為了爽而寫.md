@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/writing-for-pleasure/","noteIcon":"2"}
 ---
 
-date-created:: 2023-10-15
-
 這個中文標題雖然有點「倯」(台語，sông)，卻恰恰是我的心境，但「為爽而寫」這麼強有力的自我呼籲不是我自己想到的，是來自一篇臉書長文，整篇充滿珠璣金句，就不客氣整篇給它拷貝下來了。
 
 [來源：一個分析師的閱讀時間](https://www.facebook.com/readandanalyseSeanHuang/posts/pfbid0THhg3djGKj6CQaUiucpzXRqTnA3Bge5u2Gax4Q7ob6x6t9qjFKLPUWpJJSZRwr3jl)
