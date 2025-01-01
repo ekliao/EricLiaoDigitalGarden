@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/obsidian-plugins/","noteIcon":"2"}
 ---
 
-date-created:: 2023-04-15
 ## In use / Tried
 *(New to old)*
 
+- [[Audio Recorder - Obsidian plugin\|Audio Recorder]]
 - [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++]]
 - [[Mixa (Obsidian plugbin) - free Obsidian Publish alternative\|Mixa (Obsidian plugbin) - free Obsidian Publish alternative]]
 - [[Obsidian plugin - Spaced Repetition\|Spaced Repetition]]
