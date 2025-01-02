@@ -41,6 +41,9 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 
 [Guided by forum, made my YT self-guide](https://youtu.be/e21eHBgthQE)
 
+### Destroys a PDF file on iPad...
+[[10 dailynotes/2025-01-01#^ae2a92\|2025-01-01#^ae2a92]]
+
 ---
 # More ...
 
