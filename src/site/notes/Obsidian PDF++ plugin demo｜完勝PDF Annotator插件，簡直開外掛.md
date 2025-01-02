@@ -26,7 +26,7 @@ One more proof: [[Notes (PDF++) - Grammaire du français (sorbonne) - 法文文�
 ---
 # Issues
 
-### 20250101 ⛔️ [[Obsidian PDF++ plugin destroys a PDF file on iPad\|Obsidian PDF++ plugin destroys a PDF file on iPad]]
+### 20250101 ⛔️ [[Obsidian PDF++ plugin destroys a PDF file on iPad\|Destroys a PDF file on iPad]]
 
 ### Mouse selection sticky
 
@@ -34,14 +34,7 @@ On one occasion, my mouse selection goes berserk: it slips and ends up selecting
 #### Solution
 
 Restarting the computer worked. Glad it's only a one-off anomaly.
-
-### Auto-paste needs extra new line at the end to avoid gluing together successive quotes
-
-[Discovering the problem](https://youtu.be/xHqdvPhKyOM)
-
-#### Solution
-
-[Guided by forum, made my YT self-guide](https://youtu.be/e21eHBgthQE)
+### 20240412 ⛔️ [[Obsidian PDF++ plugin - Auto-paste needs extra new line at the end to avoid gluing together successive quotes\|Auto-paste needs extra new line at the end to avoid gluing together successive quotes]]
 
 ---
 # More ...
