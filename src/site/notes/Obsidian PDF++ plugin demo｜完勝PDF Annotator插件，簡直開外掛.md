@@ -26,6 +26,8 @@ One more proof: [[Notes (PDF++) - Grammaire du français (sorbonne) - 法文文�
 ---
 # Issues
 
+### 20250101 ⛔️ [[Obsidian PDF++ plugin destroys a PDF file on iPad\|Obsidian PDF++ plugin destroys a PDF file on iPad]]
+
 ### Mouse selection sticky
 
 On one occasion, my mouse selection goes berserk: it slips and ends up selecting more text than intended as I navigate the context menu.
@@ -40,9 +42,6 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 #### Solution
 
 [Guided by forum, made my YT self-guide](https://youtu.be/e21eHBgthQE)
-
-### Destroys a PDF file on iPad...
-[[10 dailynotes/2025-01-01#^ae2a92\|2025-01-01#^ae2a92]]
 
 ---
 # More ...
