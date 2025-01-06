@@ -44,3 +44,10 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 [[Obsidian plugin - Annotator｜PDF註記插件\|Obsidian plugin - Annotator｜PDF註記插件]]
 
 [[PDF annotation - non-OCR PDF - text selection woes\|PDF annotation - non-OCR PDF - text selection woes]]
+
+- Explains options, including caution against "enable PDF editing" (which I turned ON)
+https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/pdf-plus/
+
+- Introduces Markmind plugin #todo/try #Obsidian/plugin 
+https://zhuanlan.zhihu.com/p/438755703
+- [obsidian markmind 插件](https://link.zhihu.com/?target=https%3A//www.markmind.net/cn)已经实现在 ob 中阅读标注 pdf, 具有形成思维导图, pdf 跳转的功能; 该插件配置, 在 markmind 的基础上, 结合 quickadd 和 Templater 插件, 进一步对 pdf 标注进行操作, 实现每条 pdf注释 单独生成一个文稿, 并手动打上标签, 方便日后归纳整理检索分类**
