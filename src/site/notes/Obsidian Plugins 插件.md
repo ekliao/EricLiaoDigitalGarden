@@ -5,13 +5,14 @@
 ## In use / Tried
 *(New to old)*
 
-- [[Audio Recorder - Obsidian plugin\|Audio Recorder]]
-- [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++]]
-- [[Mixa (Obsidian plugbin) - free Obsidian Publish alternative\|Mixa (Obsidian plugbin) - free Obsidian Publish alternative]]
+- [[Obsidian - Handwritten Note plugin magic\|Handwritten Note]]: magical!
+- [[Audio Recorder - Obsidian plugin\|Audio Recorder]] - not much use
+- [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++]]: magical!
+- [[Mixa (Obsidian plugin) - free Obsidian Publish alternative\|Mixa (Obsidian plugin) - free Obsidian Publish alternative]]
 - [[Obsidian plugin - Spaced Repetition\|Spaced Repetition]]
 - [[Export to Anki (was Obsidian_to_anki)\|Export to Anki (was Obsidian_to_anki)]]
 - [[Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件\|Importer]]
-- [[Obsidian plugin - Hypothesis\|Hypothesis]]
+- [[Obsidian plugin - Hypothesis\|Hypothesis]]: magical!
 - [[Obsidian plugin - Omnivore\|Omnivore]]
 - [Excalibrain](https://github.com/zsviczian/excalibrain)
 	- [Nicole's video](https://www.youtube.com/watch?v=gqEtn3gCZF0)

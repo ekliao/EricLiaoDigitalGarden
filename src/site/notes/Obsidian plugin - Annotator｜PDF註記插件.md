@@ -95,8 +95,14 @@ This view on my iPhone has become a daily eyesore:
 
 [[Annotation of Chinese OCRed PDF in Annotator plugin - shocking fail\|Annotation of Chinese OCRed PDF in Annotator plugin - shocking fail]]
 
+# 2024~2025 Broken on iPad 
+
+[Seems broken for a long time now](https://github.com/elias-sundqvist/obsidian-annotator/issues/289)
+
+I am glad I've found and started using [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|another and better plugin]] some time now.
+
 ---
 
-# More...
+# More ...
 
 [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛]]
