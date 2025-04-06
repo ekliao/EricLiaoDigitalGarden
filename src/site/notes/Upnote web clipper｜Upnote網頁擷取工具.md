@@ -9,3 +9,6 @@ Upnote has a Chrome web clipper like Evernote. [This](https://www.youtube.com/wa
 
 #todo/try
 
+---
+
+[[Upnote web clipper - examples\|Upnote web clipper - examples]]

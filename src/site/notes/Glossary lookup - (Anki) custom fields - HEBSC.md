@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/glossary-lookup-anki-custom-fields-hebsc/","noteIcon":"2"}
 ---
 
-date-created: 2023-08-13
-
 This documents my design of the "new" glossary management system, starting with Anki.
 # Anki notetype
 
@@ -20,7 +18,7 @@ The meat of each Anki record. Contains part of speech (POS), definitions, exampl
 The whole entry comes from this source. The source often the last identifying portion of a long hierarchical deck name, e.g. if the deck is `A::ROz::Bil::EC::JMYH`, the source is simply JMYH.
 # Other Boolean fields in consideration (most essential first)
 
-## C = collocation
+## C = collocation (Remember this meaning!)
 
 By default, glossary entries are definitional and terminological, per popular belief. But I want to have an additional benefit: collecting collocations and their best translation and interpretation possible. 
 

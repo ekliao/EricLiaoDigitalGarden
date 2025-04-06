@@ -6,22 +6,23 @@
 *(new to old; (i): for interpretation work; (b): backup for work)*
 
 ## Headsets and earbuds with mics
-- Steelseries Arctis Prime *(b)* (2022)
+- [[Apple AirPods Pro 2 - completely broken in - thanks to SpinFit Superfine (size SS) silicone tips (purchased)\|Apple AirPods Pro 2 - completely broken in - thanks to SpinFit Superfine (size SS) silicone tips (purchased)]] (2024)
+- Steelseries Arctis Prime *(b)* (2022) - almost never used, bought as a recommended inexpensive headset for my De Anza class
 - [Sennheiser PC 8 USB](https://sennheiser.pl/d/817aff6d02bcc04e331a9a4eca22e69a) *(b)* (2021)
 - [Steelseries Arctis Pro Wireless](https://steelseries.com/gaming-headsets/arctis-pro-wireless) *(i)* (2019)
 	- [[Arctis Mic Can Be Used on the Windows VM to do Mac Movavi Screen Recording\|Arctis on Parallels Desktop VM]] ⛔️
-- Steelseries Arctis Pro GameDAC *(i)* (2019)
+- Steelseries Arctis Pro GameDAC *(b)* (2019)
 - Apple AirPods Max
 - Apple AirPods (gen 3, 2021)
 - Apple AirPods (gen 2)
-- Apple earbuds
+- Apple earbuds (wired)
 
 ## Headphones
 - Sony MDR-V6 (2016)
 - Sony HS-90 (1998)
 
 ## Microphones
-- Martel HGM2 court reporter microphone (2023)
+- [Martel HGM-2 court reporter microphone](https://martelelectronics.com/hgm-2-court-reporter-microphone-w-battery-tester-built-in/?srsltid=AfmBOoo5TYr7rn-xIey-8QRzSBOMS9bl_Il7ST1srP6B9vMUrXje0QrA) *(i)* (2023)
 - Zoom H5 *(b)* (2019)
 - M-Audio Producer
 - VocoPro MARK-CV1

@@ -37,6 +37,36 @@ Restarting the computer worked. Glad it's only a one-off anomaly.
 ### 20240412 ⛔️ [[Obsidian PDF++ plugin - Auto-paste needs extra new line at the end to avoid gluing together successive quotes\|Auto-paste needs extra new line at the end to avoid gluing together successive quotes]]
 
 ---
+
+# External PDF
+
+#gpt 
+In Obsidian, the "PDF++" plugin allows you to link to external PDF files by simply ==dragging and dropping the PDF file directly into your Obsidian note==, which creates a link to the file's location on your computer; essentially treating the PDF as an attachment, even if it's not physically stored within your Obsidian vault folder, enabling you to access it through the link within your note. 
+#pplx 
+在 Obsidian 中，「PDF++」外掛允許您通過直接將 PDF 文件拖放到您的 Obsidian 筆記中來鏈接外部 PDF 文件，這會自動建立一個指向該文件在您電腦上位置的連結；本質上將 PDF 視為附件，即使它並未實際存儲在您的 Obsidian Vault 資料夾內，也能讓您通過筆記中的連結訪問該文件。
+
+Key points about linking external PDFs with PDF++:
+關於使用 PDF++ 鏈接外部 PDF 的重點：
+
+Drag and drop functionality:
+The most common method is to drag a PDF file from your file explorer and drop it into your Obsidian note, automatically generating a link to that file.
+
+拖放功能：
+最常見的方法是從檔案總管中拖動 PDF 文件並將其放入您的 Obsidian 筆記中，系統會自動生成指向該文件的連結。
+
+External file location:
+The link will point to the actual location of the PDF file on your computer, not necessarily within your Obsidian vault. 
+
+外部文件位置：
+該連結會指向您電腦上 PDF 文件的實際位置，而不一定需要位於您的 Obsidian Vault 資料夾內。
+
+Opening the PDF:
+When you click on the link in your Obsidian note, the default PDF viewer on your system will open the external file.
+
+開啟 PDF：
+當您點擊 Obsidian 筆記中的連結時，系統預設的 PDF 檢視器會自動打開該外部文件。
+
+---
 # More ...
 
 [[Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡\|Combining PDF reading, annotating, backlinking for context, and flashcarding 一邊閱讀筆記一遍建立閃卡]]

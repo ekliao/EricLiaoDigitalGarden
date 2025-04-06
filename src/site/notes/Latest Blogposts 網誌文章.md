@@ -13,7 +13,7 @@
 
 - 2024-07-10  【AI-powered flashcards 人工智慧閃卡】[[HyperTTS：自動產生 Anki 閃卡語音的神器\|自動產生 Anki 閃卡語音的神器｜HyperTTS: A Powerful Tool for Auto-generated Audio for Anki Flashcards]]
 
-- 2024-04-12 【AI interpreters 跟真人搶飯碗】[[__x_not-my-writing/_hypothesis/sanjosespotlight.com/Sunnyvale taps AI to translate public meetings - San José Spotlight\|Sunnyvale taps AI to translate public meetings - San José Spotlight]] 
+- 2024-04-12 【AI interpreters 跟真人搶飯碗】[[_hypothesis/sanjosespotlight.com/Sunnyvale taps AI to translate public meetings - San José Spotlight\|Sunnyvale taps AI to translate public meetings - San José Spotlight]] 
 
 - 2024-04-09 【Once in a total eclipse of the sun 百年一遇】 [[美國之音 VOA 首見台灣口音的同步口譯\|美國之音 VOA 首見台灣口音的同步口譯]] 
 
@@ -22,7 +22,7 @@
 
 - 2024-01-19 【Phonemic awareness 音位意識】[[Threads音義雙全的中文譯名｜Give Threads a decent name\|Threads音義雙全的中文譯名｜Give Threads a decent name]]
 
-- 2024-01-09 【Terminology 譯名】[[__x_not-my-writing/_hypothesis/zh.wikipedia.org/音位 - 維基百科，自由的百科全書\|Please use 音位, not 音素 for "phoneme" to avoid perpetuating an avoidable confusion]]
+- 2024-01-09 【Terminology 譯名】[[_hypothesis/zh.wikipedia.org/音位 - 維基百科，自由的百科全書\|Please use 音位, not 音素 for "phoneme" to avoid perpetuating an avoidable confusion]]
 
 - 2024-01-06 【Money issues 向錢行】[[頂級單日口譯待遇 Top rates for an interpreter\|頂級單日口譯待遇 Top rates for an interpreter]]
 
@@ -30,7 +30,7 @@
 
 - 2023-11-26 【Terp hack 順句驅動】[be taken by sth](https://hyp.is/iDB3zrV-Ee6uhJsOPQ5oBw/www.youtube.com/watch?v=rsrMn5j2lb0)
 
-- 2023-11-26【Char 中文漢字】【Pron 英語發音】[[__x_not-my-writing/_hypothesis/forum.babyhome.com.tw/家家有本難「念」的經－念與唸 - BabyHome親子討論區\|唸 念｜when (Please read "Annotation" at bottom of page 請閱讀頁面最下方的「Annotation」)]]
+- 2023-11-26【Char 中文漢字】【Pron 英語發音】[[_hypothesis/forum.babyhome.com.tw/家家有本難「念」的經－念與唸 - BabyHome親子討論區\|唸 念｜when (Please read "Annotation" at bottom of page 請閱讀頁面最下方的「Annotation」)]]
 
 - 2023-11-26【Vocab 詞彙用例】[verification, validation](https://hyp.is/qmf6gIyHEe6VCoOp0Ods2Q/www.ncbi.nlm.nih.gov/pmc/articles/PMC7156507/), [Context 用例](https://hyp.is/4rUJCoyHEe6Z16MK0912qw/support.apple.com/en-us/HT211856)
 

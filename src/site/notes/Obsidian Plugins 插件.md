@@ -5,12 +5,12 @@
 ## In use / Tried
 *(New to old)*
 
-- [[Obsidian - Handwritten Note plugin magic\|Handwritten Note]]: magical!
-- [[Audio Recorder - Obsidian plugin\|Audio Recorder]] - not much use
+- [[Handwritten Notes - Obsidian plugin - simply magical! 神奇的「手寫註記」插件\|Handwritten Note]]: magical!
+- [[Audio Recorder - Obsidian core plugin\|Audio Recorder]]
 - [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++]]: magical!
 - [[Mixa (Obsidian plugin) - free Obsidian Publish alternative\|Mixa (Obsidian plugin) - free Obsidian Publish alternative]]
 - [[Obsidian plugin - Spaced Repetition\|Spaced Repetition]]
-- [[Export to Anki (was Obsidian_to_anki)\|Export to Anki (was Obsidian_to_anki)]]
+- [[Obsidian plugin - Export to Anki (old name Obsidian_to_anki or Obsidian to Anki)\|Obsidian plugin - Export to Anki (old name Obsidian_to_anki or Obsidian to Anki)]]
 - [[Obsidian plugin - Importer｜Obsidian匯入多種筆記軟體內容的神插件\|Importer]]
 - [[Obsidian plugin - Hypothesis\|Hypothesis]]: magical!
 - [[Obsidian plugin - Omnivore\|Omnivore]]
@@ -29,6 +29,7 @@
 ## Of interest
 *(new to old)*
 
+- [[Super Duper Audio Recorder - community plugin\|Super Duper Audio Recorder]]
 - [[Obsidian plugin - Zotero Integration｜Obsidian、Zotero 之聯動\|Zotero Integration]]
 - Metadata ([video](https://www.youtube.com/watch?v=7o9j7WJfhi0))- Implements Tana supertags
 - [Admonition](https://github.com/javalent/admonitions)

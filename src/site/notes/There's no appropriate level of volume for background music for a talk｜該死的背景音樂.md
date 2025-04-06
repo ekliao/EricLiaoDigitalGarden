@@ -22,15 +22,16 @@ This is another fun and incredibly useful Obsidian plugin I discovered recently,
 
 By light editing of note content (like the one you're reading now) into one-line items containing two semicolons separating the "question" and "answer," that line turns into a flashcard ready for me to review and learn directly within Obsidian. See pictures below. 
 
-Anki is not required, thank goodness! Despite its utility and popularity, I experienced some recent horror with issues of Obsidian freezing and hanging when attempting to create Anki cards from it using another set of plugin and Anki add-on. [[Yvonne Jiu 鞠雨融\|Yvonne Jiu 鞠雨融]] is the Taiwanese YouTuber whose great videos helped me learn the setup.
+Anki is not required, thank goodness! Despite its utility and popularity, I experienced some recent horror with issues of Obsidian freezing and hanging when attempting to create Anki cards from it using another set of plugin and Anki add-on. [[people/Yvonne Jiu 鞠雨融\|Yvonne Jiu 鞠雨融]] is the Taiwanese YouTuber whose great videos helped me learn the setup.
 
+#ob/plugin/spaced-repetition
 #flashcards 
 visceral;;打內心裡反感；發自內心的
-<!--SR:!2024-04-14,2,248-->
+<!--SR:!2025-04-11,7,268-->
 attack to sb's ears;;攻擊...的聽力
-<!--SR:!2024-04-14,2,230-->
+<!--SR:!2025-04-09,5,230-->
 turn sb away;;拒之門外
-<!--SR:!2024-04-14,3,250-->
+<!--SR:!2025-04-15,11,270-->
 
 ### Flashcard review
 

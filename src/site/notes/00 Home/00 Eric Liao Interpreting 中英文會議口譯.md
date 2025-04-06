@@ -62,4 +62,4 @@ Feel free to connect by email 電郵 (ekliao@gmail.com), You can also fill out t
 ---
 *This website is built using [[Obsidian\|Obsidian]], its [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), [[GitHub\|GitHub]], and [[Obsidian Digital Garden Plugin + Netlify\|Netlify]].*
 
-*© Eric K. Liao 2024*
+*© Eric K. Liao 2025*

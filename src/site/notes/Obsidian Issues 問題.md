@@ -31,7 +31,7 @@
 
 The pound sign (\#) for tags in file name is allowed if the file is directly copied under vault externally. Despite this, it does not work as tags in OB, e.g.:
 
-![[../../../_attachments/Screen Shot 2023-06-08 at 15.59.07.png\|500]]
+![../../../_attachments/_OB/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/_OB/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
 
 ---
 ## iCloud
