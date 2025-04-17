@@ -50,6 +50,7 @@ What's left for me to do is edit and add one vertical bar to fix the alignment p
 - [alias](https://help.obsidian.md/Linking+notes+and+files/Aliases) (front-matter) for effecting bilingual or multilingual notes, or translation of a source-language note
 - [linking to another vault](https://forum.obsidian.md/t/is-there-a-way-to-quickly-link-to-another-vault/20652) `[text](obsidian://vault/<name-of-vault>)` instead of https://
 	- Or to a note: `[text](obsidian://vault/<name-of-vault>/<name-of-note-w-space-written-as-%20>)`
+	#it-works
 - block reference (>)
 - swapping line up and down (cmd+1, cmd+2)
 - Folding/unfolding (cmd+3)
