@@ -41,6 +41,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- 2025-04-27 [[Perplexity 和 ChatGPT 較量：《柳葉刀》投書：台灣健保崩塌，兩大AI回應大不同，Perplexity真的比較會查即時新聞\|Perplexity 和 ChatGPT 較量：《柳葉刀》投書：台灣健保崩塌，兩大AI回應大不同，Perplexity真的比較會查即時新聞]]
+
 - 2025-01-01 [[Hello, Obsidian Sync! 一試成主顧\|Hello, Obsidian Sync! 一試成主顧]]
 
 - 2024-12-31 [[Completionism, or completism 求全主義\|Completionism, or completism 求全主義]]
