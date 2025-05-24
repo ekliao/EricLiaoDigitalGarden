@@ -5,13 +5,15 @@
 # 譯人片語 Notes of an InterpSlator
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
+- 2025-05-24 【工具人口譯】[[Resistance is futile？ - From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting\|Resistance is futile？ - From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting 機器口譯再下一城]]
+
 - 2024-11-30 【Dictionaries 字典工具】[[Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信\|Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信]]
 
 - 2024-09-22 【Mistranslation du jour 今日誤譯】[[Mistranslation du jour 今日誤譯 - to go back on sth 改變想法，反悔\|to go back on 反悔，改變想法]]
 
 - 2024-08-15 【AI 文件翻譯評比 】[[ImmersiveTranslate - quick impressions on translation quality of 4 free document translation services - 1 microsoft, 2 DeepL, 3 google, 4 tencent 騰訊, 5 siliconCloud - using the research paper titled chatGPT is Bullshit,  2024\|ImmersiveTranslate - quick impressions on translation quality of 4 free document translation services - 1 microsoft, 2 DeepL, 3 google, 4 tencent 騰訊, 5 siliconCloud - using the research paper titled chatGPT is Bullshit,  2024]]
 
-- 2024-07-10  【AI-powered flashcards 人工智慧閃卡】[[HyperTTS：自動產生 Anki 閃卡語音的神器\|自動產生 Anki 閃卡語音的神器｜HyperTTS: A Powerful Tool for Auto-generated Audio for Anki Flashcards]]
+- 2024-07-10 【AI-powered flashcards 人工智慧閃卡】[[HyperTTS：自動產生 Anki 閃卡語音的神器\|自動產生 Anki 閃卡語音的神器｜HyperTTS: A Powerful Tool for Auto-generated Audio for Anki Flashcards]]
 
 - 2024-04-12 【AI interpreters 跟真人搶飯碗】[[_hypothesis/sanjosespotlight.com/Sunnyvale taps AI to translate public meetings - San José Spotlight\|Sunnyvale taps AI to translate public meetings - San José Spotlight]] 
 

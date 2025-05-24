@@ -36,7 +36,7 @@ In summary, any record is by default not collocational unless C:y. This has the 
 
 ## I = idioms, P = phrases/sentences
 
-I think based on the thinking above, these three fields are not necessary for now. Go for brevity and simplicity of design for now. Think of it this way: All my Anki entries used to have only two fields: front and back, or entry and back. Now, I've added H, S, and the single Boolean field C. It's already quite busy. I don't want to create any friction during data entry or indecision between whether something is phrasal or not.
+==I think based on the thinking above, these two fields are not necessary for now.== Go for brevity and simplicity of design for now. Think of it this way: All my Anki entries used to have only two fields: front and back, or entry and back. Now, I've added H, S, and the single Boolean field C. It's already quite busy. I don't want to create any friction during data entry or indecision between whether something is phrasal or not.
 
 # Recap
 
@@ -72,3 +72,9 @@ So glad I now have my most important deck (A-Dict) retyped as HEBSC. The search 
 I can see a struggle between the using the 'source' field and hashtags. Sometimes the source isn't clear. If I heard something on TV, from the radio, from watching a video, or simply by reading an article on the web or a post on some social media. Should it be of source=web or given a hashtag of web? 
 
 For now, go for always filling out the source field (because it is defined) with one single piece of information, likely "web," if there's no better and more narrow description, like "netflix," "economist," (The Economist) or "nytimes" (The New York Times).
+
+# Regrets
+
+## 202505 
+
+I now regret the distinction between H and E. I think it is unnecessary and redundant now. New entries almost always have these two fields with the same value. I no longer want to have a simplified single word for H.

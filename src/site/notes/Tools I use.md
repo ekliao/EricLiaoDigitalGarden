@@ -44,7 +44,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - AutoSleep app (2020/6)
 - [[Web Captioner\|Web Captioner]]
 - [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]]
-- [[Zoom\|Zoom]] (2020)
+- [[Zoom (teleconferencing app)\|Zoom (teleconferencing app)]] (2020)
 - [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
 - [[Movavi Video Editor 4\|Movavi Video Editor 4]]
 - [[Movavi Screen Recorder 11\|Movavi Screen Recorder 11]]
