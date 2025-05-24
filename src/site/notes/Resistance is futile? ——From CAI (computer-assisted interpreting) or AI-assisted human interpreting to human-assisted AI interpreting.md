@@ -14,7 +14,7 @@ Just one day later, I saw another interpreter mention this as an actual job offe
 
 The interpreter asks for suggestions for how much to charge for this mode of work and, perhaps facetiously, how much "fun" there might be.
 
-In short, the time has come when human interpreters must either accept a job as machine's assistant or monitor or face the reality of dwindling opportunities as the main interpreter. This is bound to become the prevalent mode of interpreting, much like how translators must do post-editing for machine translation (PEMT) at a fraction of cost for years in order to survive.
+In short, the time has come when human interpreters must either accept a job as machine's assistant or monitor or face the reality of dwindling opportunities as the main interpreter. This is bound to become the prevalent mode of interpreting, much like how translators have been forced do post-editing for machine translation (PEMT) at a fraction of the price of human translation for years in order to survive.
 
 Bezzaoucha urges interpreters not to be "accomplices" to expedite our own obsolescence with this thought-provoking question:
 
