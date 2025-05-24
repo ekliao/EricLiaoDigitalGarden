@@ -6,7 +6,7 @@
 #interpreting 
 #cai 
 
-Yesterday, I read this LinkedIn post by [Ilhem Bezzaoucha](https://www.linkedin.com/in/ilhem-bezzaoucha-a4227312b/) about a new "mode" of interpreting, which she called ghost interpreting, and I thought to myself: Ah, the day has finally come when human interpreters are hired only to take a backseat to the main star interpreter in a meeting—AI churning out either speech translation or adding the gimmicky yet cognitively-dissonant hugely-delayed AI generated voice of said translation.
+Yesterday, I read this LinkedIn [post by Ilhem Bezzaoucha](https://www.linkedin.com/posts/ilhem-bezzaoucha-a4227312b_ai-and-the-rise-of-the-ghost-interpreter-activity-7331410676055269377-cw9D?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAAxqwIBfrYHPsPxOL8EAbdgbU_XFu7H3Vc) about a new "mode" of interpreting, which she called ghost interpreting, and I thought to myself: Ah, the day has finally come when human interpreters are hired only to take a backseat to the main star interpreter in a meeting—AI churning out either speech translation or adding the gimmicky yet cognitively-dissonant hugely-delayed AI generated voice of said translation.
 
 Just one day later, I saw another interpreter mention this as an actual job offer in a group chat. In my paraphrase, an agency is seeking a human interpreter who will provide consecutive interpretation or clarify when and only when the AI voice-to-text translation or voice-to-voice interpretation makes meaning errors or is unclear.
 The interpreter asks for suggestions as to how much to charge for this mode of work and perhaps facetiously how much "fun" there might be doing it.
