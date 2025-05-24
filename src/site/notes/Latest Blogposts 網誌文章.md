@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2"}
 ---
 
-# 譯人片語 Notes of an InterpSlator
+# 譯人片語 Notes of a Mandarin Interpreter
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
 - 2025-05-24 【工具人口譯】[[Resistance is futile? ——From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting\|Resistance is futile? ——From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting 機器口譯再下一城]]
