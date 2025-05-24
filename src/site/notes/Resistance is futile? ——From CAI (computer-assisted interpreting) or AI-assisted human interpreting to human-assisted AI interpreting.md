@@ -10,13 +10,12 @@ Yesterday, I read this LinkedIn [post by Ilhem Bezzaoucha](https://www.linkedin.
 ```
 Some of us are being asked not to interpret—but to correct. To sit behind machine-generated output and “step in” when the AI falters.
 ```
-
 Just one day later, I saw another interpreter mention this as an actual job offer in a group chat. In my paraphrase, an agency is seeking a human interpreter who will provide consecutive interpretation or clarify when and only when the AI voice-to-text translation or voice-to-voice interpretation makes meaning errors or is unclear.
 The interpreter asks for suggestions as to how much to charge for this mode of work and perhaps facetiously how much "fun" there might be doing it.
 
 In short, the time has come when human interpreters must either accept a job as machine's assistant or monitor or face the reality of dwindling opportunities as the main interpreter. This is bound to become the prevalent mode of interpreting, much like how translators must do post-editing for machine translation (PEMT) at a fraction of cost for years in order to survive.
 
-Bezzaoucha urges interpreters not to be "accomplices" to effect our own "eventual" obsolescence with this thought-provoking question:
+Bezzaoucha urges interpreters not to be "accomplices" to expedite our own obsolescence with this thought-provoking question:
 
 ![1747944514736 Medium.jpeg](/img/user/_attachments/_OB/1747944514736%20Medium.jpeg)
 
