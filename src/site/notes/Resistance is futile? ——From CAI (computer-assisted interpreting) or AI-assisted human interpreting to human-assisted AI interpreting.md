@@ -20,6 +20,6 @@ Bezzaoucha urges interpreters not to be "accomplices" to expedite our own obsole
 
 ![1747944514736 Medium.jpeg](/img/user/_attachments/_OB/1747944514736%20Medium.jpeg)
 
-To me, resistance seems futile. Those of us who are doing better in the field may play the last holdouts for a while but once  AI interpreting with human assistance reaches critical mass, everyone has to fend for themselves. It's join the enemy if you can't fight it or be out, and be out of income.
+To me, resistance seems futile. Those of us who are doing better in the field may play the last holdouts for a while but once AI interpreting with human assistance reaches critical mass, everyone has to fend for themselves. It's join the enemy if you can't fight it or be out, and be out of income.
 
 This is of course yet another nail in the coffin for us human interpreters. We can lament and commiserate all we want, but ultimately market forces and capitalism dictate, and agencies, driven by maximization of profits and survival at the minimum (they face fierce competition too), will deliver this inevitable and gloomy outcome.
