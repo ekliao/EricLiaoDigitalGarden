@@ -5,9 +5,11 @@
 # 譯人片語 Notes of a Mandarin Interpreter
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
+- 2025-05-25 【Dictionaries 詞典工具】[[Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本\|Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本]]
+
 - 2025-05-24 【口譯工具人？】[[Resistance is futile? ——From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting\|Resistance is futile? ——From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting 機器口譯擔綱主角]]
 
-- 2024-11-30 【Dictionaries 字典工具】[[Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信\|Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信]]
+- 2024-11-30 【Dictionaries 詞典工具】[[Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信\|Online English-Chinese dictionaries are full of errors 線上英漢詞典不可信]]
 
 - 2024-09-22 【Mistranslation du jour 今日誤譯】[[Mistranslation du jour 今日誤譯 - to go back on sth 改變想法，反悔\|to go back on 反悔，改變想法]]
 
