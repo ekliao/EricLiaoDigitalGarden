@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/dictionaries-for-chinese-usage-in-taiwan/","noteIcon":"2"}
 ---
 
-
 身處海外，語言服務對象中，華語使用者背景混雜，不如台灣一致。對於用詞和發音，我一直參考重編本。
 
 不久前才知道，欲知最新的部訂發音，要參考簡編本。
