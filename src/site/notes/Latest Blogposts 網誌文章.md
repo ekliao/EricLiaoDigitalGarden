@@ -5,7 +5,7 @@
 # 譯人片語 Notes of a Mandarin Interpreter
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
-- 2025-05-2 【巜 AI口譯】[[AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505\|AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505]]
+- 2025-05-2 【AI口譯】[[AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505\|AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505]]
 
 - 2025-05-25 【Dictionaries 詞典工具】[[Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本\|Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本]]
 
