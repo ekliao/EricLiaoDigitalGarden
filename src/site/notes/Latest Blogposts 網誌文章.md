@@ -5,6 +5,8 @@
 # 譯人片語 Notes of a Mandarin Interpreter
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
+- 2025-05-2 【巜 AI口譯】[[AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505\|AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505]]
+
 - 2025-05-25 【Dictionaries 詞典工具】[[Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本\|Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本]]
 
 - 2025-05-24 【口譯工具人？】[[Resistance is futile? ——From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting\|Resistance is futile? ——From CAI (computer-assisted interpreting) or AI-assisted human interpreting to human-assisted AI interpreting 機器口譯擔綱主角]]

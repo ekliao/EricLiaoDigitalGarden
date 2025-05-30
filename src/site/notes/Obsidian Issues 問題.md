@@ -4,6 +4,8 @@
 
 ## Attachments
 
+20250529: can't consistently find attachment by name: [[Obsidian Search 搜索#^32ae91\|Obsidian Search 搜索#^32ae91]]
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
