@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ai-interpretation-wordly-app-assessment-by-who-ai-202505/","noteIcon":"2"}
 ---
 
-# tl;dr
+# tl;dr 懶人版
 
 English<>Mandarin Chinese overall scores: 51-54% (Pass score: 75%)
 
