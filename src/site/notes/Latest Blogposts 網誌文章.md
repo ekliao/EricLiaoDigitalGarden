@@ -47,7 +47,7 @@
 ---
 # 譯界之外 Beyond T&I
 
-- 2025-06-04 【Ikigai 生存的意義】[[Ikigai - jobs as suggested by AI 根據「生存的意義」四大標準，AI為我建議的工作\|Ikigai - jobs as suggested by AI 根據「生存的意義」四大標準，AI為我建議的工作]]
+- 2025-06-04 【Ikigai 生存的意義】[[Ikigai：Jobs as suggested by AI｜AI 心海明燈：根據「生存的意義」四大象限為我建議的工作\|Ikigai：Jobs as suggested by AI｜AI 心海明燈：根據「生存的意義」四大象限為我建議的工作]]
 
 - 2025-04-27 [[Perplexity 和 ChatGPT 較量：《柳葉刀》投書：台灣健保崩塌，兩大AI回應大不同，Perplexity真的比較會查即時新聞\|Perplexity 和 ChatGPT 較量：《柳葉刀》投書：台灣健保崩塌，兩大AI回應大不同，Perplexity真的比較會查即時新聞]]
 
