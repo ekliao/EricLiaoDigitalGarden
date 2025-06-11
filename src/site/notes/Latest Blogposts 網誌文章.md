@@ -47,6 +47,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- 2026-06-11 【T T 不休】[[The t phoneme in English - its allophonic variations - a learning moment with AI｜跟AI討論英語的音位「t」\|The t phoneme in English - its allophonic variations - a learning moment with AI｜跟AI討論英語的音位「t」]]
+
 - 2025-06-04 【Ikigai 生存的意義】[[Ikigai：Jobs as suggested by AI｜AI 心海明燈：根據「生存的意義」四大象限為我建議的工作\|Ikigai：Jobs as suggested by AI｜AI 心海明燈：根據「生存的意義」四大象限為我建議的工作]]
 
 - 2025-04-27 [[Perplexity 和 ChatGPT 較量：《柳葉刀》投書：台灣健保崩塌，兩大AI回應大不同，Perplexity真的比較會查即時新聞\|Perplexity 和 ChatGPT 較量：《柳葉刀》投書：台灣健保崩塌，兩大AI回應大不同，Perplexity真的比較會查即時新聞]]
