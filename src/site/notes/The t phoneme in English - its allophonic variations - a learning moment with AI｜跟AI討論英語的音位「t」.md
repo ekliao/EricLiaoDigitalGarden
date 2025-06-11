@@ -7,12 +7,25 @@
 
 ![Pasted image 20250611155203.png](/img/user/_attachments/_OB/Pasted%20image%2020250611155203.png)
 
+[Read the Threads post](https://www.threads.com/@adagoodvibe/post/DKxNcDzPYLI?xmt=AQF0GNuL8elgsD_1P_CD46lMzbrPYpfdKFlTydc-Prf8Ng)
+
 [The YouTube clip](https://www.youtube.com/shorts/niDgzgOJr_o)
 
+My immediate take-away was, I wish people could see beyond the apparent misguided debate between the "textbook" [tʰ] and "innerview," arguing which is correct, and see that the real contrast is between the full, aspirated and released /t/ and an allophone that is definitely NOT the [n] sound.
+
+What a missed opportunity!
+
+I don't know what the actual allophone of /t/ that's typically sounded in "innerview" is. It can be:
+- the tap/flap
+- deleted
+- held/unreleased
+
+I have lost that sensitivity and knowledge, but I tried to get back into the fray, remembering having seen a text showing at least 7 manifestations of /t/.
 # So I consulted Perplexity
 
 [Read the whole thread on Perplexity](https://www.perplexity.ai/search/do-an-extensive-web-search-and-s4_saLrdSIKtx19TVTi9dA) or to see references (removed from text below for brevity's sake)
 
+#paste/b 
 ## Q: 
 Do an extensive web search and research, and show that the broad transcription /t/ phoneme in English, depending on surrounding sounds, can be manifested into at least 7 narrow transcription sounds, such as \[t\] without completion, \[ɾ\] flap or tap, glottal stop, etc. Please list all such possible presentations of /t/ and give examples. Find as many variations as possible that are documented. Answer in both en and zhtw translation, interlacing sentencewise.
 ## A:
