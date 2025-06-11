@@ -11,23 +11,23 @@
 
 [The YouTube clip](https://www.youtube.com/shorts/niDgzgOJr_o)
 
-My immediate take-away was, I wish people could see beyond the apparent misguided debate between the "textbook" [tʰ] and "innerview," arguing which is correct, and see that the real contrast is between the full, aspirated and released /t/ and an allophone that is definitely NOT the [n] sound.
-
-What a missed opportunity!
+My immediate take-away was: I wish people could see beyond the apparent misguided debate between the "textbook" [tʰ] and "innerview," arguing which is correct, and see that the real contrast is between the full, aspirated and released /t/ and an allophone that is definitely NOT the [n] sound. What a missed opportunity!
 
 I don't know what the actual allophone of /t/ that's typically sounded in "innerview" is. It can be:
 - the tap/flap
 - deleted
 - held/unreleased
 
-I have lost that sensitivity and knowledge, but I tried to get back into the fray, remembering having seen a text showing at least 7 manifestations of /t/.
+I have lost that sensitivity and knowledge, but I tried to get back into the fray, remembering having seen a text showing at least 7 manifestations of /t/ but forgetting where.
 # So I consulted Perplexity
 
 [Read the whole thread on Perplexity](https://www.perplexity.ai/search/do-an-extensive-web-search-and-s4_saLrdSIKtx19TVTi9dA) or to see references (removed from text below for brevity's sake)
 
 #paste/b 
 ## Q: 
-Do an extensive web search and research, and show that the broad transcription /t/ phoneme in English, depending on surrounding sounds, can be manifested into at least 7 narrow transcription sounds, such as \[t\] without completion, \[ɾ\] flap or tap, glottal stop, etc. Please list all such possible presentations of /t/ and give examples. Find as many variations as possible that are documented. Answer in both en and zhtw translation, interlacing sentencewise.
+Do an extensive web search and research, and show that the broad transcription /t/ phoneme in English, depending on surrounding sounds, can be manifested into at least 7 narrow transcription sounds, such as \[t\] without completion, \[ɾ\] flap or tap, glottal stop, etc. Please list all such possible presentations of /t/ and give examples. Find as many variations as possible that are documented. 
+
+Answer in both en and zhtw translation, interlacing sentencewise.
 ## A:
 The English /t/ phoneme shows a wide range of allophonic realizations depending on its phonetic environment.  
 英語中的 /t/ 音素根據語音環境有多種異音實現方式。
@@ -135,7 +135,6 @@ These patterns are especially common in American English, and the /t/ after [n] 
 ## Q:
 You forgot the unaspirated /t/, such as "stop". Add it now.
 ## A:
-
 You are correct—unaspirated [t] is another important allophone of the /t/ phoneme in English, especially after /s/.  
 你說得對，無送氣 [t] 是英語 /t/ 音素另一個重要的異音，特別是在 /s/ 之後。
 
@@ -220,7 +219,9 @@ Yes, in contemporary American English, the /t/ in "written" can be realized in a
 |Aspirated [t]|[ˈrɪtʰn̩]|Rare, careful speech|
 |Unreleased [t̚]|[ˈrɪt̚n̩]|Rare, rapid/casual speech|
 ## Q:
-Continue. Doesn't the syllabic [n̩] in [ˈrɪɾn̩] make the flap/tap [ɾ] difficult to produce for "written"? Find academic sources that discuss this. As a result, is the glottal stop more common and preferred here? Cite and name and quote sources.
+Continue. 
+
+Doesn't the syllabic [n̩] in [ˈrɪɾn̩] make the flap/tap [ɾ] difficult to produce for "written"? Find academic sources that discuss this. As a result, is the glottal stop more common and preferred here? Cite and name and quote sources.
 ## A:
 Yes, the presence of a syllabic [n̩] after the /t/ in "written" does make the flap/tap [ɾ] realization less likely or more difficult for many American English speakers.  
 是的，在 "written" 這個單字中，/t/ 後接音節化 [n̩] 會讓許多美式英語說話者較難或較少使用閃音/拍音 [ɾ] 的發音方式。
@@ -249,7 +250,9 @@ The Wikipedia entry on the glottal stop also notes:
 In summary, while the flap [ɾ] is possible in some dialects or rapid speech, the glottal stop [ʔ] is more common and preferred before syllabic [n̩] in "written" and similar words, due to articulatory ease and established usage.  
 總結來說，雖然在某些方言或快速語流中仍可能出現閃音 [ɾ]，但在 "written" 及類似單字中，喉塞音 [ʔ] 因發音容易且已成慣例而更常見、更受偏好。
 ## Q:
-continue. Is 'held t' more realized than the tap/flap in American English in situations like "written" (/t/ + /n/)? Cite, name, and quote sources for this. Is there a specific IPA symbol for this "held t"?
+Continue. 
+
+Is 'held t' more realized than the tap/flap in American English in situations like "written" (/t/ + /n/)? Cite, name, and quote sources for this. Is there a specific IPA symbol for this "held t"?
 ## A:
 In American English, the “held t” (unreleased [t̚]) is indeed more commonly realized than the tap/flap [ɾ] in environments like "written" (/t/ + /n/), especially before a syllabic [n̩].  
 在美式英語中，「held t」（未釋放 [t̚]）在 "written" 這類 /t/ + /n/ 的環境下，確實比閃音/拍音 [ɾ] 更常見，特別是在音節化 [n̩] 前。
@@ -291,4 +294,3 @@ In American English, the “held t” (unreleased [t̚]) is indeed more commonly
 - The held t [t̚] is a defining feature of American English pronunciation in these environments.  
     未釋放的 t [t̚] 是美式英語這類語音環境下的顯著特徵。
     
-
