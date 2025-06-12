@@ -5,7 +5,7 @@
 #phonetics 
 # The Threads post that started all this
 
-![Pasted image 20250611155203.png](/img/user/_attachments/_OB/Pasted%20image%2020250611155203.png)
+![Pasted image 20250611155203 Medium.jpeg](/img/user/_attachments/_OB/Pasted%20image%2020250611155203%20Medium.jpeg)
 
 [Read the Threads post](https://www.threads.com/@adagoodvibe/post/DKxNcDzPYLI?xmt=AQF0GNuL8elgsD_1P_CD46lMzbrPYpfdKFlTydc-Prf8Ng)
 
