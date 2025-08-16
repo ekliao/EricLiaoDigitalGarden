@@ -13,8 +13,8 @@ Find out that the failed build involves adding a new note:
 ![_attachments/_OB/Screen Shot 2023-08-19 at 16.36.52.png](/img/user/_attachments/_OB/Screen%20Shot%202023-08-19%20at%2016.36.52.png)
 
 ## Fixing the build error by unpublishing the offending note
-
-![[_attachments/_OB/20230819 obsidian digital garden netlify build failure scares! KEEP.mp4]]
+#video 
+[LAO video](obsidian://open?vault=LAO&file=20230819%20obsidian%20digital%20garden%20netlify%20build%20failure%20scares!%20KEEP)
 
 ---
 

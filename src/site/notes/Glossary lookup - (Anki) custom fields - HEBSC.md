@@ -18,11 +18,11 @@ The meat of each Anki record. Contains part of speech (POS), definitions, exampl
 The whole entry comes from this source. The source often the last identifying portion of a long hierarchical deck name, e.g. if the deck is `A::ROz::Bil::EC::JMYH`, the source is simply JMYH.
 # Other Boolean fields in consideration (most essential first)
 
-## C = collocation (Remember this meaning!)
+## C = collocation (original intent)
 
 By default, glossary entries are definitional and terminological, per popular belief. But I want to have an additional benefit: collecting collocations and their best translation and interpretation possible. 
 
-This field by default will have no value (empty). But will have a single 'y' (yes) if the entry is DEFINITELY collocational, e.g. `unsolicited advice`.
+~~This field by default will have no value (empty). But will have a single 'y' (yes) if the entry is DEFINITELY collocational, e.g. `unsolicited advice`.~~
 
 What about PHRASES, SENTENCES, and IDIOMS?
 
@@ -32,11 +32,11 @@ IDIOMS are so fossilized that they should be treated as terms to be defined. So,
 
 PHRASES/SENTENCES should be considered to be the same. I won't collect a sentence unless there's a portion of the sentence that's collocational. The rest of the sentence can serve as context for that collocation.
 
-In summary, any record is by default not collocational unless C:y. This has the elegance of needing only one Boolean field of C.
+~~In summary, any record is by default not collocational unless C:y. This has the elegance of needing only one Boolean field of C.~~
 
-## I = idioms, P = phrases/sentences
+## Values: C  = collocation, I = idioms, P = phrases/sentences
 
-==I think based on the thinking above, these two fields are not necessary for now.== Go for brevity and simplicity of design for now. Think of it this way: All my Anki entries used to have only two fields: front and back, or entry and back. Now, I've added H, S, and the single Boolean field C. It's already quite busy. I don't want to create any friction during data entry or indecision between whether something is phrasal or not.
+~~==I think based on the thinking above, these two fields are not necessary for now.== Go for brevity and simplicity of design for now. Think of it this way: All my Anki entries used to have only two fields: front and back, or entry and back. Now, I've added H, S, and the single Boolean field C. It's already quite busy. I don't want to create any friction during data entry or indecision between whether something is phrasal or not.~~
 
 # Recap
 
@@ -44,7 +44,7 @@ H
 E
 B
 S
-C (y)
+C
 
 These five fields will be my initial design. The card layout will follow this order:
 
@@ -58,13 +58,13 @@ Rationale:
 
 H comes last for textual entry. 
 
-C is mostly empty or 'y' so logically should go last in data entry.
+C is mostly empty ~~or 'y'~~ so logically should go last in data entry.
 
 # First implementation
 
 ## 2023-08-17
 
-![[_attachments/Screen Shot 2023-08-17 at 16.02.43.png\|_attachments/Screen Shot 2023-08-17 at 16.02.43.png]]
+![_attachments/_OB/Screen Shot 2023-08-17 at 16.02.43.png](/img/user/_attachments/_OB/Screen%20Shot%202023-08-17%20at%2016.02.43.png)
 
 So glad I now have my most important deck (A-Dict) retyped as HEBSC. The search is more powerful with the addition of the 'h', 's', and 'c' fields. 
 # Issues
