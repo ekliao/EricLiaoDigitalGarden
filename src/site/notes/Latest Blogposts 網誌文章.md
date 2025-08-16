@@ -48,8 +48,10 @@
 ---
 # 譯界之外 Beyond T&I
 
-- 2026-06-11 【Know your IPA, and it's not a drink】[[Examples of sloppy typography and editing - a phonetic book of all books 語音學的書很忌諱把發音符號搞錯或用錯字體\|Examples of sloppy typography and editing - a phonetic book of all books 語音學的書很忌諱把發音符號搞錯或用錯字體]]
-- 2026-06-11 【T T 不休】[[The t phoneme in English - its allophonic variations - a learning moment with AI｜跟AI討論英語的音位「t」\|The t phoneme in English - its allophonic variations - a learning moment with AI｜跟AI討論英語的音位「t」]]
+- 2025-08-16【音樂：聽出和弦】[[__x_not-my-writing/_hypothesis/youtube.com/The music theory and production of Eleanor Rigby\|The music theory and production of Eleanor Rigby]]
+
+- 2025-06-11 【Know your IPA, and it's not a drink】[[Examples of sloppy typography and editing - a phonetic book of all books 語音學的書很忌諱把發音符號搞錯或用錯字體\|Examples of sloppy typography and editing - a phonetic book of all books 語音學的書很忌諱把發音符號搞錯或用錯字體]]
+- 2025-06-11 【T T 不休】[[The t phoneme in English - its allophonic variations - a learning moment with AI｜跟AI討論英語的音位「t」\|The t phoneme in English - its allophonic variations - a learning moment with AI｜跟AI討論英語的音位「t」]]
 
 - 2025-06-04 【Ikigai 生存的意義】[[Ikigai：Jobs as suggested by AI｜AI 心海明燈：根據「生存的意義」四大象限為我建議的工作\|Ikigai：Jobs as suggested by AI｜AI 心海明燈：根據「生存的意義」四大象限為我建議的工作]]
 
