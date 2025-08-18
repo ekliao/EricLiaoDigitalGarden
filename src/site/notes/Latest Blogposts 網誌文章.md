@@ -48,6 +48,8 @@
 ---
 # 譯界之外 Beyond T&I
 
+- 2025-08-17 【音樂：教學】[[__x_not-my-writing/_hypothesis/youtube.com/Why Playing By Ear Makes You Unstoppable (Top 3 Reasons)\|Rare but important way of teaching in scale degrees｜鳳毛麟角般的音階級數教學]]
+
 - 2025-08-16【音樂：聽出和弦】[[__x_not-my-writing/_hypothesis/youtube.com/The music theory and production of Eleanor Rigby\|The music theory and production of Eleanor Rigby]]
 
 - 2025-06-11 【Know your IPA, and it's not a drink】[[Examples of sloppy typography and editing - a phonetic book of all books 語音學的書很忌諱把發音符號搞錯或用錯字體\|Examples of sloppy typography and editing - a phonetic book of all books 語音學的書很忌諱把發音符號搞錯或用錯字體]]
