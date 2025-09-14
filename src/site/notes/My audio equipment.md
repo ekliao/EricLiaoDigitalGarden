@@ -10,7 +10,7 @@
 - Steelseries Arctis Prime *(b)* (2022) - almost never used, bought as a recommended inexpensive headset for my De Anza class
 - [Sennheiser PC 8 USB](https://sennheiser.pl/d/817aff6d02bcc04e331a9a4eca22e69a) *(b)* (2021)
 - [Steelseries Arctis Pro Wireless](https://steelseries.com/gaming-headsets/arctis-pro-wireless) *(i)* (2019)
-	- [[Arctis Mic Can Be Used on the Windows VM to do Mac Movavi Screen Recording\|Arctis on Parallels Desktop VM]] ⛔️
+	- [[Arctis Pro wireless headset microphone can Be used on the Windows VM to do Mac Movavi screen recording\|Arctis on Parallels Desktop VM]] ⛔️
 - Steelseries Arctis Pro GameDAC *(b)* (2019)
 - Apple AirPods Max
 - Apple AirPods (gen 3, 2021)

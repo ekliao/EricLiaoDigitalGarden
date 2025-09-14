@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/web-publishing/","noteIcon":"2"}
 ---
 
-date-created:: 2023-04-15
 ## Obsidian
 - [[My successful attempt at Obsidian web publishing 用 Obsidian 架站的艱辛史\|My successful attempt at Obsidian web publishing 用 Obsidian 架站的艱辛史]]
 - [[Obsidian Publish Example Sites\|Obsidian Publish Example Sites]]

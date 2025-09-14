@@ -6,6 +6,7 @@
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
 - 2025-06-13 【電話醫療口譯】[[__x_not-my-writing/_hypothesis/facebook.com/(1) 艾美講 - httpsopen.firstory.mestorycmbum9ml8002501uoca8kap5u EP...  Facebook\|艾美講：電話醫療口譯]]
+
 - 2025-05-26 【AI口譯】[[AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505\|AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505]]
 
 - 2025-05-25 【Dictionaries 詞典工具】[[Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本\|Dictionaries for Chinese usage in Taiwan 比較重編本、簡編本]]

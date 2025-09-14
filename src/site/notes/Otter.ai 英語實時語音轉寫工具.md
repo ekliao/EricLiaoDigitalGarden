@@ -21,6 +21,9 @@ for newer subscribers. I am not forever grandfathered; my usage will reduce per 
 - Search using the date range does not work.
 - Comments are not searchable like the transcription itself.
 - Supports English only. Seriously?
+- Greatly reduced usage especially imports (see update 2024-05-18 below)
+- Interferes with browser-based RSI interpretation apps
+	- [[Steelseries Arctis Pro Wireless - headset microphone with sidetone self-monitor#Otter.ai (paid ASR transcription) in desktop browser has interfered with RSI audio too, especially Momento. Beware! Stop doing Otter on Mac! (I have stopped the Otter.ai subscription)\|Steelseries Arctis Pro Wireless - headset microphone with sidetone self-monitor#Otter.ai (paid ASR transcription) in desktop browser has interfered with RSI audio too, especially Momento. Beware! Stop doing Otter on Mac! (I have stopped the Otter.ai subscription)]]
 
 ---
 
@@ -30,4 +33,4 @@ I am almost done with Otter.ai. The new pricing model makes it no longer a viabl
 
 ## Alternatives to consider
 
-[[TurboScribe - multilingual\|TurboScribe - multilingual]]
+[[TurboScribe - multilingual transcription tool 多語言，可中英混合，語音轉寫工具 - daily 3 files free up to 30 minutes\|TurboScribe - multilingual transcription tool 多語言，可中英混合，語音轉寫工具 - daily 3 files free up to 30 minutes]]
