@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-logseq-cohabitation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-logseq-cohabitation/","tags":["#Logseq","#Obsidian","#OB-LQ","#project/completed"],"noteIcon":"2"}
 ---
 
 date-created:: 2023-07-14

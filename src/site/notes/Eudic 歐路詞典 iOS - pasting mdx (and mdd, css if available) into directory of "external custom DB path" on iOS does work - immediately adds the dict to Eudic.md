@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eudic-i-os-pasting-mdx-and-mdd-css-if-available-into-directory-of-external-custom-db-path-on-i-os-does-work-immediately-adds-the-dict-to-eudic/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/eudic-i-os-pasting-mdx-and-mdd-css-if-available-into-directory-of-external-custom-db-path-on-i-os-does-work-immediately-adds-the-dict-to-eudic/","tags":["#proof"],"noteIcon":"2"}
 ---
 
 

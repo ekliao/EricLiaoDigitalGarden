@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speech-sound-and-audio-processing/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/speech-sound-and-audio-processing/","tags":["#phonetics/plosives","#acoustics/clipping","#microphone"],"noteIcon":"2"}
 ---
 
 #phonetics/plosives

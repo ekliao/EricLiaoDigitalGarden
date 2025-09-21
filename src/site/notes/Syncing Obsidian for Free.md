@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/syncing-obsidian-for-free/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/syncing-obsidian-for-free/","tags":["#paste/glasp","#iCloud","#ob","#iOS","#iPadOS"],"noteIcon":"2"}
 ---
 
 Syncing Obsidian vaults between devices, especially desktop and mobile.

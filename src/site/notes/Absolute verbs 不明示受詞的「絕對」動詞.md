@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/absolute-verbs/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/absolute-verbs/","tags":["#grammar","#todo/rsch","#paste/glasp"],"noteIcon":"2"}
 ---
 
 date-created:: 2023-04-24

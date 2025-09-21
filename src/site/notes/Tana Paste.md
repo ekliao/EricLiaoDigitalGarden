@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tana-paste/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/tana-paste/","tags":["#Tana","#paste/b","#person","#bug","#paste/e"],"noteIcon":"2"}
 ---
 
 date-created:: 2023-08-07

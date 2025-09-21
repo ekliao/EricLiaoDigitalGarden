@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usage-of/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/usage-of/","tags":["#todo/wip","#grammar","#paste/b","#paste/e"],"noteIcon":"2"}
 ---
 
 #todo/wip 

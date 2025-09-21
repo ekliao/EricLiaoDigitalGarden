@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-publish/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-publish/","tags":["#project/aborted","#Domain-name","#html-tag","#markdown"],"noteIcon":"2"}
 ---
 
 ## [[Obsidian Publish Alternative\|Obsidian Publish Alternative]]

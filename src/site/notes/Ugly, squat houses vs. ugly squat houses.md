@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ugly-squat-houses-vs-ugly-squat-houses/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ugly-squat-houses-vs-ugly-squat-houses/","tags":["#english-comprehension","#english-grammar","#comma"],"noteIcon":"2"}
 ---
 
 #english-comprehension 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nuphy-air75-mechanical-wireless-multi-device-keyboard/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/nuphy-air75-mechanical-wireless-multi-device-keyboard/","tags":["#paste/glasp","#todo"],"noteIcon":"2"}
 ---
 
 # Verdict: 3/5

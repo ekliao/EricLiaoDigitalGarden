@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/examples-of-sloppy-typography-and-editing-a-phonetic-book-of-all-books/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/examples-of-sloppy-typography-and-editing-a-phonetic-book-of-all-books/","tags":["#my/video/youtube"],"noteIcon":"2"}
 ---
 
 

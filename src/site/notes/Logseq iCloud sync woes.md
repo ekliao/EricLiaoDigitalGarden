@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logseq-i-cloud-sync-woes/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/logseq-i-cloud-sync-woes/","tags":["#Glasp","#Logseq","#iCloud","#Obsidian","#sync"],"noteIcon":"2"}
 ---
 
 date-created:: 2023-07-30

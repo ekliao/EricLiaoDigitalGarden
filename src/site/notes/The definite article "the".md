@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-definite-article-the/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/the-definite-article-the/","tags":["#offensive","#idiom","#slang","#paste/glasp","#the","#definite-article"],"noteIcon":"2"}
 ---
 
 *([[Disclaimer about offensive language\|Disclaimer about offensive language]])*

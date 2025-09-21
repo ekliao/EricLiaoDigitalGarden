@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-summary-of-a-text-or-transcript/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt-summary-of-a-text-or-transcript/","tags":["#gpt/glasp"],"noteIcon":"2"}
 ---
 
 

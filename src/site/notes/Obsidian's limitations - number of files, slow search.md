@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-s-limitations-number-of-files-slow-search/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-s-limitations-number-of-files-slow-search/","tags":["#Glasp","#Obsidian","#limit"],"noteIcon":"2"}
 ---
 
 # Have I hit Obsidian file limit?

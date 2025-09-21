@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-p/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/web-p/","tags":["#paste/glasp","#file-format","#image"],"noteIcon":"2"}
 ---
 
 #paste/glasp 

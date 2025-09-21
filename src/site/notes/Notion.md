@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notion/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/notion/","tags":["#todo","#people"],"noteIcon":"2"}
 ---
 
 date-created:: 2023-08-12

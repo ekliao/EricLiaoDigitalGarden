@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terp-hack-be-taken-by-sth/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/terp-hack-be-taken-by-sth/","tags":["#linkedin","#Glasp","#vocab","#terp"],"noteIcon":"2"}
 ---
 
 ---

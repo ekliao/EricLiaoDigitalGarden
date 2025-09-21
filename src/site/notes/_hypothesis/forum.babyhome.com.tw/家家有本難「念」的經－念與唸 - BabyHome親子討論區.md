@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hypothesis/forum-babyhome-com-tw/baby-home/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/hypothesis/forum-babyhome-com-tw/baby-home/","tags":["#article","#Public","#chinese-character","#pronunciation"],"noteIcon":"2"}
 ---
 
 

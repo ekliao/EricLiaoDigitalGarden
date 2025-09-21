@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-publishing-with-obsidian-github-netlify-obdisian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/web-publishing-with-obsidian-github-netlify-obdisian/","tags":["#project/learn-by-doing","#paste/b","#todo","#project/completed","#paste/e","#todo/verify"],"noteIcon":"2"}
 ---
 
 (Update)

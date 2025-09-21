@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-own-miscomprehension-for-translation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/my-own-miscomprehension-for-translation/","tags":["#rfp","#ambiguity","#paste/b","#paste/e","#gpt"],"noteIcon":"2"}
 ---
 
 Thanks to #rfp  for pointing out.

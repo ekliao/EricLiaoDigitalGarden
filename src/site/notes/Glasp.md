@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glasp/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/glasp/","tags":["#rating","#project/learn-by-doing","#project/completed","#paste/glasp","#grammar","#English","#Glasp","#Readwise-Reader","#web-highlighter","#annotation"],"noteIcon":"2"}
 ---
 
 date-created:: 2023-04-22

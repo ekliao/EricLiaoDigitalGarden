@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tana/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/tana/","tags":["#PKM","#Glasp","#Tana","#Obsidian","#web-publishing","#people","#videoNote","#progress","#todo/watch","#paste/b"],"noteIcon":"2"}
 ---
 
 #PKM 

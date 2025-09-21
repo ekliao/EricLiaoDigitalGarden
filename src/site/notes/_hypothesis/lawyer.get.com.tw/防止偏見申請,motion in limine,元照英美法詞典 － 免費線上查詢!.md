@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hypothesis/lawyer-get-com-tw/motion-in-limine/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/hypothesis/lawyer-get-com-tw/motion-in-limine/","tags":["#article","#Public","#prenominal-modifier","#legalese","#translationese"],"noteIcon":"2"}
 ---
 
 

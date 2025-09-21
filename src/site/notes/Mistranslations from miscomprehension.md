@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mistranslations-from-miscomprehension/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mistranslations-from-miscomprehension/","tags":["#paste/b","#paste/e"],"noteIcon":"2"}
 ---
 
 I have for a long time been interested in this topic. From as far back as I can remember, I noticed easily mistranslations due to the translator's miscomprehending the source text, usually from a lack of grammatical competency. Everywhere I looked, such errors abound. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/difficulty-in-passing-all-four-subjects-70-in-the-same-sitting-in-state-court-interpreter-s-oral-exams-by-language/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/difficulty-in-passing-all-four-subjects-70-in-the-same-sitting-in-state-court-interpreter-s-oral-exams-by-language/","tags":["#exam","#court","#terp"],"noteIcon":"2"}
 ---
 
 #exam 

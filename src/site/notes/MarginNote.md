@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/margin-note/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/margin-note/","tags":["#obsolete"],"noteIcon":"2"}
 ---
 
 #obsolete 

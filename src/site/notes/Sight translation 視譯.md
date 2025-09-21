@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sight-translation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/sight-translation/","tags":["#legal"],"noteIcon":"2"}
 ---
 
 #legal 

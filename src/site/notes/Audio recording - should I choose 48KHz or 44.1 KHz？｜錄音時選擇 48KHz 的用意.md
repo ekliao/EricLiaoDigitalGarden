@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/audio-recording-should-i-choose-48-k-hz-or-44-1-k-hz-48-k-hz/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/audio-recording-should-i-choose-48-k-hz-or-44-1-k-hz-48-k-hz/","tags":["#audio"],"noteIcon":"2"}
 ---
 
 #audio 

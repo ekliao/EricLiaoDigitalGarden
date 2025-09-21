@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-wikipedia-in-obsidian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/reference-wikipedia-in-obsidian/","tags":["#resultof/command"],"noteIcon":"2"}
 ---
 
 # Hotkeys
