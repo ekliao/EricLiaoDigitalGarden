@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apple-notes/","tags":["#rating"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/apple-notes/","noteIcon":"2"}
 ---
 
 #rating 

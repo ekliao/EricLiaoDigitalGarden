@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dictionaries-for-chinese-usage-in-taiwan/","tags":["#Eudic","#歐路","#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/dictionaries-for-chinese-usage-in-taiwan/","noteIcon":"2"}
 ---
 
 身處海外，語言服務對象中，華語使用者背景混雜，不如台灣一致。對於用詞和發音，我一直參考重編本。

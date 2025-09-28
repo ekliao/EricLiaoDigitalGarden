@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mem-ai/","tags":["#Glasp","#Mem","#Obsidian","#PKM","#nsfw"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mem-ai/","noteIcon":"2"}
 ---
 
 # Sold on Mem's AI magic

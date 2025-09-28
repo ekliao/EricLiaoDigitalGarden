@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perl-6-notes/","tags":["#todo/verify"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/perl-6-notes/","noteIcon":"2"}
 ---
 
 # Books

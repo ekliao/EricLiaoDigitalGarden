@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-as-a-dictionary/","tags":["#ob","#learning-language","#dictionary","#thesaurus","#Zettelkasten"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-as-a-dictionary/","noteIcon":"2"}
 ---
 
 ## Obsidian for language learning/as a dictionary

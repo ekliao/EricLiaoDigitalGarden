@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/netlify-with-go-daddy-domain-name/","tags":["#project/learn-by-doing","#project/started","#mynote","#paste/b","#paste/e","#project/completed"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/netlify-with-go-daddy-domain-name/","noteIcon":"2"}
 ---
 
 #project/learn-by-doing 

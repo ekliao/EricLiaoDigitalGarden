@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/annotator/annotator-influenza-vaccine/","tags":["#mistranslation"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/annotator/annotator-influenza-vaccine/","noteIcon":"2"}
 ---
 
 

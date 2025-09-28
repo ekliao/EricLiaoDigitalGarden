@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logseq/","tags":["#project/aborted","#people","#Glasp","#Logseq","#Metadata","#plugin","#todo"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/logseq/","noteIcon":"2"}
 ---
 
 ## Learning Logseq through comparison with Tana

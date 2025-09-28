@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/language-nerd-identification/","tags":["#paste/glasp","#language-nerd"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/language-nerd-identification/","noteIcon":"2"}
 ---
 
 Stumbled upon this [article](https://medium.com/the-language-learning-hub/the-best-of-you-know-youre-a-language-nerd-when-b569b9917b5e) behind a paywall but I was able to do the quick test from the viewable 11 items. I don't really self-identify with being a language nerd and the list confirms this, but I got to tick one checkbox at least and it tickles me:

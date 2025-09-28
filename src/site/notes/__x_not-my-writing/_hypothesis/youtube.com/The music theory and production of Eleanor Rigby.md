@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/youtube-com/the-music-theory-and-production-of-eleanor-rigby/","tags":["#article","#Public","#aQWERTYon","#chord-function","#tonality","#movable-do","#fixed-do","#solfege","#english-vocab","#musical-mode","#blues","#recording","#microphone","#close-miking","#comparison","#chord-analysis"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/youtube-com/the-music-theory-and-production-of-eleanor-rigby/","noteIcon":"2"}
 ---
 
 

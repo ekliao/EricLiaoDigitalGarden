@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-basic-note-type-naming-mess-variants-without-a-difference/","tags":["#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/anki-basic-note-type-naming-mess-variants-without-a-difference/","noteIcon":"2"}
 ---
 
 creation-date:: 2023-07-28

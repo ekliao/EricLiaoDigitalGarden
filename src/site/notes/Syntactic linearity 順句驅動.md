@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/syntactic-linearity/","tags":["#workInProgress"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/syntactic-linearity/","noteIcon":"2"}
 ---
 
 This is the holy grail one should aim for in accomplishing the seemingly impossible task of English-to-Mandarin sight translation and simultaneous interpretation.

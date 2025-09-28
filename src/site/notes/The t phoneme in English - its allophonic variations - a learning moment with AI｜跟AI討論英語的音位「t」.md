@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-t-phoneme-in-english-its-allophonic-variations-a-learning-moment-with-ai-ai-t/","tags":["#phonetics","#paste/b"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/the-t-phoneme-in-english-its-allophonic-variations-a-learning-moment-with-ai-ai-t/","noteIcon":"2"}
 ---
 
 #phonetics 

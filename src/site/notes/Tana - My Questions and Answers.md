@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tana-my-questions-and-answers/","tags":["#answer/authority/quote"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/tana-my-questions-and-answers/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-07

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terminological-dictionary-english-to-chinese-largest-yet/","tags":["#paste/b"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/terminological-dictionary-english-to-chinese-largest-yet/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-23

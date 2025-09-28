@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing-for-pleasure/","tags":["#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/writing-for-pleasure/","noteIcon":"2"}
 ---
 
 這個中文標題雖然有點「倯」(台語，sông)，卻恰恰是我的心境，但「為爽而寫」這麼強有力的自我呼籲不是我自己想到的，是來自一篇臉書長文，整篇充滿珠璣金句，就不客氣整篇給它拷貝下來了。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lazy-ai/","tags":["#progress"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/lazy-ai/","noteIcon":"2"}
 ---
 
 date-created:: 2023-08-08

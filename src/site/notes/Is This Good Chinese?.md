@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/is-this-good-chinese/","tags":["#grammar"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/is-this-good-chinese/","noteIcon":"2"}
 ---
 
 #grammar 

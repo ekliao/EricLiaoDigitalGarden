@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zoom-host-can-share-video-with-sound-to-all-breakout-rooms-zoom/","tags":["#zoom-videoconferencing"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/zoom-host-can-share-video-with-sound-to-all-breakout-rooms-zoom/","noteIcon":"2"}
 ---
 
 #zoom-videoconferencing

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resistance-is-futile-from-cai-computer-assisted-interpreting-or-ai-assisted-human-interpreting-to-human-assisted-ai-interpreting/","tags":["#ai-interpreting","#interpreting","#cai"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/resistance-is-futile-from-cai-computer-assisted-interpreting-or-ai-assisted-human-interpreting-to-human-assisted-ai-interpreting/","noteIcon":"2"}
 ---
 
 #ai-interpreting

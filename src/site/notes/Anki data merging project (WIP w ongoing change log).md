@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-data-merging-project-wip-w-ongoing-change-log/","tags":["#rfp","#project/started","#（買）書a"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/anki-data-merging-project-wip-w-ongoing-change-log/","noteIcon":"2"}
 ---
 
 #rfp 

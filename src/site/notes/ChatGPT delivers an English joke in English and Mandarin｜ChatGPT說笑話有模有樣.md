@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-delivers-an-english-joke-in-english-and-mandarin-chat-gpt/","tags":["#todo/topost"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt-delivers-an-english-joke-in-english-and-mandarin-chat-gpt/","noteIcon":"2"}
 ---
 
 #todo/topost 

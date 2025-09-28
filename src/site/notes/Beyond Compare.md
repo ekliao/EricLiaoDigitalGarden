@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beyond-compare/","tags":["#rating","#gpt"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/beyond-compare/","noteIcon":"2"}
 ---
 
 I have used this essential diff tool for as long as I can remember, starting with its original Windows version. I still have both versions, and found Beyond Compare (henceforth BC) to be better on Windows. There are a few annoying problems on Mac.

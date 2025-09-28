@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-publishing-with-github-pages-and-hugo/","tags":["#project/learn-by-doing","#paste/b","#paste/e","#project/aborted"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/web-publishing-with-github-pages-and-hugo/","noteIcon":"2"}
 ---
 
 #project/learn-by-doing 

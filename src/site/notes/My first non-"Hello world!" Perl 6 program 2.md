@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-first-non-hello-world-perl-6-program-2/","tags":["#Perl6"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/my-first-non-hello-world-perl-6-program-2/","noteIcon":"2"}
 ---
 
 #Perl6

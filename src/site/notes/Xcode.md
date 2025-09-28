@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xcode/","tags":["#project/learn-by-doing","#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/xcode/","noteIcon":"2"}
 ---
 
 #project/learn-by-doing 

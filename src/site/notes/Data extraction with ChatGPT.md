@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-extraction-with-chat-gpt/","tags":["#Glasp","#GPT","#data-extraction","#Python","#PDF-Plumber","#PDF"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/data-extraction-with-chat-gpt/","noteIcon":"2"}
 ---
 
 Looks like I need to re-learn Python and get familiar with JSON. It's time.

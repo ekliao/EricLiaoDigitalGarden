@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-command-line-z-shell-mac/","tags":["#shell","#Mac"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mac-command-line-z-shell-mac/","noteIcon":"2"}
 ---
 
 

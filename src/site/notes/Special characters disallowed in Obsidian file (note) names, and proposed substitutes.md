@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special-characters-disallowed-in-obsidian-file-note-names-and-proposed-substitutes/","tags":["#meta/ob","#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/special-characters-disallowed-in-obsidian-file-note-names-and-proposed-substitutes/","noteIcon":"2"}
 ---
 
 #meta/ob 

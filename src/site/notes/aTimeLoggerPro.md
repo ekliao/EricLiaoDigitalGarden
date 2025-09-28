@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-time-logger-pro/","tags":["#rating"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/a-time-logger-pro/","noteIcon":"2"}
 ---
 
 #rating 

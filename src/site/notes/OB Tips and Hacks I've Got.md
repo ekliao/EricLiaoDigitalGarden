@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ob-tips-and-hacks-i-ve-got/","tags":["#project/learn-by-doing","#project/completed","#created/video","#it-works"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ob-tips-and-hacks-i-ve-got/","noteIcon":"2"}
 ---
 
 *(New to Old)*
@@ -38,7 +38,8 @@ What's left for me to do is edit and add one vertical bar to fix the alignment p
 #project/learn-by-doing 
 #project/completed 
 #created/video
-![[obsidian - creating real links to a potentially unconnected note from unlinked mentions.mp4]]
+[LAO](obsidian://open?vault=LAO&file=obsidian%20-%20creating%20real%20links%20to%20a%20potentially%20unconnected%20note%20from%20unlinked%20mentions.mp4)
+
 
 - Using right-nav-pane Tag Wrangler plugin (#) to rename a tag globally including making it nested! Powerful
 ![Screen Shot 2023-04-16 at 11.29.31 AM.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-16%20at%2011.29.31%20AM.png)

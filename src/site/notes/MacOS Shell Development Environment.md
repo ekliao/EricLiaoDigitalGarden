@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-os-shell-development-environment/","tags":["#project/learn-by-doing","#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mac-os-shell-development-environment/","noteIcon":"2"}
 ---
 
 This is the beginning of a series of pages that I followed to set up my MacOS development environment in preparation for publishing my Obsidian vault. It seems daunting at first but turned out not that difficult because of the excellent guide by  [Daniel Kehoe](https://twitter.com/yaxdotcom).

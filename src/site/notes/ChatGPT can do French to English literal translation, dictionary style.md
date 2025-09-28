@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-can-do-french-to-english-literal-translation-dictionary-style/","tags":["#gpt","#paste/b","#paste/e"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt-can-do-french-to-english-literal-translation-dictionary-style/","noteIcon":"2"}
 ---
 
 #gpt 

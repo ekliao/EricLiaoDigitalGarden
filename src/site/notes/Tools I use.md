@@ -8,18 +8,22 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 ## Software/apps/websites
 
 ### [[MacOS\|MacOS]] (or any web tool)
-- [[Audio Hijack 4 (Rogue Amoeba)\|Audio Hijack 4 (Rogue Amoeba)]] (2024/10)
+- [[Recall.ai (note-taking, PKM, research, video audio transcription, AI answer, RAG)\|Recall.ai]] (2025/9)
+- [[Felo Translator (real-time audio simultaneous translation with audio output) - iOS and Mac\|Felo Translator]] (2024/12) b
+- [[Audio Hijack 4 (Rogue Amoeba)\|Audio Hijack 4 (Rogue Amoeba)]] (2024/10) b
+- [[TurboScribe - multilingual transcription tool 多語言，可中英混合，語音轉寫工具 - daily 3 files free up to 30 minutes\|Turboscribe]] (2024/5)
 - [[Beeper - a meta app to round them all up - except for a few glaring misses｜集結各大通訊軟體的「滅他」通訊軟體\|Beeper]] (2024/4)
 - [[PDFSam Visual v6.0.1\|PDFSam Visual v6.0.1]] (2024/2, 2025/2 for "alternative mix," collaging PDF pages that are left-right-page out of order)
-- [[UltraEdit\|UltraEdit]] (2024/2, for Replace In Files - fail compared to [[EmEditor\|EmEditor]])
+- [[UltraEdit\|UltraEdit]] (2024/2, for Replace In Files - fail compared to [[EmEditor\|EmEditor]]) b
 - [[CapCut 剪映\|CapCut 剪映]] (2023/12)
 - [[UpNote - Escape from Evernote｜幫助Evernote難民出走的佛心軟體\|Upnote]] (2023/12)
-- [[BBEdit\|BBEdit]] (2023/12)
+- [[BBEdit\|BBEdit]] (2023/12) b
+- [[Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具\|Hypothesis - a public-by-default web annotation tool 預設公開的網上標註筆記工具]] (2023/11)
 - [[Movavi Video Editor 24 (2)\|Movavi Video Editor 24 (2)]] (2023/11)
 - [[Movavi Screen Recorder 24\|Movavi Screen Recorder 24]] (2023/11)
 - [[Exporter (app)\|Exporter (app)]] (2023/6)
 - [Visual Studio Code](https://code.visualstudio.com/) (2023/5) g
-- [Mochi](https://mochi.cards/) (2023/5)
+- [Mochi](https://mochi.cards/) (2023/5) g
 - [[Glasp\|Glasp]] (2023/4)
 - [[ChatGPT\|ChatGPT]] (2023/4)
 - [Globse](https://glosbe.com/zh/en/%E8%90%BD%E6%B1%A4%E9%B8%A1) (2023/3)
@@ -38,12 +42,12 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - Keynote (2022/7)
 - [[SleepWatch\|SleepWatch]] (2022)
 - [[DaisyDisk (Mac app) - TreeSize equivalent on the Mac\|DaisyDisk (Mac app) - TreeSize equivalent on the Mac]]
+- [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]] (2021/2) x
 - [[Git\|Git]] (2021, *a fruity company*) 
 - [Sublime Text](https://www.sublimetext.com/) (2021) b
 - [[InterpretBank\|InterpretBank]] (2020/8)
 - AutoSleep app (2020/6)
-- [[Web Captioner\|Web Captioner]]
-- [[Otter.ai 英語實時語音轉寫工具\|Otter.ai 英語實時語音轉寫工具]]
+- [[Web Captioner\|Web Captioner]] -> Maestra
 - [[Zoom (teleconferencing app)\|Zoom (teleconferencing app)]] (2020)
 - [[Movavi Video Editor Plus 2020\|Movavi Video Editor Plus 2020]]
 - [[Movavi Video Editor 4\|Movavi Video Editor 4]]
@@ -74,6 +78,7 @@ A list of mostly software and hardware, excluding abstract ideas, methods (e.g. 
 - [[DTSearch\|DTSearch]]
 - [[TreeSize\|TreeSize]]
 ### iOS/iPadOS
+- [[Whisperr - ASR and MT tool (iOS, I got lifetime Pro free)\|Whisperr]] (2025/5)
 - 每日英語聽力 (2023/4; made by Eudic, freemium)
 - [[Safari browser app on iOS - how to close all tabs at once\|Safari]]
 

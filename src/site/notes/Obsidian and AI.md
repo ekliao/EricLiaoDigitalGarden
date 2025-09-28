@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-and-ai/","tags":["#Glasp","#Obsidian","#AI","#plugin"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-and-ai/","noteIcon":"2"}
 ---
 
 ## Plugins

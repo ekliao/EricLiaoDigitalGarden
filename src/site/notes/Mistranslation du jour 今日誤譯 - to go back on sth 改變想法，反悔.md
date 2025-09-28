@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mistranslation-du-jour-to-go-back-on-sth/","tags":["#mistranslation"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mistranslation-du-jour-to-go-back-on-sth/","noteIcon":"2"}
 ---
 
 #mistranslation 

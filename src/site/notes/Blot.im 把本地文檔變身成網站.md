@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blot-im/","tags":["#todo"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/blot-im/","noteIcon":"2"}
 ---
 
 date-created:: 2023-10-23

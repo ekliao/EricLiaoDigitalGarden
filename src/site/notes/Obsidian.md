@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/","tags":["#project/learn-by-doing"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian/","noteIcon":"2"}
 ---
 
 date-created:: 2023-02-24

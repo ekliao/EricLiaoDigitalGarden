@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/this-digital-garden-s-raison-d-etre/","tags":["#paste/glasp","#evergreen-notes"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/this-digital-garden-s-raison-d-etre/","noteIcon":"2"}
 ---
 
 To put this website in context, I love [Andy Matuschak](https://andymatuschak.org/)'s idea of thinking and writing notes for the self, disregarding the audience. (See also [[Writing for Pleasure 為了爽而寫\|Writing for Pleasure 為了爽而寫]].) This resonates with how I felt all along when blogging became a thing in the early 2000s. I intuitively agree that this way of presenting oneself to the world "creates more invested, interesting followings over the long term." See below also for his insights:
