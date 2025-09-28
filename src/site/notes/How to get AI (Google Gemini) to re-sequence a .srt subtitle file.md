@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-get-ai-google-gemini-to-re-sequence-a-srt-subtitle-file/","title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","tags":["#AI","#srt","#HappyScribe","#Turboscribe","#Google-Gemini","#Recall-ai","#shared"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/how-to-get-ai-google-gemini-to-re-sequence-a-srt-subtitle-file/","title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","noteIcon":"2"}
 ---
 
 #AI #srt #HappyScribe #Turboscribe #Google-Gemini #Recall-ai #shared
@@ -13,7 +13,4 @@ process the file this way: identify the natural whole numbers that occupy a sing
 # Results
 
 ![](https://firebasestorage.googleapis.com/v0/b/recall-308915.appspot.com/o/user%2FX5DuocQqVgb3kCLgoNZDeF4M2qa2%2Fcard-images%2F1fb5dc8e-cd4e-4b77-92f1-92f1f3dba911.jpg?alt=media&token=3b6b55ac-43bc-4200-8467-d20c3260ad4b)
-
-
-
 
