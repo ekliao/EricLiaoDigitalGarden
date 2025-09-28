@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-get-ai-google-gemini-to-re-sequence-a-srt-subtitle-file/","title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","tags":["AI","srt","HappyScribe","Turboscribe","Google Gemini","shared"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/how-to-get-ai-google-gemini-to-re-sequence-a-srt-subtitle-file/","title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","tags":["#AI","#srt","#HappyScribe","#Turboscribe","#Google Gemini","#shared"],"noteIcon":"2"}
 ---
 
 Upload to Google Gemini an .srt subtitle file where you need the sequence numbers re-ordered (by adding an offset, starting from a new number).
