@@ -49,7 +49,7 @@
 ---
 # 譯界之外 Beyond T&I
 
-- 2025-09-08【AI】[[How to get AI (Google Gemini) to re-sequence a .srt subtitle file\|如何指使AI調整 SRT 字幕檔的序號 How to get AI (Google Gemini) to re-sequence a .srt subtitle file]]
+- 2025-09-08【AI】[[How to get AI (Google Gemini) to re-sequence a .srt subtitle file\|如何指使 AI 調整 SRT 字幕檔的序號 How to get AI (Google Gemini) to re-sequence a .srt subtitle file]]
 
 - 2025-08-17 【音樂：教學】[[__x_not-my-writing/_hypothesis/youtube.com/Why Playing By Ear Makes You Unstoppable (Top 3 Reasons)\|Rare but important way of teaching in scale degrees｜鳳毛麟角般的音階級數教學]]
 
