@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mid-2014-mac-book-pro-intel-2014-mac-book-pro/","noteIcon":"2"}
 ---
 
-This was my first purchase and use of any Mac. The Evernote note below indicates I started using it in December 2014, or 9 years ago when I first attempted the Windows bootcamp installation (lasted a short couple of weeks). 
+This was my first purchase and use of any Mac laptops. The Evernote note below indicates I started using it in December 2014, when I first attempted the Windows bootcamp installation (lasted a short couple of weeks). 
 
 ![Screen Shot 2023-11-20 at 15.18.28.png](/img/user/_attachments/_OB/Screen%20Shot%202023-11-20%20at%2015.18.28.png)
 # Hello, M3 new Mac!
@@ -22,3 +22,7 @@ I have two of these mid-2014 MacBook Pros, one being abandoned into my ownership
 The built-in tool, not allowing any configuration, yields huge files in high resolution, easily 10GB per hour. But with Record It!, I sometimes use the lowest setting to produce a recording only a fraction in size, still clear enough to view and with perfect audio, when I don't need higher resolution or when I need only the audio. For example, 100MB-500MB per hour depending on how busy the screen action. 
 
 </div></div>
+
+
+# 20251025 Attempting Bootcamp installation again in order to try out audio capabilities of native Windows computer
+
