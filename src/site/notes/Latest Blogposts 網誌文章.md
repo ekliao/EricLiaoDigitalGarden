@@ -5,7 +5,7 @@
 # 譯人片語 Notes of a Mandarin Interpreter
 *Posts related to language, interpretation, and translation 所有關於語言、口譯、筆譯的貼文*
 
-- 2025-06-13 【電話醫療口譯】[[__x_not-my-writing/_hypothesis/facebook.com/(1) 艾美講 - httpsopen.firstory.mestorycmbum9ml8002501uoca8kap5u EP...  Facebook\|艾美講：認識電話醫療口譯]]
+- 2025-06-13 【電話醫療口譯】[[__x_not-my-writing/_hypothesis/facebook.com/(1) 艾美講 - httpsopen.firstory.mestorycmbum9ml8002501uoca8kap5u EP...  Facebook\|艾美講：電話醫療口譯]]
 
 - 2025-05-26 【AI口譯】[[AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505\|AI Interpretation - Wordly app - assessment by WHO 世衛組織AI口譯考核報告 202505]]
 
