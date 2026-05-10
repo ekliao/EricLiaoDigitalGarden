@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/annotator/annotator-influenza-vaccine/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/annotator/annotator-influenza-vaccine/","noteIcon":"2","dg-note-properties":{"annotation-target":"influenza vaccine 台灣行政院疾管局 認識流感疫苗 教學手冊.pdf","creation_date":"20231205"}}
 ---
 
 

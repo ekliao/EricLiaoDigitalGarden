@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sublime-text/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/sublime-text/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## Quick verdict: 3 stars

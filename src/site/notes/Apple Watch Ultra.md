@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apple-watch-ultra/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/apple-watch-ultra/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 
@@ -20,9 +20,9 @@
 
 A big and stylish upgrade. Whether size matters may be debatable; at least the battery size matters a lot to me, and I truly enjoy the bigger watch face, on which the on-screen keyboard typing is finally usable and surprisingly good.
 
-![../_attachments/_OB/IMG_4526.jpg|300](/img/user/_attachments/_OB/IMG_4526.jpg)
+![[../_attachments/_OB/IMG_4526.jpg\|300]]
 
-![../_attachments/_OB/IMG_4517.jpg|400](/img/user/_attachments/_OB/IMG_4517.jpg)
+![[../_attachments/_OB/IMG_4517.jpg\|400]]
 
 </div></div>
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usage-of/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/usage-of/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #todo/wip 

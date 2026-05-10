@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-parsing-with-perl-6-regexes-and-grammars-2017-moritz-lenz-apress/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/book-parsing-with-perl-6-regexes-and-grammars-2017-moritz-lenz-apress/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 This book is awesome despite the errors I spotted. I have read it almost from cover to cover. It's hard, because parsing requires hierarchical thinking. Translate that into code and it's a recipe for confusion.
@@ -16,4 +16,4 @@ regex ws { <!ww> \s*}
 ```
 then clearly it matches **zero to many** different whitespace characters unless it's **within a word**. The two fatal errors are: =="at least one"== and =="unless it's at a word boundary"==.
 
-![[_attachments/s an example, these two SQL statements produce identical parse.png\|500]]
+![_attachments/_OB/s an example, these two SQL statements produce identical parse.png\|500](/img/user/_attachments/_OB/s%20an%20example,%20these%20two%20SQL%20statements%20produce%20identical%20parse.png)

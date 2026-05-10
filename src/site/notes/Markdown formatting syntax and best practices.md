@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/markdown-formatting-syntax-and-best-practices/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/markdown-formatting-syntax-and-best-practices/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 

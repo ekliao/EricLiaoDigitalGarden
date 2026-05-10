@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/joplin/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/joplin/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # Hello, and good-bye, Joplin!

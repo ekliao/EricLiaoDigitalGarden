@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-add-on-performance-tracking/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/anki-add-on-performance-tracking/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 date-created: 2023-08-10

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-and-ai/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-and-ai/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## Plugins
@@ -11,7 +11,7 @@
 
 # (336) Unlock the Power of AI: Get Smart Connections with Obsidian This Plugin - YouTube
 
-![](https://www.youtube.com/watch?v=msnZjiZrSXs)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/msnZjiZrSXs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Metadata
 

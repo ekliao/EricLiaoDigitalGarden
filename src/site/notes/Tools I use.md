@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tools-i-use/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/tools-i-use/","noteIcon":"2","dg-note-properties":{"creation_date":"20230224"}}
 ---
 
 A list of mostly software and hardware, excluding abstract ideas, methods (e.g. Zettelkasten), [[PKM 個人知識管理\|PKM]], and plugins that don't exist without the underlying tool (e.g. Obsidian plugins and Anki add-ons).

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-extraction-with-chat-gpt/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/data-extraction-with-chat-gpt/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Looks like I need to re-learn Python and get familiar with JSON. It's time.
@@ -7,7 +7,7 @@ Looks like I need to re-learn Python and get familiar with JSON. It's time.
 #Glasp 
 ## (379) ChatGPT Data Extraction: A quick demonstration - YouTube
 
-![](https://www.youtube.com/watch?v=wsSqRv-y1r4)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/wsSqRv-y1r4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Metadata
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/anki/","noteIcon":"2","dg-note-properties":{"creation_date":"20230221"}}
 ---
 
 [[Anki\|Anki]] is the third [[PKM 個人知識管理\|PKM 個人知識管理]] that I built, after [[DTSearch\|DTSearch]] and [[Evernote\|Evernote]]. Today, it is my most frequently used and updated system. I almost stopped using [[DTSearch\|DTSearch]] altogether for its being on the old [[Windows 10 VM\|Windows 10 VM]], a resource hog on my [[Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro\|Mid-2014 MacBook Pro (Intel)｜2014年版MacBook Pro]]. As for [[Evernote\|Evernote]], it is where garbage data goes to die. I still use it today, making most of the free 60MB storage per month to store random web content and short memos.
@@ -55,7 +55,7 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 - User interface size
 	- Though obvious, I didn't discover this adjustable parameter earlier. Once I changed it to 150%, Anki immediately felt a lot more accessible.
 
-![Screen Shot 2023-06-16 at 12.43.32.png|350](/img/user/_attachments/_OB/Screen%20Shot%202023-06-16%20at%2012.43.32.png)
+![Screen Shot 2023-06-16 at 12.43.32.png\|350](/img/user/_attachments/_OB/Screen%20Shot%202023-06-16%20at%2012.43.32.png)
 
 - "Set font size" add-on (enlarges everything except browser grid font/back fields)
 
@@ -64,7 +64,7 @@ Despite Anki's official documentation, Anki does not support parentheses at all.
 
 - Hierarchical tags: simply rename a tag with two colons in the middle. Can be multiple levels, e.g.:
 
-	![anki hierarchical tags vs flat tags w arbitrary delimiters.png|250](/img/user/_attachments/_OB/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
+	![anki hierarchical tags vs flat tags w arbitrary delimiters.png\|250](/img/user/_attachments/_OB/anki%20hierarchical%20tags%20vs%20flat%20tags%20w%20arbitrary%20delimiters.png)
 
 - Rename or delete a tag in browser left-nav tag list (without bulk adding a new tag then bulk deleting the old tag)
 

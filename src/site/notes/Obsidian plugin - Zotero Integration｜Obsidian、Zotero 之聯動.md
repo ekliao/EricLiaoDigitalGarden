@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-plugin-zotero-integration-obsidian-zotero/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-plugin-zotero-integration-obsidian-zotero/","noteIcon":"2","dg-note-properties":{"date-created":"2023-10-01"}}
 ---
 
 date-created:: 2023-10-01

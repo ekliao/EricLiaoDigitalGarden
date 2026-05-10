@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/beeper-a-meta-app-to-round-them-all-up-except-for-a-few-glaring-misses/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/beeper-a-meta-app-to-round-them-all-up-except-for-a-few-glaring-misses/","noteIcon":"2","dg-note-properties":{"creation_date":"20240410"}}
 ---
 
 After painstakingly agreeing to allow communications between the aggregator app with each of these (see pictures) messaging apps, one after another by providing login information and giving explicit consent, this is the sweet fruit of labor: I can now use a single app to view messages from all connected apps and reply from within it. 
 
-![Screenshot 2024-04-10 at 1.23.02 PM.png|250](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%201.23.02%20PM.png)
+![Screenshot 2024-04-10 at 1.23.02 PM.png\|250](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%201.23.02%20PM.png)
 *Connected apps*
 
 ### Where is iMessage?
 
 There's one glaring absence: Apple's own iMessage app, which I use for all texting with "green bubble" people and messaging with "blue bubble" people. This integration isn't possible even on Apple's own ecosystem of MacOS and iOS. Ironic much? Here's the [scoop](https://hyp.is/9uD4iveFEe6-ouvhIl36Vg/zapier.com/blog/beeper-vs-texts/). (Read the [NYT](https://www.nytimes.com/2023/12/22/technology/apple-iphone-beeper-mini.html) article if you have access to it.)
 
-![Screenshot 2024-04-10 at 3.03.54 PM.png|250](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%203.03.54%20PM.png)
+![Screenshot 2024-04-10 at 3.03.54 PM.png\|250](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%203.03.54%20PM.png)
 *(New York Times, December 22, 2023)*
 
 ### 以「賴」為尊的台灣
@@ -28,7 +28,7 @@ It'll obviously take a while to experience usage issues. Hope there won't be any
 
 The Inbox is the only place getting a live count of new messages. Click the "Stack" icon above it to hide the nav bar.
 
-![Screenshot 2024-04-10 at 4.16.18 PM.png|50](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%204.16.18%20PM.png)
+![Screenshot 2024-04-10 at 4.16.18 PM.png\|50](/img/user/_attachments/_OB/Screenshot%202024-04-10%20at%204.16.18%20PM.png)
 
 *Left nav bar*
 
@@ -36,12 +36,12 @@ The Inbox is the only place getting a live count of new messages. Click the "Sta
 
 *(2024-04-11)* Just realized that in this integrated messaging platform I can click the three-dots on any message and immediately hit 'R' for reply and 'F' for forward. Forwarding is where this gets exciting: I can then pick any other connected messaging platform to forward the message to, all in the same UI. This is very useful because contacts are dispersed all over the place.
 
-![Screenshot 2024-04-11 at 1.11.04 PM.png|300](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.11.04%20PM.png)
+![Screenshot 2024-04-11 at 1.11.04 PM.png\|300](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.11.04%20PM.png)
 (*The three-dot menu options and keyboard shortcuts*)
 
 ### Muting or low-prioritizing individual chats or groups
 
 *(2024-04-11)* I've learned to right-click a chat or high-traffic group to either mute it to avoid annoying notification sounds, or bring it out of Inbox, to which most attention is given, into the special "Low Priority" queue, as a "read it only when bored" place.
 
-![Screenshot 2024-04-11 at 1.19.29 PM.png|200](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.19.29%20PM.png)
+![Screenshot 2024-04-11 at 1.19.29 PM.png\|200](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.19.29%20PM.png)
 *(Context menu of an individual chat or group)*

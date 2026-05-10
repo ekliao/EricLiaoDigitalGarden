@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anki-text-tsv-import-one-huge-surprise/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/anki-text-tsv-import-one-huge-surprise/","noteIcon":"2","dg-note-properties":{"date-created":"2023-08-19"}}
 ---
 
 # A huge time sink: changing notetype of multiple decks

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pronunciation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/pronunciation/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 My No. 1 pet peeve: hearing people, especially experts in various fields (except linguistics)

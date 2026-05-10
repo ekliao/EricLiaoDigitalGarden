@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/refocusing-on-glossary-management/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/refocusing-on-glossary-management/","noteIcon":"2","dg-note-properties":{"creation_date":"20230809","date-created":"2023-08-09"}}
 ---
 
 date-created:: 2023-08-09

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/special-characters-disallowed-in-obsidian-file-note-names-and-proposed-substitutes/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/special-characters-disallowed-in-obsidian-file-note-names-and-proposed-substitutes/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #meta/ob 
@@ -29,7 +29,7 @@
 
 Note that while the pound sign (\#) cannot be manually used in creating a new note, it can exist in the name of files that are copied under the Obsidian vault externally in the file system, e.g. 
 
-![../../../_attachments/_OB/Screen Shot 2023-06-08 at 15.59.07.png|500](/img/user/_attachments/_OB/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
+![../../../_attachments/_OB/Screen Shot 2023-06-08 at 15.59.07.png\|500](/img/user/_attachments/_OB/Screen%20Shot%202023-06-08%20at%2015.59.07.png)
 
 This (#) sign, however, will not be recognized as a tag.
 
@@ -61,3 +61,12 @@ It would be great if obsidian had the option to automatically replace these disa
 
 Currently, I manually use the look-alike characters in the file names when needed, but this can get tedious. I also manually write the intended file name with the unallowed characters as an alias in frontmatter.
 #paste/e
+
+# 20260429 new reflection
+- I started using AI to help automate some of my files within the Obsidian environment. In the past, I used the square brackets liberally, such as 
+
+`[watch]`
+
+to indicate Watch recording. From now on, to avoid headache, simply stop using them. If I must, use parentheses instead.
+
+- The suggested substitute characters are simply too obscure and hard to produce on a daily basis. Discard that solution! 

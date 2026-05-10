@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-audio-equipment/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/my-audio-equipment/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 
@@ -14,7 +14,7 @@
 - Steelseries Arctis Pro GameDAC *(b)* (2019)
 - Apple AirPods Max
 - Apple AirPods (gen 3, 2021)
-- Apple AirPods (gen 2)
+- Apple AirPods (gen 2, 2019) - hand-me-down to brother 2026
 - Apple earbuds (wired)
 
 ## Headphones

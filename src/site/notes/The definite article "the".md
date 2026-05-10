@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-definite-article-the/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/the-definite-article-the/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 *([[Disclaimer about offensive language\|Disclaimer about offensive language]])*

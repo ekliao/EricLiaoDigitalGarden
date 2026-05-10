@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/git/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #project/learn-by-doing 
@@ -151,7 +151,7 @@ Warning: Permanently added '[ssh.github.com]:443,[192.30.255.122]:443' (RSA) to 
 Hi DanielKehoe! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-Now you'll be ready to use [[GitHub]] when you need it.
+Now you'll be ready to use [[GitHub\|GitHub]] when you need it.
 
 #paste/e 
 

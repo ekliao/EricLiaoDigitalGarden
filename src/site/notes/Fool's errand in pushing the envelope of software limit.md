@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fool-s-errand-in-pushing-the-envelope-of-software-limit/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/fool-s-errand-in-pushing-the-envelope-of-software-limit/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 I am not unaware that a lot of my time was spent in at least the last two weeks testing the limit of software, specifically Obsidian and later Logseq, to see how many files such local-file-based systems can handle and still run relatively smoothly. 

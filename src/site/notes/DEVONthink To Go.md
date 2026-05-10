@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/devo-nthink-to-go/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/devo-nthink-to-go/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 DTTG for short.

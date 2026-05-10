@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logseq/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/logseq/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## Learning Logseq through comparison with Tana

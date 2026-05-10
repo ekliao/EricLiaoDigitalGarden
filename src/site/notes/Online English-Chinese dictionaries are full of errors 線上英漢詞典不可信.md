@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-english-chinese-dictionaries-are-full-of-errors/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/online-english-chinese-dictionaries-are-full-of-errors/","noteIcon":"2","dg-note-properties":{"creation_date":"20241130"}}
 ---
 
 There are mountains of evidence that online English-Chinese dictionaries, mostly made in China, are not to be trusted for their definitions. Here are just a few examples that I happen to find.
@@ -16,7 +16,7 @@ The most egregious offenders so far include:
 
 Youdao 有道線上詞典 got it right in this case.
 
-![IMG_1055.jpg|250](/img/user/_attachments/_OB/IMG_1055.jpg)
+![IMG_1055.jpg\|250](/img/user/_attachments/_OB/IMG_1055.jpg)
 
 
-![Screenshot 2024-11-30 at 2.12.49 PM.png|450](/img/user/_attachments/_OB/Screenshot%202024-11-30%20at%202.12.49%20PM.png)
+![Screenshot 2024-11-30 at 2.12.49 PM.png\|450](/img/user/_attachments/_OB/Screenshot%202024-11-30%20at%202.12.49%20PM.png)

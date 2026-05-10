@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-plugin-annotator-pdf/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-plugin-annotator-pdf/","noteIcon":"2","dg-note-properties":{"creation_date":"20230508"}}
 ---
 
 This seems a cool tool. I've been searching for a consistent and habit-forming way to highlight and annotate a PDF file in Obsidian.
@@ -57,7 +57,7 @@ Lo and behold!
 
 😭 No free-form hand-drawn annotation! Look at this page, made with the Apple Pencil on a screenshot on the iPad. This is what I need, to be able to draw lines and circles to help make my point.
 
-![IMG_6A993934BA76-1.jpeg](/img/user/_attachments/_OB/IMG_6A993934BA76-1.jpeg)
+![[IMG_6A993934BA76-1.jpeg\|IMG_6A993934BA76-1.jpeg]]
 
 ### Annotation pane search does not work
 
@@ -80,7 +80,7 @@ The search on the annotation pane does not work, e.g. `solutions` should find th
 
 This view on my iPhone has become a daily eyesore:
 
-![[_attachments/IMG_EAE1F33EA278-1.jpeg\|250]]
+![_attachments/_OB/IMG_EAE1F33EA278-1.jpeg\|250](/img/user/_attachments/_OB/IMG_EAE1F33EA278-1.jpeg)
 - [The problem, and two potential solutions using Github (manual sync) and Apple Scriptable](https://www.reddit.com/r/ObsidianMD/comments/vdal97/is_there_a_way_to_shorten_this_waiting_time_or/)
 
 ---

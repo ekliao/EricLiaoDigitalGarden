@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readwise-reader/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/readwise-reader/","noteIcon":"2","dg-note-properties":{"creation_date":"20230228","date-created":"2023-02-28"}}
 ---
 
 date-created:: 2023-02-28

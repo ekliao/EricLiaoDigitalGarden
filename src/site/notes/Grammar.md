@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grammar/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/grammar/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # English

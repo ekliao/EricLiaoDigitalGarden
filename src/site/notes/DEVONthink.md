@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/devo-nthink/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/devo-nthink/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Informally called DT or DT3, DEVONthink has an iOS/iPadOS product called [[DEVONthink To Go\|DEVONthink To Go]] or DTTG.
@@ -128,4 +128,4 @@ Indeed. Here’s a matrix of all editions
 
 - Joel Kissell - Take Control of DEVONthink 3
 
-![[books/Take Control Of DEVONthink 3-1.11 Joe Kissell.pdf]]
+<iframe src="/img/user/books/Take%20Control%20Of%20DEVONthink%203-1.11%20Joe%20Kissell.pdf" width="100%" height="900px" title="books/Take Control Of DEVONthink 3-1.11 Joe Kissell.pdf" style="border:1px solid #ccc;"></iframe>

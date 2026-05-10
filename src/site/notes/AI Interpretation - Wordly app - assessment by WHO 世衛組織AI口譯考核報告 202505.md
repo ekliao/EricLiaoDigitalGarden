@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-interpretation-wordly-app-assessment-by-who-ai-202505/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ai-interpretation-wordly-app-assessment-by-who-ai-202505/","noteIcon":"2","dg-note-properties":{"creation_date":"20250529"}}
 ---
 
 # tl;dr 懶人版
@@ -14,4 +14,4 @@ Read the entire report 完整報告：
 
 (If you can't read it here, view/download from this [LinkedIn post](https://www.linkedin.com/posts/ghada-chadarevian-444966230_who-report-on-ai-interpretation-activity-7333843691989573633-Z5l_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAAxqwIBfrYHPsPxOL8EAbdgbU_XFu7H3Vc). 閱讀/下載報告)
 
-![[20250529 WHO report on Wordly AI interpretation.pdf]]
+<iframe src="/img/user/_attachments/_OB/20250529%20WHO%20report%20on%20Wordly%20AI%20interpretation.pdf" width="100%" height="900px" title="20250529 WHO report on Wordly AI interpretation.pdf" style="border:1px solid #ccc;"></iframe>

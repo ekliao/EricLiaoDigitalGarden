@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-as-a-dictionary/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-as-a-dictionary/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## Obsidian for language learning/as a dictionary

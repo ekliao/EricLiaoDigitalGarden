@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossary-lookup-anki-custom-fields-hebsc/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/glossary-lookup-anki-custom-fields-hebsc/","noteIcon":"2","dg-note-properties":{"creation_date":"20230813"}}
 ---
 
 This documents my design of the "new" glossary management system, starting with Anki.

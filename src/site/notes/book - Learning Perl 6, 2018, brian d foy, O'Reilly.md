@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-learning-perl-6-2018-brian-d-foy-o-reilly/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/book-learning-perl-6-2018-brian-d-foy-o-reilly/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 While I enjoyed the famous llama book Learning Perl (for Perl 5), coauthored by brian d foy, I couldn't put my finger on why his solo work Learning Perl 6 feels off.
@@ -22,6 +22,6 @@ What the author means to say is "between words" or more verbosely, "between a wo
 `Hello^world^!`
 
 
-![[_attachments/Table 15-1. Named character classes.png\|450]]
+![_attachments/_OB/Table 15-1. Named character classes.png\|450](/img/user/_attachments/_OB/Table%2015-1.%20Named%20character%20classes.png)
 
 In terms of confusing writing, seriously I'm appalled, but one instance is forgivable. Will watch out for more.

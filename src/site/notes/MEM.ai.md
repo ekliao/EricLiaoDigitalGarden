@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mem-ai/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mem-ai/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # Sold on Mem's AI magic

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/idioms-and-fixed-expressions/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/idioms-and-fixed-expressions/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## What counts as a Chinese idiom?

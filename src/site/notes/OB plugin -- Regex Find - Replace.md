@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ob-plugin-regex-find-replace/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ob-plugin-regex-find-replace/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## History

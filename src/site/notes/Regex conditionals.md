@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex-conditionals/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/regex-conditionals/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #Regex  
@@ -130,11 +130,11 @@ The example toward the end in the guide that uses a lookahead regex containing `
 { #75709c}
 
 
-![Screen Shot 2023-05-06 at 09.13.46.png|550](/img/user/_attachments/_OB/Screen%20Shot%202023-05-06%20at%2009.13.46.png)
+![Screen Shot 2023-05-06 at 09.13.46.png\|550](/img/user/_attachments/_OB/Screen%20Shot%202023-05-06%20at%2009.13.46.png)
 { #84deef}
 
 
-![Screen Shot 2023-05-06 at 09.14.01.png|500](/img/user/_attachments/_OB/Screen%20Shot%202023-05-06%20at%2009.14.01.png)
+![Screen Shot 2023-05-06 at 09.14.01.png\|500](/img/user/_attachments/_OB/Screen%20Shot%202023-05-06%20at%2009.14.01.png)
 
 I want to etch this magical example into my brain lest I forget it:
 

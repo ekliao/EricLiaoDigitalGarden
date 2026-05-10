@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/heptabase/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/heptabase/","noteIcon":"2","dg-note-properties":{"creation_date":"20230808","date-created":"2023-08-08"}}
 ---
 
 date-created:: 2023-08-08

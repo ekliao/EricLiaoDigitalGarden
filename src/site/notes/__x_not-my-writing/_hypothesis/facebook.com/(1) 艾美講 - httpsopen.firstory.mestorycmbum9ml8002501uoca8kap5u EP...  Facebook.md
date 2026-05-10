@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/facebook-com/1-httpsopen-firstory-mestorycmbum9ml8002501uoca8kap5u-ep-facebook/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/facebook-com/1-httpsopen-firstory-mestorycmbum9ml8002501uoca8kap5u-ep-facebook/","noteIcon":"2","dg-note-properties":{"doc_type":"hypothesis-highlights","url":"https://www.facebook.com/permalink.php?story_fbid=pfbid026d2MRCGCjnLveaCq46ZHpWFXjzVfrdWJUqAexELYo5uLCrwj7UkxFgK1hUg83Q2Ul&id=100082919243434"}}
 ---
 
 

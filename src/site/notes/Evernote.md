@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evernote/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/evernote/","noteIcon":"2","dg-note-properties":{"date-created":"2023-02-21"}}
 ---
 
 date-created: 2023-02-21

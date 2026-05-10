@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tana-my-questions-and-answers/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/tana-my-questions-and-answers/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 date-created:: 2023-08-07
@@ -8,7 +8,7 @@ date-created:: 2023-08-07
 
 [src](https://tana.pub)
 
-![[_attachments/Screen Shot 2023-08-07 at 15.22.21.png\|_attachments/Screen Shot 2023-08-07 at 15.22.21.png]]
+![_attachments/_OB/Screen Shot 2023-08-07 at 15.22.21.png](/img/user/_attachments/_OB/Screen%20Shot%202023-08-07%20at%2015.22.21.png)
 
 This is tantalizing. 要命的賣關子！ I think this means that some form of publishing of Tana is possible, in the way of Notion. (I haven't tried Notion publish. Only heard of it.)
 
@@ -33,6 +33,6 @@ A: No.
 
 Here's the pic or it didn't happen proof:
 
-![[_attachments/Screen Shot 2023-08-07 at 22.46.32.png\|500]]
+![_attachments/_OB/Screen Shot 2023-08-07 at 22.46.32.png\|500](/img/user/_attachments/_OB/Screen%20Shot%202023-08-07%20at%2022.46.32.png)
 
 This is a huge find! I am so glad this is happening.

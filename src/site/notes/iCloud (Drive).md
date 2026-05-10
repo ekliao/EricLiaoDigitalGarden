@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-cloud-drive/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/i-cloud-drive/","noteIcon":"2","dg-note-properties":{"creation_date":"20230711","date-created":"2023-07-11"}}
 ---
 
 date-created:: 2023-07-11

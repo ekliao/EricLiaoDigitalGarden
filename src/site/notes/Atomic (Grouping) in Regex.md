@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-grouping-in-regex/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/atomic-grouping-in-regex/","noteIcon":"2","dg-note-properties":{"creation_date":"20230507","date-created":"2023-05-07"}}
 ---
 
 date-created:: 2023-05-07

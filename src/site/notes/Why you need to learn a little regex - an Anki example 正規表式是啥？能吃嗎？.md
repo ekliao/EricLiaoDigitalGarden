@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-you-need-to-learn-a-little-regex-an-anki-example/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/why-you-need-to-learn-a-little-regex-an-anki-example/","noteIcon":"2","dg-note-properties":{"date-created":"2023-10-16","creation_date":"20231016","linkedIn-posted":true,"facebook":true}}
 ---
 
 date-created:: 2023-10-16

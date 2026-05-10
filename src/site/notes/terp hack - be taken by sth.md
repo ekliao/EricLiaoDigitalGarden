@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terp-hack-be-taken-by-sth/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/terp-hack-be-taken-by-sth/","noteIcon":"2","dg-note-properties":{"creation_date":"20231126"}}
 ---
 
 ---
@@ -12,7 +12,7 @@
 
 # (1053) Anno Launch - Kevin Guthrie - Highlights - YouTube
 
-![](https://www.youtube.com/watch?v=rsrMn5j2lb0)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/rsrMn5j2lb0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 ### Metadata
 
 - Title: (1053) Anno Launch - Kevin Guthrie - Highlights - YouTube

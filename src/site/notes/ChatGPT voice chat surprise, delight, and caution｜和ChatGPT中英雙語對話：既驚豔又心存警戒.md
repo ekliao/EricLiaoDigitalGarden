@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-voice-chat-surprise-delight-and-caution-chat-gpt/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt-voice-chat-surprise-delight-and-caution-chat-gpt/","noteIcon":"2","dg-note-properties":{"creation_date":"20231123","date-created":"2023-11-23"}}
 ---
 
-![IMG_0822780F33C6-1.jpeg|350](/img/user/_attachments/_OB/IMG_0822780F33C6-1.jpeg)
+![IMG_0822780F33C6-1.jpeg\|350](/img/user/_attachments/_OB/IMG_0822780F33C6-1.jpeg)
 
 I had my first experience with the just-announced new capability of OpenAI's ChatGPT to voice chat with a user. At first I shrugged it off as just another gimmicky feature, because experience with any bots through voice had been ... meh: it is limited to one single language, either English or Mandarin for me, but not both.
 

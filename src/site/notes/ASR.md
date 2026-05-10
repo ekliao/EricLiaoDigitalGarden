@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/asr/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/asr/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Automatic speech recognition.

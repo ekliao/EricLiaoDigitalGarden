@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/otter-ai/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/otter-ai/","noteIcon":"2","dg-note-properties":{"creation_date":"20231014"}}
 ---
 
 For the first time, I almost used up Otter.ai's monthly allowance of transcription time. There's less than 5 hours left with 3 days to go. I feel I'm finally getting the bang for my buck.

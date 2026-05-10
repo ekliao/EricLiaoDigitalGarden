@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-and-pdf/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-and-pdf/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Watch [Nicole's](https://www.youtube.com/watch?v=VqOc9OsMX_s) great overview and rubric, rating:

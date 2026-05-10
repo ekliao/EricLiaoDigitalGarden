@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/lawyer-get-com-tw/motion-in-limine/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/lawyer-get-com-tw/motion-in-limine/","noteIcon":"2","dg-note-properties":{"doc_type":"hypothesis-highlights","url":"https://lawyer.get.com.tw/dic/DictionaryDetail.aspx?iDT=65016","creation_date":"20240307"}}
 ---
 
 

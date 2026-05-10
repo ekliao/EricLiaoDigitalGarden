@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/substance-over-structure/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/substance-over-structure/","noteIcon":"2","dg-note-properties":{"creation_date":"20230424","date-created":"2023-04-24"}}
 ---
 
 date-created:: 2023-04-24

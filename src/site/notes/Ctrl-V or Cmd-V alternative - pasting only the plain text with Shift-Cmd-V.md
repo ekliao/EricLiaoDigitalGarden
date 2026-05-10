@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ctrl-v-or-cmd-v-alternative-pasting-only-the-plain-text-with-shift-cmd-v/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ctrl-v-or-cmd-v-alternative-pasting-only-the-plain-text-with-shift-cmd-v/","noteIcon":"2","dg-note-properties":{"creation_date":"20231017","date-created":"2023-10-17"}}
 ---
 
 date-created:: 2023-10-17
@@ -14,12 +14,12 @@ I bid farewell to this web-to-Anki copy-and-paste nuisance. 慢走不送！
 
 Copy from a web page (e.g. ChatGPT)
 
-![[_attachments/Screen Shot 2023-10-17 at 18.17.51.png\|300]]
+![_attachments/_OB/Screen Shot 2023-10-17 at 18.17.51.png\|300](/img/user/_attachments/_OB/Screen%20Shot%202023-10-17%20at%2018.17.51.png)
 
 Pasted in the traditional way (Ctrl-V/Cmd-V) into Anki:
 
-![[_attachments/Screen Shot 2023-10-17 at 18.18.29.png\|300]]
+![_attachments/_OB/Screen Shot 2023-10-17 at 18.18.29.png\|300](/img/user/_attachments/_OB/Screen%20Shot%202023-10-17%20at%2018.18.29.png)
 
 This is how it'll be going forward (Shift-Cmd-V):
 
-![[_attachments/Screen Shot 2023-10-17 at 18.17.21.png\|300]]
+![_attachments/_OB/Screen Shot 2023-10-17 at 18.17.21.png\|300](/img/user/_attachments/_OB/Screen%20Shot%202023-10-17%20at%2018.17.21.png)

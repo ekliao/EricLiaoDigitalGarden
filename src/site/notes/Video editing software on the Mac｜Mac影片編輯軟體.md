@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/video-editing-software-on-the-mac-mac/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/video-editing-software-on-the-mac-mac/","noteIcon":"2","dg-note-properties":{"creation_date":"20231123"}}
 ---
 
 Summary of [Best video editing software for Mac - 2023](https://www.youtube.com/watch?v=ahvtKcMevrc)

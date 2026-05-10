@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/typefaces-and-fonts/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/typefaces-and-fonts/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 I am annoyed that the capital I and the lowercase l usually look the same (despite minute differences, if any) in many san serif fonts, which are more elegant and modern. 

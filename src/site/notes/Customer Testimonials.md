@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/customer-testimonials/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/customer-testimonials/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #### May 15, 2023

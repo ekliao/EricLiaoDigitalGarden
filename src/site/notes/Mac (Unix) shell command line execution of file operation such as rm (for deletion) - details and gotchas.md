@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-unix-shell-command-line-execution-of-file-operation-such-as-rm-for-deletion-details-and-gotchas/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mac-unix-shell-command-line-execution-of-file-operation-such-as-rm-for-deletion-details-and-gotchas/","noteIcon":"2","dg-note-properties":{"creation_date":"20231206"}}
 ---
 
 

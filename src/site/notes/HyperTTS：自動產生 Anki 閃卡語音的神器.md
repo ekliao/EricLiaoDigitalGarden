@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hyper-tts-anki/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/hyper-tts-anki/","noteIcon":"2","dg-note-properties":{"creation_date":"20240710"}}
 ---
 
 2024-07-10
@@ -10,7 +10,7 @@
 
 *Anki 語音閃卡 | Anki flashcards with audio*
 
-![Pasted image 20240710120820.png|300](/img/user/_attachments/_OB/Pasted%20image%2020240710120820.png)
+![Pasted image 20240710120820.png\|300](/img/user/_attachments/_OB/Pasted%20image%2020240710120820.png)
 
 Prefer English? Read the [Perplexity AI translation of this article](https://www.perplexity.ai/search/translate-below-exactly-withou-eTe7BZLVQ6Wm_91t.Lc5cw#0) (without post editing).
 

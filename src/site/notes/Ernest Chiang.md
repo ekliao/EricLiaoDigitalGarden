@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ernest-chiang/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ernest-chiang/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #people 

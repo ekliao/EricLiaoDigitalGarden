@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ruby/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ruby/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #project/learn-by-doing 

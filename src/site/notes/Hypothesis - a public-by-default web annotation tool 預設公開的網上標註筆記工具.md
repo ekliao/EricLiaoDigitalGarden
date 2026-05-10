@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hypothesis-a-public-by-default-web-annotation-tool/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/hypothesis-a-public-by-default-web-annotation-tool/","noteIcon":"2","dg-note-properties":{"creation_date":"20231108"}}
 ---
 
 A flexible online highlighting, note-taking, and sharing app. What sets it apart from [[Omnivore - an open-source, free Readwise Reader alternative 免費的閱讀筆記書籤軟體\|Omnivore]] and [[Glasp\|Glasp]] is that you get to control each note's visibility: by default all notes are public and published, but you can make a note private, viewable to you only, by either creating it in a private group or setting it to "to me only" in a (default) public group. I tested this and it works as claimed. 
@@ -42,11 +42,11 @@ This tool seems rather popular with teachers and students because it integrates 
 
 ### Before login
 
-![Screen Shot 2023-11-08 at 17.05.52.png|600](/img/user/_attachments/_OB/Screen%20Shot%202023-11-08%20at%2017.05.52.png)
+![Screen Shot 2023-11-08 at 17.05.52.png\|600](/img/user/_attachments/_OB/Screen%20Shot%202023-11-08%20at%2017.05.52.png)
 
 ### After login
 
-![Screen Shot 2023-11-08 at 17.06.21.png|600](/img/user/_attachments/_OB/Screen%20Shot%202023-11-08%20at%2017.06.21.png)
+![Screen Shot 2023-11-08 at 17.06.21.png\|600](/img/user/_attachments/_OB/Screen%20Shot%202023-11-08%20at%2017.06.21.png)
 
 ## Pictures can be selected along with text 圖片和文字可一起擷取，成功同步到Obsidian
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combining-pdf-reading-annotating-backlinking-for-context-and-flashcarding/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/combining-pdf-reading-annotating-backlinking-for-context-and-flashcarding/","noteIcon":"2","dg-note-properties":{"creation_date":"20240412"}}
 ---
 
 Unlike the clunky and ugly [[Obsidian plugin - Annotator｜PDF註記插件\|Annotator plugin]], the readable box quotes created by the [[Obsidian PDF++ plugin demo｜完勝PDF Annotator插件，簡直開外掛\|PDF++ plugin]] is so simple that it is perfect for quickly modifying the quoted text in place to make a flashcard, thanks to another plugin: [[Obsidian plugin - Spaced Repetition\|Spaced Repetition]]:

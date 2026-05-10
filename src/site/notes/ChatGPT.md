@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # Applications

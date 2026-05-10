@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/youtube-com/why-playing-by-ear-makes-you-unstoppable-top-3-reasons/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/youtube-com/why-playing-by-ear-makes-you-unstoppable-top-3-reasons/","noteIcon":"2","dg-note-properties":{"doc_type":"hypothesis-highlights","url":"https://www.youtube.com/watch?v=psZUXdPrTv8","creation_date":"20250817"}}
 ---
 
 

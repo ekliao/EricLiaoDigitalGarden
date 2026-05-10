@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/difficulty-in-passing-all-four-subjects-70-in-the-same-sitting-in-state-court-interpreter-s-oral-exams-by-language/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/difficulty-in-passing-all-four-subjects-70-in-the-same-sitting-in-state-court-interpreter-s-oral-exams-by-language/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #exam 
@@ -7,7 +7,7 @@
 #terp 
 I vaguely remember seeing this table once before. Now it has resurfaced, thanks to a classmate.
 
-![[_attachments/court terp exam pass rates (california or not？) via min hu.png\|_attachments/court terp exam pass rates (california or not？) via min hu.png]]
+![_attachments/_OB/court terp exam pass rates (california or not？) via min hu.png](/img/user/_attachments/_OB/court%20terp%20exam%20pass%20rates%20(california%20or%20not%EF%BC%9F)%20via%20min%20hu.png)
 
 Amazing that Mandarin, difficult as it is for simultaneous, isn't the most difficult language.
 

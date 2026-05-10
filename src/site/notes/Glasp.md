@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glasp/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/glasp/","noteIcon":"2","dg-note-properties":{"creation_date":"20230422","date-created":"2023-04-22"}}
 ---
 
 date-created:: 2023-04-22
@@ -43,7 +43,7 @@ Below is my first attempt to copy-and-paste my [Glasp](https://glasp.co/) highli
 #project/learn-by-doing 
 #project/completed 
 
-![Screen Shot 2023-04-23 at 03.12.40.png](/img/user/_attachments/_OB/Screen%20Shot%202023-04-23%20at%2003.12.40.png)
+![[Screen Shot 2023-04-23 at 03.12.40.png\|Screen Shot 2023-04-23 at 03.12.40.png]]
 #paste/glasp
 # [[Predicative expression\|Predicative expression]] - Wikipedia
 { #5def57}

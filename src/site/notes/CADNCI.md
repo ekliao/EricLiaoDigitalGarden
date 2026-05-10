@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cadnci/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/cadnci/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # Todo: link to website

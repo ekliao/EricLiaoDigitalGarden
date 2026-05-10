@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hearing-loudly-and-clearly/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/hearing-loudly-and-clearly/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # The holy grail of hearing aid?

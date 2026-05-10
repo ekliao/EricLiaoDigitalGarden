@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interpreter-portfolio-work-voice-samples/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/interpreter-portfolio-work-voice-samples/","noteIcon":"2","dg-note-properties":{"creation_date":"20230503"}}
 ---
 
 Please visit my [YouTube channel](https://www.youtube.com/@ericliaointerpreter/videos), where you'll find actual videos of me at work as an interpreter (English into Mandarin) and a video practicing simultaneous interpretation into English.

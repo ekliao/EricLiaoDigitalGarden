@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-tag-gpt-trg-obsidian-gpt-trg/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-tag-gpt-trg-obsidian-gpt-trg/","noteIcon":"2","dg-note-properties":{"creation_date":"20231204"}}
 ---
 
 This tag precedes a text to indicate it is the translation done by ChatGPT (free, v3.5) into a target language, usually English or Traditional Chinese for Taiwan, without any revision.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-4/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt-4/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Top 20 jobs to be replaced by ChatGPT 4:

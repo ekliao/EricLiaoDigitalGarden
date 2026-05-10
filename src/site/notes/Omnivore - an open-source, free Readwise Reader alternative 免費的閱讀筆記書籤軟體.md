@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/omnivore-an-open-source-free-readwise-reader-alternative/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/omnivore-an-open-source-free-readwise-reader-alternative/","noteIcon":"2","dg-note-properties":{"creation_date":"20231103","date-created":"2023-11-03"}}
 ---
 
 date-created:: 2023-10-03
@@ -32,7 +32,7 @@ If Omnivore works as advertised, it will have a much stronger integration with O
 
 - No "link to note" with metadata. There is a "copy" button, as shown, but it copies **only plain text** of the highlight so you can paste it somewhere. Yet, it does not contain any metadata or create a link back to the Omnivore website. This is unfortunate. [[Glasp\|Glasp]], which I thought Omnivore would kill and replace, at least offers this ability.
 
-![Screen Shot 2023-11-03 at 14.37.19.png|400](/img/user/_attachments/_OB/Screen%20Shot%202023-11-03%20at%2014.37.19.png)
+![Screen Shot 2023-11-03 at 14.37.19.png\|400](/img/user/_attachments/_OB/Screen%20Shot%202023-11-03%20at%2014.37.19.png)
 
 ---
 ## Text-to-speech voice

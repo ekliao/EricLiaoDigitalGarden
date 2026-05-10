@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/foam-foam-bubble/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/foam-foam-bubble/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 I first tried to install and use Foam by following this non-dev [video](https://www.youtube.com/watch?v=lBNyJXYDGLA) but soon hit a snag. The actual [[Visual Studio\|Visual Studio]] UI I experienced is different from what's presented.

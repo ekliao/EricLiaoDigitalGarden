@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mac-command-line-z-shell-mac/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mac-command-line-z-shell-mac/","noteIcon":"2","dg-note-properties":{"creation_date":"20230710"}}
 ---
 
 
@@ -8,7 +8,7 @@
 Config file: (hidden) `~/.zshrc`
 
 Use `nano ~/.zshrc` to edit it. Add this line to create a simple alias command:
-`alias ic="cd \"/Users/ekliao/Library/Mobile Documents/iCloud~md~obsidian/Documents/\""`
+`alias ic="cd \"/Users/ekliao/_Obsidian/\""`
 
 Then, re-start shell, and type
 

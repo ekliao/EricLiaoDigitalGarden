@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/not-all-ai-is-generative/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/not-all-ai-is-generative/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Judge Baylson clearly isn't the sharpest knife in the drawer.

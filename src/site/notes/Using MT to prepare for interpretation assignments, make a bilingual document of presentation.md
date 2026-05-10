@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/using-mt-to-prepare-for-interpretation-assignments-make-a-bilingual-document-of-presentation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/using-mt-to-prepare-for-interpretation-assignments-make-a-bilingual-document-of-presentation/","noteIcon":"2","dg-note-properties":{"date-created":"2023-09-11"}}
 ---
 
 date-created:: 2023-09-11

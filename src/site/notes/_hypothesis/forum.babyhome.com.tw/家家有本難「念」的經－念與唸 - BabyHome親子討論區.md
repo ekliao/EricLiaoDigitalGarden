@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hypothesis/forum-babyhome-com-tw/baby-home/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/hypothesis/forum-babyhome-com-tw/baby-home/","noteIcon":"2","dg-note-properties":{"doc_type":"hypothesis-highlights","url":"https://forum.babyhome.com.tw/article/4969407"}}
 ---
 
 

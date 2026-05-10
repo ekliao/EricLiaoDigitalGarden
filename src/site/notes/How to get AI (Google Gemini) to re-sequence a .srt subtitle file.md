@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-get-ai-google-gemini-to-re-sequence-a-srt-subtitle-file/","title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/how-to-get-ai-google-gemini-to-re-sequence-a-srt-subtitle-file/","title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","noteIcon":"2","dg-note-properties":{"title":"How to get AI (Google Gemini) to re-sequence a .srt subtitle file","createdAt":"Sun Sep 28 2025 12:43:32 GMT-0700 (Pacific Daylight Time)","updatedAt":"Sun Sep 28 2025 12:58:33 GMT-0700 (Pacific Daylight Time)","imported-from":"Recall","creation_date":"20250928"}}
 ---
 
 #AI #srt #HappyScribe #Turboscribe #Google-Gemini #Recall-ai #shared

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-time-logger-pro/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/a-time-logger-pro/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #rating 
@@ -17,15 +17,15 @@ I upgraded from Basic to the Pro version in 2022. Generally speaking, it's usefu
 
 - iPhone app showing no active time-tracking (of the wine quarter glass):
 
-![[_attachments/IMG_51EDDBAD9F59-1.jpeg\|250]]
+![_attachments/_OB/IMG_51EDDBAD9F59-1.jpeg\|250](/img/user/_attachments/_OB/IMG_51EDDBAD9F59-1.jpeg)
 
 - But, the Watch may show that the app is tracking time (at 4:35, as shown):
 
- ![[_attachments/incoming-5E591778-4BC6-44C0-943A-650ABAD3E10D.png\|150]]
+ ![_attachments/_OB/incoming-5E591778-4BC6-44C0-943A-650ABAD3E10D.png\|150](/img/user/_attachments/_OB/incoming-5E591778-4BC6-44C0-943A-650ABAD3E10D.png)
 
 - Clicking into the app on the Watch confirms the tracing:
 
-![[_attachments/Screen Shot 2023-06-09 at 13.51.35.png\|_attachments/Screen Shot 2023-06-09 at 13.51.35.png]]
+![_attachments/_OB/Screen Shot 2023-06-09 at 13.51.35.png](/img/user/_attachments/_OB/Screen%20Shot%202023-06-09%20at%2013.51.35.png)
 
 ## Remedy
 

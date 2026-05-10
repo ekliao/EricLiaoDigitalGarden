@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clients-and-speakers-i-interpreted-for/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/clients-and-speakers-i-interpreted-for/","noteIcon":"2","dg-note-properties":{"creation_date":"20231225"}}
 ---
 
 Back to [[00 Home/00 Eric Liao Interpreting 中英文會議口譯\|00 Eric Liao Interpreting]] 

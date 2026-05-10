@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usage/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/usage/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Language usage, including punctuation and spelling.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quicktime-screen-recording-capturing-dual-screens-quicktime/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/quicktime-screen-recording-capturing-dual-screens-quicktime/","noteIcon":"2","dg-note-properties":{"creation_date":"20231123"}}
 ---
 
 During initial region selection, it may appear that Quicktime allows you to describe both screens for recording, but this is deceptive. The result video clearly shows that only one of the two screen was captured, not both.

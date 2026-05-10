@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/latest-blogposts/","noteIcon":"2","dg-note-properties":{"creation_date":"20230421"}}
 ---
 
 # 譯人片語 Notes of a Mandarin Interpreter

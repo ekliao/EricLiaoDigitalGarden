@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prescription-painkiller/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/prescription-painkiller/","noteIcon":"2","dg-note-properties":{"creation_date":"20231204"}}
 ---
 
 Ibuprofen 800mg (to take 3 times a day) is powerful. One pill taken 40 minutes ago has completely dulled the pain from a tooth extraction 6 hours ago. Let's hope it lasts because I have seven more hours to go until the next "high."

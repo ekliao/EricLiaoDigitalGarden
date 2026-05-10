@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-consecutive-note-taking-practice-using-cadnci-global-income-inequality/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/my-consecutive-note-taking-practice-using-cadnci-global-income-inequality/","noteIcon":"2","dg-note-properties":{"creation_date":"20231027","date-created":"2023-10-27"}}
 ---
 
 date-created:: 2023-10-27

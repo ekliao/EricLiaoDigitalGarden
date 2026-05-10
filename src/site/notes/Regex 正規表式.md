@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/regex/","noteIcon":"2","dg-note-properties":{"creation_date":"20230226","date-created":"2023-02-26"}}
 ---
 
 date-created:: 2023-02-26
@@ -9,7 +9,7 @@ Short for "[regular expressions](https://en.wikipedia.org/wiki/Regular_expressio
 
 [src](https://xkcd.com/208/)
 
-![[_attachments/regular_expressions.png\|_attachments/regular_expressions.png]]
+![_attachments/_OB/regular_expressions.png](/img/user/_attachments/_OB/regular_expressions.png)
 
 ## My regexes in use
 

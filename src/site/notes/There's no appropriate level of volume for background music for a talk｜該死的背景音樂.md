@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/there-s-no-appropriate-level-of-volume-for-background-music-for-a-talk/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/there-s-no-appropriate-level-of-volume-for-background-music-for-a-talk/","noteIcon":"2","dg-note-properties":{"creation_date":"20240411"}}
 ---
 
 I have a visceral disgust for any talk that's literally ruined by background music, especially when the music is loud & distracting like [this](https://youtube.com/clip/UgkxnygUAYfDUaKOY6m3kZLcKbmbaCzn77tp?si=I7gaVwgKl-cB-IHS). Please just stop this attack on your listeners' ears. You are turning the audience away. If they want to enjoy real music or understand a talk, they wouldn't be listening to you. In other words, the only appropriate volume level of background music is zero.
@@ -35,7 +35,7 @@ turn sb away;;拒之門外
 
 ### Flashcard review
 
-![Screenshot 2024-04-11 at 1.48.49 PM.png|500](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.48.49%20PM.png)
+![Screenshot 2024-04-11 at 1.48.49 PM.png\|500](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.48.49%20PM.png)
 
 
-![Screenshot 2024-04-11 at 1.50.19 PM.png|500](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.50.19%20PM.png)
+![Screenshot 2024-04-11 at 1.50.19 PM.png\|500](/img/user/_attachments/_OB/Screenshot%202024-04-11%20at%201.50.19%20PM.png)

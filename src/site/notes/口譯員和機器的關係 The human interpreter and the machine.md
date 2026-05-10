@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-human-interpreter-and-the-machine/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/the-human-interpreter-and-the-machine/","noteIcon":"2","dg-note-properties":{"creation_date":"20231025","date-created":"2023-10-25"}}
 ---
 
 date-created:: 2023-10-25

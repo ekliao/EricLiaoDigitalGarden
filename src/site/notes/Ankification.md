@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ankification/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ankification/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Turning loosely-formatted [[glossaries\|glossaries]] into Anki-read .txt files and importing into my ever-growing [[Anki\|Anki]] [[PKM 個人知識管理\|PKM 個人知識管理]]. Common approaches include:

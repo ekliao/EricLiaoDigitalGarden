@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lep/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/lep/","noteIcon":"2","dg-note-properties":{"creation_date":"20231015","date-created":"2023-10-15"}}
 ---
 
 date-created:: 2023-10-15

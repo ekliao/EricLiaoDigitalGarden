@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voa/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/voa/","noteIcon":"2","dg-note-properties":{"creation_date":"20240409"}}
 ---
 
 [有影片有真相](https://twitter.com/VOAChinese/status/1777218589784990158)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chat-gpt-delivers-an-english-joke-in-english-and-mandarin-chat-gpt/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chat-gpt-delivers-an-english-joke-in-english-and-mandarin-chat-gpt/","noteIcon":"2","dg-note-properties":{"creation_date":"20231124"}}
 ---
 
 #todo/topost 
@@ -14,4 +14,4 @@ In Mandarin, the exclusively English metalinguistic joke (word play) would have 
 
 [Watch the clip 短片](https://youtu.be/H4P3fsw6fD8)
 
-![impasta imposter.jpeg|500](/img/user/_attachments/_OB/impasta%20imposter.jpeg)
+![impasta imposter.jpeg\|500](/img/user/_attachments/_OB/impasta%20imposter.jpeg)

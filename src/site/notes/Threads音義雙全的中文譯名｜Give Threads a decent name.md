@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/threads-give-threads-a-decent-name/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/threads-give-threads-a-decent-name/","noteIcon":"2","dg-note-properties":{"creation_date":"20240119"}}
 ---
 
 幾個月前 Threads 開放的第一時間我就有了帳號，但很快就成了三分鐘熱度不再關注，感覺又是一個無聊的社交媒體平台，何況後台是惡名昭彰的臉書。

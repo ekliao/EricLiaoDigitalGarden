@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/emojis/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/emojis/","noteIcon":"2","dg-note-properties":{"creation_date":"20230506"}}
 ---
 
 #data-entry

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/capacities-io/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/capacities-io/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 date-created:: 2023-08-08

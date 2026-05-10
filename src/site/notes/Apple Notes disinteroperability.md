@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/apple-notes-disinteroperability/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/apple-notes-disinteroperability/","noteIcon":"2","dg-note-properties":{"creation_date":"20230608"}}
 ---
 
 #todo/wip
@@ -13,7 +13,7 @@ Turns out this is also one of the note that the [[Exporter (app)\|Exporter (app)
 
 The overall fail rate is 1% (12 out of 1063) in my first experiment.
 
-![_attachments/_OB/Screen Shot 2023-06-08 at 15.10.51.png|150](/img/user/_attachments/_OB/Screen%20Shot%202023-06-08%20at%2015.10.51.png)
+![_attachments/_OB/Screen Shot 2023-06-08 at 15.10.51.png\|150](/img/user/_attachments/_OB/Screen%20Shot%202023-06-08%20at%2015.10.51.png)
 
 This export of 1000 notes took about 30 minutes. A bit slow.
 
@@ -35,7 +35,7 @@ This export of 1000 notes took about 30 minutes. A bit slow.
   
 ![_attachments/_OB/Pronunciation.jpeg](/img/user/_attachments/_OB/Pronunciation.jpeg)
   
-![_attachments/_OB/1. One that translates, especially.jpeg|500](/img/user/_attachments/_OB/1.%20One%20that%20translates,%20especially.jpeg)
+![_attachments/_OB/1. One that translates, especially Medium.jpeg\|500](/img/user/_attachments/_OB/1.%20One%20that%20translates,%20especially%20Medium.jpeg)
   
 trans la tor (träns la' tar, trânz°-, träns-la'tar, tränz-)
 

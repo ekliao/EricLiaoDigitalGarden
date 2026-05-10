@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-successful-attempt-at-obsidian-web-publishing-obsidian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/my-successful-attempt-at-obsidian-web-publishing-obsidian/","noteIcon":"2","dg-note-properties":{"creation_date":"20230421","date-created":"2023-04-21"}}
 ---
 
 date-created:: 2023-04-21

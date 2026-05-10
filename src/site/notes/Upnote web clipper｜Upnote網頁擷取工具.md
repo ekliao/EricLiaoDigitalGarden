@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upnote-web-clipper-upnote/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/upnote-web-clipper-upnote/","noteIcon":"2","dg-note-properties":{"creation_date":"20231208"}}
 ---
 
 # Chrome

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/liquid-text-full-feature-list/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/liquid-text-full-feature-list/","noteIcon":"2","dg-note-properties":{"date-created":"2023-05-20"}}
 ---
 
 date-created:: 2023-05-20

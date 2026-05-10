@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online-mic-etiquette/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/online-mic-etiquette/","noteIcon":"2","dg-note-properties":{"creation_date":"20231112","date-created":"2023-11-12"}}
 ---
 
 date-created:: 2023-11-12

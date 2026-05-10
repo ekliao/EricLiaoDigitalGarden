@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-wikipedia-in-obsidian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/reference-wikipedia-in-obsidian/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 # Hotkeys
@@ -35,7 +35,7 @@ tangzhuang> Tangzhuang (Chinese: 唐裝; pinyin: Tángzhuāng; lit. 'Chinese sui
 - Note that the quoted result is always the default in Simplified Chinese (唐装...) despite the search term being Traditional Chinese `唐裝`. At least, using TC search term works.
 - Despite the now `zh` setting, the #1 method `ctrl-shift-W` search can still use `en:` to find English articles, and insert the link. All is not lost.
  
-![Screen Shot 2023-05-09 at 11.18.52.png|600](/img/user/_attachments/_OB/Screen%20Shot%202023-05-09%20at%2011.18.52.png)
+![Screen Shot 2023-05-09 at 11.18.52.png\|600](/img/user/_attachments/_OB/Screen%20Shot%202023-05-09%20at%2011.18.52.png)
 
 #resultof/command get wikipedia for search term > menu > enter `唐裝`
 

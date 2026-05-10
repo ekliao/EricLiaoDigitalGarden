@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/perplexity-chat-gpt-ai-perplexity/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/perplexity-chat-gpt-ai-perplexity/","noteIcon":"2","dg-note-properties":{"creation_date":"20250427"}}
 ---
 
 #ai

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mid-2014-mac-book-pro-intel-2014-mac-book-pro/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mid-2014-mac-book-pro-intel-2014-mac-book-pro/","noteIcon":"2","dg-note-properties":{"creation_date":"20230221"}}
 ---
 
 This was my first purchase and use of any Mac laptops. The Evernote note below indicates I started using it in December 2014, when I first attempted the Windows bootcamp installation (lasted a short couple of weeks). 

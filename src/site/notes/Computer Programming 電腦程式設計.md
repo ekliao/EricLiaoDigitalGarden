@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-programming/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/computer-programming/","noteIcon":"2","dg-note-properties":{"creation_date":"20230506"}}
 ---
 
 ## [Then and Now](https://www.youtube.com/watch?v=UNSoPa-XQN0)

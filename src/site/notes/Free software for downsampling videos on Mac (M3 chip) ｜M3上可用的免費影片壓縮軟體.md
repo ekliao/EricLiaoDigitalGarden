@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-software-for-downsampling-videos-on-mac-m3-chip-m3/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/free-software-for-downsampling-videos-on-mac-m3-chip-m3/","noteIcon":"2","dg-note-properties":{"creation_date":"20231122","date-created":"2023-11-22"}}
 ---
 
 Date-created:: 2023-11-22

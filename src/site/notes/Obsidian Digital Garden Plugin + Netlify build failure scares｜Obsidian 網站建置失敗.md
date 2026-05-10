@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify-build-failure-scares-obsidian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-digital-garden-plugin-netlify-build-failure-scares-obsidian/","noteIcon":"2","dg-note-properties":{"date-created":"2023-08-19","creation_date":"20230819"}}
 ---
 
 # A surprise build failure

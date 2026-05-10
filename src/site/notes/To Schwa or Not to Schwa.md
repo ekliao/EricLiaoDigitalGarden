@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/to-schwa-or-not-to-schwa/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/to-schwa-or-not-to-schwa/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 *([[Note on the SAMPA phonetic transcription｜SAMPA音標說明\|Note on the SAMPA phonetic transcription｜SAMPA音標說明]])*

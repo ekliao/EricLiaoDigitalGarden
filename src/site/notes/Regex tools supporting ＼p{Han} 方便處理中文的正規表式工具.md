@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regex-tools-supporting-p-han/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/regex-tools-supporting-p-han/","noteIcon":"2","dg-note-properties":{"creation_date":"20231202"}}
 ---
 
 It's a rare find of a tool (excluding programming languages) that understands `\p{Han}`, identifying Chinese characters, in regex.

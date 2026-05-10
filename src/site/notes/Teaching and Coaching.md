@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching-and-coaching/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/teaching-and-coaching/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## Teaching
@@ -12,7 +12,7 @@ I led a California court Interpreter Exam prep group, 6-8 members from NCSC Chin
 
 ---
 
-- [[NCSC private coaching session notes\|NCSC private coaching session notes]] ⛔️
+- [[NCSC private coaching session notes (transcript by Word)\|NCSC private coaching session notes (transcript by Word)]] ⛔️
 
 ---
 

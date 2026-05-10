@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/up-note-escape-from-evernote-evernote/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/up-note-escape-from-evernote-evernote/","noteIcon":"2","dg-note-properties":{"creation_date":"20231204"}}
 ---
 
 Started using it only for the ability to painlessly import Evernote ENEX, keeping Evernote tags (in two ways). Also, for good measure, its multiple export format choices: markdown, html, PDF, etc.

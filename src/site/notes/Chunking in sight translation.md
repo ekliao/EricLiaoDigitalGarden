@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chunking-in-sight-translation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/chunking-in-sight-translation/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 #workInProgress 

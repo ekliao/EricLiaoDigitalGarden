@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-plugins/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-plugins/","noteIcon":"2","dg-note-properties":{"creation_date":"20230415"}}
 ---
 
 ## In use / Tried

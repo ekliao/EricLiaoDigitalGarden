@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/translation-and-interpretation/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/translation-and-interpretation/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Often abbreviated T&I.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blot-im/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/blot-im/","noteIcon":"2","dg-note-properties":{"creation_date":"20231023","date-created":"2023-10-23"}}
 ---
 
 date-created:: 2023-10-23

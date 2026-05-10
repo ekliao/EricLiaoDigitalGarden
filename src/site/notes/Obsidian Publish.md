@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-publish/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-publish/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## [[Obsidian Publish Alternative\|Obsidian Publish Alternative]]

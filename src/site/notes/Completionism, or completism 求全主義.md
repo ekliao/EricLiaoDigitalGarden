@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/completionism-or-completism/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/completionism-or-completism/","noteIcon":"2","dg-note-properties":{"creation_date":"20251231"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docdrop-another-great-web-annotation-interface-powered-by-hypothesis-docdrop/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/docdrop-another-great-web-annotation-interface-powered-by-hypothesis-docdrop/","noteIcon":"2","dg-note-properties":{"creation_date":"20240117"}}
 ---
 
 ![Screenshot 2024-01-18 at 10.54.14 AM.png](/img/user/_attachments/_OB/Screenshot%202024-01-18%20at%2010.54.14%20AM.png)
@@ -13,4 +13,4 @@ Here's my [first video annotation using Docdrop](https://docdrop.org/video/rsrMn
 
 It's a more intuitive and user-friendly interface than using [via.hypothes.is](https://via.hypothes.is/).
 
-![Screenshot 2024-01-17 at 1.48.50 PM.png](/img/user/_attachments/_OB/Screenshot%202024-01-17%20at%201.48.50%20PM.png)
+![[Screenshot 2024-01-17 at 1.48.50 PM.png\|Screenshot 2024-01-17 at 1.48.50 PM.png]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/question-or-comment/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/question-or-comment/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Please fill out the comment box below, courtesy of DISQUS. 

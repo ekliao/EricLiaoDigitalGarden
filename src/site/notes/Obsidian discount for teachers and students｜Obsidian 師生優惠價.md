@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-discount-for-teachers-and-students-obsidian/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/obsidian-discount-for-teachers-and-students-obsidian/","noteIcon":"2","dg-note-properties":{"creation_date":"20240410"}}
 ---
 
 So pleased to be approved by Obsidian for 40% off Sync and Publish, thanks to my status as a teacher associated with a local college. 

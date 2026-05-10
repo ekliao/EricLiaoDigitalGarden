@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mwald/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/mwald/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 Merriam-Webster's Advanced Learner's English Dictionary. 

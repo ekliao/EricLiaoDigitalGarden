@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evernote-termination-and-exodus-evernote/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/evernote-termination-and-exodus-evernote/","noteIcon":"2","dg-note-properties":{"creation_date":"20231201"}}
 ---
 
 Horrified to find Evernote pulling a dirty by ambushing us with new rule of allowing only 50 notes in one notebook in the free plan, a serious idiotic downgrade from unlimited use up to 60mb per month. The company didn't telegraph this at all and suddenly sprang the notice on the users, an unpleasant cheap move.
@@ -8,7 +8,7 @@ I had harbored intention to use Evernote less since I learned to use Obsidian ea
 
 Alas, the 38K note export failed twice at about 10-20%, and I have no idea which notes had been exported.
 
-![_attachments/_OB/Screenshot 2023-11-30 at 20.12.36.png|250](/img/user/_attachments/_OB/Screenshot%202023-11-30%20at%2020.12.36.png)
+![_attachments/_OB/Screenshot 2023-11-30 at 20.12.36.png\|250](/img/user/_attachments/_OB/Screenshot%202023-11-30%20at%2020.12.36.png)
 
 I had to resort to exporting 100 notes at a time, for 380 times. Darn!!!
 

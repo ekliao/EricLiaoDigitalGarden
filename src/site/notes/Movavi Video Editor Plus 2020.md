@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/movavi-video-editor-plus-2020/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/movavi-video-editor-plus-2020/","noteIcon":"2","dg-note-properties":{"creation_date":"20231013","date-created":"2023-10-13"}}
 ---
 
 date-created:: 2023-10-13

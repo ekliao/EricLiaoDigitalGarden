@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/youtube-com/the-music-theory-and-production-of-eleanor-rigby/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/x-not-my-writing/hypothesis/youtube-com/the-music-theory-and-production-of-eleanor-rigby/","noteIcon":"2","dg-note-properties":{"doc_type":"hypothesis-highlights","url":"https://www.youtube.com/watch?v=W1pgkwzBK_4","creation_date":"20250816"}}
 ---
 
 

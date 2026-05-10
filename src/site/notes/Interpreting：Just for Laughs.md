@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interpreting-just-for-laughs/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/interpreting-just-for-laughs/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 ## Unrealistic economics

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ikigai-jobs-as-suggested-by-ai-ai/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/ikigai-jobs-as-suggested-by-ai-ai/","noteIcon":"2","dg-note-properties":{"creation_date":"20250604"}}
 ---
 
 ![IMG_2134.jpg](/img/user/_attachments/_OB/IMG_2134.jpg)

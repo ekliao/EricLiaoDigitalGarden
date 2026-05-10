@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yarle-yet-another-rope-ladder-from-evernote-imports-from-evernte-emex-into-various-tools/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/yarle-yet-another-rope-ladder-from-evernote-imports-from-evernte-emex-into-various-tools/","noteIcon":"2","dg-note-properties":{"creation_date":"20231205"}}
 ---
 
 # From ENEX to various targets

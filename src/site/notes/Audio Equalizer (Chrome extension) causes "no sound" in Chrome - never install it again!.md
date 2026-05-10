@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/audio-equalizer-chrome-extension-causes-no-sound-in-chrome-never-install-it-again/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/audio-equalizer-chrome-extension-causes-no-sound-in-chrome-never-install-it-again/","noteIcon":"2","dg-note-properties":{"creation_date":"20241013"}}
 ---
 
 

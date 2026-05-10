@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/00-home/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/00-home/00-eric-liao-interpreting/","tags":["gardenEntry"],"noteIcon":"2","dg-note-properties":{"creation_date":"20230415"}}
 ---
 
 # Eric Liao Interpreting 中英文會議口譯
 
 
-![eric liao ekliao profile picture (from apple party) 2016.png|200](/img/user/_attachments/_OB/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
+![eric liao ekliao profile picture (from apple party) 2016.png\|200](/img/user/_attachments/_OB/eric%20liao%20ekliao%20profile%20picture%20(from%20apple%20party)%202016.png)
 
 #### Mandarin - English Conference Interpreter 中英文會議同步口譯、逐步口譯 / 中英文会议同声传译、交替传译
 

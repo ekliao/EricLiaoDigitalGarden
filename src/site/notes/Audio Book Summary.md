@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/audio-book-summary/","noteIcon":"2"}
+{"dg-publish":true,"permalink":"/audio-book-summary/","noteIcon":"2","dg-note-properties":{}}
 ---
 
 I admit that I am not an avid reader. But continuous acquisition of knowledge (or, as the marketing-minded folks like to call it, professional development, or PD) is crucial, so I developed the habit of learning by listening not to long-form audio books but their CliffsNotes equivalents—book summaries in audio.
