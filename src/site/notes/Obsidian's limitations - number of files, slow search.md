@@ -54,7 +54,7 @@ But alas it blanked out in the end.
 
 Here's a tip: If a file is found, appears to be opened, but content isn't showing, consider waiting until the indexing is done. Don't wreck it.
 
-![[../_attachments/_OB/obsidian not showing file content - indexing in progress.mp4]]
+![[../_attachments/_OB/obsidian not showing file content - indexing in progress.mp4\|../_attachments/_OB/obsidian not showing file content - indexing in progress.mp4]]
 
 While this problem occurred, iCloud is busy too.
 

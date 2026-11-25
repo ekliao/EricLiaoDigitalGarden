@@ -4,7 +4,14 @@
 
 #meta/ob 
 
-## Banned characters
+## Allowed
+```
+(
+)
+@
+```
+
+## Banned characters and old (obsolete) suggested substitutions (see 2026 reflection below)
 { #ef13b5}
 
 

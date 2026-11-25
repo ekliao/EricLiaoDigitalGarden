@@ -28,8 +28,8 @@
 - VocoPro MARK-CV1
 
 ## Transmitters and receivers
-- [[MixTech WAT01-NG2 Wireless Transceiver\|MixTech WAT01-NG2 Wireless Transceiver]] *(i)* (2022)
-- [[ExMax 938 Wireless Transceiver\|ExMax 938 Wireless Transceiver]] *(i)* (2021)
+- [[20240714 MixTech WAT01-NG2 Wireless Transceiver\|20240714 MixTech WAT01-NG2 Wireless Transceiver]] *(i)* (2022)
+- [[20240714 ExMax 938 Wireless Transceiver\|20240714 ExMax 938 Wireless Transceiver]] *(i)* (2021)
 
 ## Mixers and audio interfaces
 - [[Behringer Xenyx Q502USB mixer\|Behringer Xenyx Q502USB mixer]] *(i)* (2024)

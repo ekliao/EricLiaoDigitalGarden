@@ -18,7 +18,7 @@ This clip is full of plosives, and some of them create the unpleasant perception
 
 Hear the the series of plosives from 00:25 and see their corresponding waveform. 
 
-![[_attachments/_OB/plosives (sounds like clipping).mp4]]
+![[_attachments/_OB/plosives (sounds like clipping).mp4\|_attachments/_OB/plosives (sounds like clipping).mp4]]
 
 I bet in the future you will be able to recognize the presence of bad plosives (not all plosives are bad) by looking at just the waveform without hearing it.
 

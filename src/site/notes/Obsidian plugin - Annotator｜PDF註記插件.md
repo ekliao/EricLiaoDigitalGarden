@@ -29,7 +29,7 @@ This seems a cool tool. I've been searching for a consistent and habit-forming w
 
 Or: in-line video:
 
-![[what to do after creating annotation-target frontmatter for a new note.mp4]]
+![[what to do after creating annotation-target frontmatter for a new note.mp4\|what to do after creating annotation-target frontmatter for a new note.mp4]]
 [src](https://www.youtube.com/watch?v=lISOJeu7fgU&t=326s)
 - Can switch between three views (click `Show Annotation` in markdown view to go back to the PDf view)
 	- Default annotation view (reading, highlighting and annotating it, with an annotation pane on the right and a outline pane on the left)
