@@ -9,7 +9,6 @@
 
 
 # [[Predicative expression\|Predicative expression]] - Wikipedia
-
 ### Metadata
 - Title: Predicative expression - Wikipedia
 - Tags: #grammar, #English

@@ -263,7 +263,6 @@ and for 之間省略了a struggle，這是類似數學A=B+C的說法
 
 ### Anatomy of a legalese sentence in sight translation
 
-
 ### Key 1: ***Failure of proof by X*** simply means ***X failed to prove something***.
 
 #### 順句驅動固然是視譯不可或缺的技巧，但如果原文理解不對，再怎麼順句驅動也枉然。

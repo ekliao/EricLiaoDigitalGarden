@@ -108,7 +108,7 @@ After answering "yes" to continue, you should see:
 
 ```
 Warning: Permanently added 'github.com,52.74.223.119' (RSA) to the list of known hosts.
-Hi (name)! You've successfully authenticated, but [[GitHub\|GitHub]] does not provide shell access.
+Hi (name)! You've successfully authenticated, but [[GitHub]] does not provide shell access.
 ```
 
 ==Same for me!== Now you'll be ready to use [[GitHub\|GitHub]] when you need it. ==Oh yay!== Unless you've encountered a connection problem.
