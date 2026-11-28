@@ -42,15 +42,15 @@
         }
         
     }
-    let theme = window.localStorage.getItem('site-theme') || "light";
+    const THEME_KEY = 'site-theme-v2';
+    const defaultTheme = "{{ meta.baseTheme }}" || "dark";
+    let theme = window.localStorage.getItem(THEME_KEY) || defaultTheme;
     setTheme(theme, true);
     window.theme = theme;
-    window.localStorage.setItem('site-theme', theme);
 
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(event) {
-        const settings = window.localStorage.getItem('site-theme');
-        if (!settings || settings == "auto") {
-            window.localStorage.setItem('site-theme', "auto");
+        const settings = window.localStorage.getItem(THEME_KEY);
+        if (settings == "auto") {
             setTheme("auto", true);
         }
     });
@@ -59,12 +59,12 @@
         if (window.theme == 'auto') {
             theme = "dark";
         } else if (window.theme == 'dark') {
-            theme = 'light'
+            theme = 'light';
         } else {
             theme = 'auto';
         }
         setTheme(theme, true);
-        window.localStorage.setItem('site-theme', theme);
+        window.localStorage.setItem(THEME_KEY, theme);
         window.theme = theme;
-    })
+    });
 </script>
